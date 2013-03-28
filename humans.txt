@@ -1,0 +1,14 @@
+/* PROJECT */
+UrbanScapes: Beauty in the Broken - a urban photography project
+
+/* CREATORS */
+Photos by Nicholas Young (http://nicholaswyoung.com)
+Frames by Lizzie Greco (http://www.craftbelly.com)
+
+/* SITE */
+Designed by Nicholas Young
+Hosted by Pagoda Box (http://pagodabox.com)
+
+/* TOOLS */
+Kirby CMS (http://getkirby.com)
+SASS (http://sass-lang.com)

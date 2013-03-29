@@ -531,7 +531,8 @@ section.content {
         width: 100%;
         font-size: .90em;
         border-bottom: 1px black solid;
-        padding-bottom: 1em; }
+        padding-bottom: 1em;
+        margin-bottom: 1em; }
         section.content.notebook .metadata:last-child {
           margin-right: 0; }
         section.content.notebook .metadata h2 {

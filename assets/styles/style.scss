@@ -40,11 +40,11 @@ header.top {
 	padding-bottom: 1em;
 	&.home {
 		height: 600px;
-		background: url(../images/backgrounds/02.jpg) top center no-repeat;
+		background: url(../images/backgrounds/01.jpg) top center no-repeat;
 		background-size: cover;
 	}
 	&.page {
-		background: url(../images/backgrounds/04.jpg) top center no-repeat;
+		background: url(../images/backgrounds/02.jpg) top center no-repeat;
 		background-size: cover;
 	}
 	.heading {
@@ -112,6 +112,12 @@ section.content {
 		p { font-size: .95em; }
 		&:last-child { @include clearfix(); }
 	}
+	.notebook-features {
+		@include span-columns(6);
+		@include media(max-width 600px) {
+			@include span-columns(12);
+		}
+	}
 	&.page {
 		article {
 			@include media(min-width 600px) {
@@ -122,11 +128,26 @@ section.content {
 			}
 		}
 	}
+	&.notebook {
+		.metadata {
+			@include span-columns(2);
+		}
+		.content {
+			@include span-columns(8);
+		}
+		.sidebar {
+			@include span-columns(2);
+		}
+	}
 	.sidebar {
 		@include span-columns(3);
 		@include media(max-width 600px) {
 			@include span-columns(12);
-		}
+		}	
+	}
+	h2.subhead {
+		border-bottom: 1px #333 solid;
+		padding-bottom: .75em;
 	}
 }
 

@@ -374,10 +374,10 @@ header.top {
   padding-bottom: 1em; }
   header.top.home {
     height: 600px;
-    background: url(../images/backgrounds/02.jpg) top center no-repeat;
+    background: url(../images/backgrounds/01.jpg) top center no-repeat;
     background-size: cover; }
   header.top.page {
-    background: url(../images/backgrounds/04.jpg) top center no-repeat;
+    background: url(../images/backgrounds/02.jpg) top center no-repeat;
     background-size: cover; }
   header.top .heading h2 {
     font-size: 2.5em;
@@ -456,6 +456,21 @@ section.content {
         display: table; }
       section.content .specialty:last-child:after {
         clear: both; }
+  section.content .notebook-features {
+    display: block;
+    float: left;
+    margin-right: 2.35765%;
+    width: 48.82117%; }
+    section.content .notebook-features:last-child {
+      margin-right: 0; }
+    @media screen and (max-width: 600px) {
+      section.content .notebook-features {
+        display: block;
+        float: left;
+        margin-right: 2.35765%;
+        width: 100%; }
+        section.content .notebook-features:last-child {
+          margin-right: 0; } }
   @media screen and (min-width: 600px) {
     section.content.page article {
       display: block;
@@ -472,6 +487,27 @@ section.content {
       width: 100%; }
       section.content.page article:last-child {
         margin-right: 0; } }
+  section.content.notebook .metadata {
+    display: block;
+    float: left;
+    margin-right: 2.35765%;
+    width: 14.70196%; }
+    section.content.notebook .metadata:last-child {
+      margin-right: 0; }
+  section.content.notebook .content {
+    display: block;
+    float: left;
+    margin-right: 2.35765%;
+    width: 65.88078%; }
+    section.content.notebook .content:last-child {
+      margin-right: 0; }
+  section.content.notebook .sidebar {
+    display: block;
+    float: left;
+    margin-right: 2.35765%;
+    width: 14.70196%; }
+    section.content.notebook .sidebar:last-child {
+      margin-right: 0; }
   section.content .sidebar {
     display: block;
     float: left;
@@ -487,6 +523,9 @@ section.content {
         width: 100%; }
         section.content .sidebar:last-child {
           margin-right: 0; } }
+  section.content h2.subhead {
+    border-bottom: 1px #333333 solid;
+    padding-bottom: .75em; }
 
 body > footer p {
   font-size: .75em; }

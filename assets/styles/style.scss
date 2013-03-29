@@ -22,6 +22,7 @@ body {
 		size: 1em;
 	}
 	text-rendering: optimizeLegibility;
+	-webkit-font-smoothing: antialiased;
 	color: white;
 }
 
@@ -29,6 +30,30 @@ body {
 	margin: 0 auto 0 auto;
 	width: 90%;
 	max-width: 1440px;
+}
+
+header.top {
+	width: 100%;
+	background: url(../images/backgrounds/01.jpg) center top no-repeat;
+	height: 250px;
+	background-size: cover;
+	border-bottom: 2px black solid;
+	&.home {
+		height: 600px;
+	}
+	.heading {
+		h2 {
+			font-size: 2.5em;
+			margin: 1em auto .5em 0;
+		}
+		.subtitle {
+			margin-bottom: 1em;
+			font: {
+				style: italic;
+				size: 1.2em;
+			}
+		}
+	}
 }
 
 nav.main {
@@ -54,10 +79,57 @@ nav.main {
 			font-size: .95em;
 			font-weight: 100;
 			line-height: 35px;
+			&.active {
+				color: #333;
+			}
 		}
 	}
 }
 
 section.content {
+	@include clearfix();
 	@extend .constrain;
+	p {
+		font-size: 1em;
+		font-weight: 100;
+		line-height: 1.6em;
+		a { text-decoration: underline; }
+	}
+	h2 {
+		font-size: 1.2em;
+	}
+	.specialty {
+		@include span-columns(4);
+		@include media (max-width 700px) {
+			@include span-columns(12);
+		}
+		p { font-size: .95em; }
+		&:last-child { @include clearfix(); }
+	}
+	&.page {
+		article {
+			@include media(min-width 600px) {
+				@include span-columns(6);
+			}
+			@include media(max-width 600px) {
+				@include span-columns(12);
+			}
+		}
+	}
+}
+
+body > footer {
+	@extend .constrain;
+	p {
+		font-size: .75em;
+	}
+}
+
+/* Image Styles */
+img {
+	max-width: 100%;
+	&.alignRight {
+		float: right;
+		margin: 1em 0 1em 1em;
+	}
 }

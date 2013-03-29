@@ -1,5 +1,7 @@
 Title: Biography
 ----
+Class: page
+----
 Text:
 
 Nicholas Young is an educator, producer, mastering engineer, photographer, broadcaster, and entreprenuer. With more than a decade of expertise spanning almost every creative discipline, no industry is safe from his disruptive, innovative spirit.

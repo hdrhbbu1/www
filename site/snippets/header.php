@@ -1,9 +1,10 @@
 <?php snippet('head') ?>
-<header>
+<header class='top<?php ecco($page->class(), " {$page->class()}") ?>'>
 	<nav class='main'>
 		<a class='logo' href='<?php echo url() ?>'>
 			<h1>Nicholas Young</h1>
 		</a>
 		<?php snippet('main-menu') ?>
-		</nav>
+	</nav>
+	<?php snippet('heading') ?>
 </header>

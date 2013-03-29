@@ -1,7 +1,17 @@
 Title: Home
-
 ----
+Class: home
+----
+Specialties:
 
-Text: 
+Photography:
+	title: Photographer
+	description: I work in multiple artistic mediums, but photography was my first love. Why? Because it *stops time*. It freezes it cold, preserving emotion that was likely only present once.
 
-Let's go.
+Film:
+	title: Filmmaker
+	description: Motion pictures expand the concept of photography to include motion, a powerful, emotional tool. Life is always on the move, so let's capture it.
+
+Production:
+	title: Producer
+	description: Music is the heart of everything I do. It fuels my creative process, and inspires me to create better work, and dream larger. Independent music is on the rise. Every day, I work with talented individuals to help bring their vision to life.

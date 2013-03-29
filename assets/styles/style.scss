@@ -140,6 +140,13 @@ section.content {
 	&.notebook {
 		.metadata {
 			@include span-columns(2);
+			span.date {
+				display: block;
+				text-transform: uppercase;
+				margin-bottom: .5em;
+				font-size: .9em;
+				color: #999;
+			}
 			@include media (max-width 600px) {
 				@include span-columns(12);
 				font-size: .90em;
@@ -155,6 +162,7 @@ section.content {
 		}
 		.content {
 			@include span-columns(8);
+			h2 { margin-top: 0; }
 			@include media (max-width 600px) {
 				@include span-columns(12);
 			}

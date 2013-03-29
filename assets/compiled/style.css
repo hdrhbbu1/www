@@ -502,6 +502,12 @@ section.content {
     width: 14.70196%; }
     section.content.notebook .metadata:last-child {
       margin-right: 0; }
+    section.content.notebook .metadata span.date {
+      display: block;
+      text-transform: uppercase;
+      margin-bottom: .5em;
+      font-size: .9em;
+      color: #999; }
     @media screen and (max-width: 600px) {
       section.content.notebook .metadata {
         display: block;
@@ -525,6 +531,8 @@ section.content {
     width: 65.88078%; }
     section.content.notebook .content:last-child {
       margin-right: 0; }
+    section.content.notebook .content h2 {
+      margin-top: 0; }
     @media screen and (max-width: 600px) {
       section.content.notebook .content {
         display: block;

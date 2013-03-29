@@ -241,6 +241,17 @@
       "fileType" : 4,
       "debugStyle" : 0
     },
+    "\/assets\/images\/backgrounds\/02.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/assets\/images\/backgrounds\/02.jpg",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/assets\/images\/backgrounds\/02.jpg",
+      "initialSize" : 702026,
+      "fileType" : 4096
+    },
     "\/assets\/styles\/includes\/bourbon\/functions\/_flex-grid.scss" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
@@ -252,17 +263,6 @@
       "outputAbbreviatedPath" : "\/assets\/styles\/includes\/bourbon\/css\/_flex-grid.css",
       "fileType" : 4,
       "debugStyle" : 0
-    },
-    "\/assets\/images\/backgrounds\/02.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/assets\/images\/backgrounds\/02.jpg",
-      "processed" : 1,
-      "outputAbbreviatedPath" : "\/assets\/images\/backgrounds\/02.jpg",
-      "initialSize" : 702026,
-      "fileType" : 4096
     },
     "\/system\/lib\/obj.php" : {
       "ignoreWasSetByUser" : 0,

@@ -96,7 +96,13 @@ nav.main {
 			font-size: .95em;
 			font-weight: 100;
 			line-height: 35px;
-			&.active { a { text-decoration: underline; } }
+			&.active { a { text-decoration: underline; } }	
+			a {
+				@include transition(all, .1s);
+				&:hover {
+					opacity: .7;
+				}
+			}
 		}
 	}
 }

@@ -427,6 +427,14 @@ nav.main {
       line-height: 35px; }
       nav.main ul li.active a {
         text-decoration: underline; }
+      nav.main ul li a {
+        -webkit-transition: all, 0.1s;
+        -moz-transition: all, 0.1s;
+        -ms-transition: all, 0.1s;
+        -o-transition: all, 0.1s;
+        transition: all, 0.1s; }
+        nav.main ul li a:hover {
+          opacity: .7; }
 
 section.content {
   *zoom: 1; }

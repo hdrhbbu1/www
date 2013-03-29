@@ -11,7 +11,7 @@
 	</div>
 	<div class='notebook-features'>
 		<h2 class='subhead'>Recent Articles</h2>
-		<?php foreach($pages->findByUID('notebook')->children() as $entry): ?>
+		<?php foreach($pages->findByUID('notebook')->children()->flip() as $entry): ?>
 			<article class='entry preview'>
 				<a href='<?php echo $entry->url() ?>'><h2><?php echo $entry->title() ?></h2></a>
 				<div class='metadata'>

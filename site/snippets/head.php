@@ -22,7 +22,12 @@
   <meta name='keywords' content='<?php echo html($site->keywords()) ?>' />
 	<meta name='robots' content='index, follow' />
 	<?php echo js('assets/compiled/site.js') ?>
-  <?php echo css('assets/compiled/style.css') ?>
+	<?php echo css('assets/compiled/style.css') ?>
+	<?php if ($page->files()->findByExtension('css')): ?>
+		<?php foreach ($page->files()->findByExtension('css') as $css): ?>
+			<?php echo css($css->url()) ?>
+		<?php endforeach ?>
+	<?php endif ?>
 </head>
 <body<?php ecco($page->class(), " class='{$page->class()}'") ?>>
 

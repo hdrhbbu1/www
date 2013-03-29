@@ -122,6 +122,11 @@ section.content {
 		@include media(max-width 600px) {
 			@include span-columns(12);
 		}
+		a { text-decoration: underline; }
+		article {
+			h2 { font-size: .95em; }
+			.metadata { font-size: .90em; }
+		}
 	}
 	&.page {
 		article {
@@ -179,8 +184,12 @@ section.content {
 }
 
 body > footer {
+	@include clearfix();
 	@extend .constrain;
+	display: block;
+	padding-bottom: 1em;
 	p {
+		float: right;
 		font-size: .75em;
 	}
 }

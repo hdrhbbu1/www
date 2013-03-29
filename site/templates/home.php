@@ -11,9 +11,15 @@
 	</div>
 	<div class='notebook-features'>
 		<h2 class='subhead'>Recent Articles</h2>
-		<?php echo $page->findByUID('notebook') ?>
-		<?php foreach($page->findByUID('notebook') as $entry): ?>
-			<?php echo $entry->title() ?>
+		<?php foreach($pages->findByUID('notebook')->children() as $entry): ?>
+			<article class='entry preview'>
+				<a href='<?php echo $entry->url() ?>'><h2><?php echo $entry->title() ?></h2></a>
+				<div class='metadata'>
+					<span class='date'>Published on:</span>
+					<date><?php echo $entry->date('M d, Y') ?></date>
+				</div>
+				<?php echo kirbytext(excerpt($entry->text(), 200)) ?>
+			</article>
 		<?php endforeach ?>
 	</div>
 	<aside class='sidebar one'>

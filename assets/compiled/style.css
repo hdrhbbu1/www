@@ -451,8 +451,6 @@ section.content {
         width: 100%; }
         section.content .specialty:last-child {
           margin-right: 0; } }
-    section.content .specialty p {
-      font-size: .95em; }
     section.content .specialty:last-child {
       *zoom: 1; }
       section.content .specialty:last-child:before, section.content .specialty:last-child:after {

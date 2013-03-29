@@ -114,7 +114,6 @@ section.content {
 		@include media (max-width 700px) {
 			@include span-columns(12);
 		}
-		p { font-size: .95em; }
 		&:last-child { @include clearfix(); }
 	}
 	.notebook-features {

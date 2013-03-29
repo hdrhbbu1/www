@@ -1,6 +1,13 @@
 @import 'includes/bootstrap';
 
 /* Global Styles */
+div, p, ul, li, nav, section, article, aside {
+	transition:all .2s linear; 
+	-o-transition:all .2s linear; 
+	-moz-transition:all .2s linear;
+	-webkit-transition:all .2s linear;
+}
+
 html {
 	background: #222;
 	ul {
@@ -17,10 +24,6 @@ html {
 }
 
 body {
-	transition:all .2s linear; 
-	-o-transition:all .2s linear; 
-	-moz-transition:all .2s linear;
-	-webkit-transition:all .2s linear;
 	font: {
 		family: 'Gibson Regular';
 		size: 1em;
@@ -41,6 +44,7 @@ header.top {
 	width: 100%;
 	min-height: 250px;
 	border-bottom: 2px black solid;	
+	padding-bottom: 1em;
 	&.home {
 		height: 600px;
 		background: url(../images/backgrounds/02.jpg) top center no-repeat;

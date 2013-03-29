@@ -343,6 +343,12 @@ table {
   /* Legacy iOS */ }
 
 /* Global Styles */
+div, p, ul, li, nav, section, article, aside {
+  transition: all 0.2s linear;
+  -o-transition: all 0.2s linear;
+  -moz-transition: all 0.2s linear;
+  -webkit-transition: all 0.2s linear; }
+
 html {
   background: #222; }
   html ul {
@@ -355,10 +361,6 @@ html {
     text-decoration: none; }
 
 body {
-  transition: all 0.2s linear;
-  -o-transition: all 0.2s linear;
-  -moz-transition: all 0.2s linear;
-  -webkit-transition: all 0.2s linear;
   font-family: 'Gibson Regular';
   font-size: 1em;
   text-rendering: optimizeLegibility;
@@ -374,7 +376,8 @@ header.top {
   position: relative;
   width: 100%;
   min-height: 250px;
-  border-bottom: 2px black solid; }
+  border-bottom: 2px black solid;
+  padding-bottom: 1em; }
   header.top.home {
     height: 600px;
     background: url(../images/backgrounds/02.jpg) top center no-repeat;

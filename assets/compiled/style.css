@@ -407,7 +407,14 @@ nav.main {
     width: 35px;
     height: 35px;
     display: inline-block;
-    background: url(../images/logo.png) center center no-repeat; }
+    background: url(../images/logo.png) center center no-repeat;
+    -webkit-transition: all, 0.2s;
+    -moz-transition: all, 0.2s;
+    -ms-transition: all, 0.2s;
+    -o-transition: all, 0.2s;
+    transition: all, 0.2s; }
+    nav.main a.logo:hover {
+      opacity: .6; }
     nav.main a.logo h1 {
       display: none; }
   nav.main ul {

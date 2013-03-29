@@ -1,5 +1,7 @@
 Title: Biography
 ----
+Subtitle: Who is this guy, anyway?
+----
 Class: page
 ----
 Text:

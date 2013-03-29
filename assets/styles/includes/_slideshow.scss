@@ -1,0 +1,33 @@
+.slides {
+	width: 100%;
+	height: 100%;
+	position: absolute;
+	z-index: -9999;
+	background: rgba(0, 0, 0, .5);
+	.slide {
+		width: 100%;
+		height: 100%;
+		background-size: cover;
+		h2.billboard {
+			margin: 0 auto 0 auto;
+			padding: 1em;
+			text-transform: uppercase;
+			text-align: center;
+			text-shadow: 5px 5px 20px black;
+			@include media(min-width 600px) {
+				margin-top: 6em;
+				font-size: 3em;
+			}
+			@include media (max-width 600px) {
+				margin-top: 9em;
+				font-size: 2em;
+			}
+		}
+		&#slide-01 {
+			background: url(../images/backgrounds/01.jpg) center top no-repeat;
+		}
+		&#slide-02 {
+			background: url(../images/backgrounds/02.jpg) center top no-repeat;
+		}
+	}
+}

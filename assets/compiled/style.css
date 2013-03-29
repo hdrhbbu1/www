@@ -343,12 +343,6 @@ table {
   /* Legacy iOS */ }
 
 /* Global Styles */
-div, p, ul, li, nav, section, article, aside {
-  transition: all 0.2s linear;
-  -o-transition: all 0.2s linear;
-  -moz-transition: all 0.2s linear;
-  -webkit-transition: all 0.2s linear; }
-
 html {
   background: #222; }
   html ul {
@@ -381,6 +375,9 @@ header.top {
   header.top.home {
     height: 600px;
     background: url(../images/backgrounds/02.jpg) top center no-repeat;
+    background-size: cover; }
+  header.top.page {
+    background: url(../images/backgrounds/04.jpg) top center no-repeat;
     background-size: cover; }
   header.top .heading h2 {
     font-size: 2.5em;
@@ -500,3 +497,6 @@ img {
   img.alignRight {
     float: right;
     margin: 1em 0 1em 1em; }
+    @media screen and (max-width: 600px) {
+      img.alignRight {
+        margin-top: 0; } }

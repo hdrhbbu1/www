@@ -368,7 +368,7 @@ body {
 
 header.top {
   width: 100%;
-  background: url(../images/backgrounds/01.jpg) center top no-repeat;
+  background: url(../images/backgrounds/04.jpg) center top no-repeat;
   height: 250px;
   background-size: cover;
   border-bottom: 2px black solid; }
@@ -409,8 +409,8 @@ nav.main {
       font-size: .95em;
       font-weight: 100;
       line-height: 35px; }
-      nav.main ul li.active {
-        color: #333; }
+      nav.main ul li.active a {
+        text-decoration: underline; }
 
 section.content {
   *zoom: 1; }

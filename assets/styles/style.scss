@@ -38,6 +38,7 @@ header.top {
 	min-height: 250px;
 	border-bottom: 2px black solid;	
 	padding-bottom: 1em;
+	margin-bottom: 1em;
 	&.home {
 		height: 600px;
 		background: url(../images/backgrounds/01.jpg) top center no-repeat;
@@ -131,9 +132,31 @@ section.content {
 	&.notebook {
 		.metadata {
 			@include span-columns(2);
+			@include media (max-width 600px) {
+				@include span-columns(12);
+				font-size: .90em;
+				border-bottom: 1px black solid;
+				padding-bottom: 1em;
+				h2 {
+					margin: 0 0 0 0;
+					display: inline-block;
+					font-weight: 100;
+					font-size: .95em;
+				}
+			}
 		}
 		.content {
 			@include span-columns(8);
+			@include media (max-width 600px) {
+				@include span-columns(12);
+			}
+			a { text-decoration: underline; }
+		}
+		article {
+			@include clearfix();
+			margin-bottom: 2em;
+			padding-bottom: 2em;
+			border-bottom: 1px #333 solid;
 		}
 		.sidebar {
 			@include span-columns(2);

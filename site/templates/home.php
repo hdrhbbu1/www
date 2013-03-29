@@ -11,6 +11,10 @@
 	</div>
 	<div class='notebook-features'>
 		<h2 class='subhead'>Recent Articles</h2>
+		<?php echo $page->findByUID('notebook') ?>
+		<?php foreach($page->findByUID('notebook') as $entry): ?>
+			<?php echo $entry->title() ?>
+		<?php endforeach ?>
 	</div>
 	<aside class='sidebar one'>
 		<h2 class='subhead'>Projects</h2>

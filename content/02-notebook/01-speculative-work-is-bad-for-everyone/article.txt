@@ -1,8 +1,10 @@
-Title: Speculative Work Is Bad (For Everyone)
+title: Speculative Work Is Bad (For Everyone)
 ----
-Date: 08/20/2012
+subtitle: Artists should be paid, regardless of their medium. Here's why.
 ----
-Text:
+date: 08/20/2012
+----
+text:
 I thought this debate was dead. Over. Fini. But recently, a rather heated thread on Twitter illustrated how wrong I was.
 
 For those not in-the-know, speculative work (also spec work, or sometimes simply 'spec'), is a growing cancer in the world of well-meaning, hard-working designers. Put plainly, it's a policy that promises payment after work is approved (which may never happen), rather than compensating the artist for their time and creative energy. It's a complex topic, and while I don't claim to have all of the answers, I'll try to answer a few questions and provide perspective during this brief article. If you have other questions or wish to debate the topic, a comment thread is below.

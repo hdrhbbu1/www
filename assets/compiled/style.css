@@ -377,6 +377,9 @@ header.top {
     height: 600px;
     background: url(../images/backgrounds/01.jpg) top center no-repeat;
     background-size: cover; }
+  header.top.notebook {
+    background: url(../images/backgrounds/04.jpg) top center no-repeat;
+    background-size: cover; }
   header.top.page {
     background: url(../images/backgrounds/02.jpg) top center no-repeat;
     background-size: cover; }

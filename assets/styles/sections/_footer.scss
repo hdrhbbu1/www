@@ -1,0 +1,10 @@
+body > footer {
+	@include clearfix();
+	@extend .constrain;
+	display: block;
+	padding-bottom: 1em;
+	p {
+		float: right;
+		font-size: .75em;
+	}
+}

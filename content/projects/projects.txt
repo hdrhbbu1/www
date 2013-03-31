@@ -2,6 +2,8 @@ title: Projects
 ----
 subtitle: Applications or tools built to help me and probably you too.
 ----
+class: projects
+----
 text:
 I'm a consummate creator. Ideas pop into my head, and I have to deal with them somehow. Most of the time, they're crap, and end up tossed away. Occasionally though, some are worth building. Take a look.
 ----

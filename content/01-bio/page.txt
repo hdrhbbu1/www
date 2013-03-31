@@ -2,7 +2,7 @@ Title: Biography
 ----
 Subtitle: Who is this guy, anyway?
 ----
-Class: page
+class: bio page
 ----
 Text:
 

@@ -16,6 +16,9 @@ nav.main {
 		h1 {
 			display: none;
 		}
+		@media only screen and (-webkit-min-device-pixel-ratio: 2) {
+			background: url(../images/logo-retina.png) center center no-repeat;
+		}
 	}
 	ul {
 		float: right;

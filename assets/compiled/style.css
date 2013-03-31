@@ -455,6 +455,9 @@ nav.main {
       opacity: .6; }
     nav.main a.logo h1 {
       display: none; }
+    @media only screen and (-webkit-min-device-pixel-ratio: 2) {
+      nav.main a.logo {
+        background: url(../images/logo-retina.png) center center no-repeat; } }
   nav.main ul {
     float: right; }
     nav.main ul li {

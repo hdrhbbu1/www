@@ -9,6 +9,7 @@ nav.main {
 		height: 35px;
 		display: inline-block;
 		background: url(../images/logo.png) center center no-repeat;
+		background-size: 35px 35px;
 		@include transition(all, .2s);
 		&:hover {
 			opacity: .6;

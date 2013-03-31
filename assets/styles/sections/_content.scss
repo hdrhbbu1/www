@@ -22,14 +22,14 @@ section.content {
 		@include media(max-width 600px) {
 			@include span-columns(12);
 		}
+	}
+	article.entry.preview {
 		a { text-decoration: underline; }
-		article {
-			h2 { font-size: .95em; }
-			.metadata { font-size: .90em; }
-		}
+		h2 { font-size: .95em; }
+		.metadata { font-size: .90em; }
 	}
 	&.page {
-		article {
+		article.page {
 			@include media(min-width 600px) {
 				@include span-columns(6);
 			}
@@ -86,7 +86,7 @@ section.content {
 			@include span-columns(12);
 		}	
 	}
-	h2.subhead {
+	h2.subhead, h3.subhead {
 		border-bottom: 1px #333 solid;
 		padding-bottom: .75em;
 	}

@@ -11,22 +11,13 @@
 	</div>
 	<div class='notebook-features'>
 		<h2 class='subhead'>Recent Articles</h2>
-		<?php foreach($pages->findByUID('notebook')->children()->visible()->flip()->limit(2) as $entry): ?>
-			<article class='entry preview'>
-				<a href='<?php echo $entry->url() ?>'><h2><?php echo $entry->title() ?></h2></a>
-				<div class='metadata'>
-					<span class='date'>Published on:</span>
-					<date><?php echo $entry->date('M d, Y') ?></date>
-				</div>
-				<?php echo kirbytext(excerpt($entry->text(), 200)) ?>
-			</article>
-		<?php endforeach ?>
+		<?php snippet('notebook/preview') ?>
 	</div>
 	<aside class='sidebar one'>
 		<h2 class='subhead'>Projects</h2>
 	</aside>
 	<aside class='sidebar two'>
-		<h2 class='subhead'>Upcoming Events</h2>
+		<!-- more content? -->	
 	</aside>
 </section>
 <?php snippet('footer') ?>

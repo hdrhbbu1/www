@@ -4,10 +4,11 @@
     <?php echo kirbytext($page->text()) ?>
 	</article>
 	<aside class='sidebar one'>
-		<h3>Sidebar One</h3>
+		<h3 class='subhead'>Recent Articles</h3>
+		<?php snippet('notebook/preview') ?>
 	</aside>
 	<aside class='sidebar two'>
-		<h3>Sidebar Two</h3>
+		<!-- more content? -->
 	</aside>
 </section>
 <?php snippet('footer') ?>

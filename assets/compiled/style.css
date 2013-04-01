@@ -438,6 +438,25 @@ header.top.home .background {
   background: url(../images/backgrounds/01.jpg) top center no-repeat;
   background-size: cover; }
 
+nav.menu ul, nav.main ul {
+  float: right; }
+  nav.menu ul li, nav.main ul li {
+    display: inline-block;
+    margin-right: 1em;
+    font-size: .95em;
+    font-weight: 100;
+    line-height: 35px; }
+    nav.menu ul li.active a, nav.main ul li.active a {
+      text-decoration: underline; }
+    nav.menu ul li a, nav.main ul li a {
+      -webkit-transition: all, 0.1s;
+      -moz-transition: all, 0.1s;
+      -ms-transition: all, 0.1s;
+      -o-transition: all, 0.1s;
+      transition: all, 0.1s; }
+      nav.menu ul li a:hover, nav.main ul li a:hover {
+        opacity: .7; }
+
 nav.main {
   *zoom: 1;
   border-bottom: 1px #999999 solid;
@@ -466,24 +485,6 @@ nav.main {
     @media only screen and (-webkit-min-device-pixel-ratio: 2) {
       nav.main a.logo {
         background: url(../images/logo-retina.png) center center no-repeat; } }
-  nav.main ul {
-    float: right; }
-    nav.main ul li {
-      display: inline-block;
-      margin-right: 1em;
-      font-size: .95em;
-      font-weight: 100;
-      line-height: 35px; }
-      nav.main ul li.active a {
-        text-decoration: underline; }
-      nav.main ul li a {
-        -webkit-transition: all, 0.1s;
-        -moz-transition: all, 0.1s;
-        -ms-transition: all, 0.1s;
-        -o-transition: all, 0.1s;
-        transition: all, 0.1s; }
-        nav.main ul li a:hover {
-          opacity: .7; }
 
 section.content {
   *zoom: 1; }
@@ -647,12 +648,22 @@ section.content {
 body > footer {
   *zoom: 1;
   display: block;
-  padding-bottom: 1em; }
+  border-top: 1px #999999 solid;
+  padding-bottom: 1em;
+  padding-top: 1em; }
   body > footer:before, body > footer:after {
     content: " ";
     display: table; }
   body > footer:after {
     clear: both; }
-  body > footer p {
-    float: right;
+  body > footer span.copyright {
+    float: left;
     font-size: .75em; }
+    @media screen and (max-width: 600px) {
+      body > footer span.copyright {
+        display: block;
+        float: none; } }
+  @media screen and (max-width: 600px) {
+    body > footer ul.menu {
+      display: block;
+      float: none; } }

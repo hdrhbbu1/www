@@ -1,5 +1,10 @@
-	<footer>
-		<?php echo kirbytext($site->copyright()) ?>
+	<footer id='end'>
+		<nav class='footer menu'>
+			<span class='copyright'>
+				<?php echo kirbytext($site->copyright()) ?>
+			</span>
+			<?php snippet('main-menu') ?>
+		</nav>
 	</footer>
 	<script type="text/javascript">
 		var _gaq = _gaq || [];

@@ -1,5 +1,26 @@
+nav.menu {
+	ul {
+		float: right;
+		li {
+			display: inline-block;
+			margin-right: 1em;
+			font-size: .95em;
+			font-weight: 100;
+			line-height: 35px;
+			&.active { a { text-decoration: underline; } }	
+			a {
+				@include transition(all, .1s);
+				&:hover {
+					opacity: .7;
+				}
+			}
+		}
+	}
+}
+
 nav.main {
 	@include clearfix();
+	@extend nav.menu;
 	@extend .constrain;
 	border-bottom: 1px #999 solid;
 	padding-top: 1em;
@@ -20,24 +41,5 @@ nav.main {
 		@media only screen and (-webkit-min-device-pixel-ratio: 2) {
 			background: url(../images/logo-retina.png) center center no-repeat;
 		}
-	}
-	ul {
-		float: right;
-		li {
-			display: inline-block;
-			margin-right: 1em;
-			font-size: .95em;
-			font-weight: 100;
-			line-height: 35px;
-			&.active { a { text-decoration: underline; } }	
-			a {
-				@include transition(all, .1s);
-				&:hover {
-					opacity: .7;
-				}
-			}
-		}
-	}
+	}	
 }
-
-

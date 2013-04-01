@@ -8,4 +8,4 @@ Description: The official website of Chicago-based producer, photographer, and b
 ----
 Keywords: nicholas young, chicago producer, chicago photographer, machine.fm, original machine
 ----
-Copyright: © (date: Year) (link: http://nicholaswyoung.com text: Nicholas Young) | (link: /colophon text: Colophon)
+Copyright: © (date: Year) (link: http://nicholaswyoung.com text: Nicholas Young)

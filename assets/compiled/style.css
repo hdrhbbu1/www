@@ -435,6 +435,7 @@ header.top .background {
     background-size: cover;
     margin: 0 auto 0 auto; }
   header.top .background .caption {
+    display: none;
     background: rgba(0, 0, 0, 0.5);
     padding: .5em;
     position: absolute;

@@ -53,6 +53,8 @@ header.top .background {
 		position: absolute;
 		bottom: 0;
 		right: 0;
+		font-size: .85em;
+		@include media(max-width 600px) { font-size: .80em; }
 	}
 }
 

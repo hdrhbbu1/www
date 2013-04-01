@@ -414,8 +414,8 @@ header.top {
 header.top.home {
   height: 600px; }
   @media screen and (min-width: 600px) {
-    header.top.home ul li {
-      color: black; } }
+    header.top.home {
+      color: black !important; } }
 
 header.top.wrap {
   position: absolute; }

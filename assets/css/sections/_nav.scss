@@ -29,7 +29,7 @@ nav.main {
 		width: 35px;
 		height: 35px;
 		display: inline-block;
-		background: url(../images/logo.png) center center no-repeat;
+		background: url(../img/logo.png) center center no-repeat;
 		background-size: 35px 35px;
 		@include transition(all, .2s);
 		&:hover {
@@ -39,7 +39,7 @@ nav.main {
 			display: none;
 		}
 		@media only screen and (-webkit-min-device-pixel-ratio: 2) {
-			background: url(../images/logo-retina.png) center center no-repeat;
+			background: url(../img/logo-retina.png) center center no-repeat;
 		}
 	}	
 }

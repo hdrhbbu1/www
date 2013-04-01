@@ -427,7 +427,7 @@ header.top .background {
     display: inline-block;
     position: fixed;
     max-width: 1440px;
-    background: url(../images/backgrounds/01.jpg) top center no-repeat;
+    background: url(../img/backgrounds/01.jpg) top center no-repeat;
     margin: 0 auto 0 auto; }
   header.top .background .caption {
     background: rgba(0, 0, 0, 0.5);
@@ -441,7 +441,7 @@ header.top .background {
         font-size: .80em; } }
 
 header.top.home .background {
-  background: url(../images/backgrounds/01.jpg) top center no-repeat;
+  background: url(../img/backgrounds/01.jpg) top center no-repeat;
   background-size: cover; }
 
 nav.menu ul, nav.main ul {
@@ -477,7 +477,7 @@ nav.main {
     width: 35px;
     height: 35px;
     display: inline-block;
-    background: url(../images/logo.png) center center no-repeat;
+    background: url(../img/logo.png) center center no-repeat;
     background-size: 35px 35px;
     -webkit-transition: all, 0.2s;
     -moz-transition: all, 0.2s;
@@ -490,7 +490,7 @@ nav.main {
       display: none; }
     @media only screen and (-webkit-min-device-pixel-ratio: 2) {
       nav.main a.logo {
-        background: url(../images/logo-retina.png) center center no-repeat; } }
+        background: url(../img/logo-retina.png) center center no-repeat; } }
 
 section.content {
   *zoom: 1; }

@@ -6,7 +6,7 @@
 			<a class='logo' href='<?php echo url() ?>'>
 			<h1><?php echo $site->title() ?></h1>
 			</a>
-			<?php snippet('main-menu') ?>
+			<?php snippet('main-menu', array('placement' => 'main')) ?>
 		</nav>
 	</div>
 	<?php if (!$page->url() != url()): ?>

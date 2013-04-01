@@ -6,4 +6,10 @@
 			</a>
 		</li>
 	<?php endforeach ?>
+	<?php if ($placement == 'footer'): ?>
+		<?php $colophon = $pages->findByUID('colophon')->first() ?>
+		<li>
+			<a href='<?php echo $colophon->url() ?>'><?php echo $colophon->title() ?></a>
+		</li>
+	<?php endif ?>
 </ul>

@@ -406,6 +406,7 @@ header.top {
   header.top .heading .subtitle {
     text-shadow: 2px 2px 10px black;
     margin-bottom: 1em;
+    line-height: 1.5em;
     font-style: italic;
     font-size: 1.2em; }
 

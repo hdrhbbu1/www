@@ -1,6 +1,10 @@
 @import 'includes/bootstrap';
 
 /* Global Styles */
+body * {
+	@include transition(all .2s);
+}
+
 html {
 	background: #222;
 	ul {

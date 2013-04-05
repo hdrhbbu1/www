@@ -50,12 +50,12 @@
       "fileType" : 4,
       "debugStyle" : 0
     },
-    "\/site\/plugins\/contactform\/lib\/submission.php" : {
+    "\/site\/snippets\/pagination.php" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/site\/plugins\/contactform\/lib\/submission.php",
+      "inputAbbreviatedPath" : "\/site\/snippets\/pagination.php",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
@@ -71,12 +71,21 @@
       "fileType" : 4,
       "debugStyle" : 0
     },
-    "\/site\/snippets\/footer.php" : {
+    "\/site\/plugins\/contactform\/lib\/submission.php" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/site\/snippets\/footer.php",
+      "inputAbbreviatedPath" : "\/site\/plugins\/contactform\/lib\/submission.php",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
+    "\/site\/templates\/home.php" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/site\/templates\/home.php",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
@@ -91,15 +100,6 @@
       "outputAbbreviatedPath" : "\/assets\/css\/includes\/bourbon\/css\/_transition-property-name.css",
       "fileType" : 4,
       "debugStyle" : 0
-    },
-    "\/site\/snippets\/pagination.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/site\/snippets\/pagination.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
     },
     "\/site\/snippets\/header-background.php" : {
       "ignoreWasSetByUser" : 0,
@@ -122,6 +122,15 @@
       "fileType" : 4,
       "debugStyle" : 0
     },
+    "\/site\/snippets\/footer.php" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/site\/snippets\/footer.php",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
     "\/assets\/css\/includes\/bourbon\/css3\/_transition.scss" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
@@ -133,15 +142,6 @@
       "outputAbbreviatedPath" : "\/assets\/css\/includes\/bourbon\/css\/_transition.css",
       "fileType" : 4,
       "debugStyle" : 0
-    },
-    "\/site\/templates\/home.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/site\/templates\/home.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
     },
     "\/site\/snippets\/article.php" : {
       "ignoreWasSetByUser" : 0,
@@ -393,15 +393,15 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/assets\/css\/includes\/bourbon\/addons\/_retina-image.scss" : {
+    "\/assets\/css\/includes\/bourbon\/css3\/_border-image.scss" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/assets\/css\/includes\/bourbon\/addons\/_retina-image.scss",
+      "inputAbbreviatedPath" : "\/assets\/css\/includes\/bourbon\/css3\/_border-image.scss",
       "outputStyle" : 0,
       "shouldRunBless" : 0,
-      "outputAbbreviatedPath" : "\/assets\/css\/includes\/bourbon\/css\/_retina-image.css",
+      "outputAbbreviatedPath" : "\/assets\/css\/includes\/bourbon\/css\/_border-image.css",
       "fileType" : 4,
       "debugStyle" : 0
     },
@@ -428,21 +428,21 @@
       "fileType" : 4,
       "debugStyle" : 0
     },
+    "\/system\/parsers\/yaml.php" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/system\/parsers\/yaml.php",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
     "\/system\/lib\/pages.php" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
       "inputAbbreviatedPath" : "\/system\/lib\/pages.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/system\/parsers\/defaults.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/system\/parsers\/defaults.php",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
@@ -455,12 +455,12 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/system\/parsers\/yaml.php" : {
+    "\/system\/parsers\/defaults.php" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/system\/parsers\/yaml.php",
+      "inputAbbreviatedPath" : "\/system\/parsers\/defaults.php",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
@@ -488,6 +488,17 @@
       "fileType" : 4,
       "debugStyle" : 0
     },
+    "\/assets\/js\/site-ck.js" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/assets\/js\/site-ck.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 1,
+      "outputAbbreviatedPath" : "\/assets\/js\/site-ck-ck.js",
+      "fileType" : 64
+    },
     "\/index.php" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -497,15 +508,15 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/assets\/css\/includes\/bourbon\/css3\/_background.scss" : {
+    "\/assets\/css\/includes\/bourbon\/addons\/_retina-image.scss" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/assets\/css\/includes\/bourbon\/css3\/_background.scss",
+      "inputAbbreviatedPath" : "\/assets\/css\/includes\/bourbon\/addons\/_retina-image.scss",
       "outputStyle" : 0,
       "shouldRunBless" : 0,
-      "outputAbbreviatedPath" : "\/assets\/css\/includes\/bourbon\/css\/_background.css",
+      "outputAbbreviatedPath" : "\/assets\/css\/includes\/bourbon\/css\/_retina-image.css",
       "fileType" : 4,
       "debugStyle" : 0
     },
@@ -521,17 +532,6 @@
       "fileType" : 4,
       "debugStyle" : 0
     },
-    "\/assets\/js\/site-ck.js" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/assets\/js\/site-ck.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/assets\/js\/site-ck-ck.js",
-      "fileType" : 64
-    },
     "\/assets\/js\/site.js" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -543,15 +543,15 @@
       "outputAbbreviatedPath" : "\/assets\/js\/site-ck.js",
       "fileType" : 64
     },
-    "\/assets\/css\/includes\/bourbon\/css3\/_border-image.scss" : {
+    "\/assets\/css\/includes\/bourbon\/css3\/_background.scss" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/assets\/css\/includes\/bourbon\/css3\/_border-image.scss",
+      "inputAbbreviatedPath" : "\/assets\/css\/includes\/bourbon\/css3\/_background.scss",
       "outputStyle" : 0,
       "shouldRunBless" : 0,
-      "outputAbbreviatedPath" : "\/assets\/css\/includes\/bourbon\/css\/_border-image.css",
+      "outputAbbreviatedPath" : "\/assets\/css\/includes\/bourbon\/css\/_background.css",
       "fileType" : 4,
       "debugStyle" : 0
     },
@@ -628,6 +628,18 @@
       "outputAbbreviatedPath" : "\/assets\/js\/jquery-ck.js",
       "fileType" : 64
     },
+    "\/assets\/css\/includes\/bourbon\/functions\/_radial-gradient.scss" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/assets\/css\/includes\/bourbon\/functions\/_radial-gradient.scss",
+      "outputStyle" : 0,
+      "shouldRunBless" : 0,
+      "outputAbbreviatedPath" : "\/assets\/css\/includes\/bourbon\/css\/_radial-gradient.css",
+      "fileType" : 4,
+      "debugStyle" : 0
+    },
     "\/assets\/css\/sections\/_footer.scss" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
@@ -652,18 +664,6 @@
       "fileType" : 4,
       "debugStyle" : 0
     },
-    "\/assets\/css\/includes\/bourbon\/functions\/_radial-gradient.scss" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/assets\/css\/includes\/bourbon\/functions\/_radial-gradient.scss",
-      "outputStyle" : 0,
-      "shouldRunBless" : 0,
-      "outputAbbreviatedPath" : "\/assets\/css\/includes\/bourbon\/css\/_radial-gradient.css",
-      "fileType" : 4,
-      "debugStyle" : 0
-    },
     "\/assets\/img\/backgrounds\/03.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -675,6 +675,15 @@
       "initialSize" : 1128520,
       "fileType" : 4096
     },
+    "\/site\/plugins\/contactform\/snippets\/contactform.php" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/site\/plugins\/contactform\/snippets\/contactform.php",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
     "\/site\/snippets\/contactform.php" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -684,21 +693,12 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/site\/snippets\/main-menu.php" : {
+    "\/system\/lib\/uri.php" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/site\/snippets\/main-menu.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/site\/plugins\/contactform\/snippets\/contactform.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/site\/plugins\/contactform\/snippets\/contactform.php",
+      "inputAbbreviatedPath" : "\/system\/lib\/uri.php",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
@@ -714,17 +714,14 @@
       "fileType" : 4,
       "debugStyle" : 0
     },
-    "\/assets\/css\/includes\/bourbon\/css3\/_image-rendering.scss" : {
+    "\/site\/snippets\/main-menu.php" : {
       "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
+      "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/assets\/css\/includes\/bourbon\/css3\/_image-rendering.scss",
-      "outputStyle" : 0,
-      "shouldRunBless" : 0,
-      "outputAbbreviatedPath" : "\/assets\/css\/includes\/bourbon\/css\/_image-rendering.css",
-      "fileType" : 4,
-      "debugStyle" : 0
+      "inputAbbreviatedPath" : "\/site\/snippets\/main-menu.php",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
     },
     "\/assets\/css\/includes\/bourbon\/functions\/_deprecated-webkit-gradient.scss" : {
       "ignoreWasSetByUser" : 0,
@@ -735,6 +732,123 @@
       "outputStyle" : 0,
       "shouldRunBless" : 0,
       "outputAbbreviatedPath" : "\/assets\/css\/includes\/bourbon\/css\/_deprecated-webkit-gradient.css",
+      "fileType" : 4,
+      "debugStyle" : 0
+    },
+    "\/content\/02-notebook\/03-creative-guard-rails\/header.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/content\/02-notebook\/03-creative-guard-rails\/header.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/content\/02-notebook\/03-creative-guard-rails\/header.jpg",
+      "initialSize" : 219705,
+      "fileType" : 4096
+    },
+    "\/assets\/compiled\/style.css" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/assets\/compiled\/style.css",
+      "outputAbbreviatedPath" : "\/No Output Path",
+      "fileType" : 16
+    },
+    "\/assets\/img\/fade-25.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/assets\/img\/fade-25.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/assets\/img\/fade-25.png",
+      "initialSize" : 2784,
+      "fileType" : 8192
+    },
+    "\/site\/snippets\/notebook\/preview.php" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/site\/snippets\/notebook\/preview.php",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
+    "\/assets\/css\/includes\/bourbon\/addons\/_timing-functions.scss" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/assets\/css\/includes\/bourbon\/addons\/_timing-functions.scss",
+      "outputStyle" : 0,
+      "shouldRunBless" : 0,
+      "outputAbbreviatedPath" : "\/assets\/css\/includes\/bourbon\/css\/_timing-functions.css",
+      "fileType" : 4,
+      "debugStyle" : 0
+    },
+    "\/assets\/css\/includes\/bourbon\/css3\/_inline-block.scss" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/assets\/css\/includes\/bourbon\/css3\/_inline-block.scss",
+      "outputStyle" : 0,
+      "shouldRunBless" : 0,
+      "outputAbbreviatedPath" : "\/assets\/css\/includes\/bourbon\/css\/_inline-block.css",
+      "fileType" : 4,
+      "debugStyle" : 0
+    },
+    "\/site\/plugins\/index.html" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/site\/plugins\/index.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
+    "\/assets\/css\/sections\/_content.scss" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/assets\/css\/sections\/_content.scss",
+      "outputStyle" : 0,
+      "shouldRunBless" : 0,
+      "outputAbbreviatedPath" : "\/assets\/css\/css\/_content.css",
+      "fileType" : 4,
+      "debugStyle" : 0
+    },
+    "\/system\/lib\/cache.php" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/system\/lib\/cache.php",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
+    "\/assets\/img\/backgrounds\/02.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/assets\/img\/backgrounds\/02.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/assets\/img\/backgrounds\/02.jpg",
+      "initialSize" : 683311,
+      "fileType" : 4096
+    },
+    "\/assets\/css\/includes\/bourbon\/css3\/_image-rendering.scss" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/assets\/css\/includes\/bourbon\/css3\/_image-rendering.scss",
+      "outputStyle" : 0,
+      "shouldRunBless" : 0,
+      "outputAbbreviatedPath" : "\/assets\/css\/includes\/bourbon\/css\/_image-rendering.css",
       "fileType" : 4,
       "debugStyle" : 0
     },
@@ -750,135 +864,12 @@
       "fileType" : 4,
       "debugStyle" : 0
     },
-    "\/assets\/compiled\/style.css" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/assets\/compiled\/style.css",
-      "outputAbbreviatedPath" : "\/No Output Path",
-      "fileType" : 16
-    },
-    "\/site\/snippets\/notebook\/preview.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/site\/snippets\/notebook\/preview.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/content\/02-notebook\/03-creative-guard-rails\/header.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/content\/02-notebook\/03-creative-guard-rails\/header.jpg",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/content\/02-notebook\/03-creative-guard-rails\/header.jpg",
-      "initialSize" : 219705,
-      "fileType" : 4096
-    },
-    "\/assets\/css\/includes\/bourbon\/addons\/_timing-functions.scss" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/assets\/css\/includes\/bourbon\/addons\/_timing-functions.scss",
-      "outputStyle" : 0,
-      "shouldRunBless" : 0,
-      "outputAbbreviatedPath" : "\/assets\/css\/includes\/bourbon\/css\/_timing-functions.css",
-      "fileType" : 4,
-      "debugStyle" : 0
-    },
-    "\/system\/lib\/cache.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/system\/lib\/cache.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/assets\/css\/includes\/bourbon\/css3\/_inline-block.scss" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/assets\/css\/includes\/bourbon\/css3\/_inline-block.scss",
-      "outputStyle" : 0,
-      "shouldRunBless" : 0,
-      "outputAbbreviatedPath" : "\/assets\/css\/includes\/bourbon\/css\/_inline-block.css",
-      "fileType" : 4,
-      "debugStyle" : 0
-    },
-    "\/assets\/css\/sections\/_content.scss" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/assets\/css\/sections\/_content.scss",
-      "outputStyle" : 0,
-      "shouldRunBless" : 0,
-      "outputAbbreviatedPath" : "\/assets\/css\/css\/_content.css",
-      "fileType" : 4,
-      "debugStyle" : 0
-    },
-    "\/site\/plugins\/index.html" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/site\/plugins\/index.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/assets\/img\/backgrounds\/02.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/assets\/img\/backgrounds\/02.jpg",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/assets\/img\/backgrounds\/02.jpg",
-      "initialSize" : 683311,
-      "fileType" : 4096
-    },
-    "\/system\/lib\/uri.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/system\/lib\/uri.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/assets\/img\/fade-25.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/assets\/img\/fade-25.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/assets\/img\/fade-25.png",
-      "initialSize" : 2784,
-      "fileType" : 8192
-    },
     "\/system\/lib\/pagination.php" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
       "inputAbbreviatedPath" : "\/system\/lib\/pagination.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/site\/templates\/default.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/site\/templates\/default.php",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
@@ -893,6 +884,15 @@
       "outputAbbreviatedPath" : "\/assets\/css\/includes\/bourbon\/css\/_box-sizing.css",
       "fileType" : 4,
       "debugStyle" : 0
+    },
+    "\/site\/templates\/default.php" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/site\/templates\/default.php",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
     },
     "\/site\/cache\/index.html" : {
       "ignoreWasSetByUser" : 0,
@@ -925,6 +925,15 @@
       "outputAbbreviatedPath" : "\/assets\/css\/includes\/bourbon\/css\/_compact.css",
       "fileType" : 4,
       "debugStyle" : 0
+    },
+    "\/site\/snippets\/widgets\/newsletter.php" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/site\/snippets\/widgets\/newsletter.php",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
     },
     "\/system\/lib\/kirby.php" : {
       "ignoreWasSetByUser" : 0,
@@ -992,18 +1001,6 @@
       "fileType" : 4,
       "debugStyle" : 0
     },
-    "\/assets\/css\/includes\/neat\/grid\/_span-columns.scss" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/assets\/css\/includes\/neat\/grid\/_span-columns.scss",
-      "outputStyle" : 0,
-      "shouldRunBless" : 0,
-      "outputAbbreviatedPath" : "\/assets\/css\/includes\/neat\/css\/_span-columns.css",
-      "fileType" : 4,
-      "debugStyle" : 0
-    },
     "\/assets\/css\/includes\/neat\/grid\/_shift.scss" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
@@ -1013,6 +1010,18 @@
       "outputStyle" : 0,
       "shouldRunBless" : 0,
       "outputAbbreviatedPath" : "\/assets\/css\/includes\/neat\/css\/_shift.css",
+      "fileType" : 4,
+      "debugStyle" : 0
+    },
+    "\/assets\/css\/includes\/neat\/grid\/_span-columns.scss" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/assets\/css\/includes\/neat\/grid\/_span-columns.scss",
+      "outputStyle" : 0,
+      "shouldRunBless" : 0,
+      "outputAbbreviatedPath" : "\/assets\/css\/includes\/neat\/css\/_span-columns.css",
       "fileType" : 4,
       "debugStyle" : 0
     },
@@ -1072,24 +1081,15 @@
       "fileType" : 4,
       "debugStyle" : 0
     },
-    "\/assets\/css\/style.css" : {
+    "\/assets\/css\/includes\/neat\/grid\/_grid.scss" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/assets\/css\/style.css",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 16
-    },
-    "\/assets\/css\/includes\/bourbon\/css3\/_flex-box.scss" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/assets\/css\/includes\/bourbon\/css3\/_flex-box.scss",
+      "inputAbbreviatedPath" : "\/assets\/css\/includes\/neat\/grid\/_grid.scss",
       "outputStyle" : 0,
       "shouldRunBless" : 0,
-      "outputAbbreviatedPath" : "\/assets\/css\/includes\/bourbon\/css\/_flex-box.css",
+      "outputAbbreviatedPath" : "\/assets\/css\/includes\/neat\/css\/_grid.css",
       "fileType" : 4,
       "debugStyle" : 0
     },
@@ -1105,15 +1105,15 @@
       "fileType" : 4,
       "debugStyle" : 0
     },
-    "\/assets\/css\/includes\/neat\/grid\/_grid.scss" : {
+    "\/assets\/css\/includes\/bourbon\/css3\/_flex-box.scss" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/assets\/css\/includes\/neat\/grid\/_grid.scss",
+      "inputAbbreviatedPath" : "\/assets\/css\/includes\/bourbon\/css3\/_flex-box.scss",
       "outputStyle" : 0,
       "shouldRunBless" : 0,
-      "outputAbbreviatedPath" : "\/assets\/css\/includes\/neat\/css\/_grid.css",
+      "outputAbbreviatedPath" : "\/assets\/css\/includes\/bourbon\/css\/_flex-box.css",
       "fileType" : 4,
       "debugStyle" : 0
     },
@@ -1150,6 +1150,17 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 16
     },
+    "\/assets\/js\/jquery.cycle.js" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/assets\/js\/jquery.cycle.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 1,
+      "outputAbbreviatedPath" : "\/assets\/js\/jquery.cycle-ck.js",
+      "fileType" : 64
+    },
     "\/assets\/css\/includes\/bourbon\/css3\/_keyframes.scss" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
@@ -1162,17 +1173,6 @@
       "fileType" : 4,
       "debugStyle" : 0
     },
-    "\/assets\/compiled\/site.js" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/assets\/compiled\/site.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/assets\/compiled\/site-ck.js",
-      "fileType" : 64
-    },
     "\/content\/01-bio\/header.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -1184,37 +1184,48 @@
       "initialSize" : 1176865,
       "fileType" : 4096
     },
-    "\/assets\/js\/jquery.cycle.js" : {
+    "\/assets\/compiled\/site.js" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/assets\/js\/jquery.cycle.js",
+      "inputAbbreviatedPath" : "\/assets\/compiled\/site.js",
       "outputStyle" : 1,
       "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/assets\/js\/jquery.cycle-ck.js",
+      "outputAbbreviatedPath" : "\/assets\/compiled\/site-ck.js",
       "fileType" : 64
     },
-    "\/system\/lib\/variables.php" : {
+    "\/content\/02-notebook\/07-urbanscapes-beauty-in-the-broken\/header.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/system\/lib\/variables.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
+      "inputAbbreviatedPath" : "\/content\/02-notebook\/07-urbanscapes-beauty-in-the-broken\/header.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/content\/02-notebook\/07-urbanscapes-beauty-in-the-broken\/header.jpg",
+      "initialSize" : 170645,
+      "fileType" : 4096
     },
-    "\/assets\/css\/includes\/neat\/grid\/_fill-parent.scss" : {
+    "\/assets\/css\/includes\/neat\/settings\/_grid.scss" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/assets\/css\/includes\/neat\/grid\/_fill-parent.scss",
+      "inputAbbreviatedPath" : "\/assets\/css\/includes\/neat\/settings\/_grid.scss",
       "outputStyle" : 0,
       "shouldRunBless" : 0,
-      "outputAbbreviatedPath" : "\/assets\/css\/includes\/neat\/css\/_fill-parent.css",
+      "outputAbbreviatedPath" : "\/assets\/css\/includes\/neat\/css\/_grid.css",
       "fileType" : 4,
       "debugStyle" : 0
+    },
+    "\/system\/lib\/template.php" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/system\/lib\/template.php",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
     },
     "\/site\/snippets\/head.php" : {
       "ignoreWasSetByUser" : 0,
@@ -1234,24 +1245,24 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/system\/lib\/template.php" : {
+    "\/system\/lib\/variables.php" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/system\/lib\/template.php",
+      "inputAbbreviatedPath" : "\/system\/lib\/variables.php",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/assets\/css\/includes\/neat\/settings\/_grid.scss" : {
+    "\/assets\/css\/includes\/neat\/grid\/_fill-parent.scss" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/assets\/css\/includes\/neat\/settings\/_grid.scss",
+      "inputAbbreviatedPath" : "\/assets\/css\/includes\/neat\/grid\/_fill-parent.scss",
       "outputStyle" : 0,
       "shouldRunBless" : 0,
-      "outputAbbreviatedPath" : "\/assets\/css\/includes\/neat\/css\/_grid.css",
+      "outputAbbreviatedPath" : "\/assets\/css\/includes\/neat\/css\/_fill-parent.css",
       "fileType" : 4,
       "debugStyle" : 0
     },
@@ -1389,16 +1400,17 @@
       "fileType" : 4,
       "debugStyle" : 0
     },
-    "\/assets\/img\/backgrounds\/01.jpg" : {
+    "\/assets\/css\/includes\/_normalize.scss" : {
       "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
+      "ignore" : 1,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/assets\/img\/backgrounds\/01.jpg",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/assets\/img\/backgrounds\/01.jpg",
-      "initialSize" : 4308173,
-      "fileType" : 4096
+      "inputAbbreviatedPath" : "\/assets\/css\/includes\/_normalize.scss",
+      "outputStyle" : 0,
+      "shouldRunBless" : 0,
+      "outputAbbreviatedPath" : "\/assets\/css\/css\/_normalize.css",
+      "fileType" : 4,
+      "debugStyle" : 0
     },
     "\/site\/templates\/notebook.php" : {
       "ignoreWasSetByUser" : 0,
@@ -1418,17 +1430,16 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/assets\/css\/includes\/_normalize.scss" : {
+    "\/assets\/img\/backgrounds\/01.jpg" : {
       "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
+      "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/assets\/css\/includes\/_normalize.scss",
-      "outputStyle" : 0,
-      "shouldRunBless" : 0,
-      "outputAbbreviatedPath" : "\/assets\/css\/css\/_normalize.css",
-      "fileType" : 4,
-      "debugStyle" : 0
+      "inputAbbreviatedPath" : "\/assets\/img\/backgrounds\/01.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/assets\/img\/backgrounds\/01.jpg",
+      "initialSize" : 4308173,
+      "fileType" : 4096
     },
     "\/assets\/css\/includes\/bourbon\/css3\/_border-radius.scss" : {
       "ignoreWasSetByUser" : 0,
@@ -1507,6 +1518,15 @@
       "inputAbbreviatedPath" : "\/system\/parsers\/smartypants.php",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
+    },
+    "\/content\/02-notebook\/07-urbanscapes-beauty-in-the-broken\/style.css" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/content\/02-notebook\/07-urbanscapes-beauty-in-the-broken\/style.css",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 16
     },
     "\/site\/plugins\/contactform\/snippets\/contactform.mail.php" : {
       "ignoreWasSetByUser" : 0,

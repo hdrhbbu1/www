@@ -45,7 +45,7 @@ header.top.home .background {
 		height: 100%;
 		width: 100%;
 		position: relative;
-		max-width: 1400px;
+		max-width: 1440px;
 		background: url(../img/backgrounds/01.jpg) top center no-repeat;
 		background-size: cover;
 		margin: 0 auto 0 auto;
@@ -62,8 +62,3 @@ header.top.home .background {
 		@include media(max-width 600px) { font-size: .80em; }
 	}
 }
-
-// header.top.home .background {
-// 	background: url(../img/backgrounds/01.jpg) top center no-repeat;
-// 	background-size: cover;
-// }

@@ -659,6 +659,48 @@ section.content {
     border-bottom: 1px #333333 solid;
     padding-bottom: .75em; }
 
+/*
+ * Lists
+ */
+ul.basic-list {
+  list-style-type: none;
+  padding: 0 0 0 0;
+  margin: 0 0 0 0; }
+
+/*
+ * Widgets
+ */
+.widget {
+  margin-bottom: 1.5em; }
+  .widget:last-child {
+    margin-bottom: 0; }
+  .widget a.citation {
+    font-size: .96em; }
+
+.widget.press ul li {
+  border-bottom: 1px black solid;
+  padding-bottom: 1em; }
+  .widget.press ul li:last-child {
+    border-bottom: none;
+    padding-bottom: none; }
+.widget.press a.citation {
+  line-height: 1.6em; }
+
+.widget.newsletter form.madmimi input[type=email], .widget.newsletter form.madmimi input[type=text] {
+  border: none;
+  width: 80%;
+  background: #999;
+  padding: .5em;
+  color: black; }
+  .widget.newsletter form.madmimi input[type=email]:first-child, .widget.newsletter form.madmimi input[type=text]:first-child {
+    margin-bottom: .80em; }
+.widget.newsletter form.madmimi button {
+  margin-top: .75em;
+  display: block;
+  border: none;
+  background: #999;
+  padding: .5em; }
+
 body > footer {
   *zoom: 1;
   display: block;

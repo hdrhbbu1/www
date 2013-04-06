@@ -4,6 +4,8 @@ subtitle: Redefining how we view our city, one image at a time.
 ----
 date: 04/05/2013
 ----
+class: urbanscapes
+----
 text:
 As a photographer, few things compare to capturing emotion. Whether it's a band sweating on stage, a painter focused on their canvas, or the hustle of a city at night, I think about emotion every time I release the shutter. I'm freezing a moment in time; distilling emotion from an otherwise chaotic day, hopefully causing the viewer to pause and consider what they see.
 

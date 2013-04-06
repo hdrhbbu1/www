@@ -47,8 +47,8 @@ section.content {
 		}
 	}
 	&.notebook {
-		.metadata {
-			@include span-columns(2);
+		.metadata, .meta {
+			@include span-columns(2 of 10);
 			span.date {
 				display: block;
 				text-transform: uppercase;
@@ -71,7 +71,7 @@ section.content {
 			}
 		}
 		.content {
-			@include span-columns(8);
+			@include span-columns(8 of 10);
 			h2 { margin-top: 0; }
 			@include media (max-width 600px) {
 				@include span-columns(12);
@@ -91,6 +91,9 @@ section.content {
 		}
 		.sidebar {
 			@include span-columns(2);
+			@include media (max-width 800px) {
+				@include span-columns(12);
+			}
 		}
 	}
 	.sidebar {

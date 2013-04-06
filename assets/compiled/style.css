@@ -570,21 +570,21 @@ section.content {
       width: 100%; }
       section.content.page article.page:last-child {
         margin-right: 0; } }
-  section.content.notebook .metadata {
+  section.content.notebook .metadata, section.content.notebook .meta {
     display: block;
     float: left;
-    margin-right: 2.35765%;
-    width: 14.70196%; }
-    section.content.notebook .metadata:last-child {
+    margin-right: 2.84259%;
+    width: 17.72593%; }
+    section.content.notebook .metadata:last-child, section.content.notebook .meta:last-child {
       margin-right: 0; }
-    section.content.notebook .metadata span.date {
+    section.content.notebook .metadata span.date, section.content.notebook .meta span.date {
       display: block;
       text-transform: uppercase;
       margin-bottom: .5em;
       font-size: .9em;
       color: #999; }
     @media screen and (max-width: 600px) {
-      section.content.notebook .metadata {
+      section.content.notebook .metadata, section.content.notebook .meta {
         display: block;
         float: left;
         margin-right: 2.35765%;
@@ -593,9 +593,9 @@ section.content {
         border-bottom: 1px black solid;
         padding-bottom: 1em;
         margin-bottom: 1em; }
-        section.content.notebook .metadata:last-child {
+        section.content.notebook .metadata:last-child, section.content.notebook .meta:last-child {
           margin-right: 0; }
-        section.content.notebook .metadata h2 {
+        section.content.notebook .metadata h2, section.content.notebook .meta h2 {
           margin: 0 0 0 0;
           display: inline-block;
           font-weight: 100;
@@ -603,8 +603,8 @@ section.content {
   section.content.notebook .content {
     display: block;
     float: left;
-    margin-right: 2.35765%;
-    width: 65.88078%; }
+    margin-right: 2.84259%;
+    width: 79.43148%; }
     section.content.notebook .content:last-child {
       margin-right: 0; }
     section.content.notebook .content h2 {
@@ -640,6 +640,14 @@ section.content {
     width: 14.70196%; }
     section.content.notebook .sidebar:last-child {
       margin-right: 0; }
+    @media screen and (max-width: 800px) {
+      section.content.notebook .sidebar {
+        display: block;
+        float: left;
+        margin-right: 2.35765%;
+        width: 100%; }
+        section.content.notebook .sidebar:last-child {
+          margin-right: 0; } }
   section.content .sidebar {
     display: block;
     float: left;

@@ -1,6 +1,14 @@
 section.content {
 	@include clearfix();
 	@extend .constrain;
+	img {
+		max-width: 100%;
+		&.alignRight {
+			float: right;
+			margin: 1em 0 1em 1em;
+			@include media(max-width 600px) { margin-top: 0; }
+		}
+	}
 	p {
 		font-size: 1em;
 		font-weight: 100;
@@ -71,10 +79,15 @@ section.content {
 			a { text-decoration: underline; }
 		}
 		article {
-			@include clearfix();
+			@include span-columns(10);
 			margin-bottom: 2em;
 			padding-bottom: 2em;
 			border-bottom: 1px #333 solid;
+			&:last-child {
+				margin-bottom: 0;
+				padding-bottom: 0;
+				border-bottom: none;
+			}
 		}
 		.sidebar {
 			@include span-columns(2);

@@ -1,7 +1,11 @@
+/**
+ * Nicholas Young v9.0
+ * (C) Copyright 2013 Nicholas Young. All rights reserved.
+ */
 @import 'includes/bootstrap';
 
 /* Global Styles */
-body * {
+body div, section, header, img, p {
 	@include transition(all .2s);
 }
 
@@ -34,16 +38,6 @@ body {
 	margin: 0 auto 0 auto;
 	width: 90%;
 	max-width: 1440px;
-}
-
-/* Image Styles */
-img {
-	max-width: 100%;
-	&.alignRight {
-		float: right;
-		margin: 1em 0 1em 1em;
-		@include media(max-width 600px) { margin-top: 0; }
-	}
 }
 
 /*

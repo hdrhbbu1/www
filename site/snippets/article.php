@@ -12,7 +12,9 @@
 		<?php if ($context == 'single'): ?>
 			<?php echo kirbytext($entry->text()) ?>
 		<?php else: ?>
-			<?php echo kirbytext(excerpt($entry->text(), 800)); ?>
+			<p>
+				<?php echo excerpt($entry->text(), 300) ?>
+			</p>
 			<span class='continue'>
 				<a href='<?php echo $entry->url() ?>'>Continue reading...</a>
 			</span>

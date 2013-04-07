@@ -9,6 +9,7 @@ body > footer {
 	span.copyright {
 		float: left;
 		font-size: .75em;
+		@include media(min-width 600px) { line-height: 35px; }
 		@include media(max-width 600px) { display: block; float: none; }
 	}
 	ul.menu {

@@ -649,6 +649,17 @@ section.content.notebook article .meta {
     text-transform: uppercase;
     margin-bottom: .50em;
     font-weight: 100; }
+  @media screen and (max-width: 700px) {
+    section.content.notebook article .meta {
+      display: block;
+      float: left;
+      margin-right: 2.35765%;
+      width: 100%;
+      border-bottom: 1px black solid;
+      margin-bottom: 1em;
+      padding-bottom: 1em; }
+      section.content.notebook article .meta:last-child {
+        margin-right: 0; } }
 section.content.notebook article .content {
   display: block;
   float: left;
@@ -670,6 +681,14 @@ section.content.notebook article .content {
       float: left;
       margin-right: 2.35765%;
       width: 82.94039%; }
+      section.content.notebook article .content:last-child {
+        margin-right: 0; } }
+  @media screen and (max-width: 700px) {
+    section.content.notebook article .content {
+      display: block;
+      float: left;
+      margin-right: 2.35765%;
+      width: 100%; }
       section.content.notebook article .content:last-child {
         margin-right: 0; } }
 section.content.notebook a {
@@ -749,11 +768,7 @@ section.content.notebook.single article {
         margin-right: 2.35765%;
         width: 100%; }
         section.content.notebook.single article .meta:last-child, section.content.notebook.single article .content:last-child {
-          margin-right: 0; }
-      section.content.notebook.single article .meta {
-        border-bottom: 1px black solid;
-        margin-bottom: 1em;
-        padding-bottom: 1em; } }
+          margin-right: 0; } }
 section.content.notebook.single aside.sidebar {
   display: block;
   float: left;
@@ -797,6 +812,9 @@ body > footer {
   body > footer span.copyright {
     float: left;
     font-size: .75em; }
+    @media screen and (min-width: 600px) {
+      body > footer span.copyright {
+        line-height: 35px; } }
     @media screen and (max-width: 600px) {
       body > footer span.copyright {
         display: block;

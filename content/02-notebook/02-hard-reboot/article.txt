@@ -2,6 +2,8 @@ title: Hard Reboot
 ----
 subtitle: Sometimes, you need to start completely fresh.
 ----
+description: Sometimes, you need to start completely fresh.
+----
 date: 11/20/2012
 ----
 Text:

@@ -14,7 +14,7 @@
 <link rel='shortlink' href='<?php echo $page->tinyurl() ?>' />
 <link type='text/plain' rel='author' href='<?php echo url() . 'humans.txt' ?>' />
 <meta property='og:site_name' content='<?php echo $site->title() ?>' />
-<meta property='og:title' content='<?php echo $site->title() ?>' />
+<meta property='og:title' content='<?php echo $page->title() ?>' />
 <meta property='og:type' content='website' />
 <meta property='og:url' content='<?php echo $page->url() ?>' />
 <meta name='robots' content='index, follow' />

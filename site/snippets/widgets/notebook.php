@@ -1,5 +1,5 @@
 <div class='widget notebook'>
-	<?php if ($current): ?>
+	<?php if (isset($current)): ?>
 		<h2 class='subhead'>Other Notebook Entries</h2>
 	<?php else: ?>
 		<h2 class='subhead'>Recent Notebook Entries</h2>
@@ -7,7 +7,7 @@
 	<?php $entries = $pages->findByUid('notebook')->children()->visible()->flip()->limit(3) ?>
 	<ul class='basic-list'>
 	<?php foreach($entries as $entry): ?>
-		<?php if ($current && $current->uri() == $entry->uri()) continue ?>
+		<?php if (isset($current) && $current->url() == $entry->uri()) continue ?>
 		<li>
 			<a href='<?php echo $entry->url() ?>'><h3><?php echo $entry->title() ?></h3></a>
 			<div class='meta'>

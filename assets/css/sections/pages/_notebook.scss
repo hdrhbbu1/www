@@ -6,6 +6,7 @@ section.content.notebook {
 	article {
 		.meta {
 			@include span-columns(2);
+			font-size: .95em;
 			span.date {
 				display: block;
 				color: #999;
@@ -49,6 +50,11 @@ section.content.notebook.single {
 		@include media(max-width 700px) {
 			@include span-columns(12);
 			.meta, .content { @include span-columns(12 of 12); }
+			.meta {
+				border-bottom: 1px black solid;
+				margin-bottom: 1em;
+				padding-bottom: 1em;
+			}
 		}
 	}
 	aside.sidebar {

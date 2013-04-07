@@ -639,7 +639,8 @@ section.content.notebook article .meta {
   display: block;
   float: left;
   margin-right: 2.35765%;
-  width: 14.70196%; }
+  width: 14.70196%;
+  font-size: .95em; }
   section.content.notebook article .meta:last-child {
     margin-right: 0; }
   section.content.notebook article .meta span.date {
@@ -748,7 +749,11 @@ section.content.notebook.single article {
         margin-right: 2.35765%;
         width: 100%; }
         section.content.notebook.single article .meta:last-child, section.content.notebook.single article .content:last-child {
-          margin-right: 0; } }
+          margin-right: 0; }
+      section.content.notebook.single article .meta {
+        border-bottom: 1px black solid;
+        margin-bottom: 1em;
+        padding-bottom: 1em; } }
 section.content.notebook.single aside.sidebar {
   display: block;
   float: left;

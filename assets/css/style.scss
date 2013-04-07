@@ -22,6 +22,7 @@ html {
 		color: inherit;
 		text-decoration: none;
 	}
+	p:first-child { margin-top: 0; }
 }
 
 body {
@@ -47,3 +48,4 @@ body {
 @import 'sections/nav';
 @import 'sections/content';
 @import 'sections/footer';
+@import 'elements/widgets';

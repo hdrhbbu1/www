@@ -290,6 +290,18 @@
       "fileType" : 4,
       "debugStyle" : 0
     },
+    "\/assets\/css\/sections\/pages\/_home.scss" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/assets\/css\/sections\/pages\/_home.scss",
+      "outputStyle" : 0,
+      "shouldRunBless" : 0,
+      "outputAbbreviatedPath" : "\/assets\/css\/sections\/css\/_home.css",
+      "fileType" : 4,
+      "debugStyle" : 0
+    },
     "\/assets\/css\/sections\/_header.scss" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
@@ -712,6 +724,18 @@
       "fileType" : 4,
       "debugStyle" : 0
     },
+    "\/assets\/css\/elements\/_widgets.scss" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/assets\/css\/elements\/_widgets.scss",
+      "outputStyle" : 0,
+      "shouldRunBless" : 0,
+      "outputAbbreviatedPath" : "\/assets\/css\/css\/_widgets.css",
+      "fileType" : 4,
+      "debugStyle" : 0
+    },
     "\/site\/snippets\/head\/meta.php" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -1001,6 +1025,18 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
+    "\/assets\/css\/sections\/pages\/_page.scss" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/assets\/css\/sections\/pages\/_page.scss",
+      "outputStyle" : 0,
+      "shouldRunBless" : 0,
+      "outputAbbreviatedPath" : "\/assets\/css\/sections\/css\/_page.css",
+      "fileType" : 4,
+      "debugStyle" : 0
+    },
     "\/site\/snippets\/head\/style.php" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -1027,6 +1063,18 @@
       "inputAbbreviatedPath" : "\/system\/lib\/load.php",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
+    },
+    "\/assets\/css\/sections\/pages\/_notebook.scss" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/assets\/css\/sections\/pages\/_notebook.scss",
+      "outputStyle" : 0,
+      "shouldRunBless" : 0,
+      "outputAbbreviatedPath" : "\/assets\/css\/sections\/css\/_notebook.css",
+      "fileType" : 4,
+      "debugStyle" : 0
     },
     "\/assets\/css\/includes\/neat\/functions\/_px-to-em.scss" : {
       "ignoreWasSetByUser" : 0,
@@ -1264,17 +1312,6 @@
       "outputAbbreviatedPath" : "\/assets\/js\/site-ck-ck.js",
       "fileType" : 64
     },
-    "\/assets\/compiled\/site.js" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/assets\/compiled\/site.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/assets\/compiled\/site-ck.js",
-      "fileType" : 64
-    },
     "\/content\/01-bio\/header.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -1285,6 +1322,17 @@
       "outputAbbreviatedPath" : "\/content\/01-bio\/header.jpg",
       "initialSize" : 1176865,
       "fileType" : 4096
+    },
+    "\/assets\/compiled\/site.js" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/assets\/compiled\/site.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 1,
+      "outputAbbreviatedPath" : "\/assets\/compiled\/site-ck.js",
+      "fileType" : 64
     },
     "\/assets\/css\/includes\/neat\/functions\/_private.scss" : {
       "ignoreWasSetByUser" : 0,

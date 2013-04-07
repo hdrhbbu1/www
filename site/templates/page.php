@@ -3,11 +3,9 @@
 	<article<?php ecco($page->class(), " class='{$page->class()}'") ?>>
     <?php echo kirbytext($page->text()) ?>
 	</article>
-	<aside class='sidebar one'>
+	<aside class='sidebar last'>
 		<?php snippet('widgets/newsletter') ?>
 		<?php snippet('widgets/notebook') ?>
-	</aside>
-	<aside class='sidebar two'>
 	</aside>
 </section>
 <?php snippet('footer') ?>

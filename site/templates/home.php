@@ -1,5 +1,5 @@
 <?php snippet('header') ?>
-<section class='content'>
+<section class='content home'>
 	<div class='specialties'>
 		<?php $specialties = yaml($page->specialties()) ?>
 		<?php foreach($specialties as $item): ?>
@@ -9,15 +9,11 @@
 		</div>
 		<?php endforeach; ?>
 	</div>
-	<div class='notebook-features'>
-		<h2 class='subhead'>Recent Articles</h2>
-		<?php snippet('notebook/preview') ?>
+	<div class='six'>
+		<?php snippet('widgets/notebook') ?>
 	</div>
-	<aside class='sidebar one'>
-		<h2 class='subhead'>Projects</h2>
-	</aside>
-	<aside class='sidebar two'>
-		<!-- more content? -->	
-	</aside>
+	<div class='six'>
+		<?php snippet('widgets/newsletter') ?>
+	</div>
 </section>
 <?php snippet('footer') ?>

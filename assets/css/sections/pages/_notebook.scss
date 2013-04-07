@@ -1,0 +1,67 @@
+/*
+ * Notebook
+ */
+
+section.content.notebook {
+	article {
+		.meta {
+			@include span-columns(2);
+			span.date {
+				display: block;
+				color: #999;
+				text-transform: uppercase;
+				margin-bottom: .50em;
+				font-weight: 100;
+			}
+		}
+		.content {
+			@include span-columns(8);
+			@include clearfix();
+			h2 {
+				margin: 0 0 0 0;
+			}
+			@include media(max-width 1200px) { @include span-columns(10); }
+		}
+	}
+	a { text-decoration: underline; }
+}
+
+section.content.notebook.list {
+	article {
+		@include span-columns(12);
+		@include clearfix();
+		border-bottom: 1px #333 solid;
+		margin-bottom: 1.5em;
+		padding-bottom: 1.5em;
+	}
+}
+
+section.content.notebook.single {
+	article {
+		@include span-columns(9);
+		.meta { @include span-columns(2 of 9); }
+		.content { @include span-columns(7 of 9); }
+		@include media(max-width 1200px) {
+			@include span-columns(12);
+			.meta { @include span-columns(2 of 12); }
+			.content { @include span-columns(10 of 12); }
+		}
+		@include media(max-width 700px) {
+			@include span-columns(12);
+			.meta, .content { @include span-columns(12 of 12); }
+		}
+	}
+	aside.sidebar {
+		@include span-columns(3);
+		@include media(max-width 1200px) {
+			border-top: 1px black solid;
+			padding-top: 1em;
+			@include span-columns(10);
+			@include shift(2);
+		}
+		@include media(max-width 700px) {
+			@include shift(0);
+			@include span-columns(12);
+		}
+	}
+}

@@ -1,9 +1,15 @@
 <div class='widget notebook'>
-	<h2 class='subhead'>Recent Entries</h2>
-	<?php $entries = $pages->findByUid('notebook')->children()->visible()->flip()->limit(2) ?>
+	<?php if ($current): ?>
+		<h2 class='subhead'>Other Notebook Entries</h2>
+	<?php else: ?>
+		<h2 class='subhead'>Recent Notebook Entries</h2>
+	<?php endif ?>
+	<?php $entries = $pages->findByUid('notebook')->children()->visible()->flip()->limit(3) ?>
+	<ul class='basic-list'>
 	<?php foreach($entries as $entry): ?>
-		<article class='notebook preview'>
-			<a href='<?php echo $entry->url() ?>'><h2><?php echo $entry->title() ?></h2></a>
+		<?php if ($current && $current->uri() == $entry->uri()) continue ?>
+		<li>
+			<a href='<?php echo $entry->url() ?>'><h3><?php echo $entry->title() ?></h3></a>
 			<div class='meta'>
 				<span class='date'>Published on:</span>
 				<date><?php echo $entry->date('M d, Y') ?></date>
@@ -11,6 +17,7 @@
 			<p>
 				<?php echo excerpt($entry->text(), 200) ?>
 			</p>
-		</article>
+		</li>
 	<?php endforeach ?>
+	</ul>
 </div>

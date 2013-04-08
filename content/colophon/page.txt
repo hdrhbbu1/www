@@ -7,22 +7,22 @@ Class: page
 Text: 
 Depending on who you are, this will either be the most appealing or loathesome page on my web site.
 
-### Typography
+## Typography
 
-Every line of text you read is set in <a href=\"http://www.myfonts.com/fonts/canadatype/gibson/\" target=\"_blank\">Gibson</a>, a wonderfully smooth sans-serif font designed by Rod McDonald and distributed by Canada Type.
+Every line of text you read is set in (link: http://www.myfonts.com/fonts/canadatype/gibson text: Gibson), a wonderfully smooth sans-serif font designed by Rod McDonald and distributed by Canada Type.
 
-### Content Management
+## Content Management
 
-Content management can be a royal pain, but since this is my personal site, I refused to accept any frustration. I chose (link: http://getkirby.com text: Kirby), a small but powerful, static site generator. It's simplicity is refreshing, and allows me to author content in Markdown.
+Content management can be a royal pain, but since this is my personal site, I refused to accept any frustration. I chose (link: http://getkirby.com text: Kirby), a small, but powerful static site generator. It's simplicity is refreshing, and allows me to author content in Markdown.
 
-### Hosting and Technical Administration
+## Hosting and Technical Administration
 
 (link: http://name.com text: Name.com), my domain registrar, kicks serious ass. Don't even consider purchasing your domain anywhere else. (link: http://pagodabox.com text: Pagoda Box) provides hosting go-juice, so that even in busy times, the site remains online. If you enjoy this site, thank these people too.
 
-### Design
+## Design
 
 All markup is HTML5, and anything beautiful is created with SASS.
 
-### Toys
+## Toys
 
 Written on a late-2011 MacBook Pro and 27" Thunderbolt monitor.

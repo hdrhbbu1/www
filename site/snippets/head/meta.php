@@ -18,8 +18,11 @@
 <?php endif ?>
 <?php if ($page->description()): ?>
 	<meta name='description' content="<?php echo html($page->description()) ?>" />
+	<meta name='og:description' content="<?php echo html($page->description()) ?>" />
 <?php elseif ($page->subtitle()): ?>
 	<meta name='description' content="<?php echo html($page->subtitle()) ?>" />
+	<meta name='og:description' content="<?php echo html($page->subtitle()) ?>" />
 <?php else: ?>
 	<meta name='description' content="<?php echo html($site->description()) ?>" />
+	<meta name='og:description' content="<?php echo html($site->description()) ?>" />
 <?php endif ?>

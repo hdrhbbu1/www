@@ -17,9 +17,9 @@
 	<meta property='og:title' content='<?php echo html("{$page->title()} - {$site->title()}") ?>' />
 	<meta name='twitter:title' content='<?php echo html("{$page->title()} - {$site->title()}") ?>' />
 <?php endif ?>
-<?php if ($page->files()->find('opengraph.jpg')): ?>
-	<meta name='og:image' content='<?php echo html($page->files()->find('opengraph.jpg')->url()) ?>' />
-	<meta name='twitter:image' content'<?php echo html($page->files()->find('opengraph.jpg')->url()) ?>' />
+<?php if ($page->files()->find('share.jpg')): ?>
+	<meta name='og:image' content='<?php echo html($page->files()->find('share.jpg')->url()) ?>' />
+	<meta name='twitter:image' content'<?php echo html($page->files()->find('share.jpg')->url()) ?>' />
 <?php endif ?>
 <?php if ($page->keywords()): ?>
 	<meta name='keywords' content='<?php echo html($page->keywords()) ?>' />

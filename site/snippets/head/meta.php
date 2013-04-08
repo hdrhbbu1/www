@@ -8,6 +8,9 @@
 <meta property='og:type' content='website' />
 <meta property='og:title' content='<?php echo html($page->title()) ?>' />
 <meta property='og:url' content='<?php echo html($page->url()) ?>' />
+<?php if ($page->files()->find('facebook.jpg')): ?>
+	<meta name='og:image' content='<?php echo html($page->files()->find('facebook.jpg')->url()) ?>' />
+<?php endif ?>
 <?php if ($page->keywords()): ?>
 	<meta name='keywords' content='<?php echo html($page->keywords()) ?>' />
 <?php else: ?>

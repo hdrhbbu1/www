@@ -5,7 +5,7 @@
 <link type='text/plain' rel='author' href='<?php echo url() . 'humans.txt' ?>' />
 <meta name='robots' content='index, follow' />
 <meta property='og:site_name' content='<?php echo html($site->title()) ?>' />
-<meta property='og:type' content='website' />
+<meta property='og:type' content='article' />
 <meta property='og:title' content='<?php echo html($page->title()) ?>' />
 <meta property='og:url' content='<?php echo html($page->url()) ?>' />
 <?php if ($page->files()->find('facebook.jpg')): ?>

@@ -9,7 +9,7 @@
 <meta property='og:url' content='<?php echo html($page->url()) ?>' />
 <meta name='twitter:url' content='<?php echo html($page->url()) ?>' />
 <meta name='twitter:site' content='@nicholaswyoung' />
-<meta name='twitter:user' content='@nicholaswyoung' />
+<meta name='twitter:creator' content='@nicholaswyoung' />
 <?php if ($page->url() == url()): ?>
 	<meta property='og:title' content='<?php echo html("{$site->title()} | {$site->subtitle()}") ?>' />
 	<meta name='twitter:title' content='<?php echo html("{$site->title()} | {$site->subtitle()}") ?>' />

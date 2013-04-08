@@ -43,3 +43,15 @@ nav.main {
 		}
 	}	
 }
+
+nav.pagination {
+	@include clearfix();
+	width: 50%;
+	margin: 0 auto 0 auto;
+	.prev {
+		float: left;
+	}
+	.next {
+		float: right;
+	}
+}

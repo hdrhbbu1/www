@@ -347,7 +347,7 @@ table {
   /* Legacy iOS */ }
 
 /* Global Styles */
-body div, section, header, img, p {
+body div, section, aside, header, img, p {
   -webkit-transition: all 0.2s;
   -moz-transition: all 0.2s;
   -ms-transition: all 0.2s;
@@ -489,6 +489,20 @@ nav.main {
     @media only screen and (-webkit-min-device-pixel-ratio: 2) {
       nav.main a.logo {
         background: url(../img/logo-retina.png) center center no-repeat; } }
+
+nav.pagination {
+  *zoom: 1;
+  width: 50%;
+  margin: 0 auto 0 auto; }
+  nav.pagination:before, nav.pagination:after {
+    content: " ";
+    display: table; }
+  nav.pagination:after {
+    clear: both; }
+  nav.pagination .prev {
+    float: left; }
+  nav.pagination .next {
+    float: right; }
 
 section.content {
   *zoom: 1; }

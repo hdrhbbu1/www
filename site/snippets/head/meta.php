@@ -8,7 +8,7 @@
 <meta property='og:type' content='article' />
 <meta property='og:url' content='<?php echo html($page->url()) ?>' />
 <?php if ($page->url() == url()): ?>
-	<meta property='og:title' content='<?php echo html("{$site->title()} | $site->subtitle()}") ?>' />
+	<meta property='og:title' content='<?php echo html("{$site->title()} | {$site->subtitle()}") ?>' />
 <?php else: ?>
 	<meta property='og:title' content='<?php echo html("{$page->title()} - {$site->title()}") ?>' />
 <?php endif ?>

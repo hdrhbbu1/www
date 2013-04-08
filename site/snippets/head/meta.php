@@ -19,7 +19,7 @@
 <?php endif ?>
 <?php if ($page->files()->find('share.jpg')): ?>
 	<meta name='og:image' content='<?php echo html($page->files()->find('share.jpg')->url()) ?>' />
-	<meta name='twitter:image' content'<?php echo html($page->files()->find('share.jpg')->url()) ?>' />
+	<meta name='twitter:image' content='<?php echo html($page->files()->find('share.jpg')->url()) ?>' />
 <?php endif ?>
 <?php if ($page->keywords()): ?>
 	<meta name='keywords' content='<?php echo html($page->keywords()) ?>' />

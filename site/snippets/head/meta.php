@@ -6,8 +6,12 @@
 <meta name='robots' content='index, follow' />
 <meta property='og:site_name' content='<?php echo html($site->title()) ?>' />
 <meta property='og:type' content='article' />
-<meta property='og:title' content='<?php echo html($page->title()) ?>' />
 <meta property='og:url' content='<?php echo html($page->url()) ?>' />
+<?php if ($page->url() == url()): ?>
+	<meta property='og:title' content='<?php echo html("{$site->title()} | $site->subtitle()}") ?>' />
+<?php else: ?>
+	<meta property='og:title' content='<?php echo html("{$page->title()} - {$site->title()}") ?>' />
+<?php endif ?>
 <?php if ($page->files()->find('facebook.jpg')): ?>
 	<meta name='og:image' content='<?php echo html($page->files()->find('facebook.jpg')->url()) ?>' />
 <?php endif ?>

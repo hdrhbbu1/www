@@ -7,13 +7,19 @@
 <meta property='og:site_name' content='<?php echo html($site->title()) ?>' />
 <meta property='og:type' content='article' />
 <meta property='og:url' content='<?php echo html($page->url()) ?>' />
+<meta name='twitter:url' content='<?php echo html($page->url()) ?>' />
+<meta name='twitter:site' content='@nicholaswyoung' />
+<meta name='twitter:user' content='@nicholaswyoung' />
 <?php if ($page->url() == url()): ?>
 	<meta property='og:title' content='<?php echo html("{$site->title()} | {$site->subtitle()}") ?>' />
+	<meta name='twitter:title' content='<?php echo html("{$site->title()} | {$site->subtitle()}") ?>' />
 <?php else: ?>
 	<meta property='og:title' content='<?php echo html("{$page->title()} - {$site->title()}") ?>' />
+	<meta name='twitter:title' content='<?php echo html("{$page->title()} - {$site->title()}") ?>' />
 <?php endif ?>
-<?php if ($page->files()->find('facebook.jpg')): ?>
-	<meta name='og:image' content='<?php echo html($page->files()->find('facebook.jpg')->url()) ?>' />
+<?php if ($page->files()->find('opengraph.jpg')): ?>
+	<meta name='og:image' content='<?php echo html($page->files()->find('opengraph.jpg')->url()) ?>' />
+	<meta name='twitter:image' content'<?php echo html($page->files()->find('opengraph.jpg')->url()) ?>' />
 <?php endif ?>
 <?php if ($page->keywords()): ?>
 	<meta name='keywords' content='<?php echo html($page->keywords()) ?>' />
@@ -23,10 +29,13 @@
 <?php if ($page->description()): ?>
 	<meta name='description' content="<?php echo html($page->description()) ?>" />
 	<meta name='og:description' content="<?php echo html($page->description()) ?>" />
+	<meta name='twitter:description' content="<?php echo html($page->description()) ?>" />
 <?php elseif ($page->subtitle()): ?>
 	<meta name='description' content="<?php echo html($page->subtitle()) ?>" />
 	<meta name='og:description' content="<?php echo html($page->subtitle()) ?>" />
+	<meta name='twitter:description' content="<?php echo html($page->subtitle()) ?>" />
 <?php else: ?>
 	<meta name='description' content="<?php echo html($site->description()) ?>" />
 	<meta name='og:description' content="<?php echo html($site->description()) ?>" />
+	<meta name='twitter:description' content="<?php echo html($site->description()) ?>" />
 <?php endif ?>

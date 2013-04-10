@@ -1,0 +1,5 @@
+header.top.remixed-again {
+	background: url(/assets/img/fade-50.png),
+				url(header.jpg);
+	background-size: cover;
+}

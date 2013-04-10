@@ -11,7 +11,7 @@ date: 04/09/12
 text:
 I redesign this site annually, but this iteration is radically different. Normally, I pick a new set of technical tools and work around any associated oddness they might introduce &mdash; however, this time, I decided to be bold. I reimagined my personal design language, employed a simple file-based CMS, and picked a new hosting provider. Like I said, bold.
 
-However, this post isn't about technical details alone. It's part of a (text: much larger narrative link: /notebook/its-not-about-your-tools) on choosing the right tools: ones that help you create better work.
+However, this post isn't about technical details alone. It's part of a (link: /notebook/its-not-about-your-tools text: much larger narrative) on choosing the right tools: ones that help you create better work. Even familiar tools will sometimes slow you down, and hinder creativity. Never be afraid to open your toolbox and replace pieces that don't work well for you.
 
 ## Design Language
 
@@ -25,7 +25,7 @@ The new minimalist logo tosses out everything but my first initial and two color
 
 ## Content Management
 
-Great design is only one part of the puzzle.
+Great design is only one part of the puzzle. 
 
 ## Layout
 

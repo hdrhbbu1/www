@@ -25,11 +25,11 @@ The new minimalist logo tosses out everything but my first initial and two color
 
 ## Content Management
 
-Beautiful design is nothing without content. It's something we, as designers, are often frustrated by, but without understanding how the end-user will input content is a prerequisite for almost any design project. Another universal truth is this: if managing content is difficult, your web presence will remain static. This is a lesson I've learned many times over; sometimes leaving this site untouched for a year or more.
+Beautiful design is nothing without content. It's something we, as designers, are often frustrated by, but understanding the end-user's content is a prerequisite for most design projects. Another universal truth is this: if managing content is difficult, the content will remain static. This is a lesson I've learned many times over; sometimes leaving this site untouched for a year or more.
 
 Choosing the right content management system is a difficult proposition. In the past I've used traditional systems like (link: http://wordpress.org text: Wordpress) or (link: http://drupal.org text: Drupal), but tired quickly of the sometimes complex database maintenance tasks and upgrade procedures.
 
-This site is powered by (link: http://getkirby.com text: Kirby); a small, eloquent framework that works without MySQL (the only requirement is PHP). At first, it sounded almost too simple, but I dove in and found a robust content management engine that allows me to write in (link: http://daringfireball.net/projects/markdown text: Markdown), and even add structured data. The whole site is (link: https://github.com/nicholaswyoung/web text: stored in a Git repository), and deployed from the command line. While a simple flat-file system like (link: http://getkirby.com text: Kirby) isn't ideal for every site, it allows me to build faster and write more often.
+This site is powered by (link: http://getkirby.com text: Kirby); a small, eloquent framework that works without MySQL (the only requirement is PHP). At first, it sounded almost too simple, but I dove in, finding a robust content management engine that allows me to write in (link: http://daringfireball.net/projects/markdown text: Markdown), and even add structured data. The whole site is (link: https://github.com/nicholaswyoung/web text: stored in a Git repository), and deployed from the command line. While a simple flat-file system like (link: http://getkirby.com text: Kirby) isn't ideal for every site, it allows me to build faster and write more often.
 
 ## Layout
 

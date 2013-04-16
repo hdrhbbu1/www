@@ -9,4 +9,6 @@ class: art-is-greyscale
 date: 04/12/2013
 ----
 text:
-Whether art is your job or hobby, you've probably doubted yourself more than once. You questioned whether your creative output is worth the asking price, why anyone should care about your work, or even if art is a passion of yours, not just a fleeting pursuit.
+Whether art is your job or hobby, you've probably doubted yourself more than once. You questioned whether your creative output is worth the asking price, why anyone should care about your work &mdash; or even if art is a passion of yours, not a temporary pursuit.
+
+You're not alone; even mature artists question their commitment, and doubt is a normal part of a healthy creative lifestyle, but the important part is what you do next.

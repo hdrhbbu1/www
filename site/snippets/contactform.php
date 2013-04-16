@@ -23,9 +23,13 @@ $form = new contactform(array(
 			Name
 		</label>
 		<input class='contactform-input' type='text' id='contactform-name' name='name' value='<?php echo $form->htmlValue('name') ?>' />
-		<label class='contactform-label<?php if($form->isError('email')) echo ' error' ?>' for='contactform-email'>Email Address</label>
+		<label class='contactform-label<?php if($form->isError('email')) echo ' error' ?>' for='contactform-email'>
+			Email Address
+		</label>
 		<input class='contactform-input' type='text' id='contactform-email' name='email' value='<?php echo $form->htmlValue('email') ?>' />
-		<label class='contactform-label<?php if($form->isError('text')) echo ' error' ?>' for='contactform-text'>Message</label>
+		<label class='contactform-label<?php if($form->isError('text')) echo ' error' ?>' for='contactform-text'>
+			Message
+		</label>
 		<textarea class='contactform-input' name='text' id='contactform-text'><?php echo $form->htmlValue('text') ?></textarea>
 		<button>Send</button>
   </form>

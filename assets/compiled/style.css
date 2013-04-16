@@ -610,6 +610,26 @@ section.content.page article {
       width: 65.88078%; }
       section.content.page article:last-child {
         margin-right: 0; } }
+  section.content.page article form.contactform input[type=email], section.content.page article form.contactform input[type=text], section.content.page article form.contactform textarea {
+    display: block;
+    border: none;
+    width: 80%;
+    background: rgba(255, 255, 255, 0.3);
+    padding: .5em;
+    color: black;
+    margin-bottom: 1em; }
+    section.content.page article form.contactform input[type=email]:first-child, section.content.page article form.contactform input[type=text]:first-child, section.content.page article form.contactform textarea:first-child {
+      margin-bottom: .80em; }
+  section.content.page article form.contactform label {
+    display: block;
+    margin-bottom: .5em;
+    font-weight: bold; }
+  section.content.page article form.contactform button {
+    margin-top: .75em;
+    display: block;
+    border: none;
+    background: #999;
+    padding: .5em; }
 section.content.page aside.sidebar {
   display: block;
   float: left;

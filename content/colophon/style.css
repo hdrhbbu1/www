@@ -1,0 +1,6 @@
+header.top {
+	background:
+		url('/assets/img/fade-50.png'),
+		url(../projects/header.jpg) top center no-repeat;
+	background-size: cover;
+}

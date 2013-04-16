@@ -5,7 +5,7 @@ Subtitle: Peek at the tools behind this site.
 Class: page
 ----
 Text: 
-Depending on who you are, this will either be the most appealing or loathesome page on my web site.
+Depending on who you are, this will either be the most appealing or loathesome page on my web site. It exists solely to provide information about technologies that power this site, or tools that helped me produce it. As a former professional web developer, I know web design is difficult to learn without a knowledgeable mentor, and while I can't help everyone personally, maybe this page will be of some use.
 
 ## Typography
 
@@ -25,7 +25,7 @@ All markup is HTML5, and anything beautiful is created with SASS.
 
 ## Toys
 
-Written on a late-2011 MacBook Pro and 27" Thunderbolt monitor.
+Written on a late-2011 MacBook Pro and 27" Thunderbolt monitor, using Mac OS 10.8.3 or greater.
 
 ## Personal Accessories
 

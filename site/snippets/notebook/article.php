@@ -2,6 +2,7 @@
 	<div class='meta'>
 		<span class='date'>Published on:</span>
 		<date><?php echo $entry->date('F d, Y') ?></date>
+		<?php snippet('notebook/social') ?>
 	</div>
 	<div class='content'>
 		<?php if ($context == 'list'): ?>
@@ -11,6 +12,7 @@
 		<?php endif ?>
 		<?php if ($context == 'single'): ?>
 			<?php echo kirbytext($entry->text()) ?>
+			<?php snippet('notebook/commentary', array('entry' => $page)) ?>
 		<?php else: ?>
 			<p>
 				<?php echo excerpt($entry->text(), 300) ?>

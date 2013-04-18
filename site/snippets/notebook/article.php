@@ -2,7 +2,7 @@
 	<div class='meta'>
 		<span class='date'>Published on:</span>
 		<date><?php echo $entry->date('F d, Y') ?></date>
-		<?php snippet('notebook/social') ?>
+		<?php if ($context == 'single'): snippet('notebook/social'); endif ?>
 	</div>
 	<div class='content'>
 		<?php if ($context == 'list'): ?>

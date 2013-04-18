@@ -2,7 +2,9 @@ title: Art is Greyscale
 ----
 subtitle: Weighing the inherent value of creative expression.
 ----
-keywords: worth of art, what is art worth, artistic expression
+description: Artists face doubt, and compare their work to that of others. We must deal with this correctly.
+----
+keywords: comparing yourself, worth of art, what is art worth, artistic expression
 ----
 class: art-is-greyscale
 ----

@@ -2,7 +2,7 @@
 <?php echo "<?xml version='1.0' encoding='utf-8'?>" ?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
 <?php foreach($pages->index() as $page): ?>
-	<?php if(in_array($page->uri(), array('sitemap', 'error'))) continue ?>
+	<?php if(in_array($page->uri(), array('sitemap', 'error', 'notebook/_drafts')) || $page->draft()) continue ?>
 	<url>
 		<loc><?php echo html($page->url()) ?></loc>
 		<lastmod><?php echo $page->modified('c') ?></lastmod>

@@ -531,6 +531,10 @@ section.content {
   section.content h3 {
     font-size: 1em;
     line-height: 1.2em; }
+  section.content blockquote {
+    margin-left: 0;
+    padding-left: 1em;
+    border-left: 1px #333333 solid; }
 
 /*
  * Headers

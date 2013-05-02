@@ -12,7 +12,7 @@ nav.menu {
 			&:last-child { margin-right: 0; }
 			&.active { > a { text-decoration: underline; } }	
 			&:hover {
-				background: rgba(0, 0, 0, .6);
+				background: rgba(0, 0, 0, .5);
 				> ul {
 					display: block;
 				}
@@ -26,7 +26,7 @@ nav.menu {
 			ul {
 				display: none;
 				position: absolute;
-				background: rgba(0, 0, 0, .4);
+				background: rgba(0, 0, 0, .5);
 				padding: 0 0 0 0;
 				li {
 					display: block;

@@ -4,6 +4,7 @@
 <link rel="shortlink" href="<?php echo $page->tinyurl() ?>" />
 <link type="text/plain" rel="author" href="<?php echo url() . "humans.txt" ?>" />
 <meta name="robots" content="index, follow" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
 <meta property="og:site_name" content="<?php echo html($site->title()) ?>" />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="<?php echo html($page->url()) ?>" />

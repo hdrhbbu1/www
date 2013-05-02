@@ -11,14 +11,16 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/system\/lib\/template.php" : {
+    "\/content\/01-work\/01-photos\/header.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/system\/lib\/template.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
+      "inputAbbreviatedPath" : "\/content\/01-work\/01-photos\/header.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/content\/01-work\/01-photos\/header.jpg",
+      "initialSize" : 101689,
+      "fileType" : 4096
     },
     "\/assets\/css\/includes\/bourbon\/addons\/_size.scss" : {
       "ignoreWasSetByUser" : 0,
@@ -32,24 +34,24 @@
       "fileType" : 4,
       "debugStyle" : 0
     },
-    "\/system\/lib\/obj.php" : {
+    "\/system\/lib\/template.php" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/system\/lib\/obj.php",
+      "inputAbbreviatedPath" : "\/system\/lib\/template.php",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/assets\/css\/includes\/bourbon\/_bourbon.scss" : {
+    "\/assets\/css\/includes\/neat\/grid\/_media.scss" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/assets\/css\/includes\/bourbon\/_bourbon.scss",
+      "inputAbbreviatedPath" : "\/assets\/css\/includes\/neat\/grid\/_media.scss",
       "outputStyle" : 0,
       "shouldRunBless" : 0,
-      "outputAbbreviatedPath" : "\/assets\/css\/includes\/css\/_bourbon.css",
+      "outputAbbreviatedPath" : "\/assets\/css\/includes\/neat\/css\/_media.css",
       "fileType" : 4,
       "debugStyle" : 0
     },
@@ -70,6 +72,18 @@
       "inputAbbreviatedPath" : "\/site\/templates\/notebook.php",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
+    },
+    "\/assets\/css\/includes\/bourbon\/_bourbon.scss" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/assets\/css\/includes\/bourbon\/_bourbon.scss",
+      "outputStyle" : 0,
+      "shouldRunBless" : 0,
+      "outputAbbreviatedPath" : "\/assets\/css\/includes\/css\/_bourbon.css",
+      "fileType" : 4,
+      "debugStyle" : 0
     },
     "\/assets\/img\/logo-retina.png" : {
       "ignoreWasSetByUser" : 0,
@@ -136,6 +150,17 @@
       "fileType" : 4,
       "debugStyle" : 0
     },
+    "\/content\/01-work\/03-music\/header.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/content\/01-work\/03-music\/header.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/content\/01-work\/03-music\/header.jpg",
+      "initialSize" : 182783,
+      "fileType" : 4096
+    },
     "\/assets\/img\/fade-50.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -194,18 +219,6 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/assets\/css\/includes\/bourbon\/css3\/_linear-gradient.scss" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/assets\/css\/includes\/bourbon\/css3\/_linear-gradient.scss",
-      "outputStyle" : 0,
-      "shouldRunBless" : 0,
-      "outputAbbreviatedPath" : "\/assets\/css\/includes\/bourbon\/css\/_linear-gradient.css",
-      "fileType" : 4,
-      "debugStyle" : 0
-    },
     "\/assets\/css\/includes\/neat\/settings\/_grid.scss" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
@@ -215,6 +228,18 @@
       "outputStyle" : 0,
       "shouldRunBless" : 0,
       "outputAbbreviatedPath" : "\/assets\/css\/includes\/neat\/css\/_grid.css",
+      "fileType" : 4,
+      "debugStyle" : 0
+    },
+    "\/assets\/css\/includes\/bourbon\/css3\/_linear-gradient.scss" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/assets\/css\/includes\/bourbon\/css3\/_linear-gradient.scss",
+      "outputStyle" : 0,
+      "shouldRunBless" : 0,
+      "outputAbbreviatedPath" : "\/assets\/css\/includes\/bourbon\/css\/_linear-gradient.css",
       "fileType" : 4,
       "debugStyle" : 0
     },
@@ -286,15 +311,6 @@
       "fileType" : 4,
       "debugStyle" : 0
     },
-    "\/content\/02-notebook\/_drafts\/10-stop\/style.css" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/content\/02-notebook\/_drafts\/10-stop\/style.css",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 16
-    },
     "\/assets\/css\/includes\/neat\/grid\/_shift.scss" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
@@ -306,6 +322,15 @@
       "outputAbbreviatedPath" : "\/assets\/css\/includes\/neat\/css\/_shift.css",
       "fileType" : 4,
       "debugStyle" : 0
+    },
+    "\/content\/02-notebook\/_drafts\/10-stop\/style.css" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/content\/02-notebook\/_drafts\/10-stop\/style.css",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 16
     },
     "\/assets\/css\/sections\/pages\/_home.scss" : {
       "ignoreWasSetByUser" : 0,
@@ -319,6 +344,24 @@
       "fileType" : 4,
       "debugStyle" : 0
     },
+    "\/content\/02-notebook\/06-its-not-about-your-tools\/style.css" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/content\/02-notebook\/06-its-not-about-your-tools\/style.css",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 16
+    },
+    "\/system\/parsers\/yaml.php" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/system\/parsers\/yaml.php",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
     "\/assets\/css\/sections\/_header.scss" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
@@ -331,15 +374,6 @@
       "fileType" : 4,
       "debugStyle" : 0
     },
-    "\/system\/parsers\/yaml.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/system\/parsers\/yaml.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
     "\/assets\/css\/includes\/bourbon\/functions\/_deprecated-webkit-gradient.scss" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
@@ -351,26 +385,6 @@
       "outputAbbreviatedPath" : "\/assets\/css\/includes\/bourbon\/css\/_deprecated-webkit-gradient.css",
       "fileType" : 4,
       "debugStyle" : 0
-    },
-    "\/content\/02-notebook\/06-its-not-about-your-tools\/style.css" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/content\/02-notebook\/06-its-not-about-your-tools\/style.css",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 16
-    },
-    "\/content\/01-work\/01-photos\/barred.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/content\/01-work\/01-photos\/barred.jpg",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/content\/01-work\/01-photos\/barred.jpg",
-      "initialSize" : 7793034,
-      "fileType" : 4096
     },
     "\/site\/templates\/home.php" : {
       "ignoreWasSetByUser" : 0,
@@ -607,6 +621,24 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
+    "\/content\/01-work\/02-film\/style.css" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/content\/01-work\/02-film\/style.css",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 16
+    },
+    "\/content\/01-work\/03-music\/style.css" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/content\/01-work\/03-music\/style.css",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 16
+    },
     "\/content\/projects\/header.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -680,24 +712,6 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/site\/snippets\/notebook\/article.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/site\/snippets\/notebook\/article.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/system\/lib\/pages.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/system\/lib\/pages.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
     "\/assets\/css\/includes\/neat\/grid\/_grid.scss" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
@@ -710,6 +724,15 @@
       "fileType" : 4,
       "debugStyle" : 0
     },
+    "\/site\/snippets\/notebook\/article.php" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/site\/snippets\/notebook\/article.php",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
     "\/assets\/css\/includes\/bourbon\/functions\/_px-to-em.scss" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
@@ -721,6 +744,15 @@
       "outputAbbreviatedPath" : "\/assets\/css\/includes\/bourbon\/css\/_px-to-em.css",
       "fileType" : 4,
       "debugStyle" : 0
+    },
+    "\/system\/lib\/pages.php" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/system\/lib\/pages.php",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
     },
     "\/assets\/css\/includes\/bourbon\/addons\/_hide-text.scss" : {
       "ignoreWasSetByUser" : 0,
@@ -911,15 +943,6 @@
       "fileType" : 4,
       "debugStyle" : 0
     },
-    "\/system\/lib\/cache.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/system\/lib\/cache.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
     "\/content\/01-work\/header.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -941,6 +964,15 @@
       "outputAbbreviatedPath" : "\/content\/03-bio\/header.jpg",
       "initialSize" : 1176865,
       "fileType" : 4096
+    },
+    "\/system\/lib\/cache.php" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/system\/lib\/cache.php",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
     },
     "\/system\/parsers\/markdown.php" : {
       "ignoreWasSetByUser" : 0,
@@ -1016,18 +1048,6 @@
       "fileType" : 4,
       "debugStyle" : 0
     },
-    "\/assets\/css\/includes\/bourbon\/css3\/_placeholder.scss" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/assets\/css\/includes\/bourbon\/css3\/_placeholder.scss",
-      "outputStyle" : 0,
-      "shouldRunBless" : 0,
-      "outputAbbreviatedPath" : "\/assets\/css\/includes\/bourbon\/css\/_placeholder.css",
-      "fileType" : 4,
-      "debugStyle" : 0
-    },
     "\/assets\/css\/includes\/neat\/grid\/_to-deprecate.scss" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
@@ -1037,6 +1057,18 @@
       "outputStyle" : 0,
       "shouldRunBless" : 0,
       "outputAbbreviatedPath" : "\/assets\/css\/includes\/neat\/css\/_to-deprecate.css",
+      "fileType" : 4,
+      "debugStyle" : 0
+    },
+    "\/assets\/css\/includes\/bourbon\/css3\/_placeholder.scss" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/assets\/css\/includes\/bourbon\/css3\/_placeholder.scss",
+      "outputStyle" : 0,
+      "shouldRunBless" : 0,
+      "outputAbbreviatedPath" : "\/assets\/css\/includes\/bourbon\/css\/_placeholder.css",
       "fileType" : 4,
       "debugStyle" : 0
     },
@@ -1108,12 +1140,12 @@
       "initialSize" : 683311,
       "fileType" : 4096
     },
-    "\/site\/snippets\/head\/style.php" : {
+    "\/site\/cache\/index.html" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/site\/snippets\/head\/style.php",
+      "inputAbbreviatedPath" : "\/site\/cache\/index.html",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
@@ -1129,12 +1161,30 @@
       "fileType" : 4,
       "debugStyle" : 0
     },
-    "\/site\/cache\/index.html" : {
+    "\/site\/snippets\/head\/style.php" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/site\/cache\/index.html",
+      "inputAbbreviatedPath" : "\/site\/snippets\/head\/style.php",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
+    "\/site\/snippets\/sub-menu.php" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/site\/snippets\/sub-menu.php",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
+    "\/site\/snippets\/footer.php" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/site\/snippets\/footer.php",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
@@ -1158,15 +1208,6 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/site\/snippets\/footer.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/site\/snippets\/footer.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
     "\/assets\/css\/sections\/pages\/_notebook.scss" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
@@ -1178,15 +1219,6 @@
       "outputAbbreviatedPath" : "\/assets\/css\/sections\/css\/_notebook.css",
       "fileType" : 4,
       "debugStyle" : 0
-    },
-    "\/site\/snippets\/sub-menu.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/site\/snippets\/sub-menu.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
     },
     "\/assets\/css\/includes\/neat\/functions\/_px-to-em.scss" : {
       "ignoreWasSetByUser" : 0,
@@ -1218,18 +1250,6 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/assets\/css\/includes\/bourbon\/functions\/_compact.scss" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/assets\/css\/includes\/bourbon\/functions\/_compact.scss",
-      "outputStyle" : 0,
-      "shouldRunBless" : 0,
-      "outputAbbreviatedPath" : "\/assets\/css\/includes\/bourbon\/css\/_compact.css",
-      "fileType" : 4,
-      "debugStyle" : 0
-    },
     "\/assets\/css\/includes\/bourbon\/css3\/_perspective.scss" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
@@ -1239,6 +1259,18 @@
       "outputStyle" : 0,
       "shouldRunBless" : 0,
       "outputAbbreviatedPath" : "\/assets\/css\/includes\/bourbon\/css\/_perspective.css",
+      "fileType" : 4,
+      "debugStyle" : 0
+    },
+    "\/assets\/css\/includes\/bourbon\/functions\/_compact.scss" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/assets\/css\/includes\/bourbon\/functions\/_compact.scss",
+      "outputStyle" : 0,
+      "shouldRunBless" : 0,
+      "outputAbbreviatedPath" : "\/assets\/css\/includes\/bourbon\/css\/_compact.css",
       "fileType" : 4,
       "debugStyle" : 0
     },
@@ -1272,16 +1304,16 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/assets\/js\/jquery.js" : {
+    "\/content\/01-work\/02-film\/header.jpg" : {
       "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
+      "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/assets\/js\/jquery.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/assets\/js\/jquery-ck.js",
-      "fileType" : 64
+      "inputAbbreviatedPath" : "\/content\/01-work\/02-film\/header.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/content\/01-work\/02-film\/header.jpg",
+      "initialSize" : 133370,
+      "fileType" : 4096
     },
     "\/assets\/css\/includes\/neat\/grid\/_outer-container.scss" : {
       "ignoreWasSetByUser" : 0,
@@ -1305,6 +1337,17 @@
       "outputAbbreviatedPath" : "\/content\/02-notebook\/10-the-craftsmans-creed\/header.jpg",
       "initialSize" : 147860,
       "fileType" : 4096
+    },
+    "\/assets\/js\/jquery.js" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/assets\/js\/jquery.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 1,
+      "outputAbbreviatedPath" : "\/assets\/js\/jquery-ck.js",
+      "fileType" : 64
     },
     "\/site\/templates\/work.php" : {
       "ignoreWasSetByUser" : 0,
@@ -1349,6 +1392,15 @@
       "initialSize" : 4308173,
       "fileType" : 4096
     },
+    "\/site\/templates\/contact.php" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/site\/templates\/contact.php",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
     "\/assets\/css\/includes\/bourbon\/addons\/_clearfix.scss" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
@@ -1360,15 +1412,6 @@
       "outputAbbreviatedPath" : "\/assets\/css\/includes\/bourbon\/css\/_clearfix.css",
       "fileType" : 4,
       "debugStyle" : 0
-    },
-    "\/site\/templates\/contact.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/site\/templates\/contact.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
     },
     "\/site\/snippets\/heading.php" : {
       "ignoreWasSetByUser" : 0,
@@ -1435,14 +1478,14 @@
       "fileType" : 4,
       "debugStyle" : 0
     },
-    "\/site\/templates\/feed.php" : {
+    "\/content\/01-work\/01-photos\/style.css" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/site\/templates\/feed.php",
+      "inputAbbreviatedPath" : "\/content\/01-work\/01-photos\/style.css",
       "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
+      "fileType" : 16
     },
     "\/site\/snippets\/widgets\/newsletter.php" : {
       "ignoreWasSetByUser" : 0,
@@ -1450,6 +1493,15 @@
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
       "inputAbbreviatedPath" : "\/site\/snippets\/widgets\/newsletter.php",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
+    "\/site\/templates\/feed.php" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/site\/templates\/feed.php",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
@@ -1873,17 +1925,14 @@
       "fileType" : 4,
       "debugStyle" : 0
     },
-    "\/assets\/css\/includes\/bourbon\/css3\/_appearance.scss" : {
+    "\/system\/lib\/obj.php" : {
       "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
+      "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/assets\/css\/includes\/bourbon\/css3\/_appearance.scss",
-      "outputStyle" : 0,
-      "shouldRunBless" : 0,
-      "outputAbbreviatedPath" : "\/assets\/css\/includes\/bourbon\/css\/_appearance.css",
-      "fileType" : 4,
-      "debugStyle" : 0
+      "inputAbbreviatedPath" : "\/system\/lib\/obj.php",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
     },
     "\/assets\/css\/includes\/bourbon\/css3\/_inline-block.scss" : {
       "ignoreWasSetByUser" : 0,
@@ -1906,15 +1955,15 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/assets\/css\/includes\/neat\/grid\/_media.scss" : {
+    "\/assets\/css\/includes\/bourbon\/css3\/_appearance.scss" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/assets\/css\/includes\/neat\/grid\/_media.scss",
+      "inputAbbreviatedPath" : "\/assets\/css\/includes\/bourbon\/css3\/_appearance.scss",
       "outputStyle" : 0,
       "shouldRunBless" : 0,
-      "outputAbbreviatedPath" : "\/assets\/css\/includes\/neat\/css\/_media.css",
+      "outputAbbreviatedPath" : "\/assets\/css\/includes\/bourbon\/css\/_appearance.css",
       "fileType" : 4,
       "debugStyle" : 0
     }

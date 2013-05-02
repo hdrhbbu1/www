@@ -1,5 +1,5 @@
 nav.menu {
-	a.active { text-decoration: underline;}
+	a.active { text-decoration: underline; }
 	> ul {
 		float: right;
 		> li {
@@ -12,7 +12,7 @@ nav.menu {
 			&:last-child { margin-right: 0; }
 			&.active { > a { text-decoration: underline; } }	
 			&:hover {
-				background: rgba(0, 0, 0, .4);
+				background: rgba(0, 0, 0, .6);
 				> ul {
 					display: block;
 				}
@@ -30,10 +30,29 @@ nav.menu {
 				padding: 0 0 0 0;
 				li {
 					display: block;
-					padding: 0 0 0 0;
-					&:hover, &.active { background: rgba(255, 255, 255, .2); }
+					&:hover { background: rgba(255, 255, 255, .2); }
+					&.active { background: rgba(255, 255, 255, .3); }
 				}
 			}
+		}
+	}
+	
+	// Background-visibility overrides
+	ul.light {
+		> li {
+			&:hover {
+				background: rgba(255, 255, 255, .2);
+			}
+			> ul { background: rgba(255, 255, 255, .2); }
+		}
+	}
+	
+	// Menu-placement specific overrides.
+	ul.footer {
+		*:hover { background: transparent; }
+		li {
+			margin-right: 1em;
+			a { padding: 0 0 0 0; }
 		}
 	}
 }

@@ -33,10 +33,13 @@ header.top.home {
 		ul li {
 			color: black;
 			&:hover { background: rgba(0, 0, 0, .3); color: white; }
-			ul { background: inherit; }
+			ul {
+				background: inherit;
+				li:hover { background: transparent; }
+			}
 		}
 	}
-	@include media(min-width 1200px) { height: 750px; }
+	@include media(min-width 1400px) { height: 750px; }
 }
 
 header.top.wrap {

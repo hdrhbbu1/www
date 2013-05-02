@@ -27,37 +27,14 @@ header.top {
 
 header.top.home {
 	height: 600px;
+	background: url(../img/backgrounds/01.jpg) top center no-repeat;
+	background-size: cover;
 	@include media(min-width 600px) {
 		ul li { color: black; }
 	}
+	@include media(min-width 1200px) { height: 750px; }
 }
 
 header.top.wrap {
 	position: absolute;
-}
-
-header.top.home .background {
-	position: absolute;
-	width: 100%;
-	height: 100%;
-	background: black;
-	.image {
-		height: 100%;
-		width: 100%;
-		position: relative;
-		background: url(../img/backgrounds/01.jpg) top center no-repeat;
-		background-size: cover;
-		margin: 0 auto 0 auto;
-	}
-	z-index: -9999;
-	.caption {
-		display: none;
-		background: rgba(0, 0, 0, .5);
-		padding: .5em;
-		position: absolute;
-		bottom: 0;
-		right: 0;
-		font-size: .85em;
-		@include media(max-width 600px) { font-size: .80em; }
-	}
 }

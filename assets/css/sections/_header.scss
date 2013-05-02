@@ -30,7 +30,11 @@ header.top.home {
 	background: url(../img/backgrounds/01.jpg) top center no-repeat;
 	background-size: cover;
 	@include media(min-width 600px) {
-		ul li { color: black; }
+		ul li {
+			color: black;
+			&:hover { background: rgba(0, 0, 0, .3); color: white; }
+			ul { background: inherit; }
+		}
 	}
 	@include media(min-width 1200px) { height: 750px; }
 }

@@ -4,6 +4,9 @@
 		<a<?php ecco($page->isOpen(), " class='active'") ?> href='<?php echo $page->url() ?>'>
 				<?php echo html($page->title()) ?>
 			</a>
+			<?php if ($page->children()->visible() && $placement == 'main'): ?>
+				<?php snippet('sub-menu', array('root' => $page)) ?>
+			<?php endif ?>
 		</li>
 	<?php endforeach ?>
 	<?php if ($placement == 'footer'): ?>

@@ -1,5 +1,8 @@
 title: Film
 ----
-subtitle: Motion pictures with emotion.
+subtitle: Motion pictures with emotion. This section is being expanded. Please check back later.
 ----
 class: work film dark
+----
+text:
+Moving pictures.

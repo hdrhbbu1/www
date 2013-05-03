@@ -1,4 +1,4 @@
-<ul class='menu <?php echo $placement ?>'>
+<ul class='menu <?php echo $placement ?> <?php ecco($page->class(), $page->class()) ?>'>
 	<li class='mobile-only'></li>
 	<?php foreach ($pages->visible() as $page): ?>
 		<li<?php ecco($page->isOpen(), " class='active'") ?>>

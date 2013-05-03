@@ -2,6 +2,22 @@ title: Work
 ----
 subtitle: A brief collection of things I've created.
 ----
+class: work index
+----
 keywords: avant garde photography, nicholas young work, nicholas young mastering engineer, chicago mastering engineer, chicago photographer
 ----
 description: View work by Chicago-based mastering engineer, photographer, and filmmaker Nicholas Young.
+----
+Specialties:
+
+Photography:
+	title: Photographer
+	description: I work in multiple artistic mediums, but photography was my first love. Why? Because it *stops time*. It freezes it cold, preserving emotion that was likely only present once. Capturing the right moment is a tricky proposition, but over the last decade, I've perfected my technique.
+
+Film:
+	title: Director
+	description: Motion pictures expand the concept of photography to include motion, a powerful, emotional tool. Film is a powerful tool in any creators arsenal, and must be wielded with care. The shaky home-movie age passed long ago. Let's continue to push filmcraft forward.
+
+Production:
+	title: Mastering Engineer
+	description: Music is the heart of everything I do. It fuels my creative process, and inspires me to create better work, and dream larger. As a producer and mastering engineer, I've had opportunies to work with some of the brightest independent artists to create well-crafted records that endure the test of time.

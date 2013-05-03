@@ -1,0 +1,28 @@
+section.content.work {
+	&.index {
+		// Panels: 4x3
+		.panel {
+			width: 25%;
+			float: left;
+			height: 200px;
+			background: #999;
+			&.two, &.five, &.eight, &.eleven { background: #333; } // panels with overlay
+			@include media(max-width 800px) {
+				width: 50%;
+			}
+			@include media(max-width 600px) {
+				width: 100%;
+			}
+			img {
+				max-width: 100%;
+				height: auto;
+			}
+		}
+	}
+	&.photos {
+		
+	}
+	&.music {
+		
+	}
+}

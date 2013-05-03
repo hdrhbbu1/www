@@ -3,6 +3,7 @@
  */
 
 section.content.notebook {
+	@extend .constrain;
 	article {
 		.meta {
 			@include span-columns(2);

@@ -2,7 +2,7 @@ Title: Contact
 ----
 Subtitle: Reach out. I would love to hear from you!
 ----
-Class: page
+class: page contact dark
 ----
 Text:
 If you have questions, comments, or want to collaborate on a project - I'm always listening. However, due to the amount of email I receive, I have a few guidelines. Please follow them, as it will help me respond to your request in a timely manner.

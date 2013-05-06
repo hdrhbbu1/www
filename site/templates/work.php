@@ -15,7 +15,7 @@
 		<div class='overlay'>
 			<h2 class='subhead'><a href='/work/photos'>Photography</a></h2>
 			<p>
-				More than any other creative discipline, photography is in my blood. It was my first artistic
+				I was born with photography in my blood. It was my first artistic
 				outlet, and continues as a primary form of expression to this day.
 			</p>
 			<p>
@@ -34,8 +34,8 @@
 		<div class='overlay'>
 			<h2 class='subhead'><a href='/work/music'>Music</a></h2>
 			<p>
-				Music is artistic rocket fuel. Notes combine to create melodies, that have the potential to directly affect your mood.
-				I've worked with sound for over a decade, and trained my ear as a consummate mix and mastering engineer.
+				Music is artistic rocket fuel. Notes combine to create melodies that directly affect your mood.
+				I've worked with sound for over a decade, training my ear as a consummate mix and mastering engineer.
 			</p>
 			<p>
 				<a href='/work/music'>Listen &raquo;</a>
@@ -53,8 +53,8 @@
 		<div class='overlay'>
 			<h2 class='subhead'><a href='/work/film'>Film</a></h2>
 			<p>
-				Combining my other creative discliplines, film a storytelling breakthrough. Motion pictures combine the best of still photography
-				and audio storytelling, to create something truly unique.
+				Combining my other creative discliplines, film is a storytelling breakthrough. Motion pictures combine the best of still photography
+				and audio storytelling to create something truly unique.
 			</p>
 			<p>
 				<a href='/work/film'>Watch &raquo;</a>

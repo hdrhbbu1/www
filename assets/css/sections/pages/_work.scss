@@ -43,10 +43,27 @@ section.content.work {
 			}
 		}
 	}
-	&.photos {
-		
-	}
-	&.music {
-		
+	
+	// Music, Film
+	&.music, &.film {
+		@extend .constrain;
+		.item {
+			display: block;
+			border-bottom: 1px black solid;
+			margin-bottom: 5em;
+			padding-bottom: 1em;
+			&:last-child {
+				border-bottom: none;
+				margin-bottom: 0;
+				padding-bottom: 0;
+			}
+		}
+		.feature { @include span-columns(7); }
+		.description { @include span-columns(5); @include omega(); }
+		.feature, .description {
+			@include media(max-width 960px) {
+				@include span-columns(12);
+			}
+		}
 	}
 }

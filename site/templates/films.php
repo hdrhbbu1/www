@@ -1,7 +1,7 @@
 <?php snippet('header') ?>
 <section class='content<?php ecco($page->class(), " {$page->class()}") ?>'>
 	<?php foreach($page->children() as $film): ?>
-		<div class='film'>
+		<div class='item'>
 			<div class='feature video'>
 				<?php snippet('helpers/vimeo-embed', array('id' => $film->id())) ?>
 			</div>

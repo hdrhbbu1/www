@@ -2,7 +2,7 @@ Title: Colophon
 ----
 Subtitle: Peek at the tools behind this site.
 ----
-Class: page
+Class: page dark
 ----
 Text: 
 Depending on who you are, this will either be the most appealing or loathesome page on my web site. It exists solely to provide information about technologies that power this site, or tools that helped me produce it. As a former professional web developer, I know web design is difficult to learn without a knowledgeable mentor, and while I can't help everyone personally, maybe this page will be of some use.

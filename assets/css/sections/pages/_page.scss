@@ -32,9 +32,8 @@ section.content.page {
 	}
 	aside.sidebar {
 		@include span-columns(3);
-		&.last { @include clearfix(); }
 		&:last-child {
-			@include clearfix();
+			@include omega();
 		}
 		@include media(max-width 1200px) {
 			@include span-columns(4);

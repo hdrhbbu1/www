@@ -5,7 +5,7 @@
 @import 'includes/bootstrap';
 
 /* Global Styles */
-body div, section, aside, header, img, p {
+body div, section, aside, header, img, p, nav {
 	@include transition(all .2s);
 }
 

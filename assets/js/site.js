@@ -1,5 +1,6 @@
 // @codekit-prepend jquery.js
 // @codekit-prepend jquery.lazyload.js
+// @codekit-prepend jquery.view.js
 
 window.addEventListener('load', function () {
 	setTimeout(function () {

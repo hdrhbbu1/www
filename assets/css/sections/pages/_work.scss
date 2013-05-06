@@ -12,7 +12,7 @@ section.content.work {
 			position: relative;
 			&.four, &.eight, &.twelve { @include clearfix(); }
 			@include box-shadow(2px 2px 10px black);
-			@include media(max-width 800px) {
+			@include media(max-width 1250px) {
 				width: 50%;
 			}
 			@include media(max-width 600px) {

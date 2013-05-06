@@ -35,7 +35,7 @@
 			<h2 class='subhead'><a href='/work/music'>Music</a></h2>
 			<p>
 				Music is artistic rocket fuel. Notes combine to create melodies, that have the potential to directly affect your mood.
-				From an early age, I worked with sound, and have trained my ear as a consummate mix and mastering engineer.
+				I've worked with sound for over a decade, and trained my ear as a consummate mix and mastering engineer.
 			</p>
 			<p>
 				<a href='/work/music'>Listen &raquo;</a>

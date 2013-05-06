@@ -1,5 +1,6 @@
 // @codekit-prepend jquery.js
 // @codekit-prepend jquery.lazyload.js
+// @codekit-prepend jquery.fitvids.js
 
 window.addEventListener('load', function () {
 	setTimeout(function () {
@@ -9,4 +10,5 @@ window.addEventListener('load', function () {
 
 $(document).ready(function () {
 	$('.work.photos img').lazyload();
+	$('.video').fitvids();
 });

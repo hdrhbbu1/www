@@ -37,6 +37,10 @@ section.content.work {
 					border-bottom: 1px solid #efefef;
 				}
 			}
+			&.photo {
+				a { display: block; background: black; }
+				&:hover { img { opacity: .60; } }
+			}
 		}
 	}
 	&.photos {

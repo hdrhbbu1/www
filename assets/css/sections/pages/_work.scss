@@ -1,5 +1,5 @@
 section.content.work {
-	&.index {
+	&.index, &.photography {
 		// Panels: 4x3
 		@include clearfix();
 		.panel {

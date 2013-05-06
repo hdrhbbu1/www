@@ -3,3 +3,7 @@ web1:
   php_extensions: 
     - mbstring
     - eaccelerator
+    - gd
+  shared_writable_dirs:
+    - thumbs
+    - site/cache

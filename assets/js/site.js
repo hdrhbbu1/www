@@ -1,4 +1,5 @@
 // @codekit-prepend jquery.js
+// @codekit-prepend jquery.lazyload.js
 
 window.addEventListener('load', function () {
 	setTimeout(function () {
@@ -7,4 +8,5 @@ window.addEventListener('load', function () {
 });
 
 $(document).ready(function () {
+	$('.work.photos img').lazyload();
 });

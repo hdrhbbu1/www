@@ -1,6 +1,11 @@
 <?php snippet('header') ?>
 <section class='content notebook list'>
-	<?php $entries = $page->children()->visible()->flip()->paginate(6) ?>
+	<?php if (param('tagged')): ?>
+		<?php $entries = $page->children()->visible()->flip()->filterBy('tags', param('tagged'), ',') ?>
+	<?php else: ?>
+		<?php $entries = $page->children()->visible()->flip() ?>
+	<?php endif ?>
+	<?php $entries = $entries->paginate(6) ?>
 	<?php foreach($entries as $entry): ?>
 		<?php snippet('notebook/article', array('entry' => $entry, 'context' => 'list')) ?>
 	<?php endforeach ?>

@@ -15,5 +15,9 @@
 		<li>
 			<a href='<?php echo $colophon->url() ?>'><?php echo $colophon->title() ?></a>
 		</li>
+		<?php $license = $pages->findByUID('license')->first() ?>
+		<li>
+			<a href='<?php echo $license->url() ?>'><?php echo $license->title() ?></a>
+		</li>
 	<?php endif ?>
 </ul>

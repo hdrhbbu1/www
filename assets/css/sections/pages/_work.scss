@@ -47,6 +47,15 @@ section.content.work {
 	// Music, Film
 	&.music, &.film {
 		@extend .constrain;
+		.item {
+			display: block;
+			position: relative;
+			width: 100%;
+			border-bottom: 1px black solid;
+			padding-bottom: 25em;
+			&.even { margin-top: 1.5em; }
+			h2 { margin-top: 0; }
+		}
 		.feature { @include span-columns(7); }
 		.description { @include span-columns(5); }
 		.feature, .description {

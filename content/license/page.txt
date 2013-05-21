@@ -1,0 +1,21 @@
+title: License
+----
+subtitle: Basic terms and conditions for using content from this site.
+----
+class: page license
+----
+text:
+So you would like to quote or republish one of the articles found here, use a photo I took, or play or license music I worked on? These are the basic rules. Special licenses can be arranged, too.
+
+## General Orientation
+
+Anything on this site, or content released without an included, explicit license, is to be considered All Rights Reserved. This means you may not distribute or modify the content in any fashion. If the original content is published in a public forum (with the creator's consent), I do, however, encourage you to link to the original content.
+
+## Photography
+
+All images on this site, or otherwise distributed, may be used within the following terms:
+
+1. All images are the intellectual property of Nicholas Young, represented by Original Machine, LLC.
+2. You may not crop, remove the watermark, or otherwise create alternate or derivitive versions of the image without a license explicitly allowing you to do so.
+3. You may not reproduce the image in either physical or digital form, without written consent, or a license allowing you to do so.
+4. You may not use the image for commercial purposes.

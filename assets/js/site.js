@@ -1,5 +1,5 @@
 // @codekit-prepend jquery.js
-// @codekit-prepend jquery.lazyload.js
+// @codekit-prepend jquery.pjax.js
 
 window.addEventListener('load', function () {
 	setTimeout(function () {
@@ -8,5 +8,7 @@ window.addEventListener('load', function () {
 });
 
 $(document).ready(function () {
-	$('.work.photos img').lazyload();
+	//$('.video-container').fitVids();
 });
+
+//$(document).pjax('a:not([data-remote]):not([data-behavior]):not([data-skip-pjax])', 'body', {fragment: 'body' });

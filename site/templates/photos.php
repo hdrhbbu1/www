@@ -1,5 +1,4 @@
 <?php snippet('header') ?>
-<?php echo js('/assets/js/jquery.view.js?auto') ?>
 <section class='content<?php ecco($page->class(), " {$page->class()}") ?>'>
 	<?php $images = $page->images()->not('header.jpg')->shuffle() ?>
 	<?php foreach($images as $photo): ?>

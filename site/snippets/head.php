@@ -26,3 +26,4 @@
 	<?php snippet('head/js') ?>
 </head>
 <body<?php ecco($page->class(), " class='{$page->class()}'") ?>>
+	<div data-pjax-container<?php ecco($page->class(), " class='{$page->class()}'") ?>>

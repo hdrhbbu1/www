@@ -11,4 +11,4 @@ $(document).ready(function () {
 	//$('.video-container').fitVids();
 });
 
-//$(document).pjax('a:not([data-remote]):not([data-behavior]):not([data-skip-pjax])', 'body', {fragment: 'body' });
+$(document).pjax('a:not([data-remote]):not([data-behavior]):not([data-skip-pjax])', '[data-pjax-container]', {fragment: '[data-pjax-container]' });

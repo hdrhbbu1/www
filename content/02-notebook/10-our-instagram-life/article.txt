@@ -1,0 +1,16 @@
+title: Our Instagram Life
+----
+subtitle: How we are destroying memories in the name of capturing them.
+----
+tags: technology as a habit
+----
+description: Too often we photograph, record, and video our way though life; and by doing so, miss the things that truly matter.
+----
+keywords: rest, eyes open
+----
+class: our-instagram-life
+----
+date: 04/18/2013
+----
+text:
+Tweet. Post. Comment. Smile. This era has it's own lingo: a jargon-addled psuedolanguage that sometimes barely resembles recognized speech or written words. Children, teenagers, and adults alike all speak it; as everyone desperately tries to capture fleeting memories with a tweet, photo, or audio clip. Most attempts fail.

@@ -12,7 +12,7 @@
 			<a href='<?php echo $entry->url() ?>'><h3><?php echo $entry->title() ?></h3></a>
 			<div class='meta'>
 				<span class='date'>Published on:</span>
-				<date><?php echo $entry->date('M d, Y') ?></date>
+				<date><?php echo $entry->date('F d, Y') ?></date>
 			</div>
 			<p>
 				<?php echo excerpt($entry->text(), 200) ?>

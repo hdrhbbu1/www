@@ -15,7 +15,10 @@ Anything on this site, or content released without an included, explicit license
 
 All images on this site, or otherwise distributed, may be used within the following terms:
 
-1. All images are the intellectual property of Nicholas Young, represented by Original Machine, LLC.
-2. You may not crop, remove the watermark, or otherwise create alternate or derivitive versions of the image without a license explicitly allowing you to do so.
-3. You may not reproduce the image in either physical or digital form, without written consent, or a license allowing you to do so.
-4. You may not use the image for commercial purposes.
+* All images are the intellectual property of Nicholas Young, represented by Original Machine, LLC.
+* You may not crop, remove the watermark, or otherwise create alternate or derivitive versions of the image without a license explicitly allowing you to do so.
+* You may reproduce the image for noncommercial purposes, with the following citation: _Image by Nicholas Young_, and a link to this page. Commercial use is strictly prohibited without a explicit license.
+
+## Audio
+
+All audio on this site is for sampling purposes only. Copyright is retained by the artist, who retains full copyright control, unless otherwise specified.

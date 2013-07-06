@@ -1,0 +1,15 @@
+title: Introducing The Machine
+----
+subtitle: Modern, independent broadcasting from Chicago.
+----
+tags: broadcasting, the machine
+----
+description: Introducing The Machine, a new media broadcasting network from Chicago.
+----
+keywords: the machine, machine.fm, chicago broadcasting, podcast
+----
+class: introducing-the-machine
+----
+date: 06/05/2013
+----
+text:

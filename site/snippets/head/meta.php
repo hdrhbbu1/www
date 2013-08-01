@@ -22,6 +22,10 @@
 <?php if ($page->files()->find("share.jpg")): ?>
 	<meta name="og:image" content="<?php echo html($page->files()->find("share.jpg")->url()) ?>" />
 	<meta name="twitter:image:src" content="<?php echo html($page->files()->find("share.jpg")->url()) ?>" />
+<?php else: ?>
+	<?php $home = $pages->find('home') ?>
+	<meta name="og:image" content="<?php echo html($home->files()->find("share.jpg")->url()) ?>" />
+	<meta name="twitter:image:src" content="<?php echo html($home->files()->find("share.jpg")->url()) ?>" />
 <?php endif ?>
 <?php if ($page->keywords()): ?>
 	<meta name="keywords" content="<?php echo html($page->keywords()) ?>" />

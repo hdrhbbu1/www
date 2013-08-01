@@ -1,5 +1,4 @@
 // @codekit-prepend jquery.js
-// @codekit-prepend jquery.pjax.js
 
 window.addEventListener('load', function () {
 	setTimeout(function () {

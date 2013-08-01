@@ -1,6 +1,6 @@
 {
   "CodeKitInfo" : "This is a CodeKit project configuration file. It is designed to sync project settings across multiple machines. Modifying the contents of this file can be a poor life decision if you don't know what you're doing. This file is not useful unless accompanied by the project that created it in CodeKit. For more information, see: http:\/\/incident57.com\/codekit",
-  "creatorBuild" : "8300",
+  "creatorBuild" : "8317",
   "files" : {
     "\/content\/01-work\/04.jpg" : {
       "ignoreWasSetByUser" : 0,
@@ -216,6 +216,28 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
+    "\/thumbs\/7ef3c741cb9b1a73b7396d3ca45ca5be.500.500.0.1.0.100.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/thumbs\/7ef3c741cb9b1a73b7396d3ca45ca5be.500.500.0.1.0.100.jpg",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/thumbs\/7ef3c741cb9b1a73b7396d3ca45ca5be.500.500.0.1.0.100.jpg",
+      "initialSize" : 167745,
+      "fileType" : 4096
+    },
+    "\/assets\/img\/backgrounds\/05.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/assets\/img\/backgrounds\/05.jpg",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/assets\/img\/backgrounds\/05.jpg",
+      "initialSize" : 271533,
+      "fileType" : 4096
+    },
     "\/site\/templates\/photos.php" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -224,29 +246,6 @@
       "inputAbbreviatedPath" : "\/site\/templates\/photos.php",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
-    },
-    "\/assets\/css\/sections\/pages\/_page.scss" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/assets\/css\/sections\/pages\/_page.scss",
-      "outputStyle" : 0,
-      "shouldRunBless" : 0,
-      "outputAbbreviatedPath" : "\/assets\/css\/sections\/css\/_page.css",
-      "fileType" : 4,
-      "debugStyle" : 0
-    },
-    "\/content\/01-work\/01-photos\/13.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/content\/01-work\/01-photos\/13.jpg",
-      "processed" : 1,
-      "outputAbbreviatedPath" : "\/content\/01-work\/01-photos\/13.jpg",
-      "initialSize" : 154026,
-      "fileType" : 4096
     },
     "\/assets\/css\/includes\/neat\/grid\/_omega.scss" : {
       "ignoreWasSetByUser" : 0,
@@ -260,26 +259,15 @@
       "fileType" : 4,
       "debugStyle" : 0
     },
-    "\/content\/02-notebook\/03-creative-guard-rails\/header.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/content\/02-notebook\/03-creative-guard-rails\/header.jpg",
-      "processed" : 1,
-      "outputAbbreviatedPath" : "\/content\/02-notebook\/03-creative-guard-rails\/header.jpg",
-      "initialSize" : 219705,
-      "fileType" : 4096
-    },
-    "\/assets\/css\/includes\/bourbon\/addons\/_button.scss" : {
+    "\/assets\/css\/sections\/pages\/_page.scss" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/assets\/css\/includes\/bourbon\/addons\/_button.scss",
+      "inputAbbreviatedPath" : "\/assets\/css\/sections\/pages\/_page.scss",
       "outputStyle" : 0,
       "shouldRunBless" : 0,
-      "outputAbbreviatedPath" : "\/assets\/css\/includes\/bourbon\/css\/_button.css",
+      "outputAbbreviatedPath" : "\/assets\/css\/sections\/css\/_page.css",
       "fileType" : 4,
       "debugStyle" : 0
     },
@@ -294,24 +282,37 @@
       "initialSize" : 188538,
       "fileType" : 4096
     },
-    "\/content\/02-notebook\/_drafts\/10-stop\/style.css" : {
+    "\/content\/01-work\/01-photos\/13.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/content\/02-notebook\/_drafts\/10-stop\/style.css",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 16
+      "inputAbbreviatedPath" : "\/content\/01-work\/01-photos\/13.jpg",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/content\/01-work\/01-photos\/13.jpg",
+      "initialSize" : 154026,
+      "fileType" : 4096
     },
-    "\/assets\/css\/includes\/bourbon\/addons\/_prefixer.scss" : {
+    "\/content\/02-notebook\/03-creative-guard-rails\/header.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/content\/02-notebook\/03-creative-guard-rails\/header.jpg",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/content\/02-notebook\/03-creative-guard-rails\/header.jpg",
+      "initialSize" : 219705,
+      "fileType" : 4096
+    },
+    "\/assets\/css\/includes\/bourbon\/css3\/_columns.scss" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/assets\/css\/includes\/bourbon\/addons\/_prefixer.scss",
+      "inputAbbreviatedPath" : "\/assets\/css\/includes\/bourbon\/css3\/_columns.scss",
       "outputStyle" : 0,
       "shouldRunBless" : 0,
-      "outputAbbreviatedPath" : "\/assets\/css\/includes\/bourbon\/css\/_prefixer.css",
+      "outputAbbreviatedPath" : "\/assets\/css\/includes\/bourbon\/css\/_columns.css",
       "fileType" : 4,
       "debugStyle" : 0
     },
@@ -347,15 +348,15 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/assets\/css\/includes\/bourbon\/css3\/_columns.scss" : {
+    "\/assets\/css\/includes\/bourbon\/addons\/_button.scss" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/assets\/css\/includes\/bourbon\/css3\/_columns.scss",
+      "inputAbbreviatedPath" : "\/assets\/css\/includes\/bourbon\/addons\/_button.scss",
       "outputStyle" : 0,
       "shouldRunBless" : 0,
-      "outputAbbreviatedPath" : "\/assets\/css\/includes\/bourbon\/css\/_columns.css",
+      "outputAbbreviatedPath" : "\/assets\/css\/includes\/bourbon\/css\/_button.css",
       "fileType" : 4,
       "debugStyle" : 0
     },
@@ -371,27 +372,26 @@
       "fileType" : 4,
       "debugStyle" : 0
     },
-    "\/assets\/img\/backgrounds\/05.jpg" : {
+    "\/content\/02-notebook\/_drafts\/10-stop\/style.css" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/assets\/img\/backgrounds\/05.jpg",
-      "processed" : 1,
-      "outputAbbreviatedPath" : "\/assets\/img\/backgrounds\/05.jpg",
-      "initialSize" : 271533,
-      "fileType" : 4096
+      "inputAbbreviatedPath" : "\/content\/02-notebook\/_drafts\/10-stop\/style.css",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 16
     },
-    "\/thumbs\/7ef3c741cb9b1a73b7396d3ca45ca5be.500.500.0.1.0.100.jpg" : {
+    "\/assets\/css\/includes\/bourbon\/addons\/_prefixer.scss" : {
       "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
+      "ignore" : 1,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/thumbs\/7ef3c741cb9b1a73b7396d3ca45ca5be.500.500.0.1.0.100.jpg",
-      "processed" : 1,
-      "outputAbbreviatedPath" : "\/thumbs\/7ef3c741cb9b1a73b7396d3ca45ca5be.500.500.0.1.0.100.jpg",
-      "initialSize" : 167745,
-      "fileType" : 4096
+      "inputAbbreviatedPath" : "\/assets\/css\/includes\/bourbon\/addons\/_prefixer.scss",
+      "outputStyle" : 0,
+      "shouldRunBless" : 0,
+      "outputAbbreviatedPath" : "\/assets\/css\/includes\/bourbon\/css\/_prefixer.css",
+      "fileType" : 4,
+      "debugStyle" : 0
     },
     "\/assets\/css\/includes\/bourbon\/_bourbon.scss" : {
       "ignoreWasSetByUser" : 0,
@@ -405,15 +405,15 @@
       "fileType" : 4,
       "debugStyle" : 0
     },
-    "\/content\/01-work\/01-photos\/17.jpg" : {
+    "\/thumbs\/b3224220faeeef5bf8e4742450fa6031.500.500.0.1.0.100.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/content\/01-work\/01-photos\/17.jpg",
+      "inputAbbreviatedPath" : "\/thumbs\/b3224220faeeef5bf8e4742450fa6031.500.500.0.1.0.100.jpg",
       "processed" : 1,
-      "outputAbbreviatedPath" : "\/content\/01-work\/01-photos\/17.jpg",
-      "initialSize" : 130960,
+      "outputAbbreviatedPath" : "\/thumbs\/b3224220faeeef5bf8e4742450fa6031.500.500.0.1.0.100.jpg",
+      "initialSize" : 148915,
       "fileType" : 4096
     },
     "\/assets\/css\/includes\/bourbon\/css3\/_background-image.scss" : {
@@ -437,17 +437,6 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/thumbs\/b3224220faeeef5bf8e4742450fa6031.500.500.0.1.0.100.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/thumbs\/b3224220faeeef5bf8e4742450fa6031.500.500.0.1.0.100.jpg",
-      "processed" : 1,
-      "outputAbbreviatedPath" : "\/thumbs\/b3224220faeeef5bf8e4742450fa6031.500.500.0.1.0.100.jpg",
-      "initialSize" : 148915,
-      "fileType" : 4096
-    },
     "\/assets\/css\/includes\/bourbon\/css3\/_background-size.scss" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
@@ -459,6 +448,17 @@
       "outputAbbreviatedPath" : "\/assets\/css\/includes\/bourbon\/css\/_background-size.css",
       "fileType" : 4,
       "debugStyle" : 0
+    },
+    "\/content\/01-work\/01-photos\/17.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/content\/01-work\/01-photos\/17.jpg",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/content\/01-work\/01-photos\/17.jpg",
+      "initialSize" : 130960,
+      "fileType" : 4096
     },
     "\/thumbs\/2d2dd24c63e6d28fe1ca0bcaa133b018.500.500.0.1.0.100.jpg" : {
       "ignoreWasSetByUser" : 0,
@@ -513,18 +513,6 @@
       "outputAbbreviatedPath" : "\/No Output Path",
       "fileType" : 16
     },
-    "\/assets\/css\/includes\/_bootstrap.scss" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/assets\/css\/includes\/_bootstrap.scss",
-      "outputStyle" : 0,
-      "shouldRunBless" : 0,
-      "outputAbbreviatedPath" : "\/assets\/css\/css\/_bootstrap.css",
-      "fileType" : 4,
-      "debugStyle" : 0
-    },
     "\/content\/01-work\/02.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -544,6 +532,18 @@
       "inputAbbreviatedPath" : "\/content\/02-notebook\/_drafts\/10-the-craftsmans-creed\/header.css",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 16
+    },
+    "\/assets\/css\/includes\/_bootstrap.scss" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/assets\/css\/includes\/_bootstrap.scss",
+      "outputStyle" : 0,
+      "shouldRunBless" : 0,
+      "outputAbbreviatedPath" : "\/assets\/css\/css\/_bootstrap.css",
+      "fileType" : 4,
+      "debugStyle" : 0
     },
     "\/thumbs\/4fe29efe186d4fafd1dd12a53c2141d5.500.500.0.1.0.100.jpg" : {
       "ignoreWasSetByUser" : 0,
@@ -607,6 +607,17 @@
       "initialSize" : 245410,
       "fileType" : 4096
     },
+    "\/content\/02-notebook\/11-introducing-the-machine\/header.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/content\/02-notebook\/11-introducing-the-machine\/header.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/content\/02-notebook\/11-introducing-the-machine\/header.jpg",
+      "initialSize" : 202468,
+      "fileType" : 4096
+    },
     "\/assets\/js\/jquery.fitvids.js" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -667,17 +678,16 @@
       "initialSize" : 126275,
       "fileType" : 4096
     },
-    "\/assets\/css\/includes\/bourbon\/css3\/_placeholder.scss" : {
+    "\/content\/01-work\/01.jpg" : {
       "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
+      "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/assets\/css\/includes\/bourbon\/css3\/_placeholder.scss",
-      "outputStyle" : 0,
-      "shouldRunBless" : 0,
-      "outputAbbreviatedPath" : "\/assets\/css\/includes\/bourbon\/css\/_placeholder.css",
-      "fileType" : 4,
-      "debugStyle" : 0
+      "inputAbbreviatedPath" : "\/content\/01-work\/01.jpg",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/content\/01-work\/01.jpg",
+      "initialSize" : 93740,
+      "fileType" : 4096
     },
     "\/content\/01-work\/01-photos\/44.jpg" : {
       "ignoreWasSetByUser" : 0,
@@ -699,14 +709,17 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/site\/cache\/index.html" : {
+    "\/assets\/css\/includes\/bourbon\/css3\/_placeholder.scss" : {
       "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
+      "ignore" : 1,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/site\/cache\/index.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
+      "inputAbbreviatedPath" : "\/assets\/css\/includes\/bourbon\/css3\/_placeholder.scss",
+      "outputStyle" : 0,
+      "shouldRunBless" : 0,
+      "outputAbbreviatedPath" : "\/assets\/css\/includes\/bourbon\/css\/_placeholder.css",
+      "fileType" : 4,
+      "debugStyle" : 0
     },
     "\/assets\/css\/includes\/neat\/settings\/_visual-grid.scss" : {
       "ignoreWasSetByUser" : 0,
@@ -720,16 +733,14 @@
       "fileType" : 4,
       "debugStyle" : 0
     },
-    "\/content\/01-work\/01.jpg" : {
+    "\/site\/cache\/index.html" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/content\/01-work\/01.jpg",
-      "processed" : 1,
-      "outputAbbreviatedPath" : "\/content\/01-work\/01.jpg",
-      "initialSize" : 93740,
-      "fileType" : 4096
+      "inputAbbreviatedPath" : "\/site\/cache\/index.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
     },
     "\/content\/01-work\/01-photos\/23.jpg" : {
       "ignoreWasSetByUser" : 0,
@@ -784,17 +795,6 @@
       "initialSize" : 395690,
       "fileType" : 4096
     },
-    "\/content\/01-work\/01-photos\/27.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/content\/01-work\/01-photos\/27.jpg",
-      "processed" : 1,
-      "outputAbbreviatedPath" : "\/content\/01-work\/01-photos\/27.jpg",
-      "initialSize" : 157142,
-      "fileType" : 4096
-    },
     "\/thumbs\/45f73ee64e23d4330dbbf782bfaf2ac1.500.500.0.1.0.100.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -804,6 +804,17 @@
       "processed" : 1,
       "outputAbbreviatedPath" : "\/thumbs\/45f73ee64e23d4330dbbf782bfaf2ac1.500.500.0.1.0.100.jpg",
       "initialSize" : 115597,
+      "fileType" : 4096
+    },
+    "\/content\/01-work\/01-photos\/27.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/content\/01-work\/01-photos\/27.jpg",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/content\/01-work\/01-photos\/27.jpg",
+      "initialSize" : 157142,
       "fileType" : 4096
     },
     "\/content\/license\/header.jpg" : {
@@ -904,6 +915,17 @@
       "initialSize" : 172830,
       "fileType" : 4096
     },
+    "\/content\/02-notebook\/11-introducing-the-machine\/machinefm-logo.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/content\/02-notebook\/11-introducing-the-machine\/machinefm-logo.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/content\/02-notebook\/11-introducing-the-machine\/machinefm-logo.png",
+      "initialSize" : 20830,
+      "fileType" : 8192
+    },
     "\/thumbs\/eacb1ed8fbf91559e7fc9632871b6926.500.500.0.1.0.100.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -939,17 +961,6 @@
       "fileType" : 4,
       "debugStyle" : 0
     },
-    "\/thumbs\/dbae19cd2c40d39ba4338d877d545cb7.500.500.0.1.0.100.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/thumbs\/dbae19cd2c40d39ba4338d877d545cb7.500.500.0.1.0.100.jpg",
-      "processed" : 1,
-      "outputAbbreviatedPath" : "\/thumbs\/dbae19cd2c40d39ba4338d877d545cb7.500.500.0.1.0.100.jpg",
-      "initialSize" : 182750,
-      "fileType" : 4096
-    },
     "\/content\/01-work\/01-photos\/50.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -959,6 +970,17 @@
       "processed" : 1,
       "outputAbbreviatedPath" : "\/content\/01-work\/01-photos\/50.jpg",
       "initialSize" : 148314,
+      "fileType" : 4096
+    },
+    "\/thumbs\/dbae19cd2c40d39ba4338d877d545cb7.500.500.0.1.0.100.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/thumbs\/dbae19cd2c40d39ba4338d877d545cb7.500.500.0.1.0.100.jpg",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/thumbs\/dbae19cd2c40d39ba4338d877d545cb7.500.500.0.1.0.100.jpg",
+      "initialSize" : 182750,
       "fileType" : 4096
     },
     "\/assets\/css\/includes\/_typography.scss" : {
@@ -998,7 +1020,7 @@
       "outputPathIsSetByUser" : 0,
       "inputAbbreviatedPath" : "\/assets\/js\/site.js",
       "outputStyle" : 1,
-      "syntaxCheckerStyle" : 1,
+      "syntaxCheckerStyle" : 0,
       "outputAbbreviatedPath" : "\/assets\/js\/site-ck.js",
       "fileType" : 64
     },
@@ -1033,15 +1055,6 @@
       "initialSize" : 130017,
       "fileType" : 4096
     },
-    "\/site\/snippets\/analytics\/google.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/site\/snippets\/analytics\/google.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
     "\/content\/03-bio\/header.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -1053,12 +1066,32 @@
       "initialSize" : 1176865,
       "fileType" : 4096
     },
+    "\/content\/01-work\/01-photos\/33.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/content\/01-work\/01-photos\/33.jpg",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/content\/01-work\/01-photos\/33.jpg",
+      "initialSize" : 148965,
+      "fileType" : 4096
+    },
     "\/system\/lib\/load.php" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
       "inputAbbreviatedPath" : "\/system\/lib\/load.php",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
+    "\/site\/snippets\/analytics\/google.php" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/site\/snippets\/analytics\/google.php",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
@@ -1070,17 +1103,6 @@
       "inputAbbreviatedPath" : "\/system\/lib\/files.php",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
-    },
-    "\/content\/01-work\/01-photos\/33.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/content\/01-work\/01-photos\/33.jpg",
-      "processed" : 1,
-      "outputAbbreviatedPath" : "\/content\/01-work\/01-photos\/33.jpg",
-      "initialSize" : 148965,
-      "fileType" : 4096
     },
     "\/site\/templates\/work.php" : {
       "ignoreWasSetByUser" : 0,
@@ -1113,18 +1135,6 @@
       "initialSize" : 186072,
       "fileType" : 4096
     },
-    "\/assets\/css\/includes\/bourbon\/addons\/_clearfix.scss" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/assets\/css\/includes\/bourbon\/addons\/_clearfix.scss",
-      "outputStyle" : 0,
-      "shouldRunBless" : 0,
-      "outputAbbreviatedPath" : "\/assets\/css\/includes\/bourbon\/css\/_clearfix.css",
-      "fileType" : 4,
-      "debugStyle" : 0
-    },
     "\/assets\/css\/includes\/neat\/grid\/_grid.scss" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
@@ -1134,6 +1144,18 @@
       "outputStyle" : 0,
       "shouldRunBless" : 0,
       "outputAbbreviatedPath" : "\/assets\/css\/includes\/neat\/css\/_grid.css",
+      "fileType" : 4,
+      "debugStyle" : 0
+    },
+    "\/assets\/css\/includes\/bourbon\/addons\/_clearfix.scss" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/assets\/css\/includes\/bourbon\/addons\/_clearfix.scss",
+      "outputStyle" : 0,
+      "shouldRunBless" : 0,
+      "outputAbbreviatedPath" : "\/assets\/css\/includes\/bourbon\/css\/_clearfix.css",
       "fileType" : 4,
       "debugStyle" : 0
     },
@@ -1149,6 +1171,15 @@
       "fileType" : 4,
       "debugStyle" : 0
     },
+    "\/content\/colophon\/style.css" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/content\/colophon\/style.css",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 16
+    },
     "\/thumbs\/32426eb2065ea3e80d866aa9cdf4f06c.500.500.0.1.0.100.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -1159,15 +1190,6 @@
       "outputAbbreviatedPath" : "\/thumbs\/32426eb2065ea3e80d866aa9cdf4f06c.500.500.0.1.0.100.jpg",
       "initialSize" : 175442,
       "fileType" : 4096
-    },
-    "\/content\/colophon\/style.css" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/content\/colophon\/style.css",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 16
     },
     "\/site\/plugins\/index.html" : {
       "ignoreWasSetByUser" : 0,
@@ -1200,6 +1222,17 @@
       "initialSize" : 152947,
       "fileType" : 4096
     },
+    "\/content\/02-notebook\/_drafts\/10-the-craftsmans-creed\/header.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/content\/02-notebook\/_drafts\/10-the-craftsmans-creed\/header.jpg",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/content\/02-notebook\/_drafts\/10-the-craftsmans-creed\/header.jpg",
+      "initialSize" : 147860,
+      "fileType" : 4096
+    },
     "\/thumbs\/bb519f6aa043a545f1154fa29a6b9bab.500.500.0.1.0.100.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -1211,15 +1244,35 @@
       "initialSize" : 182116,
       "fileType" : 4096
     },
-    "\/content\/02-notebook\/_drafts\/10-the-craftsmans-creed\/header.jpg" : {
+    "\/assets\/js\/jquery.cycle.js" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/content\/02-notebook\/_drafts\/10-the-craftsmans-creed\/header.jpg",
+      "inputAbbreviatedPath" : "\/assets\/js\/jquery.cycle.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 1,
+      "outputAbbreviatedPath" : "\/assets\/js\/jquery.cycle-ck.js",
+      "fileType" : 64
+    },
+    "\/site\/templates\/feed.php" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/site\/templates\/feed.php",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
+    "\/content\/01-work\/12.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/content\/01-work\/12.jpg",
       "processed" : 1,
-      "outputAbbreviatedPath" : "\/content\/02-notebook\/_drafts\/10-the-craftsmans-creed\/header.jpg",
-      "initialSize" : 147860,
+      "outputAbbreviatedPath" : "\/content\/01-work\/12.jpg",
+      "initialSize" : 74928,
       "fileType" : 4096
     },
     "\/content\/01-work\/01-photos\/16.jpg" : {
@@ -1233,15 +1286,6 @@
       "initialSize" : 215359,
       "fileType" : 4096
     },
-    "\/site\/templates\/feed.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/site\/templates\/feed.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
     "\/thumbs\/ee2dc5bd781d7ad5575b964ae094bca2.500.500.0.1.0.100.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -1252,28 +1296,6 @@
       "outputAbbreviatedPath" : "\/thumbs\/ee2dc5bd781d7ad5575b964ae094bca2.500.500.0.1.0.100.jpg",
       "initialSize" : 181276,
       "fileType" : 4096
-    },
-    "\/content\/01-work\/12.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/content\/01-work\/12.jpg",
-      "processed" : 1,
-      "outputAbbreviatedPath" : "\/content\/01-work\/12.jpg",
-      "initialSize" : 74928,
-      "fileType" : 4096
-    },
-    "\/assets\/js\/jquery.cycle.js" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/assets\/js\/jquery.cycle.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/assets\/js\/jquery.cycle-ck.js",
-      "fileType" : 64
     },
     "\/thumbs\/3119bcf1932c729e505071d4e8de8269.500.500.0.1.0.100.jpg" : {
       "ignoreWasSetByUser" : 0,
@@ -1365,15 +1387,6 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/system\/parsers\/yaml.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/system\/parsers\/yaml.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
     "\/assets\/css\/includes\/bourbon\/functions\/_transition-property-name.scss" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
@@ -1396,6 +1409,15 @@
       "outputAbbreviatedPath" : "\/thumbs\/4c7df6e932d1fc22ad1a69fc83b5b14f.500.500.0.1.0.100.jpg",
       "initialSize" : 176336,
       "fileType" : 4096
+    },
+    "\/system\/parsers\/yaml.php" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/system\/parsers\/yaml.php",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
     },
     "\/content\/01-work\/01-photos\/60.jpg" : {
       "ignoreWasSetByUser" : 0,
@@ -1506,16 +1528,14 @@
       "fileType" : 4,
       "debugStyle" : 0
     },
-    "\/thumbs\/19f9dde402057b352224d845f36ac05c.500.500.0.1.0.100.jpg" : {
+    "\/site\/plugins\/contactform\/lib\/email.php" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/thumbs\/19f9dde402057b352224d845f36ac05c.500.500.0.1.0.100.jpg",
-      "processed" : 1,
-      "outputAbbreviatedPath" : "\/thumbs\/19f9dde402057b352224d845f36ac05c.500.500.0.1.0.100.jpg",
-      "initialSize" : 141897,
-      "fileType" : 4096
+      "inputAbbreviatedPath" : "\/site\/plugins\/contactform\/lib\/email.php",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
     },
     "\/assets\/css\/includes\/neat\/grid\/_to-deprecate.scss" : {
       "ignoreWasSetByUser" : 0,
@@ -1540,14 +1560,16 @@
       "initialSize" : 211648,
       "fileType" : 4096
     },
-    "\/site\/plugins\/contactform\/lib\/email.php" : {
+    "\/thumbs\/19f9dde402057b352224d845f36ac05c.500.500.0.1.0.100.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/site\/plugins\/contactform\/lib\/email.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
+      "inputAbbreviatedPath" : "\/thumbs\/19f9dde402057b352224d845f36ac05c.500.500.0.1.0.100.jpg",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/thumbs\/19f9dde402057b352224d845f36ac05c.500.500.0.1.0.100.jpg",
+      "initialSize" : 141897,
+      "fileType" : 4096
     },
     "\/content\/01-work\/01-photos\/43.jpg" : {
       "ignoreWasSetByUser" : 0,
@@ -1619,15 +1641,6 @@
       "initialSize" : 242267,
       "fileType" : 4096
     },
-    "\/content\/02-notebook\/07-urbanscapes-beauty-in-the-broken\/style.css" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/content\/02-notebook\/07-urbanscapes-beauty-in-the-broken\/style.css",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 16
-    },
     "\/thumbs\/0fe711feda506cb5b889d822d0c07ba8.500.500.0.1.0.100.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -1638,6 +1651,15 @@
       "outputAbbreviatedPath" : "\/thumbs\/0fe711feda506cb5b889d822d0c07ba8.500.500.0.1.0.100.jpg",
       "initialSize" : 188766,
       "fileType" : 4096
+    },
+    "\/content\/02-notebook\/07-urbanscapes-beauty-in-the-broken\/style.css" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/content\/02-notebook\/07-urbanscapes-beauty-in-the-broken\/style.css",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 16
     },
     "\/assets\/css\/includes\/bourbon\/css3\/_keyframes.scss" : {
       "ignoreWasSetByUser" : 0,
@@ -1759,26 +1781,6 @@
       "fileType" : 4,
       "debugStyle" : 0
     },
-    "\/assets\/js\/site-ck.js" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/assets\/js\/site-ck.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/assets\/js\/site-ck-ck.js",
-      "fileType" : 64
-    },
-    "\/content\/02-notebook\/03-creative-guard-rails\/style.css" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/content\/02-notebook\/03-creative-guard-rails\/style.css",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 16
-    },
     "\/assets\/css\/includes\/bourbon\/addons\/_hide-text.scss" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
@@ -1790,6 +1792,26 @@
       "outputAbbreviatedPath" : "\/assets\/css\/includes\/bourbon\/css\/_hide-text.css",
       "fileType" : 4,
       "debugStyle" : 0
+    },
+    "\/content\/02-notebook\/03-creative-guard-rails\/style.css" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/content\/02-notebook\/03-creative-guard-rails\/style.css",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 16
+    },
+    "\/assets\/js\/site-ck.js" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/assets\/js\/site-ck.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 1,
+      "outputAbbreviatedPath" : "\/assets\/js\/site-ck-ck.js",
+      "fileType" : 64
     },
     "\/site\/snippets\/feed.php" : {
       "ignoreWasSetByUser" : 0,
@@ -1866,15 +1888,6 @@
       "initialSize" : 148205,
       "fileType" : 4096
     },
-    "\/site\/snippets\/footer.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/site\/snippets\/footer.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
     "\/assets\/css\/includes\/bourbon\/_bourbon-deprecated-upcoming.scss" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
@@ -1886,6 +1899,15 @@
       "outputAbbreviatedPath" : "\/assets\/css\/includes\/css\/_bourbon-deprecated-upcoming.css",
       "fileType" : 4,
       "debugStyle" : 0
+    },
+    "\/site\/snippets\/footer.php" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/site\/snippets\/footer.php",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
     },
     "\/assets\/js\/jquery.lazyload.js" : {
       "ignoreWasSetByUser" : 0,
@@ -1953,17 +1975,6 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/content\/01-work\/01-photos\/57.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/content\/01-work\/01-photos\/57.jpg",
-      "processed" : 1,
-      "outputAbbreviatedPath" : "\/content\/01-work\/01-photos\/57.jpg",
-      "initialSize" : 211356,
-      "fileType" : 4096
-    },
     "\/content\/01-work\/01-photos\/11.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -1973,6 +1984,17 @@
       "processed" : 1,
       "outputAbbreviatedPath" : "\/content\/01-work\/01-photos\/11.jpg",
       "initialSize" : 204316,
+      "fileType" : 4096
+    },
+    "\/content\/01-work\/01-photos\/57.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/content\/01-work\/01-photos\/57.jpg",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/content\/01-work\/01-photos\/57.jpg",
+      "initialSize" : 211356,
       "fileType" : 4096
     },
     "\/assets\/css\/includes\/bourbon\/functions\/_px-to-em.scss" : {
@@ -2020,6 +2042,26 @@
       "initialSize" : 179237,
       "fileType" : 4096
     },
+    "\/content\/01-work\/01-photos\/15.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/content\/01-work\/01-photos\/15.jpg",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/content\/01-work\/01-photos\/15.jpg",
+      "initialSize" : 191619,
+      "fileType" : 4096
+    },
+    "\/site\/templates\/films.php" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/site\/templates\/films.php",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
     "\/assets\/css\/elements\/_widgets.scss" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
@@ -2031,26 +2073,6 @@
       "outputAbbreviatedPath" : "\/assets\/css\/css\/_widgets.css",
       "fileType" : 4,
       "debugStyle" : 0
-    },
-    "\/site\/templates\/films.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/site\/templates\/films.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/content\/01-work\/01-photos\/15.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/content\/01-work\/01-photos\/15.jpg",
-      "processed" : 1,
-      "outputAbbreviatedPath" : "\/content\/01-work\/01-photos\/15.jpg",
-      "initialSize" : 191619,
-      "fileType" : 4096
     },
     "\/thumbs\/bbaee58ae85a7d006525a85020164314.500.500.0.1.0.100.jpg" : {
       "ignoreWasSetByUser" : 0,
@@ -2130,6 +2152,17 @@
       "initialSize" : 4308173,
       "fileType" : 4096
     },
+    "\/content\/01-work\/01-photos\/19.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/content\/01-work\/01-photos\/19.jpg",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/content\/01-work\/01-photos\/19.jpg",
+      "initialSize" : 198756,
+      "fileType" : 4096
+    },
     "\/assets\/css\/includes\/bourbon\/functions\/_linear-gradient.scss" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
@@ -2141,17 +2174,6 @@
       "outputAbbreviatedPath" : "\/assets\/css\/includes\/bourbon\/css\/_linear-gradient.css",
       "fileType" : 4,
       "debugStyle" : 0
-    },
-    "\/content\/01-work\/01-photos\/19.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/content\/01-work\/01-photos\/19.jpg",
-      "processed" : 1,
-      "outputAbbreviatedPath" : "\/content\/01-work\/01-photos\/19.jpg",
-      "initialSize" : 198756,
-      "fileType" : 4096
     },
     "\/thumbs\/77f228943011296f207cc0f785e939ec.500.500.0.1.0.100.jpg" : {
       "ignoreWasSetByUser" : 0,
@@ -2187,18 +2209,6 @@
       "fileType" : 4,
       "debugStyle" : 0
     },
-    "\/assets\/css\/includes\/bourbon\/functions\/_deprecated-webkit-gradient.scss" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/assets\/css\/includes\/bourbon\/functions\/_deprecated-webkit-gradient.scss",
-      "outputStyle" : 0,
-      "shouldRunBless" : 0,
-      "outputAbbreviatedPath" : "\/assets\/css\/includes\/bourbon\/css\/_deprecated-webkit-gradient.css",
-      "fileType" : 4,
-      "debugStyle" : 0
-    },
     "\/system\/lib\/cache.php" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -2207,6 +2217,17 @@
       "inputAbbreviatedPath" : "\/system\/lib\/cache.php",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
+    },
+    "\/content\/01-work\/01-photos\/7.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/content\/01-work\/01-photos\/7.jpg",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/content\/01-work\/01-photos\/7.jpg",
+      "initialSize" : 212642,
+      "fileType" : 4096
     },
     "\/thumbs\/0a028611c40bed047caae28397a94ebe.500.500.0.1.0.100.jpg" : {
       "ignoreWasSetByUser" : 0,
@@ -2248,25 +2269,29 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/site\/snippets\/analytics\/all.php" : {
+    "\/assets\/css\/includes\/bourbon\/css3\/_border-image.scss" : {
       "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
+      "ignore" : 1,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/site\/snippets\/analytics\/all.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
+      "inputAbbreviatedPath" : "\/assets\/css\/includes\/bourbon\/css3\/_border-image.scss",
+      "outputStyle" : 0,
+      "shouldRunBless" : 0,
+      "outputAbbreviatedPath" : "\/assets\/css\/includes\/bourbon\/css\/_border-image.css",
+      "fileType" : 4,
+      "debugStyle" : 0
     },
-    "\/content\/01-work\/01-photos\/7.jpg" : {
+    "\/assets\/css\/includes\/bourbon\/functions\/_deprecated-webkit-gradient.scss" : {
       "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
+      "ignore" : 1,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/content\/01-work\/01-photos\/7.jpg",
-      "processed" : 1,
-      "outputAbbreviatedPath" : "\/content\/01-work\/01-photos\/7.jpg",
-      "initialSize" : 212642,
-      "fileType" : 4096
+      "inputAbbreviatedPath" : "\/assets\/css\/includes\/bourbon\/functions\/_deprecated-webkit-gradient.scss",
+      "outputStyle" : 0,
+      "shouldRunBless" : 0,
+      "outputAbbreviatedPath" : "\/assets\/css\/includes\/bourbon\/css\/_deprecated-webkit-gradient.css",
+      "fileType" : 4,
+      "debugStyle" : 0
     },
     "\/assets\/css\/includes\/neat\/settings\/_grid.scss" : {
       "ignoreWasSetByUser" : 0,
@@ -2280,17 +2305,14 @@
       "fileType" : 4,
       "debugStyle" : 0
     },
-    "\/assets\/css\/includes\/bourbon\/css3\/_border-image.scss" : {
+    "\/site\/snippets\/analytics\/all.php" : {
       "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
+      "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/assets\/css\/includes\/bourbon\/css3\/_border-image.scss",
-      "outputStyle" : 0,
-      "shouldRunBless" : 0,
-      "outputAbbreviatedPath" : "\/assets\/css\/includes\/bourbon\/css\/_border-image.css",
-      "fileType" : 4,
-      "debugStyle" : 0
+      "inputAbbreviatedPath" : "\/site\/snippets\/analytics\/all.php",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
     },
     "\/site\/snippets\/main-menu.php" : {
       "ignoreWasSetByUser" : 0,
@@ -2331,29 +2353,6 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 16
     },
-    "\/assets\/css\/sections\/_nav.scss" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/assets\/css\/sections\/_nav.scss",
-      "outputStyle" : 0,
-      "shouldRunBless" : 0,
-      "outputAbbreviatedPath" : "\/assets\/css\/css\/_nav.css",
-      "fileType" : 4,
-      "debugStyle" : 0
-    },
-    "\/thumbs\/215d2d654b16e881e41cf0a99bcdb9c2.500.500.0.1.0.100.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/thumbs\/215d2d654b16e881e41cf0a99bcdb9c2.500.500.0.1.0.100.jpg",
-      "processed" : 1,
-      "outputAbbreviatedPath" : "\/thumbs\/215d2d654b16e881e41cf0a99bcdb9c2.500.500.0.1.0.100.jpg",
-      "initialSize" : 219730,
-      "fileType" : 4096
-    },
     "\/assets\/css\/includes\/bourbon\/functions\/_compact.scss" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
@@ -2363,6 +2362,18 @@
       "outputStyle" : 0,
       "shouldRunBless" : 0,
       "outputAbbreviatedPath" : "\/assets\/css\/includes\/bourbon\/css\/_compact.css",
+      "fileType" : 4,
+      "debugStyle" : 0
+    },
+    "\/assets\/css\/sections\/_nav.scss" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/assets\/css\/sections\/_nav.scss",
+      "outputStyle" : 0,
+      "shouldRunBless" : 0,
+      "outputAbbreviatedPath" : "\/assets\/css\/css\/_nav.css",
       "fileType" : 4,
       "debugStyle" : 0
     },
@@ -2378,6 +2389,17 @@
       "fileType" : 4,
       "debugStyle" : 0
     },
+    "\/thumbs\/215d2d654b16e881e41cf0a99bcdb9c2.500.500.0.1.0.100.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/thumbs\/215d2d654b16e881e41cf0a99bcdb9c2.500.500.0.1.0.100.jpg",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/thumbs\/215d2d654b16e881e41cf0a99bcdb9c2.500.500.0.1.0.100.jpg",
+      "initialSize" : 219730,
+      "fileType" : 4096
+    },
     "\/content\/01-work\/01-photos\/42.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -2388,24 +2410,6 @@
       "outputAbbreviatedPath" : "\/content\/01-work\/01-photos\/42.jpg",
       "initialSize" : 373578,
       "fileType" : 4096
-    },
-    "\/site\/snippets\/head.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/site\/snippets\/head.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/site\/templates\/contact.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/site\/templates\/contact.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
     },
     "\/thumbs\/43e7343dbddaeaf07fd27b59fef00bda.500.500.0.1.0.100.jpg" : {
       "ignoreWasSetByUser" : 0,
@@ -2418,16 +2422,35 @@
       "initialSize" : 153831,
       "fileType" : 4096
     },
-    "\/thumbs\/03d7781220500dbcfb69198541b3598c.500.500.0.1.0.100.jpg" : {
+    "\/site\/templates\/contact.php" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/thumbs\/03d7781220500dbcfb69198541b3598c.500.500.0.1.0.100.jpg",
-      "processed" : 1,
-      "outputAbbreviatedPath" : "\/thumbs\/03d7781220500dbcfb69198541b3598c.500.500.0.1.0.100.jpg",
-      "initialSize" : 162770,
-      "fileType" : 4096
+      "inputAbbreviatedPath" : "\/site\/templates\/contact.php",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
+    "\/site\/snippets\/head.php" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/site\/snippets\/head.php",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
+    "\/assets\/css\/includes\/neat\/grid\/_fill-parent.scss" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/assets\/css\/includes\/neat\/grid\/_fill-parent.scss",
+      "outputStyle" : 0,
+      "shouldRunBless" : 0,
+      "outputAbbreviatedPath" : "\/assets\/css\/includes\/neat\/css\/_fill-parent.css",
+      "fileType" : 4,
+      "debugStyle" : 0
     },
     "\/content\/01-work\/01-photos\/6.jpg" : {
       "ignoreWasSetByUser" : 0,
@@ -2462,27 +2485,6 @@
       "initialSize" : 169833,
       "fileType" : 4096
     },
-    "\/system\/lib\/obj.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/system\/lib\/obj.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/assets\/css\/includes\/neat\/grid\/_fill-parent.scss" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/assets\/css\/includes\/neat\/grid\/_fill-parent.scss",
-      "outputStyle" : 0,
-      "shouldRunBless" : 0,
-      "outputAbbreviatedPath" : "\/assets\/css\/includes\/neat\/css\/_fill-parent.css",
-      "fileType" : 4,
-      "debugStyle" : 0
-    },
     "\/content\/01-work\/09.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -2492,6 +2494,26 @@
       "processed" : 1,
       "outputAbbreviatedPath" : "\/content\/01-work\/09.jpg",
       "initialSize" : 52879,
+      "fileType" : 4096
+    },
+    "\/system\/lib\/obj.php" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/system\/lib\/obj.php",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
+    "\/thumbs\/03d7781220500dbcfb69198541b3598c.500.500.0.1.0.100.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/thumbs\/03d7781220500dbcfb69198541b3598c.500.500.0.1.0.100.jpg",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/thumbs\/03d7781220500dbcfb69198541b3598c.500.500.0.1.0.100.jpg",
+      "initialSize" : 162770,
       "fileType" : 4096
     },
     "\/assets\/css\/includes\/neat\/functions\/_private.scss" : {
@@ -2538,17 +2560,6 @@
       "fileType" : 4,
       "debugStyle" : 0
     },
-    "\/content\/01-work\/01-photos\/25.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/content\/01-work\/01-photos\/25.jpg",
-      "processed" : 1,
-      "outputAbbreviatedPath" : "\/content\/01-work\/01-photos\/25.jpg",
-      "initialSize" : 131209,
-      "fileType" : 4096
-    },
     "\/assets\/css\/sections\/_content.scss" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
@@ -2560,6 +2571,17 @@
       "outputAbbreviatedPath" : "\/assets\/css\/css\/_content.css",
       "fileType" : 4,
       "debugStyle" : 0
+    },
+    "\/content\/01-work\/01-photos\/25.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/content\/01-work\/01-photos\/25.jpg",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/content\/01-work\/01-photos\/25.jpg",
+      "initialSize" : 131209,
+      "fileType" : 4096
     },
     "\/assets\/css\/includes\/neat\/grid\/_global-variables.scss" : {
       "ignoreWasSetByUser" : 0,
@@ -2629,17 +2651,16 @@
       "fileType" : 4,
       "debugStyle" : 0
     },
-    "\/assets\/css\/includes\/neat\/grid\/_shift.scss" : {
+    "\/content\/01-work\/01-photos\/29.jpg" : {
       "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
+      "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/assets\/css\/includes\/neat\/grid\/_shift.scss",
-      "outputStyle" : 0,
-      "shouldRunBless" : 0,
-      "outputAbbreviatedPath" : "\/assets\/css\/includes\/neat\/css\/_shift.css",
-      "fileType" : 4,
-      "debugStyle" : 0
+      "inputAbbreviatedPath" : "\/content\/01-work\/01-photos\/29.jpg",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/content\/01-work\/01-photos\/29.jpg",
+      "initialSize" : 207919,
+      "fileType" : 4096
     },
     "\/thumbs\/d3affe22b30e8f1c6e164844b7fd9be2.500.500.0.1.0.100.jpg" : {
       "ignoreWasSetByUser" : 0,
@@ -2652,16 +2673,17 @@
       "initialSize" : 138693,
       "fileType" : 4096
     },
-    "\/content\/01-work\/01-photos\/29.jpg" : {
+    "\/assets\/css\/includes\/neat\/grid\/_shift.scss" : {
       "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
+      "ignore" : 1,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/content\/01-work\/01-photos\/29.jpg",
-      "processed" : 1,
-      "outputAbbreviatedPath" : "\/content\/01-work\/01-photos\/29.jpg",
-      "initialSize" : 207919,
-      "fileType" : 4096
+      "inputAbbreviatedPath" : "\/assets\/css\/includes\/neat\/grid\/_shift.scss",
+      "outputStyle" : 0,
+      "shouldRunBless" : 0,
+      "outputAbbreviatedPath" : "\/assets\/css\/includes\/neat\/css\/_shift.css",
+      "fileType" : 4,
+      "debugStyle" : 0
     },
     "\/assets\/img\/fade-50.png" : {
       "ignoreWasSetByUser" : 0,
@@ -2793,17 +2815,6 @@
       "outputAbbreviatedPath" : "\/assets\/compiled\/site-ck-ck.js",
       "fileType" : 64
     },
-    "\/content\/01-work\/01-photos\/52.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/content\/01-work\/01-photos\/52.jpg",
-      "processed" : 1,
-      "outputAbbreviatedPath" : "\/content\/01-work\/01-photos\/52.jpg",
-      "initialSize" : 320352,
-      "fileType" : 4096
-    },
     "\/thumbs\/389acc3c50e45a6a9b9d843e85ac6449.500.500.0.1.0.100.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -2813,6 +2824,17 @@
       "processed" : 1,
       "outputAbbreviatedPath" : "\/thumbs\/389acc3c50e45a6a9b9d843e85ac6449.500.500.0.1.0.100.jpg",
       "initialSize" : 171771,
+      "fileType" : 4096
+    },
+    "\/content\/01-work\/01-photos\/52.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/content\/01-work\/01-photos\/52.jpg",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/content\/01-work\/01-photos\/52.jpg",
+      "initialSize" : 320352,
       "fileType" : 4096
     },
     "\/system\/parsers\/markdown.extra.php" : {
@@ -2890,15 +2912,15 @@
       "initialSize" : 247391,
       "fileType" : 4096
     },
-    "\/content\/01-work\/07.jpg" : {
+    "\/content\/01-work\/01-photos\/56.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/content\/01-work\/07.jpg",
+      "inputAbbreviatedPath" : "\/content\/01-work\/01-photos\/56.jpg",
       "processed" : 1,
-      "outputAbbreviatedPath" : "\/content\/01-work\/07.jpg",
-      "initialSize" : 74567,
+      "outputAbbreviatedPath" : "\/content\/01-work\/01-photos\/56.jpg",
+      "initialSize" : 316272,
       "fileType" : 4096
     },
     "\/content\/01-work\/01-photos\/10.jpg" : {
@@ -2912,15 +2934,15 @@
       "initialSize" : 139494,
       "fileType" : 4096
     },
-    "\/content\/01-work\/01-photos\/56.jpg" : {
+    "\/content\/01-work\/07.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/content\/01-work\/01-photos\/56.jpg",
+      "inputAbbreviatedPath" : "\/content\/01-work\/07.jpg",
       "processed" : 1,
-      "outputAbbreviatedPath" : "\/content\/01-work\/01-photos\/56.jpg",
-      "initialSize" : 316272,
+      "outputAbbreviatedPath" : "\/content\/01-work\/07.jpg",
+      "initialSize" : 74567,
       "fileType" : 4096
     },
     "\/assets\/css\/includes\/bourbon\/functions\/_grid-width.scss" : {
@@ -3054,17 +3076,6 @@
       "initialSize" : 163750,
       "fileType" : 4096
     },
-    "\/thumbs\/23817e68e10434317158655260e8d713.500.500.0.1.0.100.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/thumbs\/23817e68e10434317158655260e8d713.500.500.0.1.0.100.jpg",
-      "processed" : 1,
-      "outputAbbreviatedPath" : "\/thumbs\/23817e68e10434317158655260e8d713.500.500.0.1.0.100.jpg",
-      "initialSize" : 143285,
-      "fileType" : 4096
-    },
     "\/content\/01-work\/01-photos\/39.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -3074,6 +3085,17 @@
       "processed" : 1,
       "outputAbbreviatedPath" : "\/content\/01-work\/01-photos\/39.jpg",
       "initialSize" : 238774,
+      "fileType" : 4096
+    },
+    "\/thumbs\/23817e68e10434317158655260e8d713.500.500.0.1.0.100.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/thumbs\/23817e68e10434317158655260e8d713.500.500.0.1.0.100.jpg",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/thumbs\/23817e68e10434317158655260e8d713.500.500.0.1.0.100.jpg",
+      "initialSize" : 143285,
       "fileType" : 4096
     },
     "\/assets\/img\/fade-25.png" : {
@@ -3120,17 +3142,6 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/content\/01-work\/01-photos\/18.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/content\/01-work\/01-photos\/18.jpg",
-      "processed" : 1,
-      "outputAbbreviatedPath" : "\/content\/01-work\/01-photos\/18.jpg",
-      "initialSize" : 185763,
-      "fileType" : 4096
-    },
     "\/site\/templates\/article.php" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -3151,6 +3162,17 @@
       "outputAbbreviatedPath" : "\/assets\/css\/css\/_header.css",
       "fileType" : 4,
       "debugStyle" : 0
+    },
+    "\/content\/01-work\/01-photos\/18.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/content\/01-work\/01-photos\/18.jpg",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/content\/01-work\/01-photos\/18.jpg",
+      "initialSize" : 185763,
+      "fileType" : 4096
     },
     "\/assets\/css\/includes\/bourbon\/functions\/_radial-gradient.scss" : {
       "ignoreWasSetByUser" : 0,
@@ -3332,15 +3354,15 @@
       "fileType" : 4,
       "debugStyle" : 0
     },
-    "\/thumbs\/959cd5f89adaaeef72a98d6460d25a7d.500.500.0.1.0.100.jpg" : {
+    "\/content\/01-work\/05.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/thumbs\/959cd5f89adaaeef72a98d6460d25a7d.500.500.0.1.0.100.jpg",
+      "inputAbbreviatedPath" : "\/content\/01-work\/05.jpg",
       "processed" : 1,
-      "outputAbbreviatedPath" : "\/thumbs\/959cd5f89adaaeef72a98d6460d25a7d.500.500.0.1.0.100.jpg",
-      "initialSize" : 154123,
+      "outputAbbreviatedPath" : "\/content\/01-work\/05.jpg",
+      "initialSize" : 76064,
       "fileType" : 4096
     },
     "\/assets\/css\/sections\/pages\/_work.scss" : {
@@ -3366,15 +3388,24 @@
       "initialSize" : 288590,
       "fileType" : 4096
     },
-    "\/content\/01-work\/05.jpg" : {
+    "\/content\/02-notebook\/11-introducing-the-machine\/style.css" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/content\/01-work\/05.jpg",
+      "inputAbbreviatedPath" : "\/content\/02-notebook\/11-introducing-the-machine\/style.css",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 16
+    },
+    "\/thumbs\/959cd5f89adaaeef72a98d6460d25a7d.500.500.0.1.0.100.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/thumbs\/959cd5f89adaaeef72a98d6460d25a7d.500.500.0.1.0.100.jpg",
       "processed" : 1,
-      "outputAbbreviatedPath" : "\/content\/01-work\/05.jpg",
-      "initialSize" : 76064,
+      "outputAbbreviatedPath" : "\/thumbs\/959cd5f89adaaeef72a98d6460d25a7d.500.500.0.1.0.100.jpg",
+      "initialSize" : 154123,
       "fileType" : 4096
     },
     "\/site\/snippets\/notebook\/commentary.php" : {
@@ -3385,17 +3416,6 @@
       "inputAbbreviatedPath" : "\/site\/snippets\/notebook\/commentary.php",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
-    },
-    "\/thumbs\/69e7923ece6b3280cebaf77ef6323417.500.500.0.1.0.100.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/thumbs\/69e7923ece6b3280cebaf77ef6323417.500.500.0.1.0.100.jpg",
-      "processed" : 1,
-      "outputAbbreviatedPath" : "\/thumbs\/69e7923ece6b3280cebaf77ef6323417.500.500.0.1.0.100.jpg",
-      "initialSize" : 200230,
-      "fileType" : 4096
     },
     "\/assets\/img\/logo.png" : {
       "ignoreWasSetByUser" : 0,
@@ -3408,6 +3428,17 @@
       "initialSize" : 4020,
       "fileType" : 8192
     },
+    "\/thumbs\/69e7923ece6b3280cebaf77ef6323417.500.500.0.1.0.100.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/thumbs\/69e7923ece6b3280cebaf77ef6323417.500.500.0.1.0.100.jpg",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/thumbs\/69e7923ece6b3280cebaf77ef6323417.500.500.0.1.0.100.jpg",
+      "initialSize" : 200230,
+      "fileType" : 4096
+    },
     "\/thumbs\/cea4125f621c54afc81ad265d032ae48.500.500.0.1.0.100.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -3417,39 +3448,6 @@
       "processed" : 1,
       "outputAbbreviatedPath" : "\/thumbs\/cea4125f621c54afc81ad265d032ae48.500.500.0.1.0.100.jpg",
       "initialSize" : 117020,
-      "fileType" : 4096
-    },
-    "\/content\/01-work\/01-photos\/24.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/content\/01-work\/01-photos\/24.jpg",
-      "processed" : 1,
-      "outputAbbreviatedPath" : "\/content\/01-work\/01-photos\/24.jpg",
-      "initialSize" : 142898,
-      "fileType" : 4096
-    },
-    "\/thumbs\/bf527396a3f3f18befdcc9ecd72320c3.500.500.0.1.0.100.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/thumbs\/bf527396a3f3f18befdcc9ecd72320c3.500.500.0.1.0.100.jpg",
-      "processed" : 1,
-      "outputAbbreviatedPath" : "\/thumbs\/bf527396a3f3f18befdcc9ecd72320c3.500.500.0.1.0.100.jpg",
-      "initialSize" : 113921,
-      "fileType" : 4096
-    },
-    "\/thumbs\/f6da744da0d9c84718951faa204eea92.500.500.0.1.0.100.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/thumbs\/f6da744da0d9c84718951faa204eea92.500.500.0.1.0.100.jpg",
-      "processed" : 1,
-      "outputAbbreviatedPath" : "\/thumbs\/f6da744da0d9c84718951faa204eea92.500.500.0.1.0.100.jpg",
-      "initialSize" : 178122,
       "fileType" : 4096
     },
     "\/assets\/css\/includes\/bourbon\/functions\/_tint-shade.scss" : {
@@ -3472,6 +3470,39 @@
       "inputAbbreviatedPath" : "\/content\/03-bio\/style.css",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 16
+    },
+    "\/thumbs\/f6da744da0d9c84718951faa204eea92.500.500.0.1.0.100.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/thumbs\/f6da744da0d9c84718951faa204eea92.500.500.0.1.0.100.jpg",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/thumbs\/f6da744da0d9c84718951faa204eea92.500.500.0.1.0.100.jpg",
+      "initialSize" : 178122,
+      "fileType" : 4096
+    },
+    "\/thumbs\/bf527396a3f3f18befdcc9ecd72320c3.500.500.0.1.0.100.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/thumbs\/bf527396a3f3f18befdcc9ecd72320c3.500.500.0.1.0.100.jpg",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/thumbs\/bf527396a3f3f18befdcc9ecd72320c3.500.500.0.1.0.100.jpg",
+      "initialSize" : 113921,
+      "fileType" : 4096
+    },
+    "\/content\/01-work\/01-photos\/24.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/content\/01-work\/01-photos\/24.jpg",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/content\/01-work\/01-photos\/24.jpg",
+      "initialSize" : 142898,
+      "fileType" : 4096
     },
     "\/assets\/css\/includes\/bourbon\/css3\/_animation.scss" : {
       "ignoreWasSetByUser" : 0,
@@ -3560,16 +3591,17 @@
       "fileType" : 4,
       "debugStyle" : 0
     },
-    "\/content\/01-work\/01-photos\/28.jpg" : {
+    "\/assets\/css\/sections\/_footer.scss" : {
       "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
+      "ignore" : 1,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/content\/01-work\/01-photos\/28.jpg",
-      "processed" : 1,
-      "outputAbbreviatedPath" : "\/content\/01-work\/01-photos\/28.jpg",
-      "initialSize" : 223446,
-      "fileType" : 4096
+      "inputAbbreviatedPath" : "\/assets\/css\/sections\/_footer.scss",
+      "outputStyle" : 0,
+      "shouldRunBless" : 0,
+      "outputAbbreviatedPath" : "\/assets\/css\/css\/_footer.css",
+      "fileType" : 4,
+      "debugStyle" : 0
     },
     "\/thumbs\/115abf371e8f03c3de8c1bda6c89dac6.500.500.0.1.0.100.jpg" : {
       "ignoreWasSetByUser" : 0,
@@ -3582,17 +3614,16 @@
       "initialSize" : 156206,
       "fileType" : 4096
     },
-    "\/assets\/css\/sections\/_footer.scss" : {
+    "\/content\/01-work\/01-photos\/28.jpg" : {
       "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
+      "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/assets\/css\/sections\/_footer.scss",
-      "outputStyle" : 0,
-      "shouldRunBless" : 0,
-      "outputAbbreviatedPath" : "\/assets\/css\/css\/_footer.css",
-      "fileType" : 4,
-      "debugStyle" : 0
+      "inputAbbreviatedPath" : "\/content\/01-work\/01-photos\/28.jpg",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/content\/01-work\/01-photos\/28.jpg",
+      "initialSize" : 223446,
+      "fileType" : 4096
     },
     "\/assets\/css\/includes\/bourbon\/addons\/_position.scss" : {
       "ignoreWasSetByUser" : 0,
@@ -3615,15 +3646,6 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/system\/lib\/variables.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/system\/lib\/variables.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
     "\/assets\/img\/backgrounds\/04.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -3634,6 +3656,15 @@
       "outputAbbreviatedPath" : "\/assets\/img\/backgrounds\/04.jpg",
       "initialSize" : 1683574,
       "fileType" : 4096
+    },
+    "\/system\/lib\/variables.php" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/system\/lib\/variables.php",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
     }
   },
   "manualImportLinks" : [
@@ -3654,7 +3685,10 @@
     "sassAutoOutputPathStyle" : 2,
     "stylusAutoOutputPathReplace2" : "css",
     "lessAutoOutputPathStyle" : 2,
+    "lessIECompatibility" : 1,
     "genericWebpageFileExtensionsString" : "html, htm, shtml, shtm, xhtml, php, jsp, asp, aspx, erb, ctp",
+    "lessStrictUnits" : 0,
+    "lessStrictMath" : 0,
     "coffeeMinifyOutput" : 1,
     "javascriptOutputSuffix" : "-ck",
     "jadeOutputStyle" : 0,
@@ -3708,7 +3742,7 @@
       "curly" : 1,
       "trailing" : 1,
       "nonew" : 1,
-      "es3" : false,
+      "es3" : 0,
       "yui" : 0,
       "mootools" : 0,
       "proto" : 0,
@@ -3723,7 +3757,7 @@
       "wsh" : 0,
       "nonstandard" : 0,
       "asi" : 0,
-      "moz" : false,
+      "moz" : 0,
       "rhino" : 0,
       "smarttabs" : 0,
       "lastsemic" : 0,
@@ -3765,11 +3799,11 @@
       "vars" : 0,
       "sub" : 0,
       "stupid" : 0,
-      "continue" : false,
+      "continue" : 0,
       "bitwise" : 0,
       "newcap" : 0,
       "sloppy" : 0,
-      "closure" : false,
+      "closure" : 0,
       "es5" : 0,
       "browser" : 1,
       "properties" : 0,
@@ -3781,7 +3815,7 @@
       "node" : 0,
       "rhino" : 0,
       "devel" : 0,
-      "ass" : false
+      "ass" : 0
     },
     "uglifyFlags" : {
       "no-mangle-functions" : 0,
@@ -3803,13 +3837,14 @@
     "jadeCompileDebug" : 1,
     "slimRailsCompatible" : 0,
     "kitAutoOutputPathReplace2" : "",
+    "lessRelativeURLS" : 0,
     "lessDebugStyle" : 0,
     "javascriptAutoOutputPathRelativePath" : "",
     "slimAutoOutputPathStyle" : 0
   },
   "projectAttributes" : {
     "bourbonEnabled" : 1,
-    "displayValue" : "nicholaswyoung",
+    "displayValue" : "web",
     "displayValueWasSetByUser" : 0,
     "compassEnabled" : 0
   }

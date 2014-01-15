@@ -37,7 +37,7 @@ Next, we planned to notify all existing subscribers who use iTunes. Thankfully, 
 
 The feed inside the tag should be your new origin feed. Also, take care to add this at the Channel level, and not above or below.
 
-Once added, we released two week's worth of programming to make sure that every iTunes listener (and the podcast directory) had retrieved the feed.
+Once added, we released two week's worth of programming to make sure that every iTunes listener (and the podcast directory) had retrieved the feed. In our case, the show updates regularly, and the iTunes directory knows to sync updates on a weekly basis. If your program doesn't maintain a regular release cycle, it might be best to email [podcasts@apple.com](mailto:podcasts@apple.com), and confirm that the directory has cached your new feed.
 
 ### #4. Enable 301 Redirect
 

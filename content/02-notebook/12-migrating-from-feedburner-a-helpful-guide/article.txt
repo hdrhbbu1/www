@@ -15,7 +15,7 @@ With the iminent demise of this popular distribution channel, podcasters are rig
 
 ## Burned No More: A Case Study
 
-My involvement in the Feedburner conundrum came by chance. I didn't have any active programs using it, but when BiteSize networks dropped my friend Anji Bee, The Chillcast (her program) needed a new home. Her RSS feed was a relic from a previous age, still sporting the PodShow name. We set out to migrate [The Chillcast](http://machine.fm/chillcast) from it's Feedburner and Mevio roots to our state-of-the-art publishing and analytics system over at [The Machine](http://machine.fm). Anji is one of podcasting's foremost producers, and her show has been downloaded millions of times around the world. We couldn't afford to lose listeners, when handling a property this large. Our workflow went something like this:
+(image: chillcast-artwork.jpg class: alignRight)My involvement in the Feedburner conundrum came by chance. I didn't have any active programs using it, but when BiteSize networks dropped my friend Anji Bee, The Chillcast (her program) needed a new home. Her RSS feed was a relic from a previous age, still sporting the PodShow name. We set out to migrate [The Chillcast](http://machine.fm/chillcast) from it's Feedburner and Mevio roots to our state-of-the-art publishing and analytics system over at [The Machine](http://machine.fm). Anji is one of podcasting's foremost producers, and her show has been downloaded millions of times around the world. We couldn't afford to lose listeners, when handling a property this large. Our workflow went something like this:
 
 ### #1. Setup The New Origin Feed
 

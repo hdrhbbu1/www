@@ -29,7 +29,7 @@ Edit the source feed field, and point it to your new origin feed. You may need t
 
 ### #3. Notify iTunes
 
-Next, we planned to notify all existing subscribers who use iTunes. Thankfully, Apple provides a simple method for handling this: there's a custom iTunes tag (much like the ones you use for duration and subtitles) that will automatically update the feed URL for any subscribers, and the iTunes directory listing as well. It looks like this:
+Next, we planned to notify all existing subscribers who use iTunes. Thankfully, Apple provides a simple method for handling this: there's a custom iTunes tag (much like the ones you use for [duration](http://www.apple.com/itunes/podcasts/specs.html#duration) and [subtitles](http://www.apple.com/itunes/podcasts/specs.html#subtitle)) that will automatically update the feed URL for any subscribers, and the iTunes directory listing as well. It looks like this:
 
 	<itunes:new-feed-url>
 		http://new.domain/feeds/myshow.xml

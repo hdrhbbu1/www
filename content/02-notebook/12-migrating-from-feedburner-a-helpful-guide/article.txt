@@ -51,6 +51,14 @@ HTTP, the most popular communications protocol on the internet, defines a collec
 
 By using the 301 code, all feed readers (at least the ones I tested) will update the feed URL automatically, using data sent by Feedburner in the HTTP headers. iTunes, in traditional Apple fashion, is the oddity &mdash; preferring it's own iTunes delimited feed tag to standard HTTP behavior. We took care of all iTunes listeners earlier, so this will handle the remaining subscribers.
 
+## A Word About Other Feed Migrations
+
+While I was authoring this article, I heard that Blip.TV (a popular video hosting site) is discontinuing it's RSS feature. This is really a shame, because so many podcasters rely on them. I wouldn't think that this would be difficult to maintain, but I also understand the need to prune a product's capabilities every once and a while.
+
+Regardless of where your feed is migrating from or to, you can easily use the same techniques outlined above. Your main concern should be getting a 301 redirect in place, and adding the iTunes-specific tag. Surely Blip, or any other service provider, can help you with this configuration if they don't already provide it in the interface.
+
+## Wrap Up
+
 There, was that simple enough? I told you the guide was friendly and approachable. If you followed the steps above, you've should've successfully transferred your podcast away from Feedburner. Of course, I can't ignore an opportunity to plug [Anji Bee's Chillcast](http://machine.fm/chillcast), on my podcasting network, [The Machine](http://machine.fm). It's the show that inspired this post! So, if you're looking for great tunes, please come check out the show.
 
 Here's to a rockin' 2014, when everyone is in control of their media.

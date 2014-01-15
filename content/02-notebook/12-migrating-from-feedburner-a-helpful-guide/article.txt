@@ -53,7 +53,7 @@ By using the 301 code, all feed readers (at least the ones I tested) will update
 
 ## A Word About Other Feed Migrations
 
-While I was authoring this article, I heard that Blip.TV (a popular video hosting site) is discontinuing it's RSS feature. This is really a shame, because so many podcasters rely on them. I wouldn't think that this would be difficult to maintain, but I also understand the need to prune a product's capabilities every once and a while.
+While authoring this article, I heard that Blip.TV (a popular video hosting site) is discontinuing it's RSS feature. This is really a shame, because so many podcasters rely on them. I wouldn't think that this would be difficult to maintain, but I also understand the need to prune a product's capabilities every once and a while.
 
 Regardless of where your feed is migrating from or to, you can easily use the same techniques outlined above. Your main concern should be getting a 301 redirect in place, and adding the iTunes-specific tag. Surely Blip, or any other service provider, can help you with this configuration if they don't already provide it in the interface.
 

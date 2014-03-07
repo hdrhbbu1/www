@@ -1,0 +1,20 @@
+title: Embracing JavaScript
+----
+subtitle: A few tips for building, deploying, and scaling production Node.js applications.
+----
+date: 01/15/2014
+----
+text:
+In a previous life, I was a professional web developer. I've used JavaScript extensively throughout my career, but I always saw it as the necessary evil: a weird little language that existed solely to provide interactive features in your web browser. And to be fair, for most of it's lifespan, this evaluation was accurate: every major vendor had their own additions, and developing cross-browser applications was damn hard.
+
+A few years ago, the conversation shifted. Developers everywhere were falling in love with JavaScript, thanks to Ryan Dahl's project, Node.js. Admittedly, my first thought was critical. Why would anyone run this bug-ridden, frustrating language on the server? It would be a pain at best, and downright disastrous at worst, or so I thought.
+
+Nevertheless, I was curious. I downloaded Node and tried it on several pet-projects. It was alright, but no better than Ruby, my previous language of choice.
+
+Last week, I released my first serious Node application: a port of [The Machine](http://machine.fm)'s core analytics platform. During the rewrite, I was able to directly compare the JavaScript implementation to what I previously wrote in Ruby, and the comparison yielded staggering results. The code was much cleaner, and it benchmarked over 30-times faster than the previous system. This newfound perspective opened by eyes, and silenced my critical tongue. JavaScript is cool, and it's here to stay.
+
+But it wasn't all easy. Coming from the world of Ruby, Sinatra, and Rails, choosing the right design was difficult. Node unopinionated, and thus every framework built on top of it is too. With regards to application structure, it's still the wild-west of software development, where anything goes. While some may dispute the tips below, here is a brief list of tricks that helped me make the jump:
+
+## CommonJS Is Your Friend
+
+In the world of Ruby, Python, or PHP, your code only has three main structures: everything either bare code,  you bundle methods into classes, or maybe include a module or two. But at the core, everything is encapsulated in a language-defined container.

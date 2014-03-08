@@ -1,6 +1,6 @@
 title: Embracing JavaScript
 ----
-subtitle: A few tips for building, deploying, and scaling production Node.js applications.
+subtitle: A few tips for building production-grade Node.js applications.
 ----
 date: 01/15/2014
 ----
@@ -17,4 +17,12 @@ But it wasn't all easy. Coming from the world of Ruby, Sinatra, and Rails, choos
 
 ## CommonJS Is Your Friend
 
-In the world of Ruby, Python, or PHP, your code only has three main structures: everything either bare code,  you bundle methods into classes, or maybe include a module or two. But at the core, everything is encapsulated in a language-defined container.
+In the world of Ruby, Python, or PHP, your code only has three main structures: everything is bare, you bundle methods into classes, or maybe include a module or two. But at the core, everything is encapsulated in a language-defined container. CommonJS, which powers the ```require()``` construct in Node.js is different, and from my experience, far more flexible.
+
+It allows you to easily bundle related methods into one or more modules, using two special variables: ```exports``` makes it easy to expose default values, one-off function calls, or any other data type allowed in JavaScript. I've used it for objects, arrays, and initialization code that would be tedious to type repeatedly by hand. ```module.exports```, it's big brother, is used when you only need to export _one object_ from your module. This is helpful for wrangling JavaScript's prototypal inheritance chain.
+
+For me, the biggest challenge was understanding how module definitions impacted the structure of my code. What if I needed to require a module several times over? Using Node's ```global``` namespace is a bit dirty, so this is a reasonable question.
+
+Thankfully, Node is smart: and even if you require a module 100 times and in different files, it doesn't increase your RAM usage. Instead, it caches the first ```require()``` and directs subsequent calls to the instance in-memory. If you're worried about memory bloat (as I was), don't be concerned. Write your code in small, maintainable chunks and use CommonJS as it was intended.
+
+## Word to Your Database

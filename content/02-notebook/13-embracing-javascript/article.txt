@@ -54,3 +54,11 @@ Node is designed to be fast and light. Why would I load it down with unnecessary
 2. CoffeeScript isn't moving at the speed of JavaScript
 
 The JavaScript community has embraced Promises as a wonderful alternative to callback-based programming. Personally, I use Promises every day, and they're beautiful to write in vanilla JavaScript. In CoffeeScript, [not so much](http://stackoverflow.com/questions/17510756/chaining-promises-in-coffeescript). To my eyes, CoffeeScript hides too much. It's unclear when you're chaining methods, and in this situation, CoffeeScript introduces far more mental overhead. Listen, even when you're writing CoffeeScript, you're thinking in JavaScript. Your head and hands should speak the same language.
+
+3. There are _two_ versions!
+
+You read that right. Two versions, [each with slight syntax variants](https://github.com/michaelficarra/CoffeeScriptRedux/wiki/Intentional-Deviations-From-jashkenas-coffee-script), but both bearing the CoffeeScript name. This is confusing, and another reason why anyone writing modern JavaScript should stay away &mdash; especially newcomers.
+
+From what I know, these projects don't plan on merging; at least, not anytime soon. And while Michael Ficarra has put many hours into his "CoffeeScript Redux" project, the benefits of using it aren't clear.
+
+Before you get on my back, I understand how open source works. If you don't like something, you change it. But it's a common courtesy to differentiate your project from the original to avoid polluting the existing mindshare. This is a classic example of two projects sharing the same space, and thus confusing newcomers to the JavaScript community. If the Node community needs anything, it's for the CoffeeScript debate to end. Nobody on the core team likes it, so I choose to ignore it.

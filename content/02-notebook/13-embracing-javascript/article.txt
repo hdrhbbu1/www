@@ -77,7 +77,7 @@ From what I know, these projects don't plan on merging; at least, not anytime so
 
 Before you get on my back, I understand how open source works. If you don't like something, you change it. But it's a common courtesy to differentiate your project from the original to avoid polluting the existing mindshare. This is a classic example of two projects sharing the same space, and thus confusing newcomers to the JavaScript community. If the Node community needs anything, it's for the CoffeeScript debate to end. Nobody on the core team likes it, so I choose to ignore it.
 
-I say this with no hard feelings towards Michael Ficarra, or Jeremy Ashkenas, the original creator of CoffeeScript. I just don't like it, based on the trials I've endured while trying to use it. It's a genius idea, and a brilliant piece of software engineering &mdash; but like Ruby versus Python, everything comes down to taste. If you want to use CoffeeScript in your Node program, go ahead, but prepare for some rough sailing.
+I say this with no hard feelings towards Michael Ficarra, or Jeremy Ashkenas, the original creator of CoffeeScript. I just don't like it, based on the trials I've endured. It's a genius idea, and a brilliant piece of software engineering &mdash; but like Ruby versus Python, everything comes down to taste. If you want to use CoffeeScript in your Node program, go ahead, but prepare for some rough sailing.
 
 ## Wrap Up
 

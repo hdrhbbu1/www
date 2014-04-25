@@ -33,7 +33,7 @@ At first, I was perplexed. I knew how to structure Ruby code, but JavaScript is 
 
 ### CommonJS Is Your Friend
 
-In the world of Ruby, Python, or PHP, your code only has three main structures: everything is bare, you bundle methods into classes, or maybe include a module or two. But at the core, everything is encapsulated in a language-defined container. CommonJS, which powers the <code>require()</code> construct in Node.js is different, and in my experience, far more flexible.
+In the world of Ruby, Python, or PHP, your code only has three main structures: everything is bare, you bundle methods into classes, or maybe include a module or two. But at the core, everything is encapsulated in a language-defined container. [CommonJS](http://wiki.commonjs.org/wiki/CommonJS), which powers the <code>require()</code> construct in Node.js is different, and in my experience, far more flexible.
 
 It allows you to easily bundle related methods into one or more modules, using two special variables: <code>exports</code> allows you to expose default values, one-off function calls, or any other data type allowed in JavaScript. I've used it for objects, arrays, and initialization code that would be tedious to type repeatedly by hand. <code>module.exports</code>, it's big brother, is used when you only need to export _one object_ from your module. This is helpful for wrangling JavaScript's prototypal inheritance chain.
 

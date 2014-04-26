@@ -50,8 +50,8 @@ This provides a clear delineation between code that runs straight-through, and p
 <code>
 fs.readDir(function (err, files) {
 &nbsp;&nbsp;files.forEach(function (file) {
-&nbsp;&nbsp;&nbsp;&nbsp;fs.open(file.path, function (err, data) {
-&nbsp;&nbsp;&nbsp;&nbsp;// Finally, we can do something with each file!
+&nbsp;&nbsp;&nbsp;&nbsp;fs.open(file, function (err, data) {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;// Finally, we can do something with each file!
 &nbsp;&nbsp;&nbsp;&nbsp;});
 &nbsp;&nbsp;});
 });

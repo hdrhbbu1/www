@@ -45,7 +45,19 @@ Thankfully, Node is smart: if you require a module 100 times and in different fi
 
 Traditional languages like Ruby, PHP, and Python are designed to run in the order that they're written, one line after the previous. This is a wonderful idea, but eventually your program will need to wait. It might sleep until your database returns query data, or pause for user input. This event is all too common, and even in threaded code, waiting too long dramatically reduces performance. Node handles IO differently, opting for the callback structure that was first pioneered in client-side JavaScript. If a callback is present, you're waiting on something.
 
-This provides a clear delineation between code that runs straight-through, and parts of your application that wait on outside data sources. But writing asynchronous code isn't all fun. What if several functions need to run in series? This is a common problem faced by developers writing for platforms like Node, and thankfully, Joyent (the corporate sponsor of Node.js) has the perfect solution.
+This provides a clear delineation between code that runs straight-through, and parts of your application that wait on outside data sources. But writing asynchronous code isn't all fun. What if several functions need to run in series? Novice JavaScript developers might handle this flow as such:
+
+<code>
+fs.readDir(function (err, files) {
+  files.forEach(function (file) {
+    fs.open(file.path, function (err, data) {
+      // Finally, we can do something with each file!
+    });
+  });
+});
+</code>
+
+This is a common problem faced by developers writing for platforms like Node. Named functions will relieve this in part, but there are better options available. Thankfully, Joyent (the corporate sponsor of Node.js) has the perfect solution.
 
 David Pacheco's [vasync](https://github.com/davepacheco/node-vasync) module offers a suite of facilities for dealing with async flow control. While I would love to see something like this make it into Node core (or even better, the JavaScript language), I'm happy to leave it as a module.
 

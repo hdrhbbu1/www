@@ -49,17 +49,15 @@ This provides a clear delineation between code that runs straight-through, and p
 
 <code>
 fs.readDir(function (err, files) {
-  files.forEach(function (file) {
-    fs.open(file.path, function (err, data) {
-      // Finally, we can do something with each file!
-    });
-  });
+&nbsp;&nbsp;files.forEach(function (file) {
+&nbsp;&nbsp;&nbsp;&nbsp;fs.open(file.path, function (err, data) {
+&nbsp;&nbsp;&nbsp;&nbsp;// Finally, we can do something with each file!
+&nbsp;&nbsp;&nbsp;&nbsp;});
+&nbsp;&nbsp;});
 });
 </code>
 
-This is a common problem faced by developers writing for platforms like Node. Named functions will relieve this in part, but there are better options available. Thankfully, Joyent (the corporate sponsor of Node.js) has the perfect solution.
-
-David Pacheco's [vasync](https://github.com/davepacheco/node-vasync) module offers a suite of facilities for dealing with async flow control. While I would love to see something like this make it into Node core (or even better, the JavaScript language), I'm happy to leave it as a module.
+This is a common problem faced by developers writing for platforms like Node. Named functions will relieve this in part, but there are better options available. Thankfully, Joyent (the corporate sponsor of Node.js) has the perfect solution. David Pacheco's [vasync](https://github.com/davepacheco/node-vasync) module offers a suite of facilities for dealing with async flow control. While I would love to see something like this make it into Node core (or even better, the JavaScript language), I'm happy to leave it as a module.
 
 Critics will say this is one of JavaScript's shortcomings, and that it isn't ready for prime-time development. I'll kindly ask those folks to shut up. While JavaScript is improving (thanks to the team behind [ECMAScript 6](http://en.wikipedia.org/wiki/ECMAScript#ECMAScript_Harmony_.286th_Edition.29)), today's version is fine, and if you haven't noticed, it's the most widely adopted language on the planet.
 

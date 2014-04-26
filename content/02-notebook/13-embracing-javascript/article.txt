@@ -39,7 +39,7 @@ It allows you to easily bundle related methods into one or more modules, using t
 
 For me, the biggest challenge was understanding how module definitions impacted the structure of my code. What if I needed to require a module several times over? Using Node's <code>global</code> namespace is a bit dirty, so this is a reasonable question.
 
-Thankfully, Node is smart: and even if you require a module 100 times and in different files, it doesn't increase your RAM usage. Instead, it caches the first <code>require()</code> and directs subsequent calls to the instance in-memory. If you're worried about memory bloat (as I was), don't be concerned. Write your code in small, maintainable chunks and use CommonJS as it was intended.
+Thankfully, Node is smart: if you require a module 100 times and in different files, it doesn't increase your RAM usage. Instead, it caches the first <code>require()</code> and directs subsequent calls to the instance in-memory. If you're worried about memory bloat (as I was), don't be concerned. Write your code in small, maintainable chunks and use CommonJS as it was intended.
 
 ### Avoid "Callback Hell"
 

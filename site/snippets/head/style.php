@@ -1,3 +1,4 @@
+<script src='//widget.battleforthenet.com/widget.min.js' async></script>
 <?php echo css('assets/compiled/style.css') ?>
 <?php if ($page->files()->findByExtension('css')): ?>
 	<?php foreach ($page->files()->findByExtension('css') as $css): ?>

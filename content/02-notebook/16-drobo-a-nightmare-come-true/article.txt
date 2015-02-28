@@ -42,3 +42,7 @@ Frankly, I don't know what is next. As I type this, all of my network shares are
 We're at an impasse. Unless someone in leadership at Drobo steps in, I don't know if I'll ever retrieve the stored data. And even then, I'll never trust the brand again.
 
 It's a tough position to be in. You want to believe products were designed to serve a specific purpose, and that marketing amplifies the truth behind them. And, when all else fails, a customer can get help. Unfortunately, in the context of my dealings with Drobo, all of these ideals prove themselves to be untrue. It's easier to lie and cover your problems, behaving like they don't exist, but eventually, the truth will get out. Bank on it.
+
+## Get In Touch
+
+If anyone from Drobo reads this and wants to make everything right, [email](talk@originalmachine.com) me.

@@ -45,4 +45,4 @@ It's a tough position to be in. You want to believe products were designed to se
 
 ## Get In Touch
 
-If anyone from Drobo reads this and wants to make everything right, [email](talk@originalmachine.com) me.
+If anyone from Drobo reads this and wants to make everything right, [email](mailto:talk@originalmachine.com) me.

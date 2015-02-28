@@ -1,0 +1,16 @@
+title: Challenges Worth Accepting
+----
+subtitle: Never stop pushing.
+----
+date: 12/02/2014
+----
+text:
+The hardest things I've ever done are also the most worthwhile. Why is that? Am I retroactively justifying the time spent, or does the outcome &mdash; whether success or failure &mdash; enhance my character in some measurable way? This question has no true answer, but my best judgment says it's somewhere between the extremes.
+
+Even in this land of doubt, one thing is certain: I'm exceptionally proud of our work on [The Machine](http://machine.fm) in the last year. And during the last month, we've kicked it up another notch. Personally, I'm improving at the work I do best, and even though production has slowed (due in part to the holidays), we're still growing at a rapid rate.
+
+During September, we pushed out well over a terabyte of data to our listeners. That's an impressive number for our scrappy network that's only existed for barely over a year. [Dispatch](http://machine.fm/dispatch) has aired 74 episodes, [Inside the Machine](http://machine.fm/inside) 56, [The Chillcast](http://machine.fm/chillcast) 41, and [Ordinary Mortals](http://machine.fm/ordinarymortals) 20. I've been part of shows that release with far greater regularity, and this is something we need to work on with a couple of our shows, but we still stand out. We have some of the best talent speaking on subjects that will fundamentally improve the lives of our listeners &mdash; this is my happiest moment.
+
+We're preparing up for another landmark month in December, moving more bandwidth than we ever have in the past, which means lots of new listeners are joining our fold, but it isn't all greatness and celebrations. Year one has also been extremely difficult for our new venture. We've had false starts on shows that I felt would quickly become fan favorites, capital has frequently run low, and we've suffered several downtime events that frustrated our existing listeners (and, most likely, deterred new ones from tuning in).
+
+Despite these issues, I have an optimistic outlook. Slowly, I'm eliminating the root cause of each one. I think we're on the verge of a massive breakthrough, where funds won't exactly be in abundance, but we'll at least have enough to build the infrastructure I know we need. And I owe this cheery disposition to my core team members. [Joshua Wentz](http://joshuawentz.com) has been with the from the start, as my creative compatriot and co-creator of Dispatch; whose calm demeanor and conversational tone relieves tension when I'm overexcited or dispirited about our future. And of course there's the talented [Anji Bee](http://anjibee.com); hostess of The Chillcast, who always believes the best of our talents still lies undiscovered within. I'm grateful to call these two individuals friends.cal

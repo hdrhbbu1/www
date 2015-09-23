@@ -4,3 +4,4 @@ node_modules
 *.swa
 *.swo
 vendor/
+build/

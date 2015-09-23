@@ -1,0 +1,7 @@
+/* SITE */
+Designed by Nicholas Young (http://nicholaswyoung.com)
+For further details, visit http://nicholaswyoung.com/colophon
+
+/* TOOLS */
+Node (http://nodejs.org)
+Acetate (http://acetate.io)

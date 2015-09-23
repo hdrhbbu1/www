@@ -1,6 +1,0 @@
-title: Joshua Wentz on Original Machine
-----
-id: 37572861
-----
-text:
-Testing

@@ -1,9 +1,0 @@
-web1: 
-  name: nicholaswyoung
-  php_extensions: 
-    - mbstring
-    - eaccelerator
-    - gd
-  shared_writable_dirs:
-    - thumbs
-    - site/cache

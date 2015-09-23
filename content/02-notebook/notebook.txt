@@ -1,5 +1,0 @@
-Title: Notebook
-----
-Class: notebook light
-----
-Subtitle: Opinions, honest analysis, and instruction for the independent creator.

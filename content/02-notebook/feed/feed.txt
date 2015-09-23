@@ -1,3 +1,0 @@
-title: Nicholas Young | Notebook
-----
-path: notebook

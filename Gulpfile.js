@@ -1,114 +1,94 @@
+process.title = 'gulp';
+
 /**
  * Dependencies
  */
-var config   = require('config')
-,   gulp     = require('gulp')
-,   jade     = require('gulp-jade')
-,   stylus   = require('gulp-stylus')
-,   csso     = require('gulp-csso')
-,   rev      = require('gulp-rev')
-,   rimraf   = require('gulp-rimraf')
-,   concat   = require('gulp-concat')
-,   replace  = require('gulp-rev-replace')
-,   annotate = require('gulp-ng-annotate')
-,   uglify   = require('gulp-uglify')
-,   queue    = require('streamqueue')
-,   lr       = require('gulp-livereload')
-,   stream   = require('event-stream')
-,   cleanup  = require('./tasks/cleanup')
-,   bower    = require('main-bower-files')();
+var path    = require('path')
+,   del     = require('del')
+,   gulp    = require('gulp')
+,   acetate = require('acetate')
+,   queue   = require('streamqueue');
 
 /**
- * Setup Environment
+ * Plugins/Setup
  */
-process.title = 'gulp';
+var $ = {
+  postcss:    require('gulp-postcss'),
+  concat:     require('gulp-concat'),
+  nodemon:    require('gulp-nodemon'),
+  livereload: require('gulp-livereload')
+};
 
 /**
  * Tasks
  */
-gulp.task('clean', function () {
-  return gulp.src('dist/**/*', { read: false })
-    .pipe(rimraf());
+gulp.task('clean', function (done) {
+  return del([
+    'build/**/*'
+  ], done);
 });
 
-gulp.task('js', function () {
-  var lib, app;
-
-  lib = gulp.src(bower);
-  app = gulp.src([
-    'src/js/app.js',
-    'src/js/controllers/*.js'
-  ])
-  .pipe(annotate());
-
-  return queue({ objectMode: true }, lib, app)
-    .pipe(concat('app.js'))
-    .pipe(gulp.dest('dist'));
+gulp.task('build:pages', function () {
+  return acetate({
+    config: 'config/acetate.js'
+  });
 });
 
-gulp.task('css', function () {
-  return gulp.src('src/css/app.styl')
-    .pipe(stylus({
-      include: ['src/css', 'vendor/css']
-    }))
-    .pipe(gulp.dest('dist'));
+gulp.task('build:css', function () {
+  return gulp.src('src/assets/css/app.css')
+    .pipe($.postcss([
+      require('postcss-import')({
+        from: 'src/_assets/css'
+      }),
+      require('postcss-mixins'),
+      require('postcss-nested'),
+      require('lost'),
+      require('autoprefixer')({ browsers: ['last 1 version'] })
+    ]))
+    .pipe(gulp.dest('build/assets/css'));
 });
 
-gulp.task('images', function () {
-  return gulp.src('src/img/*')
-    .pipe(gulp.dest('dist'));
+gulp.task('build:js', function () {
+  var lib  = gulp.src('src/assets/js/vendor/*.js')
+  ,   incl = gulp.src('src/assets/js/includes/*.js')
+  ,   app  = gulp.src('src/assets/js/app.js')
+
+  return queue({ objectMode: true }, lib, app, incl)
+    .pipe($.concat('app.js'))
+    .pipe(gulp.dest('build/assets/js'));
 });
 
-gulp.task('fonts', function () {
-  return gulp.src('src/fonts/*')
-    .pipe(gulp.dest('dist'));
-});
-
-gulp.task('templates', function () {
-  return gulp.src('src/**/*.jade')
-    .pipe(jade({ doctype: 'html' }))
-    .pipe(gulp.dest('dist'));
-});
-
-gulp.task('build', function () {
-  var assets = gulp.src([
-    'dist/**/*',
-    '!dist/**/*.html',
-    '!dist/**/*.css',
-    '!dist/**/*.js'
-  ])
-    .pipe(rev());
-
-  var css = gulp.src('dist/**/*.css')
-    .pipe(rev())
-    .pipe(csso());
-
-  var js = gulp.src('dist/**/*.js')
-    .pipe(rev())
-    .pipe(uglify());
-
-  var templates = gulp.src('dist/**/*.html');
-
-  return stream.merge(assets, css, js, templates)
-    .pipe(replace())
-    .pipe(gulp.dest('dist'))
-    .pipe(cleanup());
+gulp.task('build:img', function () {
+  return gulp.src('src/assets/img/*')
+    .pipe(gulp.dest('build/assets/img'));
 });
 
 gulp.task('watch', function () {
-  lr.listen();
-
-  gulp.watch('src/js/**/*.js', ['js']);
-  gulp.watch('src/css/**/*.styl', ['css']);
-  gulp.watch('src/**/*.jade', ['templates']);
-  gulp.watch('src/img/*', ['images']);
-  gulp.watch('src/fonts/*', ['fonts']);
-
-  gulp.watch('dist/**/*').on('change', lr.changed);
-
-  require('./app').listen(config.get('port'));
+  gulp.watch('src/**/*.html', ['build:pages']);
+  gulp.watch('src/**/*.css', ['build:css']);
+  gulp.watch('src/**/*.js', ['build:js']);
+  gulp.watch('build/**/*').on('change', $.livereload.changed);
 });
 
-gulp.task('default', [
-  'watch', 'js', 'css', 'images', 'fonts', 'templates'
+gulp.task('serve', function () {
+  $.livereload.listen();
+  return $.nodemon({
+    script: 'app.js'
+  });
+});
+
+gulp.task('dev', [
+  'serve',
+  'build:css',
+  'build:js',
+  'build:img',
+  'build:pages',
+  'watch'
+]);
+
+gulp.task('build', [
+  'build:css',
+  'build:js',
+  'build:img',
+  'build:pages',
 ]);

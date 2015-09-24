@@ -35,27 +35,25 @@ gulp.task('build:pages', function () {
 });
 
 gulp.task('build:css', function () {
-  return gulp.src('src/assets/css/app.css')
+  return gulp.src('src/_css/app.css')
     .pipe($.postcss([
       require('postcss-import')({
-        from: 'src/_assets/css'
+        from: 'src/_css'
       }),
       require('postcss-mixins'),
       require('postcss-nested'),
       require('lost'),
       require('autoprefixer')({ browsers: ['last 1 version'] })
     ]))
-    .pipe(gulp.dest('build/assets/css'));
+    .pipe(gulp.dest('build/_css'));
 });
 
 gulp.task('build:js', function () {
-  var lib  = gulp.src('src/assets/js/vendor/*.js')
-  ,   incl = gulp.src('src/assets/js/includes/*.js')
-  ,   app  = gulp.src('src/assets/js/app.js')
+  var app  = gulp.src('src/_js/app.js')
 
-  return queue({ objectMode: true }, lib, app, incl)
+  return queue({ objectMode: true }, app)
     .pipe($.concat('app.js'))
-    .pipe(gulp.dest('build/assets/js'));
+    .pipe(gulp.dest('build/_js'));
 });
 
 gulp.task('build:img', function () {

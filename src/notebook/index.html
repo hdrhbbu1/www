@@ -2,4 +2,12 @@
 title: Notebook
 layout: _layout
 ---
-<h2>Hey!</h2>
+{% block page %}
+  <ul>
+  {% for entry in queries.notebook %}
+    <li>
+      <a href='/{{entry.url}}'>{{entry.title}}</a>
+    </li>
+  {% endfor %}
+  </ul>
+{% endblock %}

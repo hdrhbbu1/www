@@ -1,7 +1,8 @@
 /**
  * Dependencies
  */
-var lodash = require('lodash');
+var lodash = require('lodash')
+,   moment = require('moment');
 
 /**
  * Acetate Configuration
@@ -21,8 +22,9 @@ module.exports = function (acetate) {
     return JSON.stringify(input);
   });
 
-  acetate.query('notebook', 'notebook/entries/*', function (pages) {
-    console.log(pages);
-    return pages;
+  acetate.query('notebook', 'notebook/*.md', function (entries) {
+    return lodash.sortBy(entries, function (entry) {
+      return moment(entry.published_at, 'MM/DD/YYYY').valueOf();
+    }).reverse();
   });
 };

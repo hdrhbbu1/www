@@ -1,7 +1,7 @@
 ---
 title: "Migrating From Feedburner: A Helpful Guide"
 subtitle: "Feedburner will eventually shut down. Take control of your feeds before it does."
-date: 01/15/2014
+published_at: 01/15/2014
 ---
 Launched in 2004, Feedburner was a once popular tool that re-formatted often messy RSS feeds, prepping them for mass consumption. Over the years, it became a trusted platform for bloggers, podcasters, and anyone else with something to say. It provided basic analytics, spitting out reports of who subscribed to your feed, and where podcast listeners were. At the time, it was wonderful. I embraced it, along with most of my podcasting colleagues, who also launched their first shows in 2005.
 

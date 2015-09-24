@@ -3,7 +3,7 @@ title: Speculative Work Is Bad (For Everyone)
 subtitle: Artists should be paid, regardless of their medium. Here's why.
 description: Speculative Work is bad for businesses, not just artists or freelancers. Here's why.
 keywords: speculative work is bad, no-spec, artist fair wages
-date: 08/20/2012
+published_at: 08/20/2012
 layout: _layout:page
 ---
 I thought this debate was dead. Over. Fini. But recently, a rather heated thread on Twitter illustrated how wrong I was.

@@ -5,7 +5,7 @@ tags: art, creativity
 description: Artists face doubt, and compare their work to that of others. We must deal with this correctly.
 keywords: comparing yourself, worth of art, what is art worth, artistic expression
 class: art-is-greyscale
-date: 04/18/2013
+published_at: 04/18/2013
 ---
 Doubt. It's something we all face, but rarely discuss. Artists stare it down daily, in a power struggle between beauty and the absence of it. Between light, and the dark, soundless, matterless void. Amidst a sea of creative hurdles, some worthier of caution, we fear doubt the most. But why?
 

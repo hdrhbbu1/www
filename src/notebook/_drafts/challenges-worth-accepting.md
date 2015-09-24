@@ -1,10 +1,8 @@
+---
 title: Challenges Worth Accepting
-----
 subtitle: Never stop pushing.
-----
 date: 12/02/2014
-----
-text:
+---
 The hardest things I've ever done are also the most worthwhile. Why is that? Am I retroactively justifying the time spent, or does the outcome &mdash; whether success or failure &mdash; enhance my character in some measurable way? This question has no true answer, but my best judgment says it's somewhere between the extremes.
 
 Even in this land of doubt, one thing is certain: I'm exceptionally proud of our work on [The Machine](http://machine.fm) in the last year. And during the last month, we've kicked it up another notch. Personally, I'm improving at the work I do best, and even though production has slowed (due in part to the holidays), we're still growing at a rapid rate.

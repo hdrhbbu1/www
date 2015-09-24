@@ -1,7 +1,7 @@
 ---
 title: Creative Guard Rails
 subtitle: Create better work by adding a few simple rules.
-date: 12/15/2012
+published_at: 12/15/2012
 class: creative-guard-rails
 ---
 Like most artists, I'm often inspired by those around me. A friendly smile, stimulating conversation, and gentle encouragement are often what push me beyond my self-imposed creative boundaries. As creators, we should never forget the value of like-minded (or not-so-like-minded) friends.

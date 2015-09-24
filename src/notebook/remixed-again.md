@@ -3,7 +3,7 @@ title: Remixed, again
 subtitle: Reimagining my personal design language, hopefully for good.
 keywords: personal design language, personal web site
 class: remixed-again
-date: 04/12/2013
+published_at: 04/12/2013
 ---
 I redesign this site annually, but this iteration is radically different. Normally, I pick a new set of technical tools and work around any associated oddness they might introduce &mdash; however, this time, I decided to be bold. I reimagined my personal design language, employed a simple file-based CMS, and picked a new hosting provider. Like I said, bold.
 

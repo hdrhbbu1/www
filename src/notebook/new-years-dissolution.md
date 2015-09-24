@@ -1,7 +1,7 @@
 ---
 title: New Years Dissolution
 subtitle: Success requires action. Don't allow your dreams to die.
-date: 01/02/2013
+published_at: 01/02/2013
 ---
 It's January 2, 2013, and dreams abound. The year is young, with 363 days ahead of us - each one full of promise and countless opportunities to transform your dreams into reality - but will you?
 

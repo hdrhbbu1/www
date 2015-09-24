@@ -1,7 +1,7 @@
 ---
 title: Write Code and Get Back to Doing What You Love
 subtitle: Disassembling a monolith with Node.js
-date: 07/23/2014
+published_at: 07/23/2014
 ---
 A few weeks ago, I gave a talk at the [Chicago Node.js](http://www.meetup.com/Chicago-Nodejs) meetup about our technology stack for [The Machine](http://machine.fm). I've only been working with Node for a couple of months, but in that time, I've learned many difficult lessons. The biggest one, by far, is how *not to build a monolith*.
 

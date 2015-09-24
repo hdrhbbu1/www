@@ -1,7 +1,7 @@
 ---
 title: "Drobo: a Nightmare Come True"
 subtitle: A Warning to Creatives
-date: 02/28/2015
+published_at: 02/28/2015
 ---
 Settle in, dear reader. I'm here to share a story of frustration, unbelievably offensive customer service, and ultimately, a brand gone astray.
 

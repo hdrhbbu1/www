@@ -5,7 +5,7 @@ tags: technology as a habit
 description: Too often we photograph, record, and video our way though life; and by doing so, miss the things that truly matter.
 keywords: rest, eyes open, technology as a habit
 class: our-instagram-life
-date: 06/05/2013
+published_at: 06/05/2013
 ---
 Tweet. Post. Comment. Like. This era has it's own lingo; a jargon-addled psuedolanguage that sometimes barely resembles recognized speech or written words. Children, teenagers, and adults alike all speak it; as everyone desperately tries to capture fleeting memories with short blocks of text, a blurry photograph, or an unlistenable audio clip. Most attempts fail, falling short of the moment when they were written or snapped.
 

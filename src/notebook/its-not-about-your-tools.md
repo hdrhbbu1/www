@@ -3,7 +3,7 @@ title: It's Not About Your Tools
 subtitle: Choose a workflow that helps you remain productive, and disregard the complainers.
 keywords: creative inspiration, web development, film production, workflow tips, final cut pro x, final cut pro 7, dreamweaver
 class: its-not-about-your-tools
-date: 04/04/2013
+published_at: 04/04/2013
 ---
 The evolution of the internet blessed us with always-on, globally-available communications. It has allowed me to conduct informal cultural exchanges with citizens of foreign countries, stay in touch with traveling friends, and collect an endless string of interesting contacts, some of which I've met while unplugged.
 

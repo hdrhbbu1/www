@@ -1,7 +1,7 @@
 ---
 title: "Hit Send: Smart Email Marketing"
 subtitle: "Use one of the internet's oldest communication systems to your advantage."
-date: 12/20/2012
+published_at: 12/20/2012
 ---
 Whether you love or loathe it, email ranks highly among the most transformative technologies. It changed how we communicate well before Facebook or Twitter, you can access it from practically any device, and now - forty-plus years after it's invention - the biggest social destinations are integrating email systems into their platform. But even with its rich history and ability to display any content you choose, many companies and individuals still ignore or misunderstand it. Why?
 

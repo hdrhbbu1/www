@@ -1,7 +1,7 @@
 ---
 title: Life Behind the Microphone
 subtitle: Celebrating two years of The Machine.
-date: 02/28/2015
+published_at: 02/28/2015
 ---
 Adults always told me that time would pass faster as I aged. Now, several years into the largest venture I've undertaken thus far, I understand.
 

@@ -1,14 +1,9 @@
+---
 title: The Craftsman's Creed
-----
 subtitle: Basic rules for maintaining creative output and artistic integrity.
-----
 date: 04/01/2013
-----
 tags: craftsmanship, art
-----
-draft
-----
-text:
+---
 Most creators, regardless of medium, adhere to an internal code of conduct. This list of basic rules governs their creative output, ensuring quality and artistic honesty. In my opinion, drafting these guidelines &mdash; or at least considering what you will or won't do for your art &mdash; is a required step before embarking on a creative career.
 
 My friends know that I have a rather stringent set of rules. Even strangers, in casual conversation, have encountered them, and possibly you, dear reader, have as well through articles on this site. Until now, my exact standards have remained private; kept in my mind and recalled for myself only in times of need &mdash; but after much contemplation, I decided to share them here.
@@ -24,4 +19,3 @@ I understand creative work as the process of gathering disparate elements and ar
 My creation will affect anyone who is exposed to it. More specifically, any viewer is exposed to my opinion and perspective; both inherent parts of any artistic work. I will always consider messages I communicate to the observer through my art.
 
 ## The Joy of Collaboration
-

@@ -1,7 +1,10 @@
-/* SITE */
-Designed by Nicholas Young (http://nicholaswyoung.com)
-For further details, visit http://nicholaswyoung.com/colophon
+/* TEAM */
+Designer/Developer: Nicholas Young
+Site: http://nicholaswyoung.com
+Twitter: @nicholaswyoung
+Location: Chicago, IL U.S.A.
 
-/* TOOLS */
-Node (http://nodejs.org)
-Acetate (http://acetate.io)
+/* SITE */
+Standards: HTML5, CSS3
+Components: Node.js, Acetate.io, Nunjucks, PostCSS, React
+Software: OS-X, Atom.io

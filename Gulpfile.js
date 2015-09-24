@@ -37,6 +37,7 @@ gulp.task('build:pages', function () {
 gulp.task('build:css', function () {
   return gulp.src('src/_css/app.css')
     .pipe($.postcss([
+      require('postcss-normalize'),
       require('postcss-import')({
         from: 'src/_css'
       }),

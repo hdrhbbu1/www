@@ -26,6 +26,7 @@
     "postcss-import": "^7.0.0",
     "postcss-mixins": "^1.0.1",
     "postcss-nested": "^1.0.0",
+    "postcss-normalize": "^0.1.1",
     "streamqueue": "^1.1.1"
   },
   "dependencies": {

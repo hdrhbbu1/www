@@ -1,7 +1,0 @@
-title: Photography
-----
-subtitle: Though I work with film and audio as well, photography was where it all started.
-----
-class: work photography dark
-----
-snippet: work/photos

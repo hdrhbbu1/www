@@ -1,8 +1,0 @@
-/* SITE */
-Designed by Nicholas Young (http://nicholaswyoung.com)
-Hosted by Pagoda Box (http://pagodabox.com)
-For further details, visit http://nicholaswyoung.com/colophon
-
-/* TOOLS */
-Kirby CMS (http://getkirby.com)
-SASS (http://sass-lang.com)

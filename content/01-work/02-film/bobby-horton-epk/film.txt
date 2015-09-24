@@ -1,6 +1,0 @@
-title: Bobby Horton EPK
-----
-id: 35356721
-----
-text:
-Bobby Horton is a longtime client and friend.

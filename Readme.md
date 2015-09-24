@@ -1,6 +1,6 @@
 # Nicholas Young
 
-The official website of photographer, filmmaker, and producer Nicholas Young.
+The official website of voice-over actor, photographer, filmmaker, and producer Nicholas Young.
 
 ## Goals
 
@@ -18,4 +18,4 @@ That said, please treat the intellectual property in this repo with respect. I t
 
 &copy; Copyright 2013 Nicholas Young. All rights reserved.
 
-Unless otherwise stated, markup, stylesheets, text, and images are all under copyright, and may not be used without express permission. Please read and learn, but don't copy without authorization.
+Unauthorized duplication, distribution, or modification of the source files contained in this repository, without prior authorization, is prohibited. Please read and learn, but don't copy without authorization.

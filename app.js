@@ -1,14 +1,14 @@
 /**
  * Dependencies
  */
-var app    = require('koa')()
-,   serve  = require('koa-static')
-,   config = require('config');
+var express = require('express')
+,   config  = require('config')
+,   app     = express();
 
 /**
  * Middleware
  */
-app.use(serve(config.get('build')));
+app.use(express.static(config.get('build')));
 
 /**
  * Boot/Expose

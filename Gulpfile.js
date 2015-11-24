@@ -23,19 +23,19 @@ var $ = {
 /**
  * Tasks
  */
-gulp.task('clean', function (done) {
-  return del([
-    'build/**/*'
-  ], done);
+gulp.task('clean', () => {
+  return del(['build/**/*']);
 });
 
-gulp.task('build:pages', function () {
-  return acetate({
+gulp.task('build:pages', (done) => {
+  acetate({
     config: 'config/acetate.js'
+  }).on('build', (attrs) => {
+    done();
   });
 });
 
-gulp.task('build:css', function () {
+gulp.task('build:css', () => {
   return gulp.src('src/_css/app.css')
     .pipe($.postcss([
       require('postcss-font-magician')(),
@@ -51,7 +51,7 @@ gulp.task('build:css', function () {
     .pipe(gulp.dest('build/_css'));
 });
 
-gulp.task('build:js', function () {
+gulp.task('build:js', () => {
   var app  = gulp.src('src/_js/app.js')
 
   return queue({ objectMode: true }, app)
@@ -59,37 +59,44 @@ gulp.task('build:js', function () {
     .pipe(gulp.dest('build/_js'));
 });
 
-gulp.task('build:img', function () {
+gulp.task('build:img', () => {
   return gulp.src('src/assets/img/*')
     .pipe(gulp.dest('build/assets/img'));
 });
 
-gulp.task('watch', function () {
-  gulp.watch('src/**/*.html', ['build:pages']);
-  gulp.watch('src/**/*.css', ['build:css']);
-  gulp.watch('src/**/*.js', ['build:js']);
+gulp.task('watch', () => {
+  gulp.watch('src/**/*.html', gulp.task('build:pages'));
+  gulp.watch('src/**/*.css', gulp.task('build:css'));
+  gulp.watch('src/**/*.js', gulp.task('build:js'));
   gulp.watch('build/**/*').on('change', $.livereload.changed);
 });
 
-gulp.task('serve', function () {
+gulp.task('serve', () => {
   $.livereload.listen();
+
   return $.nodemon({
-    script: 'app.js'
+    script: 'app.js',
+    env: {
+      NODE_PATH: '.',
+      NODE_ENV: 'development'
+    }
   });
 });
 
-gulp.task('dev', [
+gulp.task('default', gulp.series([
+  'clean',
+  'build:css',
+  'build:js',
+  'build:img',
+  'build:pages',
   'serve',
-  'build:css',
-  'build:js',
-  'build:img',
-  'build:pages',
   'watch'
-]);
+]));
 
-gulp.task('build', [
+gulp.task('build', gulp.series([
+  'clean',
   'build:css',
   'build:js',
   'build:img',
   'build:pages',
-]);
+]));

@@ -1,3 +1,4 @@
+REV=`git rev-parse --short HEAD`
 .PHONY: build package publish deploy
 
 build:
@@ -5,11 +6,11 @@ build:
 
 package:
 	docker build -f Dockerfile \
-		-t "us.gcr.io/thor-160721/nicholas-web`git rev-parse --short HEAD`" \
-		-t "us.gcr.io/thor-160721/nicholas-web:latest" .
+		-t "us.gcr.io/thor-160721/nicholaswyoung:$(REV)" \
+		-t "us.gcr.io/thor-160721/nicholaswyoung:latest" .
 
 publish: build package
-	gcloud docker -- push us.gcr.io/thor-160721/nicholas-web
+	gcloud docker -- push us.gcr.io/thor-160721/nicholaswyoung
 
 deploy:
-	deis builds:create us.gcr.io/thor-160721/nicholas-web:latest -a nicholas
+	deis builds:create us.gcr.io/thor-160721/nicholaswyoung:$(REV) -a nicholaswyoung

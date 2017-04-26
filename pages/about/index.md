@@ -8,8 +8,8 @@ in Denver, Colorado with my wife [Susan](http://susandyoung.com) and daughter,
 [Sloan](http://sloanyoung.com).
 
 As a technologist, I've had the privilege of working with Javascript,
-Node.js, Go, Docker, Kubernetes, PostgreSQL, Redis, MongoDB, and Riak.
-I'm grateful to have experienced JavaScript's rebirth (thanks to Node.js),
+Node.js, Go, Elixir, Docker, Kubernetes, PostgreSQL, Redis, MongoDB, and Riak.
+I'm especially grateful to have experienced JavaScript's rebirth (thanks to Node.js),
 which allowed me to contribute fairly heavily to the [open source
 ecosystem](https://www.npmjs.com/~nicholaswyoung). (Even after 15 years as a
 professional engineer, JavaScript continues to fascinate.)
@@ -40,4 +40,4 @@ technology. Digital platforms, especially those who give the artists a fair shak
 very intriguing.
 
 If you have an difficult problem or unique challenge that could use my
-attention, visit the section [Work With Me](/work-with-me/).
+attention, I'm available for [consulting](/consulting/).

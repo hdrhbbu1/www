@@ -25,6 +25,10 @@
     "build": "gatsby build",
     "serve": "gatsby serve-build"
   },
+  "browserslist": [
+    "> 1%",
+    "Last 2 versions"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/nicholaswyoung/web.git"

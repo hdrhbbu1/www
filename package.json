@@ -1,40 +1,38 @@
 {
-  "name": "nicholaswyoung-web",
-  "version": "4.0.0",
-  "description": "The official website of Nicholas Young.",
+  "name": "nicholaswyoung.com",
+  "version": "1.0.0",
+  "description": "A Gatsby-powered blog and portfolio for me.",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "date-fns": "^1.28.4",
+    "gatsby": "^0.12.46",
+    "html-truncate": "^1.2.2",
+    "lodash.find": "^4.6.0",
+    "lost": "^8.0.0",
+    "postcss-loader": "^1.3.3",
+    "prop-types": "^15.5.8",
+    "react": "^15.5.4",
+    "react-ga": "^2.2.0",
+    "react-helmet": "^5.0.3",
+    "react-router": "^2.8.1",
+    "rucksack-css": "^0.9.1",
+    "safe-access": "^0.1.0",
+    "underscore.string": "^3.3.4"
+  },
+  "scripts": {
+    "develop": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve-build"
+  },
   "repository": {
     "type": "git",
-    "url": "git://github.com/nicholaswyoung/web.git"
-  },
-  "main": "app.js",
-  "scripts": {
-    "start": "NODE_PATH=. node app.js",
-    "dev": "NODE_ENV=development ./node_modules/.bin/gulp"
+    "url": "git+https://github.com/nicholaswyoung/web.git"
   },
   "author": "Nicholas Young <nicholas@nicholaswyoung.com>",
-  "license": "SEE LICENSE IN README",
-  "devDependencies": {
-    "acetate": "patrickarlt/acetate",
-    "autoprefixer": "^6.1.1",
-    "browser-sync": "^2.9.6",
-    "del": "^2.1.0",
-    "gulp": "gulpjs/gulp#4.0",
-    "gulp-concat": "^2.6.0",
-    "gulp-livereload": "^3.8.0",
-    "gulp-nodemon": "^2.0.4",
-    "gulp-postcss": "^6.0.1",
-    "lodash": "^3.10.1",
-    "lost": "^6.6.2",
-    "postcss-font-magician": "^1.3.0",
-    "postcss-import": "^7.1.3",
-    "postcss-mixins": "^2.1.1",
-    "postcss-nested": "^1.0.0",
-    "postcss-normalize": "^0.1.2",
-    "streamqueue": "^1.1.1"
+  "license": "SEE LICENSE IN LICENSE.",
+  "bugs": {
+    "url": "https://github.com/nicholaswyoung/web/issues"
   },
-  "dependencies": {
-    "config": "^1.16.0",
-    "express": "^4.13.3",
-    "moment": "^2.10.6"
-  }
+  "homepage": "https://github.com/nicholaswyoung/web#readme"
 }

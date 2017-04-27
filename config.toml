@@ -1,12 +1,5 @@
 siteTitle = "Nicholas Young"
 siteDescr = "Perspectives on family and industry; from a husband, father, and media entrepreneur."
 siteAuthor = "Nicholas Young"
-
-siteTwitterUrl = "#"
-siteGithubUrl = "#"
-siteEmailUrl = "#"
-siteRssUrl = "#"
-
-googleAnalyticsId = ""
-
+googleAnalyticsId = "UA-33160485-1"
 linkPrefix = "/"

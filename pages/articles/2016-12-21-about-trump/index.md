@@ -10,7 +10,11 @@ I already captured emotions present the day after; the purpose of this note is t
 
 Stein and Johnson voters, you share responsibility too. Why? Because you are silent. You exercised privilege on November 8th, now is the time to speak up. This is what I’ll never understand: silence from so many of my contacts while friends wake up every day in abject terror.
 
-On November 9th, I awoke to a terrifying reality… Soon thereafter, my fears began to fade into the background as news of hate crimes began to populate my feeds. And then, just when I was getting used to this apocalyptic hellscape, Trump decides flag burning should be criminalized.
+If it isn't clear, I don't care how you voted. It's the smug attitude, the
+desire to dredge up past political wrongs to justify your inaction to help the
+minorities being shouted down in our country.
+
+On November 9th, I awoke to a terrifying reality. Soon thereafter, my fears began to fade into the background as news of hate crimes began to populate my feeds. I realized the main threat wasn't to me. And then, just when I was getting used to this apocalyptic hellscape, Trump decides flag burning should be criminalized.
 
 Some hope that Trump’s rhetoric is just “marketing” — I’m afraid it isn’t. His policies echo Bush’s post-9/11 strategies, which should concern anyone who values liberty.
 

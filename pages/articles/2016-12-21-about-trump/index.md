@@ -12,7 +12,7 @@ Stein and Johnson voters, you share responsibility too. Why? Because you are sil
 
 If it isn't clear, I don't care how you voted. It's the smug attitude, the
 desire to dredge up past political wrongs to justify your inaction to help the
-minorities being shouted down in our country.
+minorities being shouted down in our country; that's what bothers me most.
 
 On November 9th, I awoke to a terrifying reality. Soon thereafter, my fears began to fade into the background as news of hate crimes began to populate my feeds. I realized the main threat wasn't to me. And then, just when I was getting used to this apocalyptic hellscape, Trump decides flag burning should be criminalized.
 

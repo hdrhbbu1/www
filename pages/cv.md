@@ -27,6 +27,10 @@ A detailed record of my professional experience can be found on
 I am concerned about the growing impact of technology, and what it will mean for
 future generations if a diverse group of leaders are not at the forefront.
 
-The usage of artificial intelligence and machine learning will only increase
-from here. Reading the [writings of noted Futurist Ray
-Kurzweil](http://www.kurzweilai.net/we-could-get-to-the-singularity-in-ten-years), one gets the impression that we are incredibly close to the technological singularity. As technology moves closer to home, industry leadership should mirror the wider world. We have a long way to go.
+Organizations of all sizes are using artificial intelligence and machine
+learning techniques to glean value from stockpiles of cold data. [The
+environment in which these algorithms
+train](https://hbr.org/2016/11/teaching-an-algorithm-to-understand-right-and-wrong)
+is incredibly important. By creating a welcoming and supportive environment for
+all technologists, we ensure the algorithm trainers of tomorrow represent all of
+humankind.

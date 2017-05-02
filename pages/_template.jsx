@@ -6,6 +6,10 @@ import '../static/css/typography.css'
 import '../static/css/base.css'
 
 export default class Template extends Component {
+  static propTypes = {
+    children: PropTypes.any
+  }
+
   render() {
     const { children } = this.props;
 
@@ -15,8 +19,4 @@ export default class Template extends Component {
       </div>
     );
   }
-}
-
-Template.propTypes = {
-  children: PropTypes.any
 }

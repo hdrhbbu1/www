@@ -4,6 +4,7 @@ import PropTypes from 'prop-types'
 import Helmet from 'react-helmet'
 import { config } from 'config'
 import SitePost from '../components/SitePost'
+import ShowPage from '../components/ShowPage'
 import SitePage from '../components/SitePage'
 
 export default class MarkdownWrapper extends Component {
@@ -17,10 +18,12 @@ export default class MarkdownWrapper extends Component {
     const layout = post.layout;
     let template;
 
-    if (layout !== 'page') {
-      template = <SitePost {...this.props} />;
-    } else {
+    if (layout === 'show') {
+      template = <ShowPage {...this.props}/>
+    } else if (layout === 'page') {
       template = <SitePage {...this.props} />;
+    } else {
+      template = <SitePost {...this.props}/>
     }
 
     return (

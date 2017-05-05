@@ -18,7 +18,7 @@ If you're a new friend, you may not realize that the past two years of my life w
 
 We worked with local and nationally-recognized acts, shared the stories of local businesses, and provided insightful cultural critique when it was required. Bands like [The Cellphones](http://cellphonesband.com) (pictured below) rocked our live performance series &mdash; I wanted this to continue forever.
 
-![A photo from our last show.](http://nicholaswyoung.com.s3.amazonaws.com/img/chick-habit-live.jpg)
+![A photo from our last show.](chick-habit-live.jpg)
 
 And now, for the first time in many months, the world is quiet.
 
@@ -42,7 +42,7 @@ This realization, that I would be shuttering a project I launched in July 2013, 
 
 When I stepped onstage at Nodevember, nothing else mattered. My head was clear (if I could ignore the headache), and I had one purpose: to deliver an insightful talk in front of a packed house.
 
-![My talk at Nodevember. Photo by @GeorgeSpake.](http://nicholaswyoung.com.s3.amazonaws.com/img/georgespake-nodevember.jpg)
+![My talk at Nodevember. Photo by @GeorgeSpake.](nodevember.jpg)
 
 By the time I finished, the decision was made. I could live with silencing The Machine because another passion would take over.
 

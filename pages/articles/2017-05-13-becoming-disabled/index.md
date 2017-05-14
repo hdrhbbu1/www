@@ -28,7 +28,7 @@ I don't know if I'm prepared for this task.
 
 ---
 
-For those of you following my journey with genetic with genetic illness, [we
+For those of you following my journey with genetic illness, [we
 checked in last June](/life-on-the-inside-part-ii/) after our family relocated to
 Colorado. "#DesertLife," as I've jokingly referred to it since the move has
 treated us well. Not everyone sees [snow-capped peaks from the nearby Rockies on

@@ -60,7 +60,9 @@ below it. My issues with these joints began after a painful bicycle wreck, where
 I flew over the handlebars while my lower extremities were tangled in the frame.
 My rheumatologist at the time dismissed it after a few Xrays, and refused to
 investigate further. Never one to quit, I recovered on my own and continued to
-ride Chicago streets. As it grew progressively worse, I started wearing knee
+ride Chicago streets.
+
+As the pain grew progressively worse, I started wearing knee
 braces and limiting my walking. During September, I attended one Startup Week
 event, but the walking required to attend others was prohibitive.
 
@@ -103,7 +105,7 @@ services that allow me to contribute to society and ease chronic pain without
 also carrying a disproportionate cost of the country's healthcare system has
 become exceedingly political.
 
-Before and after the election, I opened discusssions with several friends on the
+Before and after the election, I opened discusssions with a handul of friends on the
 topic of healthcare. My conversational targets were strategic: some of them were
 privy to intimate details of my illness and struggle, but all of whom voted
 Republican or abstained. They blamed the A.C.A. for their skyrocketing

@@ -117,12 +117,12 @@ is large and complex, and cannot be expressed with overly simplistic arguments,
 such as this one.)
 
 In every conversation, I lost a friend. Not one was able to think clearly about
-anything other than the tax break they'd get if repeal passed. Looking back over
-the dread I've felt these past months, as the Republicans' replacement bill has
+anything other than the tax break they'd get if repeal passed. Considering the 
+dread I've felt these past months, as the Republicans' replacement bill has
 died repeatedly [only to be
 resurrected](http://abcnews.go.com/Politics/rep-tom-macarthur-defends-health-care-vote-rancorous/story?id=47340119)
-often with even crueler language. I can't find a morally just reason to stand by
-their decision, but I also haven't heard any apologies. I hope they're happy.
+(and often with even crueler language), I can't find a morally just reason to stand by
+their decision. I haven't heard a single apology, and I don't expect one. I hope they're happy.
 
 Of course, there is plenty of [misinformation circulating in the wake of bill
 passed by the

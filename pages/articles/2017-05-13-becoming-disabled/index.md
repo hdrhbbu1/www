@@ -21,8 +21,7 @@ wheelchair of my own, just prior to being dismissed from the interview process.
 My posts concerning daily life with Ehlers-Danlos Syndrome have always breathed
 a confessional aire, birthed as whispers before the dawn; a kind of pain-riddled
 poetry attempting to explain why my body was degrading so rapidly. The issue now
-is to describe the reality of being in constant pain as I slowly become
-disabled.
+is to describe the reality of slowly becoming disabled.
 
 I don't know if I'm prepared for this task.
 
@@ -30,7 +29,7 @@ I don't know if I'm prepared for this task.
 
 For those of you following my journey with genetic illness, [we
 checked in last June](/life-on-the-inside-part-ii/) after our family relocated to
-Colorado. "#DesertLife," as I've jokingly referred to it since the move has
+Colorado. "#DesertLife," as I've jokingly referred to it since the move, has
 treated us well. Not everyone sees [snow-capped peaks from the nearby Rockies on
 their morning
 trek,](https://twitter.com/nicholaswyoung/status/840227336570179585) and I

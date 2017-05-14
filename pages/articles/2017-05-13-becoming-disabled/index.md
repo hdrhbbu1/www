@@ -33,7 +33,7 @@ checked in last June](/life-on-the-inside-part-ii/) after our family relocated t
 Colorado. "#DesertLife," as I've jokingly referred to it since the move has
 treated us well. Not everyone sees [snow-capped peaks from the nearby Rockies on
 their morning
-trek,](https://twitter.com/nicholaswyoung/status/840227336570179585), and I
+trek,](https://twitter.com/nicholaswyoung/status/840227336570179585) and I
 cannot overstate how my life has been improved by safe access to medicine,
 practically on-demand, by flashing my state-issued medical marijuana card.
 Denver's tech scene is also rising nationally, adding to the reasons that I

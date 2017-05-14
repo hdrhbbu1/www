@@ -64,7 +64,7 @@ ride Chicago streets. As it grew progressively worse, I started wearing knee
 braces and limiting my walking. During September, I attended one Startup Week
 event, but the walking required to attend others was prohibitive.
 
-![Denver Startup Week 2016 Beer Garden](startup-week.jpg)
+![Denver Startup Week 2016 Beer Garden](startup-week-med.jpg)
 
 Even though I was in debilitating pain, I still tried to cover it up. My body
 was still executing it's standard operating procedure, which is no doubt shared

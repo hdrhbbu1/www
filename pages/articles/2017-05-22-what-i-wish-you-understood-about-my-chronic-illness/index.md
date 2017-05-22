@@ -90,7 +90,7 @@ distress, you don't have to say or do anything.
 
 Unless I'm in obvious distress, you don't need to say or do anything. When I
 share my condition, it's to encourage understanding. I'm not looking for advice,
-nor do I exist to inspire the able-bodied around me. I've heard the reflexive
+nor do I exist to inspire the able-bodied around me. Far too often I've heard a reflexive
 quip that I somehow possess superhuman strength and stamina, or the suggestion
 that if I try essential oils, my body will magically knit itself back together.
 No thank you.

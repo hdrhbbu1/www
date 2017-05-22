@@ -64,7 +64,7 @@ the [spoons](https://en.wikipedia.org/wiki/Spoon_theory) to vet the newcomer.
 
 For my own mental and physical wellbeing, those closest must also be like me.
 It's crucial that they understand my variant of the syndrome, and have the same
-commitment to scienfic understanding that I do, since most information regarding
+commitment to scientific understanding that I do, since most information regarding
 EDS is still emerging.
 
 I may be disabled, but I'm still an adult and capable of assembling my own support
@@ -85,8 +85,7 @@ know if I could handle that," they say.
 
 The fact is, if I'm out of my home, I'm alright. The public rarely sees when I
 break down. Mostly, I've spent moments of intense pain at home where I can be
-assisted by family, and canceling outside plans. So, unless I'm in obvious
-distress, you don't have to say or do anything.
+assisted by family, and canceling outside plans.
 
 Unless I'm in obvious distress, you don't need to say or do anything. When I
 share my condition, it's to encourage understanding. I'm not looking for advice,

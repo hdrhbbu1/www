@@ -105,8 +105,7 @@ off guard.
 ## How You Can Help
 
 My greatest challenge today is mobility. I'm elated at the thought of going
-out to see live music or grab a beer, which I know my wheelchair will soon
-enable.
+out to see live music or grab a beer, which I know my wheelchair will enable. 
 
 Soon, I'll be interacting with society in ways I haven't in a year. I hope you
 can be mindful of my disability when I move about, while also allowing me to be

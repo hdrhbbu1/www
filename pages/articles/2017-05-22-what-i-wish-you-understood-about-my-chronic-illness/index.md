@@ -12,7 +12,7 @@ and acquantainces to submit questions on the topic of EDS and how it affects my
 daily life.
 
 However, I failed to realize that the world I've come to inhabit since I stopped
-going out regularly radically different from the world experienced by most
+going out regularly is radically different from the world as experienced by most
 of my able-bodied friends.
 
 Every trip is now a great expedition: I leave the apartment, consistently

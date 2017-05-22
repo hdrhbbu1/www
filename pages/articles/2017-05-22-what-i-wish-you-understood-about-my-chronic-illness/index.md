@@ -111,7 +111,7 @@ Soon, I'll be interacting with society in ways I haven't in a year. I hope you
 can be mindful of my disability when I move about, while also allowing me to be
 mostly self-sufficient. I'll need advocates in public and privates spaces, ready
 to speak up for me when the time is right, and remain silent when I have the
-spoons to speak. Above all, I ask that you be present and truthful.
+spoons to raise my own voice. Above all, I ask that you be present and truthful.
 
 If you offer assistance, please be ready to deliver. If you make a big deal out of
 being concerned for my healthcare, call and lobby. If you don't know how to

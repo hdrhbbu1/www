@@ -9,7 +9,7 @@ if (process.env.NODE_ENV === 'production') {
   css = (
     <style dangerouslySetInnerHTML={{
       // eslint-disable-next-line import/no-webpack-loader-syntax
-      __html: require('!raw!./public/styles.css') }}
+      __html: require('!raw!../public/styles.css') }}
     />
   )
 }

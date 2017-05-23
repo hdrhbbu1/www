@@ -1,6 +1,8 @@
 module.exports = {
   siteMetadata: {
     title: 'Nicholas Young',
+    author: 'Nicholas Young',
+    byline: 'Multimedia Entreprenuer',
     description: 'Perspectives on family and industry; from a husband, father, and media entrepreneur.'
   },
   plugins: [

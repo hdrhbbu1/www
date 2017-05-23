@@ -1,6 +1,14 @@
 import React, { Component } from 'react'
 import Helmet from 'react-helmet'
 
+import 'normalize.css'
+import 'typeface-open-sans'
+import 'typeface-nunito'
+
+import typography, { rhythm, scale } from '../util/typography'
+import presets from '../util/presets'
+import Navigation from '../components/Navigation'
+
 export default class Layout extends Component {
   render() {
     return (
@@ -23,13 +31,8 @@ export default class Layout extends Component {
             }
           ]}
         />
-        <div
-          css={{
-            background: '#F0F0F0'
-          }}
-        >
-          {this.props.children()}
-        </div>
+        <Navigation/>
+        {this.props.children()}
       </div>
     )
   }

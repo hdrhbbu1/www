@@ -1,19 +1,39 @@
 import React, { Component } from 'react'
 import Helmet from 'react-helmet'
 
+import SiteSidebar from '../components/SiteSidebar'
 import PostPreview from '../components/PostPreview'
 
 export default class IndexRoute extends Component {
   render() {
-    const { title } = this.props.data.site.siteMetadata
-    const posts = this.props.data.allMarkdownRemark.edges.map(e => e.node)
+    const {
+      byline,
+      description
+    } = this.props.data.site.siteMetadata
+
+    const posts = this.props.data.allMarkdownRemark.edges
+      .map(e => e.node)
 
     return (
-      <div>
+      <div
+        css={{
+          display: 'flex',
+          margin: '0 auto',
+          width: '90%',
+          maxWidth: '1024px'
+        }}
+      >
         <Helmet
-          title={title}
+          title={byline}
         />
-        {posts.map(p => <PostPreview key={p.id} {...p}/>)}
+        <SiteSidebar
+          css={{
+            width: '20%'
+          }}
+        />
+        <div>
+          {posts.map(p => <PostPreview key={p.id} {...p}/>)}
+        </div>
       </div>
     )
   }
@@ -23,7 +43,7 @@ export const pageQuery = graphql`
   query Index {
     site {
       siteMetadata {
-        title
+        byline
         description
       }
     }
@@ -36,10 +56,12 @@ export const pageQuery = graphql`
         node {
           id
           excerpt
-          slug
+          fields {
+            slug
+          }
           frontmatter {
             title
-            date
+            date(formatString: "MMM D, YYYY")
           }
         }
       }

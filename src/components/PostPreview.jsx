@@ -1,13 +1,15 @@
 import React from 'react'
-import format from 'date-fns/format'
+import Link from 'gatsby-link'
 
-const PostPreview = ({ frontmatter, title, excerpt }) => (
+const PostPreview = ({ frontmatter, fields, excerpt }) => (
   <div className="blog-post">
-    <time dateTime={format(frontmatter.date, 'MMMM D, YYYY')}>
-      {format(frontmatter.date, 'MMMM YYYY')}
+    <time dateTime={frontmatter.date}>
+      {frontmatter.date}
     </time>
-    {title}
-    {excerpt}
+    <h3>
+      <Link to={fields.slug}>{frontmatter.title}</Link>
+    </h3>
+    <p>{excerpt}</p>
   </div>
 )
 

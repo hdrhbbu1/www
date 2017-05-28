@@ -52,16 +52,16 @@ exports.onNodeCreate = ({node, boundActionCreators, getNode}) => {
   const { addFieldToNode } = boundActionCreators
 
   if (node.internal.type === 'MarkdownRemark' && typeof node.slug === 'undefined') {
-    let slug
+    let nodeSlug 
     if (node.frontmatter.path) {
-      slug = ensureSlashes(node.frontmatter.path)
+      nodeSlug = ensureSlashes(node.frontmatter.path)
     } else if (node.frontmatter.title) {
-      slug = ensureSlashes(slug(node.frontmatter.title).toLowerCase())
+      nodeSlug = ensureSlashes(slug(node.frontmatter.title).toLowerCase())
     } else {
-      slug = node.relativePath
+      nodeSlug = node.relativePath
     }
-    if (slug) {
-      addFieldToNode({ node, fieldName: 'slug', fieldValue: slug })
+    if (nodeSlug) {
+      addFieldToNode({ node, fieldName: 'slug', fieldValue: nodeSlug })
     }
   } else if (node.internal.type === 'File' && typeof node.slug === 'undefined') {
     const relativePath = node.relativePath

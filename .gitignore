@@ -6,3 +6,4 @@ node_modules
 vendor/
 public/
 .gatsby-context.js
+.cache

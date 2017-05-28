@@ -50,7 +50,12 @@ export default class PageTemplate extends Component {
           >
             {frontmatter.title}
           </h2>
-          <div dangerouslySetInnerHTML={{ __html: html }}/>
+          <div
+            css={{
+              fontSize: '1.0em'
+            }}
+            dangerouslySetInnerHTML={{ __html: html }}
+          />
         </div>
       </div>
     )

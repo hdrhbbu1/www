@@ -74,7 +74,7 @@ export default class PostTemplate extends Component {
             >
               <h1
                 css={{
-                  fontSize: '2.5em'
+                  fontSize: '2.8em'
                 }}
               >
                 {frontmatter.title}
@@ -94,7 +94,8 @@ export default class PostTemplate extends Component {
           <div
             css={{
               width: '90%',
-              margin: '0 auto'
+              margin: '0 auto',
+              fontSize: '1.0em'
             }}
             dangerouslySetInnerHTML={{ __html: html }}
           />

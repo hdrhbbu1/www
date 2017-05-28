@@ -4,7 +4,7 @@ import CodePlugin from 'typography-plugin-code'
 const options = {
   headerFontFamily: ['Open Sans', 'sans-serif'],
   bodyFontFamily: ['Nunito', 'sans-serif'],
-  baseFontSize: '18px',
+  baseFontSize: '16px',
   baseLineHeight: 1.5,
   blockMarginBottom: 0.65,
   scaleRatio: 2.15,

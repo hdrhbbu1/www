@@ -29,7 +29,7 @@ const options = {
       },
       p: {
         lineHeight: 1.7,
-        fontSize: '1.1em',
+        fontSize: '1em',
         marginBottom: rhythm(1)
       }
     }

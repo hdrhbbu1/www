@@ -23,6 +23,7 @@
     "gatsby-source-filesystem": "canary",
     "gatsby-transformer-remark": "canary",
     "gatsby-transformer-sharp": "canary",
+    "hamburgers": "^0.8.1",
     "howler": "^2.0.3",
     "html-truncate": "^1.2.2",
     "lodash.find": "^4.6.0",
@@ -37,11 +38,8 @@
     "slug": "^0.9.1",
     "typeface-nunito": "0.0.22",
     "typeface-open-sans": "0.0.22",
-    "typeface-pt-sans": "0.0.22",
-    "typeface-pt-serif": "0.0.22",
     "typography": "^0.15.10",
     "typography-plugin-code": "^0.15.10",
-    "typography-theme-sutro": "^0.15.10",
     "underscore.string": "^3.3.4"
   },
   "scripts": {

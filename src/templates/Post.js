@@ -18,16 +18,44 @@ export default class PostTemplate extends Component {
     return (
       <div
         css={{
-          width: '90%',
-          maxWidth: '800px',
-          margin: '0 auto'
+          marginBottom: rhythm(2)
         }}
       >
        <Helmet
           title={frontmatter.title}
           description={excerpt}
         />
-        <article>
+        <div>
+          <Link
+            to="/"
+            css={{
+              position: 'fixed',
+              left: '20px',
+              textAlign: 'center',
+              padding: '8px 16px',
+              color: '#999',
+              borderRadius: '3px',
+              background: '#F4F4F4',
+              fontFamily: 'Open Sans',
+              '@media(max-width: 900px)': {
+                position: 'static',
+                width: '85px',
+                margin: '20px auto 0',
+                textAlign: 'center',
+                display: 'block'
+              }
+            }}
+          >
+            Home
+          </Link>
+        </div>
+        <article
+          css={{
+            width: '90%',
+            maxWidth: '800px',
+            margin: '0 auto'
+          }}
+        >
           <header
             css={{
               display: 'block',
@@ -71,14 +99,6 @@ export default class PostTemplate extends Component {
             dangerouslySetInnerHTML={{ __html: html }}
           />
         </article>
-        <hr
-          css={{
-            width: '25%'
-          }}
-        />
-        <p>
-          {author} is a husband, father, and technology educator.
-        </p>
       </div>
     )
   }

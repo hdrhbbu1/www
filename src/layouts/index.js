@@ -2,12 +2,11 @@ import React, { Component } from 'react'
 import Helmet from 'react-helmet'
 
 import 'normalize.css'
+import 'hamburgers'
 import 'typeface-open-sans'
 import 'typeface-nunito'
 
-import typography, { rhythm, scale } from '../util/typography'
 import presets from '../util/presets'
-import Navigation from '../components/Navigation'
 
 export default class Layout extends Component {
   render() {
@@ -22,6 +21,14 @@ export default class Layout extends Component {
               content: '@nicholaswyoung'
             },
             {
+              name: 'twitter:creator',
+              content: '@nicholaswyoung'
+            },
+            {
+              name: 'twitter:creator:id',
+              content: '10003492'
+            },
+            {
               name: 'og:type',
               content: 'website'
             },
@@ -31,7 +38,6 @@ export default class Layout extends Component {
             }
           ]}
         />
-        <Navigation/>
         {this.props.children()}
       </div>
     )

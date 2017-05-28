@@ -31,6 +31,7 @@ export default class HTML extends Component {
           {title.toComponent()}
           {meta.toComponent()}
           {link.toComponent()}
+          {css}
         </head>
         <body>
           <div

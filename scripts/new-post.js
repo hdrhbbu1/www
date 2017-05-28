@@ -6,11 +6,12 @@ import format from 'date-fns/format'
 
 const basePath = '../content/articles'
 
-const template = (title, date) => `
----
+const template = (title, date) => `---
 title: ${title}
-date: ${date.toISOString()}
+date: "${date.toISOString()}
+draft: true
 ---
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque lacus leo, interdum venenatis lacinia in, tincidunt a dolor. Phasellus gravida felis ac tortor laoreet commodo. In sodales quam eleifend bibendum fringilla. Maecenas viverra, risus nec luctus scelerisque, tortor metus sagittis nulla, at consequat ligula metus vel eros. Donec nec odio ornare, vehicula arcu at, condimentum erat. Nullam sollicitudin, metus eget consectetur venenatis, ex eros faucibus enim, ut molestie risus lorem id sapien. Nullam commodo molestie odio, ultrices tempor sem vestibulum vitae. Fusce ut pulvinar leo. Nullam quis neque a neque elementum posuere id at nulla. Vestibulum vehicula ex a diam condimentum suscipit.
 `
 
 const slugify = (title, date) => [

@@ -16,6 +16,6 @@ That said, please treat the intellectual property in this repo with respect. I t
 
 ## License
 
-&copy; Copyright 2013 Nicholas Young. All rights reserved.
+&copy; Copyright 2013 - 2017 Nicholas Young. All rights reserved.
 
 Unauthorized duplication, distribution, or modification of the source files contained in this repository, without prior authorization, is prohibited. Please read and learn, but don't copy without authorization.

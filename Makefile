@@ -2,6 +2,7 @@ REV=`git rev-parse --short HEAD`
 .PHONY: build package publish deploy
 
 build:
+	@rm -rf public/
 	@npm run build
 
 package:

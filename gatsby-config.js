@@ -4,7 +4,9 @@ module.exports = {
     author: 'Nicholas Young',
     byline: 'Multimedia Entreprenuer',
     description: 'Perspectives on family, disability, technology, and media; from a husband, father, and entrepreneur.',
-    postscript: 'Nicholas Young is a husband, father, technologist, and disability advocate from Denver, Colorado.'
+    postscript: 'Nicholas Young is a husband, father, technologist, and disability advocate from Denver, Colorado.',
+    email: 'nicholas@nicholaswyoung.com',
+    url: 'https://nicholaswyoung.com'
   },
   plugins: [
     {

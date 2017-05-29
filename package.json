@@ -12,6 +12,7 @@
     "fs-extra": "^3.0.1",
     "gatsby": "canary",
     "gatsby-link": "canary",
+    "gatsby-plugin-catch-links": "canary",
     "gatsby-plugin-glamor": "canary",
     "gatsby-plugin-google-analytics": "canary",
     "gatsby-plugin-manifest": "canary",

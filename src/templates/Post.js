@@ -24,6 +24,20 @@ export default class PostTemplate extends Component {
        <Helmet
           title={frontmatter.title}
           description={excerpt}
+          meta={[
+            {
+              name: 'twitter:title',
+              content: frontmatter.title
+            },
+            {
+              name: 'og:title',
+              content: frontmatter.title
+            },
+            {
+              name: 'twitter:description',
+              content: excerpt
+            }
+          ]}
         />
         <div>
           <Link

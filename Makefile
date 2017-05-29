@@ -9,7 +9,7 @@ package:
 		-t "us.gcr.io/thor-160721/nicholaswyoung:$(REV)" \
 		-t "us.gcr.io/thor-160721/nicholaswyoung:latest" .
 
-publish: build package
+publish:
 	gcloud docker -- push us.gcr.io/thor-160721/nicholaswyoung
 
 deploy:

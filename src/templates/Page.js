@@ -22,7 +22,11 @@ export default class PageTemplate extends Component {
           marginLeft: 'auto',
           marginBottom: rhythm(2),
           width: '90%',
-          maxWidth: '1024px'
+          maxWidth: '1024px',
+          '@media(max-width: 800px)': {
+            flexDirection: 'column',
+            alignItems: 'stretch'
+          }
         }}
       >
         <Helmet
@@ -35,7 +39,18 @@ export default class PageTemplate extends Component {
             width: '30%',
             marginRight: '5%',
             paddingRight: '5%',
-            borderRight: '1px rgba(0, 0, 0, .1) solid'
+            borderRight: '1px rgba(0, 0, 0, .1) solid',
+            '@media(max-width: 800px)': {
+              flexDirection: 'column',
+              alignItems: 'stretch',
+              borderRight: 'none',
+              width: '100%',
+              marginRight: '0',
+              paddingRight: '0',
+              marginBottom: rhythm(2),
+              paddingBottom: rhythm(2),
+              borderBottom: '1px rgba(0, 0, 0, .1) solid',
+            }
           }}
         />
         <div

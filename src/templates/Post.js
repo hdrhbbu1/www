@@ -13,8 +13,6 @@ export default class PostTemplate extends Component {
       frontmatter
     } = this.props.data.markdownRemark
 
-    const { author } = this.props.data.site.siteMetadata
-
     return (
       <div
         css={{
@@ -123,19 +121,12 @@ export const pageQuery = graphql`
   query TemplateBlogPost($slug: String!) {
     markdownRemark(fields: { slug: { eq: $slug } }) {
       html
-      excerpt
       fields {
         slug
       }
       frontmatter {
         title
         date(formatString: "MMM D, YYYY")
-        rawDate: date
-      }
-    }
-    site {
-      siteMetadata {
-        author
       }
     }
   }

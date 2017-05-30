@@ -86,7 +86,10 @@ export default class PostTemplate extends Component {
             >
               <h1
                 css={{
-                  fontSize: '2.8em'
+                  fontSize: '2.8em',
+                  '@media(max-width: 900px)': {
+                    fontSize: '2.2em'
+                  }
                 }}
               >
                 {frontmatter.title}

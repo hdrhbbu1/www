@@ -70,7 +70,10 @@ export default class PageTemplate extends Component {
           </h2>
           <div
             css={{
-              fontSize: '1.0em'
+              fontSize: '1.0em',
+              '@media(max-width: 800px)': {
+                fontSize: '1.1em'
+              }
             }}
             dangerouslySetInnerHTML={{ __html: html }}
           />

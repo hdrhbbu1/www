@@ -55,7 +55,10 @@ export default class PageTemplate extends Component {
         />
         <div
           css={{
-            width: '70%'
+            width: '70%',
+            '@media(max-width: 800px)': {
+              width: '100%'
+            }
           }}
         >
           <h2

@@ -37,7 +37,8 @@ export default class Layout extends Component {
               content: 'Nicholas Young'
             }
           ]}
-        />
+        >
+        </Helmet>
         {this.props.children()}
       </div>
     )

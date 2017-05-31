@@ -2,7 +2,7 @@ const path = require('path')
 const fs = require('fs-extra')
 const slug = require('slug')
 const slash = require('slash')
-const Feed = require('feed')
+const RSS = require('rss')
 
 exports.createPages = ({ graphql, boundActionCreators }) => {
   const { upsertPage } = boundActionCreators
@@ -70,78 +70,6 @@ exports.onNodeCreate = ({node, boundActionCreators, getNode}) => {
     addFieldToNode({ node, fieldName: 'slug', fieldValue: relativePath })
   }
 }
-
-/*
-exports.postBuild = ({ graphql }) => {
-  return new Promise((resolve, reject) => {
-    graphql(`
-      {
-        site {
-          siteMetadata {
-            title
-            description
-            author
-            email
-            url
-          }
-        }
-        allMarkdownRemark(limit: 1000, frontmatter: {
-          draft: { ne: true }
-        }) {
-          edges {
-            node {
-              frontmatter {
-                title
-                date
-              }
-              fields {
-                slug
-              }
-              excerpt
-              html
-            }
-          }
-        }
-      }
-    `).then(({ errors, data }) => {
-      if (errors) {
-        console.error(errors)
-        reject(errors)
-      }
-
-      const feed = new Feed({
-        title: data.site.siteMetadata.title,
-        description: data.site.siteMetadata.description,
-        id: data.site.siteMetadata.url,
-        link: data.site.siteMetadata.url,
-        author: {
-          name: data.site.siteMetadata.author,
-          email: data.site.siteMetadata.email,
-          link: data.site.siteMetadata.url
-        }
-      })
-
-      data.allMarkdownRemark.edges.forEach(edge => {
-        const url = data.site.siteMetadata.url + edge.node.slug
-        feed.addItem({
-          title: edge.node.frontmatter.title,
-          id: url,
-          link: url,
-          description: edge.node.excerpt,
-          date: edge.node.frontmatter.date
-        })
-      })
-
-      Promise.all([
-        fs.outputFile(path.join(__dirname, 'public/rss.xml'), feed.rss2()),
-        fs.outputFile(path.join(__dirname, 'public/atom.xml'), feed.atom1())
-      ]).then(() => {
-        resolve()
-      }).catch(reject)
-    })
-  })
-}
-*/
 
 function ensureSlashes(slug) {
   if (slug.charAt(0) !== '/') {

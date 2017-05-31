@@ -2,10 +2,10 @@ const path = require('path')
 const fs = require('fs-extra')
 const slug = require('slug')
 const slash = require('slash')
-const RSS = require('rss')
+const get = require('lodash.get')
 
 exports.createPages = ({ graphql, boundActionCreators }) => {
-  const { upsertPage } = boundActionCreators
+  const { createPage } = boundActionCreators
   const postTemplate = path.resolve('src/templates/Post.js')
   const pageTemplate = path.resolve('src/templates/Page.js')
 
@@ -35,8 +35,13 @@ exports.createPages = ({ graphql, boundActionCreators }) => {
       }
 
       data.allMarkdownRemark.edges.forEach(edge => {
+        const slug = get(edge, 'node.fields.slug')
+        if (!slug) {
+          return
+        }
+
         const { layout } = edge.node.frontmatter
-        upsertPage({
+        createPage({
           path: edge.node.fields.slug,
           component: layout === 'post' ? postTemplate : pageTemplate,
           context: {
@@ -50,10 +55,10 @@ exports.createPages = ({ graphql, boundActionCreators }) => {
   })
 }
 
-exports.onNodeCreate = ({node, boundActionCreators, getNode}) => {
-  const { addFieldToNode } = boundActionCreators
+exports.onCreateNode = ({ node, boundActionCreators, getNode }) => {
+  const { createNodeField } = boundActionCreators
 
-  if (node.internal.type === 'MarkdownRemark' && typeof node.slug === 'undefined') {
+  if (node.internal.type === 'MarkdownRemark') {
     let nodeSlug 
     if (node.frontmatter.path) {
       nodeSlug = ensureSlashes(node.frontmatter.path)
@@ -63,11 +68,11 @@ exports.onNodeCreate = ({node, boundActionCreators, getNode}) => {
       nodeSlug = node.relativePath
     }
     if (nodeSlug) {
-      addFieldToNode({ node, fieldName: 'slug', fieldValue: nodeSlug })
+      createNodeField({ node, fieldName: 'slug', fieldValue: nodeSlug })
     }
-  } else if (node.internal.type === 'File' && typeof node.slug === 'undefined') {
+  } else if (node.internal.type === 'File') {
     const relativePath = node.relativePath
-    addFieldToNode({ node, fieldName: 'slug', fieldValue: relativePath })
+    createNodeField({ node, fieldName: 'slug', fieldValue: relativePath })
   }
 }
 

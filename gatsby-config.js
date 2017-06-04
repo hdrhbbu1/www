@@ -76,7 +76,6 @@ module.exports = {
             site {
               siteMetadata {
                 title
-                author
                 description
                 site_url
               }
@@ -95,6 +94,7 @@ module.exports = {
                   edges {
                     node {
                       excerpt
+                      html
                       frontmatter {
                         title
                         date

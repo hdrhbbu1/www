@@ -6,8 +6,7 @@ module.exports = {
     description: 'Perspectives on family, disability, technology, and media; from a husband, father, and entrepreneur.',
     postscript: 'Nicholas Young is a husband, father, technologist, and disability advocate from Denver, Colorado.',
     email: 'nicholas@nicholaswyoung.com',
-    site_url: 'https://nicholaswyoung.com',
-    feed_url: 'https://nicholaswyoung.com/rss.xml'
+    site_url: 'https://nicholaswyoung.com'
   },
   plugins: [
     {
@@ -69,7 +68,6 @@ module.exports = {
     'gatsby-plugin-offline',
     'gatsby-plugin-catch-links',
     'gatsby-plugin-preact',
-    /*
     {
       resolve: 'gatsby-plugin-feed',
       options: {
@@ -81,31 +79,38 @@ module.exports = {
                 author
                 description
                 site_url
-                feed_url
-              }
-            }
-            allMarkdownRemark(
-              sortBy: { order: DESC, fields: [frontmatter___date] },
-              frontmatter: { draft: { ne: true } },
-              fileAbsolutePath: { regex: "/articles/" },
-            ) {
-              edges {
-                node {
-                  excerpt
-                  frontmatter {
-                    title
-                    date
-                  }
-                  fields {
-                    slug
-                  }
-                }
               }
             }
           }
-        `
+        `,
+        feeds: [
+          {
+            query: `
+              {
+                allMarkdownRemark(
+                  sortBy: { order: DESC, fields: [frontmatter___date] },
+                  frontmatter: { draft: { ne: true } },
+                  fileAbsolutePath: { regex: "/articles/" },
+                ) {
+                  edges {
+                    node {
+                      excerpt
+                      frontmatter {
+                        title
+                        date
+                      }
+                      fields {
+                        slug
+                      }
+                    }
+                  }
+                }
+              }
+            `,
+            output: '/rss.xml'
+          }
+        ]
       }
     }
-    */
   ]
 }

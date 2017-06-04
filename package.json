@@ -23,6 +23,7 @@
     "gatsby-plugin-offline": "next",
     "gatsby-plugin-sharp": "next",
     "gatsby-plugin-preact": "next",
+    "gatsby-plugin-feed": "next",
     "gatsby-source-filesystem": "next",
     "gatsby-remark-copy-linked-files": "next",
     "gatsby-remark-prismjs": "next",

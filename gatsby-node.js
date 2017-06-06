@@ -3,6 +3,7 @@ const fs = require('fs-extra')
 const slug = require('slug')
 const slash = require('slash')
 const get = require('lodash.get')
+const format = require('date-fns/format')
 
 exports.createPages = ({ graphql, boundActionCreators }) => {
   const { createPage } = boundActionCreators
@@ -59,6 +60,8 @@ exports.onCreateNode = ({ node, boundActionCreators, getNode }) => {
   const { createNodeField } = boundActionCreators
 
   if (node.internal.type === 'MarkdownRemark') {
+    const fileNode = getNode(node.parent)
+
     let nodeSlug 
     if (node.frontmatter.path) {
       nodeSlug = ensureSlashes(node.frontmatter.path)
@@ -67,8 +70,13 @@ exports.onCreateNode = ({ node, boundActionCreators, getNode }) => {
     } else {
       nodeSlug = node.relativePath
     }
+
+    if (node.frontmatter.layout === 'post') {
+      nodeSlug = format(node.frontmatter.date, 'YYYY-MM') + nodeSlug
+    }
+
     if (nodeSlug) {
-      createNodeField({ node, fieldName: 'slug', fieldValue: nodeSlug })
+      createNodeField({ node, fieldName: 'slug', fieldValue: ensureSlashes(nodeSlug) })
     }
   } else if (node.internal.type === 'File') {
     const relativePath = node.relativePath

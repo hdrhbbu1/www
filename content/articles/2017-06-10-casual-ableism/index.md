@@ -14,7 +14,7 @@ In order to help you best understand the past few weeks, we begin this post list
 furrowed brow telling me all I needed to know. "Are your legs really that weak?"
 
 I quickly retorted. "If you'll look at the chart, the purpose of this visit is to
-investigate possible small fiber neuropathy in all four limbs, aplus muscle
+investigate possible small fiber neuropathy in all four limbs, plus muscle
 weakness and numbness in my lower extremities."
 
 I'm no longer surprised by how quickly medical staff dismiss potentially

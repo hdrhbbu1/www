@@ -58,7 +58,7 @@ I realized I'll always have more questions than answers.
 
 This post was intended for publication on May 30, neatly conluding
 [Ehlers-Danlos Syndrome Awareness Month](https://ehlers-danlos.com/dazzle/), but
-significantly delayed when I encounted a nasty bout of unexpected,
+was significantly delayed when I encounted a nasty bout of unexpected,
 disruptive ableism.
 
 Every year during the month of May, [Zebras from around the world join

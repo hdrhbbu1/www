@@ -24,7 +24,7 @@
     "gatsby-plugin-sharp": "canary",
     "gatsby-plugin-preact": "canary",
     "gatsby-plugin-feed": "canary",
-    "gatsby-plugin-sitemap": "canary",
+    "gatsby-plugin-sitemap": "next",
     "gatsby-source-filesystem": "canary",
     "gatsby-remark-copy-linked-files": "canary",
     "gatsby-remark-prismjs": "canary",

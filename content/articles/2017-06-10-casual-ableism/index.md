@@ -123,7 +123,7 @@ I become awkwardly entangled.
 
 After I received my rental wheelchair, my perspective on the world shifted in a
 very physical sense &mdash; standing, I last measured over six-feet &mdash; but
-int the chair, I see the world from a reduced height. I'm relating to normal
+in the chair, I see the world from a reduced height. I'm relating to normal
 objects very differently, pushing up to the counter and locking my brakes rather
 than grotesquely dragging my body with crutches to the nearest chair, only
 hoping I could make it before the dizziness and disorientation took over.

@@ -93,7 +93,7 @@ custom-fit chair, my new-and-improved physical therapy team recommended it until
 my stability and body awareness improves.
 
 The excitement being able to attend meetups with reduced pain and travel
-safely to and from my many doctors appointments without fear of further is
+safely to and from my many doctors appointments without fear of further injury is
 indescribable. Never again will I be denied a seat on a crowded bus because my
 impairment isn't visible until I hit the ground.
 

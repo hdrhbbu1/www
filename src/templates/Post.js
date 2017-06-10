@@ -4,8 +4,12 @@ import Link from 'gatsby-link'
 
 import typography, { rhythm, scale } from '../util/typography'
 
+const toAbsolute = (host, path) => host + path
+
 export default class PostTemplate extends Component {
   render() {
+    const { site_url } = this.props.data.site.siteMetadata
+
     const {
       fields: { slug },
       excerpt,
@@ -13,9 +17,11 @@ export default class PostTemplate extends Component {
       frontmatter: { title, date, image }
     } = this.props.data.markdownRemark
 
-    const feature = image && image.childImageSharp ?
+    const url = toAbsolute(site_url, slug)
+
+    const feature = toAbsolute(site_url, image && image.childImageSharp ?
       image.childImageSharp.responsiveResolution.src :
-      '/share.jpg'
+      '/share.jpg')
 
     return (
       <div
@@ -36,8 +42,20 @@ export default class PostTemplate extends Component {
               content: title
             },
             {
+              name: 'twitter:card',
+              content: 'summary'
+            },
+            {
               name: 'twitter:description',
               content: excerpt
+            },
+            {
+              name: 'og:description',
+              content: excerpt
+            },
+            {
+              name: 'og:url',
+              content: url
             },
             {
               name: 'twitter:image',
@@ -137,6 +155,11 @@ export default class PostTemplate extends Component {
 
 export const pageQuery = graphql`
   query TemplateBlogPost($slug: String!) {
+    site {
+      siteMetadata {
+        site_url
+      }
+    }
     markdownRemark(fields: { slug: { eq: $slug } }) {
       html
       fields {

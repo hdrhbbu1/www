@@ -116,7 +116,7 @@ invited much unwanted attention.
 
 ## Hazards of Visibility
 
-The scariest thing I've yet to face as my body degrade is a lack of intellectual
+The scariest thing I've yet to face as my body degrades is a lack of intellectual
 autonomy. Everyone seems to be an expert on disability except the disabled.
 Functionally, this means every time I comment issues of accessability in public,
 I become awkwardly entangled.
@@ -155,8 +155,8 @@ seems to be an expert on disablity except the disabled*), observe closely. In
 response to my question, I quickly receive the obviously hilarious response,
 "probably relieved they didn't have to participate." I should've thanked my
 conversation partner for the opportunity to place ableist elitism on clear
-display, because never have I experienced a clearer example in the real world
-that is documented so well.
+display, because never have I experienced an example in the real world
+that has been documented so well.
 
 A few days prior, I requested that a gentlemen refrain from using slurs for the
 mentally disabled to describe his frustration in the grocery store. He

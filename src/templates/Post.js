@@ -10,8 +10,12 @@ export default class PostTemplate extends Component {
       fields: { slug },
       excerpt,
       html,
-      frontmatter
+      frontmatter: { title, date, image }
     } = this.props.data.markdownRemark
+
+    const feature = image && image.childImageSharp ?
+      image.childImageSharp.responsiveResolution.src :
+      '/share.jpg'
 
     return (
       <div
@@ -20,20 +24,28 @@ export default class PostTemplate extends Component {
         }}
       >
        <Helmet
-          title={frontmatter.title}
+          title={title}
           description={excerpt}
           meta={[
             {
               name: 'twitter:title',
-              content: frontmatter.title
+              content: title
             },
             {
               name: 'og:title',
-              content: frontmatter.title
+              content: title
             },
             {
               name: 'twitter:description',
               content: excerpt
+            },
+            {
+              name: 'twitter:image',
+              content: feature
+            },
+            {
+              name: 'og:image',
+              content: feature 
             }
           ]}
         />
@@ -92,7 +104,7 @@ export default class PostTemplate extends Component {
                   }
                 }}
               >
-                {frontmatter.title}
+                {title}
               </h1>
             </Link>
             <div
@@ -101,8 +113,8 @@ export default class PostTemplate extends Component {
                 fontSize: '.9em'
               }}
             >
-              <time dateTime={frontmatter.date}>
-                {frontmatter.date}
+              <time dateTime={date}>
+                {date}
               </time>
             </div>
           </header>
@@ -133,6 +145,13 @@ export const pageQuery = graphql`
       frontmatter {
         title
         date(formatString: "MMM D, YYYY")
+        image {
+          childImageSharp {
+            responsiveResolution(width: 600) {
+              src
+            }
+          }
+        }
       }
     }
   }

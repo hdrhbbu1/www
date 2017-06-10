@@ -7,6 +7,7 @@ tags:
   - ehlers-danlos-syndrome
   - chronic-illness
   - eds-awareness-month
+image: share.jpg
 ---
 In order to help you best understand the past few weeks, we begin this post listening in on a recent conversation with my neurologist.
 

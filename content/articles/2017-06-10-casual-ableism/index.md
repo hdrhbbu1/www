@@ -170,8 +170,8 @@ a hypothetical person."
 The disconnect is obvious. Anytime I speak on issues of access or disability,
 I become either the target for offenders' apologies or the trademark "other"
 disabled individual &mdash; which ever is more convenient and padding to their
-ego. This had to stop, because it sweeps away the realities of our industry,
-and substitutes it for a momentary positive feeling. Individuals of all genders are
+ego. This has to stop, because it sweeps away realities of the disabled,
+substituting them for a momentary positive feeling. Individuals of all genders are
 capable of these ableist attitudes, so understand that while we're working on to
 correct a problem with gender imbalance in my field, we must also put a stop to
 the ableist ideas that keep disabled contributors out of the fray.

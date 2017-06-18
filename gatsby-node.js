@@ -14,8 +14,10 @@ exports.createPages = ({ graphql, boundActionCreators }) => {
     // Query for markdown nodes to create pages.
     graphql(`
       {
-        allMarkdownRemark(limit: 1000, frontmatter: {
-          draft: { ne: true }
+        allMarkdownRemark(limit: 1000, filter: {
+          frontmatter: {
+            draft: { ne: true }
+          }
         }) {
           edges {
             node {

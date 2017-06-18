@@ -87,9 +87,11 @@ module.exports = {
             query: `
               {
                 allMarkdownRemark(
-                  sortBy: { order: DESC, fields: [frontmatter___date] },
-                  frontmatter: { draft: { ne: true } },
-                  fileAbsolutePath: { regex: "/articles/" },
+                  sort: { order: DESC, fields: [frontmatter___date] },
+                  filter: {
+                    frontmatter: { draft: { ne: true } },
+                    fileAbsolutePath: { regex: "/articles/" }
+                  },
                 ) {
                   edges {
                     node {
@@ -113,7 +115,27 @@ module.exports = {
       }
     },
     {
-      resolve: 'gatsby-plugin-sitemap'
+      resolve: 'gatsby-plugin-sitemap',
+      options: {
+        query: `
+          {
+            site {
+              siteMetadata {
+                site_url
+              }
+            }
+            allMarkdownRemark(filter: { frontmatter: { draft: { ne: true } } }) {
+              edges {
+                node {
+                  fields {
+                    slug
+                  }
+                }
+              }
+            }
+          }
+        `
+      },
     }
   ]
 }

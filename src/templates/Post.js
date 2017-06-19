@@ -198,6 +198,7 @@ export default class PostTemplate extends Component {
                 width: '90%',
                 textAlign: 'center',
                 maxWidth: '800px',
+                margin: '0 auto',
               }}
             >
               See other posts tagged with: {tagged}

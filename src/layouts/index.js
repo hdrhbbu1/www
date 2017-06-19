@@ -2,7 +2,6 @@ import React, { Component } from 'react'
 import Helmet from 'react-helmet'
 
 import 'normalize.css'
-import 'hamburgers'
 import 'typeface-open-sans'
 import 'typeface-nunito'
 

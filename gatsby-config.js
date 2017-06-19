@@ -47,25 +47,6 @@ module.exports = {
         trackingId: 'UA-33160485-1',
       },
     },
-    {
-      resolve: 'gatsby-plugin-manifest',
-      options: {
-        name: 'Nicholas Young',
-        short_name: 'Nicholas Young',
-        icons: [
-          {
-            src: '/profile.jpg',
-            sizes: '1024x1024',
-            type: 'image/png',
-          },
-        ],
-        start_url: '/',
-        background_color: 'white',
-        theme_color: 'white',
-        display: 'minimal-ui',
-      },
-    },
-    'gatsby-plugin-offline',
     'gatsby-plugin-catch-links',
     {
       resolve: 'gatsby-plugin-feed',

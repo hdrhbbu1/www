@@ -179,7 +179,7 @@ export default class PostTemplate extends Component {
           }}
         >
           <p>
-            Nicholas Young is a husband, father, technologist, and disability advocate from Denver, Colorado. He lives amid the snow-covered mountains with his wife, Susan, and daughter, Sloan.
+            Nicholas Young is a husband, father, technologist, and rare illness advocate currently hailing from Denver, Colorado. He lives amid the snow-covered mountains with his wife, Susan, and daughter, Sloan.
           </p>
         </div>
         {tagged.length > 0 ? (

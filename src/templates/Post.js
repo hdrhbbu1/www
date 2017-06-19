@@ -8,7 +8,7 @@ const toAbsolute = (host, path) => host + path
 
 export default class PostTemplate extends Component {
   render() {
-    const { site_url, postscript } = this.props.data.site.siteMetadata
+    const { site_url } = this.props.data.site.siteMetadata
 
     const {
       fields: { slug },
@@ -172,10 +172,11 @@ export default class PostTemplate extends Component {
         />
         <div
           css={{
-            width: '75%',
+            width: '70%',
             maxWidth: '800px',
             fontStyle: 'italic',
             margin: '0 auto',
+            textAlign: 'center',
           }}
         >
           <p>
@@ -215,7 +216,6 @@ export const pageQuery = graphql`
     site {
       siteMetadata {
         site_url
-        postscript
       }
     }
     markdownRemark(fields: { slug: { eq: $slug } }) {

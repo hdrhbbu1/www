@@ -2,17 +2,27 @@
 
 The official website of voice-over actor, photographer, filmmaker, and producer Nicholas Young.
 
-## Goals
+## Developing
 
-[GitHub](http://github.com) is the best place to host your project, period, open-source or otherwise. While I don't allow direct copying of the code in this repository, I want to share it here for the following reasons:
+This site is built on top of
+[Gatsby](https://github.com/gatsbyjs/gatsby/tree/1.0/) 1.0, a React-powered
+static site generator.
 
-* Authoring semantic HTML and clean stylesheets can be hard, especially for newcomers to the world of web design. I was a novice once, and finding solid examples was difficult. I'm not perfect, and nor is this site, but I hope someone can learn from what I've authored.
+### Getting Started
 
-* It's cool to look at other people's code, and see where you made a bad decision. Even for experienced developers, this is a moment of enlightenment.
+To begin, install all dependencies with npm, like usual: `npm install`.
 
-* Closed systems suck. Even when I build private software, I try to share as many pieces as possible.
+Once installation is complete, you can run `npm run develop`, which will start a
+development server on [`localhost:8000`](http://localhost:8000) and begin
+watching for changes.
 
-That said, please treat the intellectual property in this repo with respect. I trust that you will.
+When you're done, build the site with `npm run build`, and deploy with `npm run
+deploy`.
+
+### Authoring New Posts
+
+`npm run new-post` will ask several questions, the answers to which will be used
+to create a new post template.
 
 ## License
 

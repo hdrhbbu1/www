@@ -8,13 +8,13 @@ const toAbsolute = (host, path) => host + path
 
 export default class PostTemplate extends Component {
   render() {
-    const { site_url } = this.props.data.site.siteMetadata
+    const { site_url, postscript } = this.props.data.site.siteMetadata
 
     const {
       fields: { slug },
       excerpt,
       html,
-      frontmatter: { title, date, image }
+      frontmatter: { title, tags, date, image }
     } = this.props.data.markdownRemark
 
     const url = toAbsolute(site_url, slug)
@@ -22,6 +22,19 @@ export default class PostTemplate extends Component {
     const feature = toAbsolute(site_url, image && image.childImageSharp ?
       image.childImageSharp.responsiveResolution.src :
       '/share.jpg')
+
+    const tagged = (tags || []).map((t, i) => {
+      return (
+        <span
+          key={t}
+        >
+          <Link to={`/tags/${t}`}>
+            {t}
+          </Link>
+          {i === tags.length - 1 ? undefined : ', '}
+        </span>
+      )
+    })
 
     return (
       <div
@@ -148,6 +161,49 @@ export default class PostTemplate extends Component {
             dangerouslySetInnerHTML={{ __html: html }}
           />
         </article>
+        <hr
+          css={{
+            height: '1px',
+            width: '75%',
+            margin: '0 auto',
+            marginTop: rhythm(2),
+            marginBottom: rhythm(2),
+          }}
+        />
+        <div
+          css={{
+            width: '75%',
+            maxWidth: '800px',
+            fontStyle: 'italic',
+            margin: '0 auto',
+          }}
+        >
+          <p>
+            Nicholas Young is a husband, father, technologist, and disability advocate from Denver, Colorado. He lives amid the snow-covered mountains with his wife, Susan, and daughter, Sloan.
+          </p>
+        </div>
+        {tagged.length > 0 ? (
+          <div>
+            <hr
+              css={{
+                height: '1px',
+                width: '75%',
+                margin: '0 auto',
+                marginTop: rhythm(2),
+                marginBottom: rhythm(2),
+              }}
+            />
+            <p
+              css={{
+                width: '90%',
+                textAlign: 'center',
+                maxWidth: '800px',
+              }}
+            >
+              See other posts tagged with: {tagged}
+            </p>
+          </div>
+        ) : undefined}
       </div>
     )
   }
@@ -158,6 +214,7 @@ export const pageQuery = graphql`
     site {
       siteMetadata {
         site_url
+        postscript
       }
     }
     markdownRemark(fields: { slug: { eq: $slug } }) {
@@ -168,6 +225,7 @@ export const pageQuery = graphql`
       frontmatter {
         title
         date(formatString: "MMM D, YYYY")
+        tags
         image {
           childImageSharp {
             responsiveResolution(width: 600) {

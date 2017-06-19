@@ -9,7 +9,8 @@ exports.createPages = ({ graphql, boundActionCreators }) => {
   const { createPage } = boundActionCreators
   const postTemplate = path.resolve('src/templates/Post.js')
   const pageTemplate = path.resolve('src/templates/Page.js')
-
+  const tagTemplate = path.resolve('src/templates/Tag.js')
+  
   return new Promise((resolve, reject) => {
     // Query for markdown nodes to create pages.
     graphql(`
@@ -26,6 +27,7 @@ exports.createPages = ({ graphql, boundActionCreators }) => {
               }
               frontmatter {
                 layout
+                tags
               }
             }
           }
@@ -37,6 +39,7 @@ exports.createPages = ({ graphql, boundActionCreators }) => {
         return reject(errors)
       }
 
+      let tags = []
       data.allMarkdownRemark.edges.forEach(edge => {
         const slug = get(edge, 'node.fields.slug')
         if (!slug) {
@@ -50,6 +53,22 @@ exports.createPages = ({ graphql, boundActionCreators }) => {
           context: {
             slug: edge.node.fields.slug
           }
+        })
+
+        const tagged = get(edge, 'node.frontmatter.tags')
+        if (tagged) {
+          tags = tags.concat(tagged)
+        }
+      })
+
+      tags = tags.filter((v, i, acc) => acc.indexOf(v) === i)
+      tags.forEach(tag => {
+        createPage({
+          path: `/tags/${slug(tag)}/`,
+          component: tagTemplate,
+          context: {
+            tag,
+          },
         })
       })
 

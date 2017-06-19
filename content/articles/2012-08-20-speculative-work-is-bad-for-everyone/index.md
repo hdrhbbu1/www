@@ -3,6 +3,10 @@ title: "Speculative Work is Bad (For Everyone)"
 date: "2012-08-20T16:00:00.000Z"
 path: "/speculative-work-is-bad-for-everyone"
 layout: "post"
+tags:
+  - spec-work
+  - professional-ethics
+  - creative-values
 ---
 I thought this debate was dead. Over. Fini. But recently, a rather heated thread on Twitter illustrated how wrong I was.
 

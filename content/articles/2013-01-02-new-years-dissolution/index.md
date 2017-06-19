@@ -3,6 +3,10 @@ title: "New Years Dissolution"
 date: "2013-01-02T18:00:00.000Z"
 path: "/new-years-dissolution"
 layout: "post"
+tags:
+  - burnout
+  - creative-values
+  - guidelines
 ---
 It's January 2, 2013, and dreams abound. The year is young, with 363 days ahead of us - each one full of promise and countless opportunities to transform your dreams into reality - but will you?
 

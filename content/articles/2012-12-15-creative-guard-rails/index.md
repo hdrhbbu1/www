@@ -3,6 +3,9 @@ title: "Creative Guard Rails"
 date: "2012-12-15T18:00:00.000Z"
 path: "/creative-guard-rails"
 layout: "post"
+tags:
+  - guidelines
+  - creative-values
 ---
 Like most artists, I'm often inspired by those around me. A friendly smile, stimulating conversation, and gentle encouragement are often what push me beyond my self-imposed creative boundaries. As creators, we should never forget the value of like-minded (or not-so-like-minded) friends.
 

@@ -3,6 +3,9 @@ title: "It's Not About Your Tools"
 date: "2013-04-04T16:00:00.000Z"
 path: "/its-not-about-your-tools"
 layout: "post"
+tags:
+  - toolmaking
+  - informed-opinions
 ---
 The evolution of the internet blessed us with always-on, globally-available communications. It has allowed me to conduct informal cultural exchanges with citizens of foreign countries, stay in touch with traveling friends, and collect an endless string of interesting contacts, some of which I've met while unplugged.
 

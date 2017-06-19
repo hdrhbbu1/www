@@ -3,6 +3,12 @@ title: "Life on the Inside, Part II"
 date: "2016-06-18T00:49:00.000Z"
 path: "/life-on-the-inside-part-ii"
 layout: "post"
+tags:
+  - ehlers-danlos-syndrome
+  - chronic-illness
+  - medical-cannabis
+  - colorado
+  - moving
 ---
 Lifting a [14-pound child,](/dad-jokes) radical weather changes, rising levels of acute pain, and emerging chronic fatigue symptoms are changing my daily routine.
 

@@ -3,6 +3,10 @@ title: "Be Kind, Rewind"
 date: "2016-01-17T16:32:00.000Z"
 path: "/be-kind-rewind"
 layout: "post"
+tags:
+  - project-diary
+  - radio
+  - new-beginnings
 ---
 Weekend mornings were made for reflection. I have a strong cup freshly ground coffee in my hand, and a head full of ideas. Shall we begin?
 

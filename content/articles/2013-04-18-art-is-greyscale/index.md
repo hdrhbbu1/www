@@ -3,6 +3,10 @@ title: "Art is Greyscale"
 date: "2013-04-18T16:00:00.000Z"
 path: "/art-is-greyscale"
 layout: "post"
+tags:
+  - creative-values
+  - criticism
+  - encouragement
 ---
 Doubt. It's something we all face, but rarely discuss. Artists stare it down daily, in a power struggle between beauty and the absence of it. Between light, and the dark, soundless, matterless void. Amidst a sea of creative hurdles, some worthier of caution, we fear doubt the most. But why?
 

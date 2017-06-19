@@ -3,6 +3,10 @@ title: "Ignorant Advice"
 date: "2016-06-03T22:16:24.000Z"
 path: "/ignorant-advice"
 layout: "post"
+tags:
+  - advice
+  - parenting
+  - business
 ---
 In four months time, I've realized that building a business and raising a child are incredibly similar.
 

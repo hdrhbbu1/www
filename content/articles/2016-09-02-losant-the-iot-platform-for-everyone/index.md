@@ -3,6 +3,11 @@ title: "Losant: the IoT Platform for Everyone"
 date: "2016-09-02T22:29:42.000Z"
 path: "/losant-the-iot-platform-for-everyone"
 layout: "post"
+tags:
+  - software
+  - engineering
+  - review
+  - internet-of-things
 ---
 This year has been filled with wonderful events, some were [expected](/sloan-alexis/), while others, wholly unthinkable in early January, have [also became reality.](/going-west/)
 

@@ -3,6 +3,10 @@ title: "What's In a Title?"
 date: "2016-01-16T00:27:00.000Z"
 path: "/whats-in-a-title"
 layout: "post"
+tags:
+  - engineering
+  - software
+  - people-ops
 ---
 Knowledge is the most important tool that any developer can possess. With the explosion of platforms like CodeSchool, PluralSight, and many others, the cost of education is plummeting.
 

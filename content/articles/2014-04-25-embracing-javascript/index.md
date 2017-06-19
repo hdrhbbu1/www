@@ -3,6 +3,10 @@ title: "Embracing JavaScript"
 date: "2014-04-25T16:00:00.000Z"
 path: "/embracing-javascript"
 layout: "post"
+tags:
+  - engineering
+  - software
+  - javascript
 ---
 In a previous life, I was a professional web developer. I've used JavaScript extensively throughout my career, but I always saw it as the necessary evil: a weird little language that existed solely to provide interactive features in your web browser. For most of it's lifespan, this evaluation was accurate: every major vendor had their own additions, and developing cross-browser applications was damn hard. John Resig and jQuery were the only glimmer of hope.
 

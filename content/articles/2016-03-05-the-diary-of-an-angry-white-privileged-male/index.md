@@ -3,6 +3,11 @@ title: "The Diary of an Angry, White, Privileged Male"
 date: "2016-03-06T00:17:50.000Z"
 path: "/the-diary-of-an-angry-white-privileged-male"
 layout: "post"
+tags:
+  - software
+  - engineering
+  - privilege
+  - social-commentary
 ---
 For years, I've heard rumblings of misogyny, sexual misconduct, and other [troubling events](http://martinfowler.com/bliki/SmutOnRails.html) in the Ruby community. Female friends have discussed their stories with me at length: some are concerned (but still participate), while others have left the community altogether. Both choices are perfectly valid.
 

@@ -3,6 +3,10 @@ title: "Dad Jokes"
 date: "2016-01-28T13:20:00.000Z"
 path: "/dad-jokes"
 layout: "post"
+tags:
+  - fatherhood
+  - dadthings
+  - life
 ---
 **5:05 A.M.**
 

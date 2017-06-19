@@ -3,6 +3,9 @@ title: "Drobo: a Nightmare Come True"
 date: "2015-03-01T02:39:00.000Z"
 path: "/drobo-a-nightmare-come-true"
 layout: "post"
+tags:
+  - customer-service
+  - gripes
 ---
 Settle in, dear reader. I'm here to share a story of frustration, unbelievably offensive customer service, and ultimately, a brand gone astray.
 

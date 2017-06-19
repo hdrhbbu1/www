@@ -3,6 +3,11 @@ title: "What I Wish You Understood (About My Chronic Illness)"
 date: "2017-05-22T04:29:00.000Z"
 path: "/what-i-wish-you-understood-about-my-chronic-illness/"
 layout: "post"
+tags:
+  - ehlers-danlos-syndrome
+  - chronic-illness
+  - faq
+  - eds-awareness-month
 ---
 
 May is [Ehlers-Danlos Syndrome Awareness

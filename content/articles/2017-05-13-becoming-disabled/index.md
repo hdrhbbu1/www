@@ -6,6 +6,9 @@ layout: "post"
 draft: false
 tags:
   - ehlers-danlos-syndrome
+  - disability
+  - chronic-illness
+  - eds-awareness-month
 ---
 
 This past week has been one of the most difficult on record. It began with

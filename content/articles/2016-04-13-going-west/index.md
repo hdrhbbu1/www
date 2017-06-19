@@ -3,6 +3,9 @@ title: "Going West"
 date: "2016-04-14T03:23:11.000Z"
 path: "/going-west"
 layout: "post"
+tags:
+  - moving
+  - colorado
 ---
 I've lived in Chicago for almost six years, but this June, it's time to say goodbye. There's another place my rambling soul craves to be: Denver, Colorado.
 

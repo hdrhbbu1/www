@@ -12,11 +12,11 @@ static site generator.
 
 To begin, install all dependencies with npm, like usual: `npm install`.
 
-Once installation is complete, you can run `npm run develop`, which will start a
+Once installation is complete, you can run `make develop`, which will start a
 development server on [`localhost:8000`](http://localhost:8000) and begin
 watching for changes.
 
-When you're done, build the site with `npm run build`, and deploy with `npm run
+When you're done, build the site with `make build`, and deploy with `make
 deploy`.
 
 ### Authoring New Posts

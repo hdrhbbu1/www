@@ -1,7 +1,13 @@
 REV=`git rev-parse --short HEAD`
-.PHONY: build package publish deploy
+.PHONY: develop clean build package publish deploy
 
-build:
+develop:
+	@npm run develop
+
+clean:
+	@rm -fr public/
+
+build: clean
 	@npm run build
 
 package:
@@ -12,5 +18,5 @@ package:
 publish:
 	gcloud docker -- push us.gcr.io/thor-160721/nicholaswyoung
 
-deploy:
+deploy: package publish
 	deis builds:create us.gcr.io/thor-160721/nicholaswyoung:$(REV) -a nicholaswyoung

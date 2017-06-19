@@ -54,7 +54,7 @@ module.exports = {
         short_name: 'Nicholas Young',
         icons: [
           {
-            src: '/logo.png',
+            src: '/profile.jpg',
             sizes: '1024x1024',
             type: 'image/png',
           },

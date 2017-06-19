@@ -22,7 +22,6 @@
     "gatsby-plugin-manifest": "next",
     "gatsby-plugin-offline": "next",
     "gatsby-plugin-sharp": "next",
-    "gatsby-plugin-preact": "next",
     "gatsby-plugin-feed": "next",
     "gatsby-plugin-sitemap": "next",
     "gatsby-source-filesystem": "next",

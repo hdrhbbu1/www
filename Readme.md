@@ -16,6 +16,11 @@ That said, please treat the intellectual property in this repo with respect. I t
 
 ## License
 
-&copy; Copyright 2013 - 2017 Nicholas Young. All rights reserved.
+&copy; Copyright 2009 - 2017 Nicholas Young, All rights reserved.
 
-Unauthorized duplication, distribution, or modification of the source files contained in this repository, without prior authorization, is prohibited. Please read and learn, but don't copy without authorization.
+Source code contained in this repository is released under the [MIT
+License](https://opensource.org/licenses/MIT).
+
+Rights to photographic images, films, audiovisual presentations, and other media (afterwards known as "assets") that may be contained herein are retained by Nicholas Young/Uptime Ventures, Ltd. Unauthorized duplication, distribution, or modification of any assets is prohibited by law.
+
+**tldr:** learn from the code, but don't steal my art.

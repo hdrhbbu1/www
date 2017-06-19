@@ -74,7 +74,7 @@ exports.onCreateNode = ({ node, boundActionCreators, getNode }) => {
     }
 
     if (node.frontmatter.layout === 'post') {
-      nodeSlug = format(node.frontmatter.date, 'YYYY-MM') + nodeSlug
+      nodeSlug = format(node.frontmatter.date, 'YYYY/MM') + nodeSlug
     }
 
     if (nodeSlug) {

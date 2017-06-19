@@ -1,6 +1,6 @@
 const path = require('path')
 const fs = require('fs-extra')
-const slug = require('slug')
+const { slugify } = require('transliteration')
 const slash = require('slash')
 const get = require('lodash.get')
 const format = require('date-fns/format')
@@ -64,7 +64,7 @@ exports.createPages = ({ graphql, boundActionCreators }) => {
       tags = tags.filter((v, i, acc) => acc.indexOf(v) === i)
       tags.forEach(tag => {
         createPage({
-          path: `/tags/${slug(tag)}/`,
+          path: `/tags/${slugify(tag)}/`,
           component: tagTemplate,
           context: {
             tag,
@@ -83,25 +83,25 @@ exports.onCreateNode = ({ node, boundActionCreators, getNode }) => {
   if (node.internal.type === 'MarkdownRemark') {
     const fileNode = getNode(node.parent)
 
-    let nodeSlug 
+    let slug
     if (node.frontmatter.path) {
-      nodeSlug = ensureSlashes(node.frontmatter.path)
+      slug = node.frontmatter.path
     } else if (node.frontmatter.title) {
-      nodeSlug = ensureSlashes(slug(node.frontmatter.title).toLowerCase())
+      slug = slugify(node.frontmatter.title)
     } else {
-      nodeSlug = node.relativePath
+      slug = node.relativePath
     }
 
     if (node.frontmatter.layout === 'post') {
-      nodeSlug = format(node.frontmatter.date, 'YYYY/MM') + nodeSlug
+      slug = [format(node.frontmatter.date, 'YYYY/MM'), slug].join('/') 
     }
 
-    if (nodeSlug) {
-      createNodeField({ node, fieldName: 'slug', fieldValue: ensureSlashes(nodeSlug) })
+    if (slug) {
+      createNodeField({ node, fieldName: 'slug', fieldValue: ensureSlashes(slug) })
     }
   } else if (node.internal.type === 'File') {
     const relativePath = node.relativePath
-    createNodeField({ node, fieldName: 'slug', fieldValue: relativePath })
+    createNodeField({ node, fieldName: 'slug', fieldValue: ensureSlashes(relativePath) })
   }
 }
 

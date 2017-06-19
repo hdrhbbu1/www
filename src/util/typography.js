@@ -36,7 +36,8 @@ const options = {
         display: 'block',
         width: '100%',
         borderLeft: '3px #999 solid', 
-        padding: '1em 0 1em 1em'
+        padding: '1em 0 1em 1em',
+        marginLeft: '0',
       }
     }
   }

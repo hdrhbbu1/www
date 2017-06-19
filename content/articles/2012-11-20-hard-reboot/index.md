@@ -3,6 +3,10 @@ title: "Hard Reboot"
 date: "2012-11-20T18:00:00.000Z"
 path: "/hard-reboot"
 layout: "post"
+tags:
+  - starting-over
+  - personal-branding
+  - personal-goals
 ---
 I began publishing content online in 1999, shortly after my home in rural Alabama was connected to the internet. At the time, nobody was thinking about their personal brand, and how it might affect future ventures - except me. I have to confess, it wasn't a conscious thought - but I knew everyone would have an online home sooner or later, and I wanted to stake my claim.
 

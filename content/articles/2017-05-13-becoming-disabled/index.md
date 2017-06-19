@@ -4,6 +4,8 @@ date: "2017-05-14T01:00:00.000Z"
 path: "/becoming-disabled"
 layout: "post"
 draft: false
+tags:
+  - ehlers-danlos-syndrome
 ---
 
 This past week has been one of the most difficult on record. It began with

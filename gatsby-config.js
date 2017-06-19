@@ -67,7 +67,6 @@ module.exports = {
     },
     'gatsby-plugin-offline',
     'gatsby-plugin-catch-links',
-    'gatsby-plugin-preact',
     {
       resolve: 'gatsby-plugin-feed',
       options: {

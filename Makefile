@@ -11,9 +11,9 @@ build: clean
 	@npm run build
 
 package:
-	docker build --squash -f Dockerfile \
-		-t "us.gcr.io/thor-160721/nicholaswyoung:$(REV)" \
-		-t "us.gcr.io/thor-160721/nicholaswyoung:latest" .
+	docker build -f Dockerfile \
+		-t "us.gcr.io/thor-160721/nicholaswyoung:latest" \
+		-t "us.gcr.io/thor-160721/nicholaswyoung:$(REV)" .
 
 publish:
 	gcloud docker -- push us.gcr.io/thor-160721/nicholaswyoung

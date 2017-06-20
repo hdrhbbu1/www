@@ -85,7 +85,7 @@ exports.onCreateNode = ({ node, boundActionCreators, getNode }) => {
 
     let slug
     if (node.frontmatter.path) {
-      slug = node.frontmatter.path
+      slug = cleanSlashes(node.frontmatter.path)
     } else if (node.frontmatter.title) {
       slug = slugify(node.frontmatter.title)
     } else {
@@ -112,6 +112,18 @@ function ensureSlashes(slug) {
 
   if (slug.charAt(slug.length -1) !== '/') {
     slug = slug + '/'
+  }
+
+  return slug
+}
+
+function cleanSlashes(slug) {
+  if (slug.charAt(0) === '/') {
+    slug = slug.slice(1)
+  }
+
+  if (slug.charAt(slug.length - 1) === '/') {
+    slug = slug.slice(0, -1)
   }
 
   return slug

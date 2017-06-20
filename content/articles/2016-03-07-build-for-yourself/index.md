@@ -3,6 +3,10 @@ title: "Build For Yourself"
 date: "2016-03-07T18:50:45.000Z"
 path: "/build-for-yourself"
 layout: "post"
+tags:
+  - business
+  - goals
+  - prioritization
 ---
 Whether you're a developer, musician, producer, photographer, or a creative of any other profession &mdash; you rely heavily on the work of others. It may be uncomfortable to admit, but rarely is an idea truly novel. Often, it has been evaluated by another artist, somewhere across the gulf of time or space; who found it to be too costly, irrelevant, or simply uninteresting for the time being.
 

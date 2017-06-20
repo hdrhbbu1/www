@@ -3,6 +3,9 @@ title: "Life Behind the Microphone"
 date: "2015-09-26T02:05:00.000Z"
 path: "/life-behind-the-microphone"
 layout: "post"
+tags:
+  - project-diary
+  - radio
 ---
 Growing up, adults would consistently regale me with stories from their past. A recurring theme was how time passed faster, increasing in speed with each year. Looking back as I near thirty, and several years into the largest venture I've undertaken thus far, I understand.
 

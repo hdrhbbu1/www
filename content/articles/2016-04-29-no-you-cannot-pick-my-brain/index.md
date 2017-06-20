@@ -3,6 +3,10 @@ title: "No, You Cannot Pick My Brain"
 date: "2016-04-29T17:47:55.000Z"
 path: "/no-you-cannot-pick-my-brain"
 layout: "post"
+tags:
+  - business
+  - prioritization
+  - rules
 ---
 I'm an educator: I advise clients around the globe, speak to almost any audience that will have me, write on a myriad of important topics, and contribute to open source. Still, I'm often asked &mdash; occasionally by total strangers &mdash; if they can "pick my brain."
 

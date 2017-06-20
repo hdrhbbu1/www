@@ -3,6 +3,11 @@ title: "About Trump"
 date: "2016-12-21T22:29:42.000Z"
 path: "/about-trump"
 layout: "post"
+tags:
+  - history
+  - politics
+  - uncertainty
+  - social-commentary
 ---
 It’s a chilly Tuesday afternoon in Denver as I pen this essay to you. Rest assured that I have other, far more enjoyable items on today’s agenda other than writing About Trump, and yet, I’m once again compelled to do so.
 

@@ -3,6 +3,10 @@ title: "The Ex-Resident's Guide to Chicago"
 date: "2016-05-26T23:29:20.000Z"
 path: "/the-ex-residents-guide-to-chicago"
 layout: "post"
+tags:
+  - chicago
+  - travel-guide
+  - moving
 ---
 By mid-June, the Young Family will be living in Colorado. While this move is [positive overall](/going-west), I also feel a certain trepidation: Chicago was where I launched [The Machine](/introducing-the-machine), re-ignited my love for software, and kindled a new dedication to speaking. It's also where I lost my religion, morphing from a lukewarm christian into a staunch atheist.
 

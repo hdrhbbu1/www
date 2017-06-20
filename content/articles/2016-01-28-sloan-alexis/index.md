@@ -3,6 +3,11 @@ title: "Introducing Sloan Alexis Young"
 date: "2016-01-29T05:51:11.000Z"
 path: "/sloan-alexis"
 layout: "post"
+tags:
+  - fatherhood
+  - dadthings
+  - parenting
+  - life
 ---
 If you read my earlier piece on the [emotions associated with becoming a Dad,](/dad-jokes) then you'll also understand why I'm proud to say this. While the context will help, as it always does, this announcement is still very exciting.
 

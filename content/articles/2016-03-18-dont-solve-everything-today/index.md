@@ -3,6 +3,10 @@ title: "Don't Solve Everything Today"
 date: "2016-03-19T03:09:53.000Z"
 path: "/dont-solve-everything-today"
 layout: "post"
+tags:
+  - business
+  - goals
+  - prioritization
 ---
 This one is for the doers: those who have stepped out of the dark, set aim for the heavens, and vowed to realize their dreams &mdash; costs be damned.
 

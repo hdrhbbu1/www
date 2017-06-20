@@ -6,6 +6,11 @@ layout: "post"
 tags:
   - ehlers-danlos-syndrome
   - chronic-illness
+  - disability
+  - eds-awareness-month
+  - dysautonomia
+  - postural-orthostatic-tachycardia-syndrome
+  - accessibility
 image: share.jpg
 ---
 In order to help you best understand the past few weeks, we begin this post listening in on a recent conversation with my neurologist.

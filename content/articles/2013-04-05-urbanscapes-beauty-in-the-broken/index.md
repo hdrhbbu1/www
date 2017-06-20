@@ -3,6 +3,9 @@ title: "Urbanscapes: Beauty in the Broken"
 date: "2013-04-05T16:00:00.000Z"
 path: "/urbanscapes-beauty-in-the-broken"
 layout: "post"
+tags:
+  - photography
+  - project-diary
 ---
 As a photographer, few things compare to capturing emotion. Whether it's a band sweating on stage, a painter focused on their canvas, or the hustle of a city at night, I think about emotion every time I release the shutter. I'm freezing a moment in time; distilling emotion from an otherwise chaotic day, hopefully causing the viewer to pause and consider what they see.
 

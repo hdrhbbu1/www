@@ -3,6 +3,9 @@ title: "Introducing The Machine"
 date: "2013-08-02T11:49:00.000Z"
 path: "/introducing-the-machine"
 layout: "post"
+tags:
+  - project-diary
+  - radio
 ---
 If we've met &mdash; online or in person &mdash; I've probably spoken to you about radio, and my endless love for the medium. *This American Life*, *Radiolab*, and *Freakonomics Radio* are staples in my weekly soundtrack. Nothing fuels my mind like a great conversation, and NPR is full of them.
 

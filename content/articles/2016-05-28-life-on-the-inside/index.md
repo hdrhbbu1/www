@@ -3,6 +3,9 @@ title: "Life on the Inside, Part I"
 date: "2016-05-28T19:53:00.000Z"
 path: "/life-on-the-inside"
 layout: "post"
+tags:
+  - ehlers-danlos-syndrome
+  - chronic-illness
 ---
 I wake up, though not by choice. The alarm clock isn't ringing, and the apartment is quiet. My bedsheets wrap me in a warm, kind hug; and although the bed is comfortable, I'm miles away from a blissful state of mind.
 

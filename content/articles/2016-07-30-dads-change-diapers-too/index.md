@@ -3,6 +3,11 @@ title: "Dads Change Diapers, Too"
 date: "2016-07-31T00:07:00.000Z"
 path: "/dads-change-diapers-too"
 layout: "post"
+tags:
+  - parenting
+  - life
+  - dadthings
+  - accessibility
 ---
 The process of becoming a parent teaches lessons you never expected to learn. There are, of course, many small nuggets of wisdom that lodge in your brain; the prevailing signs of a wet diaper (thanks to modern technology, diaper wetness can be scientifically verified), and your child's entertainment preferences (or, how to overcome your fear of acting foolish in public).
 

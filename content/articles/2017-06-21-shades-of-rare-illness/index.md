@@ -21,7 +21,7 @@ connective tissue disorder, Ehlers-Danlos Syndrome.
 Ehlers-Danlos Syndrome (hereafter referred to as "EDS") affects the body's
 ability to produce collagen, a crucial structural protein. Thirteen subtypes
 exist within the EDS family of disorders, some more severe than others, but each
-with it's own collection of symptoms and comorbidities. Needless to say, the
+with its own collection of symptoms and comorbidities. Needless to say, the
 experience of most patients can be startlingly complex. Even checkup visits with
 my doctor are fraught with many questions and doubt. The future quality of life
 for any EDS patient depends on successfully plotting their way through the
@@ -32,16 +32,16 @@ Last week's installment of The Cannabist Show did exactly that, leaving viewers
 with a poorly rendered portrait of the daily struggles endured by EDS patients.
 Make no mistake, though our bodies are weak, all who carry this diagnosis are
 warriors. It is also our collective responsibility to explain that not all who
-struggle with the syndrome with win. Complications of the [Vascular
+struggle with the syndrome will win. Complications of the [Vascular
 EDS](https://ehlers-danlos.com/what-is-eds/) subtype include sudden arterial
-rupture and fraglity of internal organs.
+rupture and fragility of internal organs.
 
 Most of us who fight EDS daily cannot, and will not beat this multi-systemic condition through
 exercise. Until just over a year ago, I was an avid street cyclist navigating
 the stop and go traffic of Chicago. Some days, covering 30 miles of city streets
 wasn't unrealistic as I sped between my studio, various breweries, meetings, and
 events. While I do not represent the worst of what EDS can do to the human body,
-I'm a prototypcal example of how symptoms rise out of nowhere, intensifying
+I'm a prototypical example of how symptoms rise out of nowhere, intensifying
 until the pain is so great suicide becomes a viable option. Today, multiple systems,
 both in-and-outside my body are failing despite attempts to live an active
 lifestyle and frequent cannabis consumption.
@@ -70,7 +70,7 @@ superman narrative, which becomes extremely problematic when adopted as medical
 culture.
 
 Contrary to the message viewers encountered in the interview, doctors are often
-hesistant to label a patient with limitations. All it takes is reading a handful
+hesitant to label a patient with limitations. All it takes is reading a handful
 of articles on [The Mighty](https://themighty.com/ehlers-danlos-syndrome/), or
 another publication primarily authored by chronic illness warriors and you'll
 find that [most of us are accused of faking
@@ -80,10 +80,10 @@ In writing this piece, I've found myself between two worlds. I strongly believe
 the pharmaceutical industry has wrought untold damage in its' years of economic
 supremacy, and while opioid pain relievers are unhelpful to a significant
 percentage of EDS patients they're beneficial to others. Living with EDS often
-means rejecting simplistic fixes that inadvertantly erase large swaths of our
+means rejecting simplistic fixes that inadvertently erase large swaths of our
 community.
 
-Advocating that patients ignore all doctors' advice and instead rely solely on
+Advocating that patients ignore all doctors' advice and instead rely solely upon
 exercise, diet, and cannabis is equally reckless.
 
 A few weeks ago, I saw a neurologist in hopes of finally diagnosing why standing
@@ -98,8 +98,8 @@ degrees of severity. Thirteen unique perspectives.
 I missed even a hint at the other twelve narratives.
 
 The next time you're tasked with sharing a story like this one, please set your
-view a little wider. This is Colorado after all, the land of sweeping panoramas
-and gourgeous mountain vistas. Even in a divided political year, our state is
+view a little wider. This is Colorado, after all, the land of sweeping panoramas
+and gorgeous mountain vistas. Even in a divided political year, our state is
 purple.
 
 Together, we can ensure the stories told and language used by our media outlets

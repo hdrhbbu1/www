@@ -3,6 +3,12 @@ title: Shades of Rare Illness
 date: "2017-06-26T19:42:04.935Z"
 layout: post
 draft: false 
+keywords:
+  - the cannabist
+  - ehlers danlos syndrome
+  - the cannabist show
+  - disability in media
+  - chronic illness in media
 tags:
   - chronic-illness
   - disability

@@ -3,6 +3,12 @@ title: Shades of Rare Illness
 date: "2017-06-26T19:42:04.935Z"
 layout: post
 draft: false 
+tags:
+  - chronic-illness
+  - disability
+  - media-representation
+  - ehlers-danlos-syndrome
+  - criticism
 ---
 I submitted the following essay to The Cannabist last Friday in response to
 [Season 3, Episode 9 of The Cannabist

@@ -14,7 +14,7 @@ export default class PostTemplate extends Component {
       fields: { slug },
       excerpt,
       html,
-      frontmatter: { title, tags, date, image }
+      frontmatter: { title, tags, date, image, keywords }
     } = this.props.data.markdownRemark
 
     const url = toAbsolute(site_url, slug)
@@ -44,7 +44,6 @@ export default class PostTemplate extends Component {
       >
        <Helmet
           title={title}
-          description={excerpt}
           meta={[
             {
               name: 'twitter:title',
@@ -76,8 +75,16 @@ export default class PostTemplate extends Component {
             },
             {
               name: 'og:image',
-              content: feature 
-            }
+              content: feature
+            },
+            {
+              name: 'description',
+              content: excerpt,
+            },
+            {
+              name: 'keywords',
+              content: keywords,
+            },
           ]}
         />
         <div>
@@ -220,6 +227,7 @@ export const pageQuery = graphql`
     }
     markdownRemark(fields: { slug: { eq: $slug } }) {
       html
+      excerpt
       fields {
         slug
       }
@@ -234,6 +242,7 @@ export const pageQuery = graphql`
             }
           }
         }
+        keywords
       }
     }
   }

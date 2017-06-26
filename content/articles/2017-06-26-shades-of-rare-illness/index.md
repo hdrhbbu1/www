@@ -6,7 +6,7 @@ draft: false
 ---
 I submitted the following essay to The Cannabist last Friday in response to
 [Season 3, Episode 9 of The Cannabist
-Show](www.thecannabist.co/2017/06/16/s03e09-cannabist-show-jennessa-lea-break-the-stigma-fitness/81728/). Ultimately, editor Alex Pasquariello decided it wasn't a fit for their publication, noting in his response that, "as your submission observes and a cursory Google search reveals, EDS is an incredibly complicated medical topic," and suggested that I submit it as a comment on Facebook.
+Show](http://www.thecannabist.co/2017/06/16/s03e09-cannabist-show-jennessa-lea-break-the-stigma-fitness/81728/). Ultimately, editor Alex Pasquariello decided it wasn't a fit for their publication, noting in his response that, "as your submission observes and a cursory Google search reveals, EDS is an incredibly complicated medical topic," and suggested that I submit it as a comment on Facebook.
 
 This language is familiar to any disability or rare illness advocate. Regardless
 of the time you spent explaining the case, few journalists will understand. Most

@@ -1,9 +1,26 @@
 ---
 title: Shades of Rare Illness
-date: "2017-06-21T21:41:04.935Z"
+date: "2017-06-26T19:42:04.935Z"
 layout: post
 draft: false 
 ---
+I submitted the following essay to The Cannabist last Friday in response to
+[Season 3, Episode 9 of The Cannabist
+Show](www.thecannabist.co/2017/06/16/s03e09-cannabist-show-jennessa-lea-break-the-stigma-fitness/81728/). Ultimately, editor Alex Pasquariello decided it wasn't a fit for their publication, noting in his response that, "as your submission observes and a cursory Google Search reveals, EDS is an incredibly complicated medical topic," and suggested that I submit it as a comment on Facebook.
+
+This language is familiar to any disability or rare illness advocate. Regardless
+of the time you spent explaining the case, few journalists will understand. Most
+will do as Alex has done above and attempt to school me on the complexities of
+my own condition. I may publish more of our exchange in the future, as it
+reveals a collision of ideologies that few in the media industry are privy to.
+
+How disability and chronic illness are dealt with in contemporary journalism
+outlets is one of the most important media conversations of our time.
+Organizations like The Cannabist ignore this narrative at their own peril, and
+yet, actively choose to do so.
+
+---
+
 "Look here," said my orthotist, pointing at a handy diagram of the human foot.
 I squinted. After removing the frame from where it was hanging and placing it
 gently in my lap, he continued. "This is connective tissue. You have a
@@ -90,7 +107,7 @@ A few weeks ago, I saw a neurologist in hopes of finally diagnosing why standing
 has become so difficult. If I'm upright for more than a minute, I become clammy,
 breathless, and disoriented. At worst, I can faint, collapsing into a heap of
 dislocated bones on the spot. I no longer have the stomach to listen as
-self-styled disability advocates drone on about a life some of us never have.
+self-styled disability advocates drone on about a life some of us may never have.
 
 EDS manifests itself as one or several of thirteen different subtypes. Thirteen. Thirteen
 degrees of severity. Thirteen unique perspectives.

@@ -103,7 +103,7 @@ hesitant to label a patient with limitations. All it takes is reading a handful
 of articles on [The Mighty](https://themighty.com/ehlers-danlos-syndrome/), or
 another publication primarily authored by chronic illness warriors and you'll
 find that [most of us are accused of faking
-symptoms](https://nicholaswyoung.com/tags/chronic-illness) in order to be seen.
+symptoms](/tags/chronic-illness/) in order to be seen.
 
 In writing this piece, I've found myself between two worlds. I strongly believe
 the pharmaceutical industry has wrought untold damage in its' years of economic

@@ -5,11 +5,32 @@ const slash = require('slash')
 const get = require('lodash.get')
 const format = require('date-fns/format')
 
+const postTemplate = path.resolve('src/templates/Post.js')
+const showTemplate = path.resolve('src/templates/Show.js')
+const episodeTemplate = path.resolve('src/templates/Episode.js')
+const pageTemplate = path.resolve('src/templates/Page.js')
+const tagTemplate = path.resolve('src/templates/Tag.js')
+  
+const template = (l = 'page') => {
+  l = l.toLowerCase()
+
+  if (l === 'post') {
+    return postTemplate
+  }
+
+  if (l === 'show') {
+    return showTemplate
+  }
+
+  if (l === 'episode') {
+    return episodeTemplate
+  }
+
+  return pageTemplate
+}
+
 exports.createPages = ({ graphql, boundActionCreators }) => {
   const { createPage } = boundActionCreators
-  const postTemplate = path.resolve('src/templates/Post.js')
-  const pageTemplate = path.resolve('src/templates/Page.js')
-  const tagTemplate = path.resolve('src/templates/Tag.js')
   
   return new Promise((resolve, reject) => {
     // Query for markdown nodes to create pages.
@@ -49,7 +70,7 @@ exports.createPages = ({ graphql, boundActionCreators }) => {
         const { layout } = edge.node.frontmatter
         createPage({
           path: edge.node.fields.slug,
-          component: layout === 'post' ? postTemplate : pageTemplate,
+          component: template(layout),
           context: {
             slug: edge.node.fields.slug
           }

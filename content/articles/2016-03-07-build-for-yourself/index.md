@@ -1,8 +1,8 @@
 ---
-title: "Build For Yourself"
-date: "2016-03-07T18:50:45.000Z"
-path: "/build-for-yourself"
-layout: "post"
+title: Build For Yourself
+date: '2016-03-07T18:50:45.000Z'
+path: /build-for-yourself
+layout: post
 tags:
   - business
   - goals

@@ -1,8 +1,8 @@
 ---
-title: "Life on the Inside, Part I"
-date: "2016-05-28T19:53:00.000Z"
-path: "/life-on-the-inside"
-layout: "post"
+title: 'Life on the Inside, Part I'
+date: '2016-05-28T19:53:00.000Z'
+path: /life-on-the-inside
+layout: post
 tags:
   - ehlers-danlos-syndrome
   - chronic-illness

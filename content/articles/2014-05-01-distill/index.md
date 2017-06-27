@@ -1,8 +1,8 @@
 ---
-title: "Distill"
-date: "2014-05-02T00:54:00.000Z"
-path: "/distill"
-layout: "post"
+title: Distill
+date: '2014-05-02T00:54:00.000Z'
+path: /distill
+layout: post
 tags:
   - engineering
   - software

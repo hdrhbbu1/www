@@ -1,8 +1,8 @@
 ---
-title: "No, You Cannot Pick My Brain"
-date: "2016-04-29T17:47:55.000Z"
-path: "/no-you-cannot-pick-my-brain"
-layout: "post"
+title: 'No, You Cannot Pick My Brain'
+date: '2016-04-29T17:47:55.000Z'
+path: /no-you-cannot-pick-my-brain
+layout: post
 tags:
   - business
   - prioritization

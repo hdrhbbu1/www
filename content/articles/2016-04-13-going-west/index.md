@@ -1,8 +1,8 @@
 ---
-title: "Going West"
-date: "2016-04-14T03:23:11.000Z"
-path: "/going-west"
-layout: "post"
+title: Going West
+date: '2016-04-14T03:23:11.000Z'
+path: /going-west
+layout: post
 tags:
   - moving
   - colorado

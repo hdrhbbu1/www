@@ -1,8 +1,8 @@
 ---
-title: "What's In a Title?"
-date: "2016-01-16T00:27:00.000Z"
-path: "/whats-in-a-title"
-layout: "post"
+title: What's In a Title?
+date: '2016-01-16T00:27:00.000Z'
+path: /whats-in-a-title
+layout: post
 tags:
   - engineering
   - software

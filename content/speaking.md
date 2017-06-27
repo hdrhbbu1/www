@@ -1,6 +1,6 @@
 ---
-title: "Speaking"
-path: "/speaking"
+title: Speaking
+path: /speaking
 layout: page
 ---
 For those of us in creative professions, sharing knowledge and experience are crucial. Which

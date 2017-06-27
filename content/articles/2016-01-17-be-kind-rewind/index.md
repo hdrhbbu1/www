@@ -1,8 +1,8 @@
 ---
-title: "Be Kind, Rewind"
-date: "2016-01-17T16:32:00.000Z"
-path: "/be-kind-rewind"
-layout: "post"
+title: 'Be Kind, Rewind'
+date: '2016-01-17T16:32:00.000Z'
+path: /be-kind-rewind
+layout: post
 tags:
   - project-diary
   - radio

@@ -1,8 +1,8 @@
 ---
-title: "Creative Guard Rails"
-date: "2012-12-15T18:00:00.000Z"
-path: "/creative-guard-rails"
-layout: "post"
+title: Creative Guard Rails
+date: '2012-12-15T18:00:00.000Z'
+path: /creative-guard-rails
+layout: post
 tags:
   - guidelines
   - creative-values

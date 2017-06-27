@@ -1,8 +1,8 @@
 ---
-title: "Hit Send: Smart Email Marketing"
-date: "2012-12-20T18:00:00.000Z"
-path: "/hit-send-smart-email-marketing"
-layout: "post"
+title: 'Hit Send: Smart Email Marketing'
+date: '2012-12-20T18:00:00.000Z'
+path: /hit-send-smart-email-marketing
+layout: post
 tags:
   - email-marketing
   - marketing

@@ -1,8 +1,8 @@
 ---
-title: "The Diary of an Angry, White, Privileged Male"
-date: "2016-03-06T00:17:50.000Z"
-path: "/the-diary-of-an-angry-white-privileged-male"
-layout: "post"
+title: 'The Diary of an Angry, White, Privileged Male'
+date: '2016-03-06T00:17:50.000Z'
+path: /the-diary-of-an-angry-white-privileged-male
+layout: post
 tags:
   - software
   - engineering

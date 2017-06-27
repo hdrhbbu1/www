@@ -1,8 +1,8 @@
 ---
-title: "Speculative Work is Bad (For Everyone)"
-date: "2012-08-20T16:00:00.000Z"
-path: "/speculative-work-is-bad-for-everyone"
-layout: "post"
+title: Speculative Work is Bad (For Everyone)
+date: '2012-08-20T16:00:00.000Z'
+path: /speculative-work-is-bad-for-everyone
+layout: post
 tags:
   - spec-work
   - professional-ethics

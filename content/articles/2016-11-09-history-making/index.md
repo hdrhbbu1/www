@@ -1,12 +1,12 @@
 ---
-title: "History in the Making"
-date: "2016-11-09T22:29:42.000Z"
-path: "/history-in-the-making"
-layout: "post"
+title: History in the Making
+date: '2016-11-09T22:29:42.000Z'
+path: /history-in-the-making
+layout: post
 tags:
   - politics
   - history
-  - uncertainty 
+  - uncertainty
 ---
 
 Last evening, I assured my daughter she was witnessing history. Roughly twelve hours later, I'm technically correct but last night did not proceed as forecasted. Early on, I took comfort that FiveThirtyEight predicted a Clinton win &mdash; the odds being north of 70% &mdash; settling into bed when the former Secretary of State was leading in electoral votes.

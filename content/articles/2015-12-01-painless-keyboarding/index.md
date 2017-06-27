@@ -1,8 +1,8 @@
 ---
-title: "Painless Keyboarding"
-date: "2015-12-01T18:00:00.000Z"
-path: "/painless-keyboarding"
-layout: "post"
+title: Painless Keyboarding
+date: '2015-12-01T18:00:00.000Z'
+path: /painless-keyboarding
+layout: post
 tags:
   - software
   - engineering

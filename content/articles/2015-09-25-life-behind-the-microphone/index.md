@@ -1,8 +1,8 @@
 ---
-title: "Life Behind the Microphone"
-date: "2015-09-26T02:05:00.000Z"
-path: "/life-behind-the-microphone"
-layout: "post"
+title: Life Behind the Microphone
+date: '2015-09-26T02:05:00.000Z'
+path: /life-behind-the-microphone
+layout: post
 tags:
   - project-diary
   - radio

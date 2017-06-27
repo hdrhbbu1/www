@@ -1,8 +1,8 @@
 ---
-title: "New Years Dissolution"
-date: "2013-01-02T18:00:00.000Z"
-path: "/new-years-dissolution"
-layout: "post"
+title: New Years Dissolution
+date: '2013-01-02T18:00:00.000Z'
+path: /new-years-dissolution
+layout: post
 tags:
   - burnout
   - creative-values

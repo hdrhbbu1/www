@@ -1,8 +1,8 @@
 ---
-title: "Our Instagram Life"
-date: "2013-06-05T16:00:00.000Z"
-path: "/our-instagram-life"
-layout: "post"
+title: Our Instagram Life
+date: '2013-06-05T16:00:00.000Z'
+path: /our-instagram-life
+layout: post
 tags:
   - social-media
   - habits

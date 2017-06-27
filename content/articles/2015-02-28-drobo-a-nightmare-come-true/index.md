@@ -1,6 +1,6 @@
 ---
 title: 'Drobo: a Nightmare Come True'
-date: '2015-03-01T02:39:00.000Z'
+date: 2015-02-28T05:39:00.000Z
 path: /drobo-a-nightmare-come-true
 layout: post
 tags:

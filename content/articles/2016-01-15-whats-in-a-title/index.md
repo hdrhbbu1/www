@@ -1,6 +1,6 @@
 ---
 title: What's In a Title?
-date: '2016-01-16T00:27:00.000Z'
+date: 2016-01-15T03:27:00.000Z
 path: /whats-in-a-title
 layout: post
 tags:

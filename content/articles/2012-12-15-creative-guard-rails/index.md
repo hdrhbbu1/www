@@ -1,6 +1,6 @@
 ---
 title: Creative Guard Rails
-date: '2012-12-15T18:00:00.000Z'
+date: 2012-12-14T21:00:00.000Z
 path: /creative-guard-rails
 layout: post
 tags:

@@ -1,6 +1,6 @@
 ---
 title: 'Urbanscapes: Beauty in the Broken'
-date: '2013-04-05T16:00:00.000Z'
+date: 2013-04-04T22:00:00.000Z
 path: /urbanscapes-beauty-in-the-broken
 layout: post
 tags:

@@ -1,6 +1,6 @@
 ---
 title: Going West
-date: '2016-04-14T03:23:11.000Z'
+date: 2016-04-13T09:23:11.000Z
 path: /going-west
 layout: post
 tags:

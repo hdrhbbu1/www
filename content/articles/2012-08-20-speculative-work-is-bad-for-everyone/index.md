@@ -1,6 +1,6 @@
 ---
 title: Speculative Work is Bad (For Everyone)
-date: '2012-08-20T16:00:00.000Z'
+date: 2012-08-19T22:00:00.000Z
 path: /speculative-work-is-bad-for-everyone
 layout: post
 tags:

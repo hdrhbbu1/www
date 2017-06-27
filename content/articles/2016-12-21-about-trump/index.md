@@ -1,6 +1,6 @@
 ---
 title: About Trump
-date: '2016-12-21T22:29:42.000Z'
+date: 2016-12-21T01:29:42.000Z
 path: /about-trump
 layout: post
 tags:

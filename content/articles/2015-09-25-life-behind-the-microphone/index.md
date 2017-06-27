@@ -1,6 +1,6 @@
 ---
 title: Life Behind the Microphone
-date: '2015-09-26T02:05:00.000Z'
+date: 2015-09-25T08:05:00.000Z
 path: /life-behind-the-microphone
 layout: post
 tags:

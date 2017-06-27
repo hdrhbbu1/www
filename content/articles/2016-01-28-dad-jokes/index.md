@@ -1,6 +1,6 @@
 ---
 title: Dad Jokes
-date: '2016-01-28T13:20:00.000Z'
+date: 2016-01-27T16:20:00.000Z
 path: /dad-jokes
 layout: post
 tags:

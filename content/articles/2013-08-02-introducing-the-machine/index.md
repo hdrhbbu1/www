@@ -1,6 +1,6 @@
 ---
 title: Introducing The Machine
-date: '2013-08-02T11:49:00.000Z'
+date: 2013-08-01T17:49:00.000Z
 path: /introducing-the-machine
 layout: post
 tags:

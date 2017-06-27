@@ -1,6 +1,6 @@
 ---
 title: Apple's Power Play
-date: '2016-01-18T13:28:00.000Z'
+date: 2016-01-17T16:28:00.000Z
 path: /apples-power-play
 layout: post
 tags:

@@ -1,8 +1,8 @@
 ---
-title: "Becoming Disabled"
-date: "2017-05-14T01:00:00.000Z"
-path: "/becoming-disabled"
-layout: "post"
+title: Becoming Disabled
+date: '2017-05-14T01:00:00.000Z'
+path: /becoming-disabled
+layout: post
 draft: false
 keywords:
   - ehlers danlos syndrome

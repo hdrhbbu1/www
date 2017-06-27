@@ -1,8 +1,8 @@
 ---
-title: "The Ex-Resident's Guide to Chicago"
-date: "2016-05-26T23:29:20.000Z"
-path: "/the-ex-residents-guide-to-chicago"
-layout: "post"
+title: The Ex-Resident's Guide to Chicago
+date: '2016-05-26T23:29:20.000Z'
+path: /the-ex-residents-guide-to-chicago
+layout: post
 tags:
   - chicago
   - travel-guide

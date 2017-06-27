@@ -1,8 +1,8 @@
 ---
 title: Shades of Rare Illness
-date: "2017-06-26T19:42:04.935Z"
+date: '2017-06-26T19:42:04.935Z'
 layout: post
-draft: false 
+draft: false
 keywords:
   - the cannabist
   - ehlers danlos syndrome

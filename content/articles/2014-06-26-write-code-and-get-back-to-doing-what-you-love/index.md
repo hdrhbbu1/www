@@ -1,8 +1,8 @@
 ---
-title: "Write Code and Get Back to Doing What You Love"
-date: "2014-06-27T00:45:00.000Z"
-path: "/write-code-and-get-back-to-doing-what-you-love"
-layout: "post"
+title: Write Code and Get Back to Doing What You Love
+date: '2014-06-27T00:45:00.000Z'
+path: /write-code-and-get-back-to-doing-what-you-love
+layout: post
 tags:
   - engineering
   - software

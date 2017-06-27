@@ -1,8 +1,8 @@
 ---
-title: "Remixed, Again"
-date: "2013-04-12T16:00:00.000Z"
-path: "/remixed-again"
-layout: "post"
+title: 'Remixed, Again'
+date: '2013-04-12T16:00:00.000Z'
+path: /remixed-again
+layout: post
 tags:
   - design-refresh
   - content-management

@@ -1,7 +1,7 @@
 ---
-title: "About"
+title: About
 layout: page
-path: "/about"
+path: /about
 ---
 Hi, I'm Nicholas, a media entreprenuer, teacher, and speaker. I currently reside
 in Denver, Colorado with my wife [Susan](http://susandyoung.com) and daughter,

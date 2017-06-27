@@ -1,8 +1,8 @@
 ---
-title: "State.js 2016: JavaScript, Here and Now"
-date: "2016-01-28T22:25:00.000Z"
-path: "/state-js-2016-javascript-here-and-now"
-layout: "post"
+title: 'State.js 2016: JavaScript, Here and Now'
+date: '2016-01-28T22:25:00.000Z'
+path: /state-js-2016-javascript-here-and-now
+layout: post
 tags:
   - software
   - engineering

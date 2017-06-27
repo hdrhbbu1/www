@@ -1,8 +1,8 @@
 ---
-title: "Art is Greyscale"
-date: "2013-04-18T16:00:00.000Z"
-path: "/art-is-greyscale"
-layout: "post"
+title: Art is Greyscale
+date: '2013-04-18T16:00:00.000Z'
+path: /art-is-greyscale
+layout: post
 tags:
   - creative-values
   - criticism

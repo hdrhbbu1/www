@@ -1,7 +1,7 @@
 ---
-title: "Consulting"
+title: Consulting
 layout: page
-path: "/consulting/"
+path: /consulting/
 ---
 I have bolstered technical teams, mastered audio, photographed nationally
 recognized recording artists, convinced others to release work as Creative

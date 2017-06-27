@@ -1,7 +1,7 @@
 ---
-title: "Curriculum Vitae"
+title: Curriculum Vitae
 layout: page
-path: "/cv/"
+path: /cv/
 ---
 
 After fifteen years as a mostly independent software consultant and educator, I'm ready to focus primarily on my time in the classroom. Since my first experience teaching robotics (while still in high school), I have made education a priority in my career. However, as an adolescent intrigued by software, I lacked a qualified mentor. This experience informs my belief that students of today deserve to be taught by industry professionals.

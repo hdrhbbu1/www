@@ -1,8 +1,8 @@
 ---
-title: "About Trump"
-date: "2016-12-21T22:29:42.000Z"
-path: "/about-trump"
-layout: "post"
+title: About Trump
+date: '2016-12-21T22:29:42.000Z'
+path: /about-trump
+layout: post
 tags:
   - history
   - politics

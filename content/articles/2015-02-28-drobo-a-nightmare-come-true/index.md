@@ -1,8 +1,8 @@
 ---
-title: "Drobo: a Nightmare Come True"
-date: "2015-03-01T02:39:00.000Z"
-path: "/drobo-a-nightmare-come-true"
-layout: "post"
+title: 'Drobo: a Nightmare Come True'
+date: '2015-03-01T02:39:00.000Z'
+path: /drobo-a-nightmare-come-true
+layout: post
 tags:
   - customer-service
   - gripes

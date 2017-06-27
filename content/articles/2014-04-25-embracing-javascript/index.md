@@ -1,8 +1,8 @@
 ---
-title: "Embracing JavaScript"
-date: "2014-04-25T16:00:00.000Z"
-path: "/embracing-javascript"
-layout: "post"
+title: Embracing JavaScript
+date: '2014-04-25T16:00:00.000Z'
+path: /embracing-javascript
+layout: post
 tags:
   - engineering
   - software

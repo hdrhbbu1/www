@@ -1,8 +1,8 @@
 ---
-title: "It's Not About Your Tools"
-date: "2013-04-04T16:00:00.000Z"
-path: "/its-not-about-your-tools"
-layout: "post"
+title: It's Not About Your Tools
+date: '2013-04-04T16:00:00.000Z'
+path: /its-not-about-your-tools
+layout: post
 tags:
   - toolmaking
   - informed-opinions

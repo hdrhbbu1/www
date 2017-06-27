@@ -1,8 +1,8 @@
 ---
-title: "Urbanscapes: Beauty in the Broken"
-date: "2013-04-05T16:00:00.000Z"
-path: "/urbanscapes-beauty-in-the-broken"
-layout: "post"
+title: 'Urbanscapes: Beauty in the Broken'
+date: '2013-04-05T16:00:00.000Z'
+path: /urbanscapes-beauty-in-the-broken
+layout: post
 tags:
   - photography
   - project-diary

@@ -1,8 +1,8 @@
 ---
-title: "Ignorant Advice"
-date: "2016-06-03T22:16:24.000Z"
-path: "/ignorant-advice"
-layout: "post"
+title: Ignorant Advice
+date: '2016-06-03T22:16:24.000Z'
+path: /ignorant-advice
+layout: post
 tags:
   - advice
   - parenting

@@ -1,8 +1,8 @@
 ---
-title: "Don't Solve Everything Today"
-date: "2016-03-19T03:09:53.000Z"
-path: "/dont-solve-everything-today"
-layout: "post"
+title: Don't Solve Everything Today
+date: '2016-03-19T03:09:53.000Z'
+path: /dont-solve-everything-today
+layout: post
 tags:
   - business
   - goals

@@ -1,8 +1,8 @@
 ---
-title: "Hard Reboot"
-date: "2012-11-20T18:00:00.000Z"
-path: "/hard-reboot"
-layout: "post"
+title: Hard Reboot
+date: '2012-11-20T18:00:00.000Z'
+path: /hard-reboot
+layout: post
 tags:
   - starting-over
   - personal-branding

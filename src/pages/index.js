@@ -2,6 +2,7 @@ import React, { Component } from 'react'
 import Helmet from 'react-helmet'
 
 import { rhythm } from '../util/typography'
+import Container from '../components/Container'
 import SiteSidebar from '../components/SiteSidebar'
 import PostPreview from '../components/PostPreview'
 
@@ -17,21 +18,7 @@ export default class IndexRoute extends Component {
       .map(e => e.node)
 
     return (
-      <div
-        css={{
-          display: 'flex',
-          marginTop: rhythm(2),
-          marginRight: 'auto',
-          marginLeft: 'auto',
-          marginBottom: rhythm(2),
-          width: '90%',
-          maxWidth: '1024px',
-          '@media(max-width: 800px)': {
-            flexDirection: 'column',
-            alignItems: 'stretch'
-          }
-        }}
-      >
+      <Container>
         <Helmet
           title={byline}
         />
@@ -74,7 +61,7 @@ export default class IndexRoute extends Component {
             />
           ))}
         </div>
-      </div>
+      </Container>
     )
   }
 }

@@ -4,6 +4,7 @@ import Helmet from 'react-helmet'
 import { rhythm } from '../util/typography'
 import Container from '../components/Container'
 import SiteSidebar from '../components/SiteSidebar'
+import Main from '../components/Main'
 
 export default class PageTemplate extends Component {
   render() {
@@ -23,14 +24,7 @@ export default class PageTemplate extends Component {
           title={title}
           description={description}
         />
-        <div
-          css={{
-            width: '70%',
-            '@media(max-width: 800px)': {
-              width: '100%'
-            }
-          }}
-        >
+        <Main>
           <h2
             css={{
               marginTop: 0
@@ -47,7 +41,7 @@ export default class PageTemplate extends Component {
             }}
             dangerouslySetInnerHTML={{ __html: html }}
           />
-        </div>
+        </Main>
       </Container>
     )
   }

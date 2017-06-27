@@ -1,8 +1,8 @@
 ---
-guid: "982390ac-b681-40bc-8db6-d6a4694c67bc" 
+guid: 982390ac-b681-40bc-8db6-d6a4694c67bc
 title: Dispatch
-date: "2013-07-01T17:02:47.590Z"
-updated_at: "2015-01-28T20:04:35.768Z"
+date: 2013-07-01T17:02:47.590Z
+updated_at: 2015-01-28T20:04:35.768Z
 layout: show 
 draft: false 
 ---

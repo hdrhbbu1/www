@@ -1,0 +1,8 @@
+/* TEAM */
+Designed and developed by Nicholas Young
+https://nicholaswyoung.com/
+https://twitter.com/nicholaswyoung/
+
+/* SITE */
+Powered by Gatsby, React, Markdown, and YAML
+https://gatsbyjs.org/

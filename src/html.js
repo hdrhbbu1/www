@@ -27,6 +27,7 @@ export default class HTML extends Component {
           <meta httpEquiv="X-UA-Compatible" content="IE=edge" />
           <meta name="viewport" content="width=device-width, initial-scale=1.0 maximum-scale=5.0" />
           {this.props.headComponents}
+          <link rel="author" href="/humans.txt"/>
           <TypographyStyle typography={typography}/>
           {title.toComponent()}
           {meta.toComponent()}

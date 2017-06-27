@@ -7,7 +7,6 @@ import PostPreview from '../components/PostPreview'
 
 export default class TagTemplate extends Component {
   render() {
-    const { title } = this.props.data.site.siteMetadata
     const { totalCount, edges } = this.props.data.allMarkdownRemark
     const { tag } = this.props.pathContext
     const posts = edges.map(e => e.node)
@@ -18,7 +17,7 @@ export default class TagTemplate extends Component {
         }}
       >
         <Helmet
-          title={title}
+          title={`Posts tagged with ${tag}`}
         />
         <div>
           <Link
@@ -90,12 +89,6 @@ export default class TagTemplate extends Component {
 
 export const pageQuery = graphql`
   query TagPage($tag: String!) {
-    site {
-      siteMetadata {
-        title
-        description
-      }
-    }
     allMarkdownRemark(
       limit: 1000,
       sort: { order: DESC, fields: [frontmatter___date] },

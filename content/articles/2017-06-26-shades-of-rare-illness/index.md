@@ -45,11 +45,12 @@ nervous system dysfunction. After fighting for almost three decades without so
 much as the name of my medical enemy, I was finally granted answers in 2015.
 What felt like a lifetime of genetic testing and clinical observation culminated
 in one terrifying moment when I was diagnosed with a rare, incurable genetic
-connective tissue disorder, Ehlers-Danlos Syndrome.
+connective tissue disorder, [Ehlers-Danlos
+Syndrome](/tags/ehlers-danlos-syndrome/).
 
 Ehlers-Danlos Syndrome (hereafter referred to as "EDS") affects the body's
-ability to produce collagen, a crucial structural protein. Thirteen subtypes
-exist within the EDS family of disorders, some more severe than others, but each
+ability to produce collagen, a crucial structural protein. [Thirteen subtypes
+exist within the EDS family of disorders,](https://ehlers-danlos.com/eds-types/) some more severe than others, but each
 with its own collection of symptoms and comorbidities. Needless to say, the
 experience of most patients can be startlingly complex. Even checkup visits with
 my doctor are fraught with many questions and doubt. The future quality of life

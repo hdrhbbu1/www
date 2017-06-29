@@ -5,11 +5,32 @@ const slash = require('slash')
 const get = require('lodash.get')
 const format = require('date-fns/format')
 
+const postTemplate = path.resolve('src/templates/Post.js')
+const showTemplate = path.resolve('src/templates/Show.js')
+const episodeTemplate = path.resolve('src/templates/Episode.js')
+const pageTemplate = path.resolve('src/templates/Page.js')
+const tagTemplate = path.resolve('src/templates/Tag.js')
+  
+const template = (l = 'page') => {
+  l = l.toLowerCase()
+
+  if (l === 'post') {
+    return postTemplate
+  }
+
+  if (l === 'show') {
+    return showTemplate
+  }
+
+  if (l === 'episode') {
+    return episodeTemplate
+  }
+
+  return pageTemplate
+}
+
 exports.createPages = ({ graphql, boundActionCreators }) => {
   const { createPage } = boundActionCreators
-  const postTemplate = path.resolve('src/templates/Post.js')
-  const pageTemplate = path.resolve('src/templates/Page.js')
-  const tagTemplate = path.resolve('src/templates/Tag.js')
   
   return new Promise((resolve, reject) => {
     // Query for markdown nodes to create pages.
@@ -49,7 +70,7 @@ exports.createPages = ({ graphql, boundActionCreators }) => {
         const { layout } = edge.node.frontmatter
         createPage({
           path: edge.node.fields.slug,
-          component: layout === 'post' ? postTemplate : pageTemplate,
+          component: template(layout),
           context: {
             slug: edge.node.fields.slug
           }
@@ -86,10 +107,15 @@ exports.onCreateNode = ({ node, boundActionCreators, getNode }) => {
     let slug
     if (node.frontmatter.path) {
       slug = cleanSlashes(node.frontmatter.path)
-    } else if (node.frontmatter.title) {
+    } else if (node.frontmatter.title && regularPage(node)) {
       slug = slugify(node.frontmatter.title)
+    } else if (node.frontmatter.layout === 'show') {
+      slug = ['programs', slugify(node.frontmatter.title)].join('/')
+    } else if (node.frontmatter.layout === 'episode') {
+      slug = ['programs', slugify(node.frontmatter.show), node.frontmatter.number].join('/')
     } else {
-      slug = node.relativePath
+      const relativePath = fileNode.relativePath
+      slug = path.basename(relativePath, path.extname(relativePath))
     }
 
     if (node.frontmatter.layout === 'post') {
@@ -103,6 +129,14 @@ exports.onCreateNode = ({ node, boundActionCreators, getNode }) => {
     const relativePath = node.relativePath
     createNodeField({ node, fieldName: 'slug', fieldValue: ensureSlashes(relativePath) })
   }
+}
+
+function regularPage(node) {
+  const { layout = 'post' } = node.frontmatter
+  if (layout === 'post' || layout === 'page') {
+    return true
+  }
+  return false
 }
 
 function ensureSlashes(slug) {

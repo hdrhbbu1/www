@@ -2,7 +2,9 @@ import React, { Component } from 'react'
 import Helmet from 'react-helmet'
 
 import { rhythm } from '../util/typography'
+import Container from '../components/Container'
 import SiteSidebar from '../components/SiteSidebar'
+import Main from '../components/Main'
 
 export default class PageTemplate extends Component {
   render() {
@@ -14,53 +16,15 @@ export default class PageTemplate extends Component {
     const { html, frontmatter } = this.props.data.markdownRemark
 
     return (
-      <div
-        css={{
-          display: 'flex',
-          marginTop: rhythm(2),
-          marginRight: 'auto',
-          marginLeft: 'auto',
-          marginBottom: rhythm(2),
-          width: '90%',
-          maxWidth: '1024px',
-          '@media(max-width: 800px)': {
-            flexDirection: 'column',
-            alignItems: 'stretch'
-          }
-        }}
-      >
+      <Container>
         <Helmet
           title={frontmatter.title}
         />
         <SiteSidebar
           title={title}
           description={description}
-          css={{
-            width: '30%',
-            marginRight: '5%',
-            paddingRight: '5%',
-            borderRight: '1px rgba(0, 0, 0, .1) solid',
-            '@media(max-width: 800px)': {
-              flexDirection: 'column',
-              alignItems: 'stretch',
-              borderRight: 'none',
-              width: '100%',
-              marginRight: '0',
-              paddingRight: '0',
-              marginBottom: rhythm(2),
-              paddingBottom: rhythm(2),
-              borderBottom: '1px rgba(0, 0, 0, .1) solid',
-            }
-          }}
         />
-        <div
-          css={{
-            width: '70%',
-            '@media(max-width: 800px)': {
-              width: '100%'
-            }
-          }}
-        >
+        <Main>
           <h2
             css={{
               marginTop: 0
@@ -77,8 +41,8 @@ export default class PageTemplate extends Component {
             }}
             dangerouslySetInnerHTML={{ __html: html }}
           />
-        </div>
-      </div>
+        </Main>
+      </Container>
     )
   }
 }

@@ -4,6 +4,7 @@ import Helmet from 'react-helmet'
 import { rhythm } from '../util/typography'
 import Container from '../components/Container'
 import SiteSidebar from '../components/SiteSidebar'
+import Main from '../components/Main'
 import PostPreview from '../components/PostPreview'
 
 export default class IndexRoute extends Component {
@@ -26,14 +27,7 @@ export default class IndexRoute extends Component {
           title={title}
           description={description}
         />
-        <div
-          css={{
-            width: '70%',
-            '@media(max-width: 800px)': {
-              width: '100%'
-            }
-          }}
-        >
+        <Main>
           {posts.map(p => (
             <PostPreview
               key={p.id}
@@ -43,7 +37,7 @@ export default class IndexRoute extends Component {
               {...p}
             />
           ))}
-        </div>
+        </Main>
       </Container>
     )
   }

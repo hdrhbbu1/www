@@ -6,7 +6,7 @@ module.exports = {
     description: 'Perspectives on family, disability, technology, and media; from a husband, father, and entrepreneur.',
     postscript: 'Nicholas Young is a husband, father, technologist, and disability advocate from Denver, Colorado.',
     email: 'nicholas@nicholaswyoung.com',
-    site_url: 'https://nicholaswyoung.com'
+    siteUrl: 'https://nicholaswyoung.com',
   },
   plugins: [
     {
@@ -29,7 +29,7 @@ module.exports = {
       options: {
         plugins: [
           {
-            resolve: 'gatsby-remark-responsive-image',
+            resolve: 'gatsby-remark-images',
             options: {
               maxWidth: 590,
             },
@@ -77,17 +77,6 @@ module.exports = {
     {
       resolve: 'gatsby-plugin-feed',
       options: {
-        query: `
-          {
-            site {
-              siteMetadata {
-                title
-                description
-                site_url
-              }
-            }
-          }
-        `,
         feeds: [
           {
             query: `
@@ -120,28 +109,6 @@ module.exports = {
         ]
       }
     },
-    {
-      resolve: 'gatsby-plugin-sitemap',
-      options: {
-        query: `
-          {
-            site {
-              siteMetadata {
-                site_url
-              }
-            }
-            allMarkdownRemark(filter: { frontmatter: { draft: { ne: true } } }) {
-              edges {
-                node {
-                  fields {
-                    slug
-                  }
-                }
-              }
-            }
-          }
-        `
-      },
-    }
+    `gatsby-plugin-sitemap`,
   ]
 }

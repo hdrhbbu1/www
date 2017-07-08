@@ -123,11 +123,11 @@ exports.onCreateNode = ({ node, boundActionCreators, getNode }) => {
     }
 
     if (slug) {
-      createNodeField({ node, fieldName: 'slug', fieldValue: ensureSlashes(slug) })
+      createNodeField({ node, name: 'slug', value: ensureSlashes(slug) })
     }
   } else if (node.internal.type === 'File') {
     const relativePath = node.relativePath
-    createNodeField({ node, fieldName: 'slug', fieldValue: ensureSlashes(relativePath) })
+    createNodeField({ node, name: 'slug', value: ensureSlashes(relativePath) })
   }
 }
 

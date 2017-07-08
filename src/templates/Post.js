@@ -8,7 +8,7 @@ const toAbsolute = (host, path) => host + path
 
 export default class PostTemplate extends Component {
   render() {
-    const { site_url } = this.props.data.site.siteMetadata
+    const { siteUrl } = this.props.data.site.siteMetadata
 
     const {
       fields: { slug },
@@ -17,9 +17,9 @@ export default class PostTemplate extends Component {
       frontmatter: { title, tags, date, image, keywords }
     } = this.props.data.markdownRemark
 
-    const url = toAbsolute(site_url, slug)
+    const url = toAbsolute(siteUrl, slug)
 
-    const feature = toAbsolute(site_url, image && image.childImageSharp ?
+    const feature = toAbsolute(siteUrl, image && image.childImageSharp ?
       image.childImageSharp.responsiveResolution.src :
       '/share.jpg')
 
@@ -222,7 +222,7 @@ export const pageQuery = graphql`
   query TemplateBlogPost($slug: String!) {
     site {
       siteMetadata {
-        site_url
+        siteUrl
       }
     }
     markdownRemark(fields: { slug: { eq: $slug } }) {

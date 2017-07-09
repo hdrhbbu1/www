@@ -1,3 +1,8 @@
+const {
+  createArticlesFeed,
+  createPodcastFeeds
+} = require('./config/feeds')
+
 module.exports = {
   siteMetadata: {
     title: 'Nicholas Young',
@@ -71,36 +76,10 @@ module.exports = {
     {
       resolve: 'gatsby-plugin-feed',
       options: {
-        feeds: [
-          {
-            query: `
-              {
-                allMarkdownRemark(
-                  sort: { order: DESC, fields: [frontmatter___date] },
-                  filter: {
-                    frontmatter: { draft: { ne: true } },
-                    fileAbsolutePath: { regex: "/articles/" }
-                  },
-                ) {
-                  edges {
-                    node {
-                      excerpt
-                      html
-                      frontmatter {
-                        title
-                        date
-                      }
-                      fields {
-                        slug
-                      }
-                    }
-                  }
-                }
-              }
-            `,
-            output: '/rss.xml'
-          }
-        ]
+        feeds: [].concat(
+          createArticlesFeed(),
+          createPodcastFeeds()
+        )
       }
     },
     `gatsby-plugin-sitemap`,

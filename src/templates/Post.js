@@ -112,6 +112,8 @@ export default class PostTemplate extends Component {
           </Link>
         </div>
         <article
+          itemscope
+          itemtype="https://schema.org/Article"
           css={{
             width: '90%',
             maxWidth: '800px',
@@ -157,6 +159,7 @@ export default class PostTemplate extends Component {
             </div>
           </header>
           <div
+            itemprop="articleBody"
             css={{
               width: '90%',
               margin: '0 auto',

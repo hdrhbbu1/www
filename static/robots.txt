@@ -1,2 +1,5 @@
 User-agent: *
 Allow: /
+Disallow: /offline-plugin-app-shell-fallback/
+Disallow: /404/
+Disallow: /404.html

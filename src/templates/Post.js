@@ -3,6 +3,7 @@ import Helmet from 'react-helmet'
 import Link from 'gatsby-link'
 
 import typography, { rhythm, scale } from '../util/typography'
+import EmailRegistration from '../components/EmailRegistration'
 
 const toAbsolute = (host, path) => host + path
 
@@ -180,6 +181,7 @@ export default class PostTemplate extends Component {
             marginBottom: rhythm(2),
           }}
         />
+        <EmailRegistration/>
         <div
           css={{
             width: '70%',

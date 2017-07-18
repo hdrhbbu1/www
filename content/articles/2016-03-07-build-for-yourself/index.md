@@ -1,6 +1,6 @@
 ---
 title: Build For Yourself
-date: 2016-03-06T21:50:45.000Z
+date: '2016-03-06'
 path: /build-for-yourself
 layout: post
 tags:

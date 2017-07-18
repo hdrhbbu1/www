@@ -1,6 +1,6 @@
 ---
 title: 'Dads Change Diapers, Too'
-date: 2016-07-30T06:07:00.000Z
+date: '2016-07-30'
 path: /dads-change-diapers-too
 layout: post
 tags:

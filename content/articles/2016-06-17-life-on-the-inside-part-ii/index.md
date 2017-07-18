@@ -1,6 +1,6 @@
 ---
 title: 'Life on the Inside, Part II'
-date: 2016-06-17T06:49:00.000Z
+date: '2016-06-17'
 path: /life-on-the-inside-part-ii
 layout: post
 tags:

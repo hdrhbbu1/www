@@ -1,6 +1,6 @@
 ---
 title: Becoming Disabled
-date: 2017-05-13T07:00:00.000Z
+date: '2017-05-13'
 path: /becoming-disabled
 layout: post
 draft: false

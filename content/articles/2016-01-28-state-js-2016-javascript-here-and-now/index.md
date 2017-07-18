@@ -1,6 +1,6 @@
 ---
 title: 'State.js 2016: JavaScript, Here and Now'
-date: 2016-01-28T01:25:00.000Z
+date: '2016-01-27'
 path: /state-js-2016-javascript-here-and-now
 layout: post
 tags:

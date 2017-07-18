@@ -1,6 +1,6 @@
 ---
 title: The Ex-Resident's Guide to Chicago
-date: 2016-05-26T05:29:20.000Z
+date: '2016-05-25'
 path: /the-ex-residents-guide-to-chicago
 layout: post
 tags:

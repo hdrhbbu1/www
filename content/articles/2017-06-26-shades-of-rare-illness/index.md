@@ -1,6 +1,6 @@
 ---
 title: Shades of Rare Illness
-date: 2017-06-26T01:42:04.935Z
+date: '2017-06-25'
 layout: post
 draft: false
 keywords:

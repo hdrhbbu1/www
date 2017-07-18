@@ -1,6 +1,6 @@
 ---
 title: Casual Ableism
-date: 2017-06-09T18:54:59.263Z
+date: '2017-06-09'
 draft: false
 layout: post
 tags:

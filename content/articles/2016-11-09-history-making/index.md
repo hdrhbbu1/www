@@ -1,6 +1,6 @@
 ---
 title: History in the Making
-date: 2016-11-09T01:29:42.000Z
+date: '2016-11-08'
 path: /history-in-the-making
 layout: post
 tags:

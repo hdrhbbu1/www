@@ -1,6 +1,6 @@
 ---
 title: Distill
-date: 2014-05-01T06:54:00.000Z
+date: '2014-05-01'
 path: /distill
 layout: post
 tags:

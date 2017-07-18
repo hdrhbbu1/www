@@ -1,6 +1,6 @@
 ---
 title: 'Be Kind, Rewind'
-date: 2016-01-16T19:32:00.000Z
+date: '2016-01-16'
 path: /be-kind-rewind
 layout: post
 tags:

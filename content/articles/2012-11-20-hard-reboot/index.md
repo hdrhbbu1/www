@@ -1,6 +1,6 @@
 ---
 title: Hard Reboot
-date: 2012-11-19T21:00:00.000Z
+date: '2012-11-19'
 path: /hard-reboot
 layout: post
 tags:

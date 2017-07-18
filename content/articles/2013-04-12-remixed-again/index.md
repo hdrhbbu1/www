@@ -1,6 +1,6 @@
 ---
 title: 'Remixed, Again'
-date: 2013-04-11T22:00:00.000Z
+date: '2013-04-11'
 path: /remixed-again
 layout: post
 tags:

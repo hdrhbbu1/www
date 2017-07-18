@@ -1,6 +1,6 @@
 ---
 title: Don't Solve Everything Today
-date: 2016-03-18T09:09:53.000Z
+date: '2016-03-18'
 path: /dont-solve-everything-today
 layout: post
 tags:

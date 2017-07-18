@@ -1,6 +1,6 @@
 ---
 title: 'Hit Send: Smart Email Marketing'
-date: 2012-12-19T21:00:00.000Z
+date: '2012-12-19'
 path: /hit-send-smart-email-marketing
 layout: post
 tags:

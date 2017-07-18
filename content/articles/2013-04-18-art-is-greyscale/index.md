@@ -1,6 +1,6 @@
 ---
 title: Art is Greyscale
-date: 2013-04-17T22:00:00.000Z
+date: '2013-04-17'
 path: /art-is-greyscale
 layout: post
 tags:

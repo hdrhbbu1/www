@@ -1,6 +1,6 @@
 ---
 title: Painless Keyboarding
-date: 2015-11-30T21:00:00.000Z
+date: '2015-11-30'
 path: /painless-keyboarding
 layout: post
 tags:

@@ -1,6 +1,6 @@
 ---
 title: Embracing JavaScript
-date: 2014-04-24T22:00:00.000Z
+date: '2014-04-24'
 path: /embracing-javascript
 layout: post
 tags:

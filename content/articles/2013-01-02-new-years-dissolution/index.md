@@ -1,6 +1,6 @@
 ---
 title: New Years Dissolution
-date: 2013-01-01T21:00:00.000Z
+date: '2013-01-01'
 path: /new-years-dissolution
 layout: post
 tags:

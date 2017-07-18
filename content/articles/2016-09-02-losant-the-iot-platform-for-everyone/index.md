@@ -1,6 +1,6 @@
 ---
 title: 'Losant: the IoT Platform for Everyone'
-date: 2016-09-02T04:29:42.000Z
+date: '2016-09-01'
 path: /losant-the-iot-platform-for-everyone
 layout: post
 tags:

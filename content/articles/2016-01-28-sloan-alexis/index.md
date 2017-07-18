@@ -1,6 +1,6 @@
 ---
 title: Introducing Sloan Alexis Young
-date: 2016-01-28T08:51:11.000Z
+date: '2016-01-28'
 path: /sloan-alexis
 layout: post
 tags:

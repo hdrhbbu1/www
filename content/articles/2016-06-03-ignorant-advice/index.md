@@ -1,6 +1,6 @@
 ---
 title: Ignorant Advice
-date: 2016-06-03T04:16:24.000Z
+date: '2016-06-02'
 path: /ignorant-advice
 layout: post
 tags:

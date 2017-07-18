@@ -1,6 +1,6 @@
 ---
 title: 'Migrating from Feedburner: a Helpful Guide'
-date: 2014-01-14T16:46:00.000Z
+date: '2014-01-14'
 path: /migrating-from-feedburner-a-helpful-guide
 layout: post
 tags:

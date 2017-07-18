@@ -134,7 +134,7 @@ class EmailRegistration extends Component {
           <Title>Receive content like this in your inbox!</Title>
         ) : undefined}
         {done ? (
-          <Title>Thanks for subscribing!</Title>
+          <Title>Thanks for subscribing! Check your inbox for further instructions.</Title>
         ) : undefined}
         {errored ? (
           <Title>Something went wrong. Please check the form below.</Title>

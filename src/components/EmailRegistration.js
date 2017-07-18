@@ -123,7 +123,6 @@ class EmailRegistration extends Component {
 
   render() {
     const { done, errored, submitting } = this.state
-    console.log(submitting)
     return (
       <div
         css={{

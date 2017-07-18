@@ -7,7 +7,7 @@ The official website of voice-over actor, photographer, filmmaker, and producer 
 ## Developing
 
 This site is built on top of
-[Gatsby](https://github.com/gatsbyjs/gatsby/tree/1.0/) 1.0, a React-powered
+[Gatsby](https://github.com/gatsbyjs/gatsby/), a React-powered
 static site generator.
 
 ### Getting Started
@@ -18,8 +18,7 @@ Once installation is complete, you can run `make develop`, which will start a
 development server on [`localhost:8000`](http://localhost:8000) and begin
 watching for changes.
 
-When you're done, build the site with `make build`, and deploy with `make
-deploy`.
+When you're done, build the site with `npm run build`. Gatsby and Netlify do the rest.
 
 ### Authoring New Posts
 

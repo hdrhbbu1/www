@@ -11,7 +11,7 @@ module.exports = {
     description: 'Perspectives on family, disability, technology, and media.',
     postscript: 'Nicholas Young is a husband, father, technologist, and disability advocate from Denver, Colorado.',
     email: 'nicholas@nicholaswyoung.com',
-    siteUrl: 'https://nicholaswyoung.com',
+    siteUrl: 'https://www.nicholaswyoung.com',
     mediaUrl: 'https://archive.org/download',
   },
   plugins: [

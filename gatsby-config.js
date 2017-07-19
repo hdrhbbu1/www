@@ -12,6 +12,7 @@ module.exports = {
     postscript: 'Nicholas Young is a husband, father, technologist, and disability advocate from Denver, Colorado.',
     email: 'nicholas@nicholaswyoung.com',
     siteUrl: 'https://nicholaswyoung.com',
+    mediaUrl: 'https://archive.org/download',
   },
   plugins: [
     {

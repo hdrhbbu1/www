@@ -78,6 +78,7 @@ module.exports = {
         display: 'minimal-ui',
       },
     },
+    'gatsby-plugin-react-helmet',
     'gatsby-plugin-offline',
     'gatsby-plugin-catch-links',
     {

@@ -87,6 +87,8 @@ exports.createPodcastFeeds = () => {
             title
             author
             description
+            category
+            subcategory
             artwork {
               childImageSharp {
                 responsiveResolution(width: 1400) {
@@ -146,6 +148,20 @@ exports.createPodcastFeeds = () => {
         site_url: `${site.siteMetadata.siteUrl}${markdownRemark.fields.slug}`,
         generator: 'GatsbyJS',
         image_url: imageUrl,
+        custom_namespaces: {
+          'itunes': 'http://www.itunes.com/dtds/podcast-1.0.dtd',
+        },
+        custom_elements: [
+          { 'itunes:author': markdownRemark.frontmatter.author },
+          { 'itunes:image': {
+            _attr: { href: imageUrl }
+          }},
+          { 'itunes:summary': markdownRemark.frontmatter.description },
+          { 'itunes:category': [
+            { _attr: { text: markdownRemark.frontmatter.category } },
+            { 'itunes:category': { _attr: { text: markdownRemark.frontmatter.subcategory } } },
+          ]}
+        ],
       }
     },
 

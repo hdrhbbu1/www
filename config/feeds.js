@@ -51,6 +51,7 @@ exports.createArticlesFeed = () => {
       args.query.allMarkdownRemark.edges.map(edge => {
         return Object.assign({}, edge.node.frontmatter, {
           description: edge.node.excerpt,
+          pubDate: edge.node.frontmatter.date,
           url: args.query.site.siteMetadata.siteUrl + edge.node.fields.slug,
           guid: args.query.site.siteMetadata.siteUrl + edge.node.fields.slug,
           custom_elements: [{ 'content:encoded': edge.node.html }],
@@ -108,6 +109,8 @@ exports.createPodcastFeeds = () => {
               html
               frontmatter {
                 title
+                number
+                date
                 description
                 assets {
                   content_type
@@ -150,7 +153,9 @@ exports.createPodcastFeeds = () => {
         )[0]
         const { mediaUrl } = args.query.site.siteMetadata
         return Object.assign({}, edge.node.frontmatter, {
+          title: `#${edge.node.frontmatter.number}: ${edge.node.frontmatter.title}`,
           url: args.query.site.siteMetadata.siteUrl + edge.node.fields.slug,
+          pubDate: edge.node.frontmatter.date,
           description: edge.node.frontmatter.description,
           guid: args.query.site.siteMetadata.siteUrl + edge.node.fields.slug,
           custom_elements: [{ 'content:encoded': edge.node.html }],

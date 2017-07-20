@@ -21,7 +21,7 @@ Soon, I began producing my own program, a short-lived music/comedy show. My co-h
 
 Shortly after college, I was chosen for *The Pod Five*, a collective of influential podcasters from across the country. We told stories and held music competitions between the members. Everyone had a grand time, and our fans seemed to approve, too. While that show eventually disintegrated too, I'm proud to call [Zack Daggy](http://zackdaggy.com), the Pod Five's producer, a friend. We've never met, but the bond between broadcasters is strong.
 
-But why do I tell you all of this? The truth is often longer than the lie: when I began this piece, I intended it to be a few paragraphs announcing the launch of my broadcasting network, [The Machine](http://machine.fm), not a historical account. I suppose it's worth knowing, though, if it helps you understand my deep love for radio, and pluses of the medium for passionate storytellers.
+But why do I tell you all of this? The truth is often longer than the lie: when I began this piece, I intended it to be a few paragraphs announcing the launch of my broadcasting network, [The Machine](http://nicholaswyoung.com/work/machinefm), not a historical account. I suppose it's worth knowing, though, if it helps you understand my deep love for radio, and pluses of the medium for passionate storytellers.
 
 You see, unlike television, where everything is laid out for the viewer in radiant light, radio forces you to listen closely. Your eyes can scan the television, picking up the scrolling headlines in a glance. Radio isn't like that at all. Anything that happens, does so sequentially. The music, voiceovers, and discussion combine to form a story that you, the listener, consume in that order. It tames the curious, information-addled mind that so many of us possess today.
 
@@ -29,4 +29,4 @@ I'm a storyteller, by profession. It's what we do at [Original Machine](http://o
 
 It's August, 2013. With the exception of NPR, I cannot turn on my radio. The genuine love of broadcasting has vanished from most in the industry, leaving a preprogrammed tsunami of compressed music and overdriven commercials in the wake. Podcasts are my refuge.
 
-If you, like me, feel tired from the commercialized world of programmed broadcasting, visit [The Machine](http://machine.fm). We'll tell you a story worth hearing, play a song you can rock to, and help you become a better artist.
+If you, like me, feel tired from the commercialized world of programmed broadcasting, visit [The Machine](http://nicholaswyoung.com/work/machinefm). We'll tell you a story worth hearing, play a song you can rock to, and help you become a better artist.

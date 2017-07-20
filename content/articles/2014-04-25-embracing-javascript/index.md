@@ -18,7 +18,7 @@ Eventually, I couldn't ignore Node anymore. During my initial tests, I benchmark
 
 ## The Backstory
 
-For those of you who don't know me very well, here's an explanation of what led to the events above. Six months ago, I launched [The Machine](http://machine.fm), a broadcasting network where we produce content for independent creators and entrepreneurs. During our short lifespan, we've experienced tremendous growth: in the beginning, only my friends listened to our shows. Now, we serve content to over 25,000 listeners per month, a number that continues to grow rapidly.
+For those of you who don't know me very well, here's an explanation of what led to the events above. Six months ago, I launched [The Machine](http://nicholaswyoung.com/work/machinefm), a broadcasting network where we produce content for independent creators and entrepreneurs. During our short lifespan, we've experienced tremendous growth: in the beginning, only my friends listened to our shows. Now, we serve content to over 25,000 listeners per month, a number that continues to grow rapidly.
 
 When I launched the network, our platform was written with Rails. It was my web-development tool of choice. I was productive, and Ruby is a pleasure to write. This single application served our public facing website, embeddable players, admin panel, and tracked downloads from podcast clients. It was fine in the beginning, but six months in, the system slowed to a crawl as our audience exploded.
 
@@ -26,7 +26,7 @@ When I launched the network, our platform was written with Rails. It was my web-
 
 In my attempt to increase performance (and ultimately, serve media to an increasing number of listeners), I decided to divide each element of the service into it's own app. The download tracer, which is arguably the most important part of our platform, was up first. With this model, I could try running Node in production on a few, but not all, of our services. If it failed, I could return to Ruby.
 
-Just over a month ago, I launched Tracer, the first [Machine.FM](http://machine.fm) service I ported to Node. During the rewrite, I was able to directly compare the JavaScript implementation to what I previously wrote in Ruby. The results were staggering: not only was the new application easier to read and understand, but it benchmarked over 30-times faster than the previous system. This newfound perspective opened by eyes, and silenced my critical tongue. JavaScript is cool, and it's here to stay.
+Just over a month ago, I launched Tracer, the first [nicholaswyoung.com/work/machinefm](http://nicholaswyoung.com/work/machinefm) service I ported to Node. During the rewrite, I was able to directly compare the JavaScript implementation to what I previously wrote in Ruby. The results were staggering: not only was the new application easier to read and understand, but it benchmarked over 30-times faster than the previous system. This newfound perspective opened by eyes, and silenced my critical tongue. JavaScript is cool, and it's here to stay.
 
 ## Best Practices
 
@@ -94,7 +94,7 @@ I say this with no hard feelings towards Michael Ficarra, or Jeremy Ashkenas, th
 
 ## Wrap Up
 
-In the end, I've learned a lot about the language that I once hated. JavaScript is a wonderful little tool, with incredible flexibility. If you haven't tried Node yet, you should. As I write this, Node now powers all of our systems at [The Machine](http://machine.fm), and I expect it will continue to do so. Both the language and Node runtime have very bright futures as more developers join the community.
+In the end, I've learned a lot about the language that I once hated. JavaScript is a wonderful little tool, with incredible flexibility. If you haven't tried Node yet, you should. As I write this, Node now powers all of our systems at [The Machine](http://nicholaswyoung.com/work/machinefm), and I expect it will continue to do so. Both the language and Node runtime have very bright futures as more developers join the community.
 
 I'll continue to share tips and tricks, as I learn more about working in Node. It's been a thrilling, though challenging endeavor thus far, and there's still more to learn. I am, by no means, an expert. Nobody is, really, because the standards and best practices will continue to shift as the platform matures. But for now, if the ideas above help someone avoid the awkwardness often associated with writing server-side JavaScript, I'll be happy.
 

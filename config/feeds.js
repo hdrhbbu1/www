@@ -6,6 +6,7 @@ exports.createArticlesFeed = () => {
         site {
           siteMetadata {
             title
+            author
             description
             siteUrl
           }
@@ -40,6 +41,7 @@ exports.createArticlesFeed = () => {
 
     setup: ({ query: { site: { siteMetadata }}}) => {
       return Object.assign({}, siteMetadata, {
+        author: siteMetadata.author,
         feed_url: siteMetadata.siteUrl + '/rss.xml',
         site_url: siteMetadata.siteUrl,
         generator: 'GatsbyJS',
@@ -83,6 +85,7 @@ exports.createPodcastFeeds = () => {
           }
           frontmatter {
             title
+            author
             description
             artwork {
               childImageSharp {
@@ -138,6 +141,7 @@ exports.createPodcastFeeds = () => {
       return {
         title: markdownRemark.frontmatter.title,
         description: markdownRemark.frontmatter.description,
+        author: markdownRemark.frontmatter.author,
         feed_url: `${site.siteMetadata.siteUrl}/programs/${s}.xml`,
         site_url: `${site.siteMetadata.siteUrl}${markdownRemark.fields.slug}`,
         generator: 'GatsbyJS',

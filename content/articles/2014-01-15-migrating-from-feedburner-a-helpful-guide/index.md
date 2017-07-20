@@ -19,7 +19,7 @@ With the iminent demise of this popular distribution channel, podcasters are rig
 
 ## Burned No More: A Case Study
 
-(image: chillcast-artwork.jpg class: alignRight)My involvement in the Feedburner conundrum came by chance. I didn't have any active programs using it, but when BiteSize networks dropped my friend Anji Bee, The Chillcast (her program) needed a new home. Her RSS feed was a relic from a previous age, still sporting the PodShow name. We set out to migrate [The Chillcast](http://http://www.anjibee.com) from it's Feedburner and Mevio roots to our state-of-the-art publishing and analytics system over at [The Machine](http://machine.fm). Anji is one of podcasting's foremost producers, and her show has been downloaded millions of times around the world. We couldn't afford to lose listeners, when handling a property this large. Our workflow went something like this:
+(image: chillcast-artwork.jpg class: alignRight)My involvement in the Feedburner conundrum came by chance. I didn't have any active programs using it, but when BiteSize networks dropped my friend Anji Bee, The Chillcast (her program) needed a new home. Her RSS feed was a relic from a previous age, still sporting the PodShow name. We set out to migrate [The Chillcast](http://http://www.anjibee.com) from it's Feedburner and Mevio roots to our state-of-the-art publishing and analytics system over at [The Machine](http://nicholaswyoung.com/work/machinefm). Anji is one of podcasting's foremost producers, and her show has been downloaded millions of times around the world. We couldn't afford to lose listeners, when handling a property this large. Our workflow went something like this:
 
 ### #1. Setup The New Origin Feed
 
@@ -63,6 +63,6 @@ Regardless of where your feed is migrating from or to, you can easily use the sa
 
 ## Wrap Up
 
-There, was that simple enough? I told you the guide was friendly and approachable. If you followed the steps above, you've should've successfully transferred your podcast away from Feedburner. Of course, I can't ignore an opportunity to plug [Anji Bee's Chillcast](http://http://www.anjibee.com), on my podcasting network, [The Machine](http://machine.fm). It's the show that inspired this post! So, if you're looking for great tunes, please come check out the show.
+There, was that simple enough? I told you the guide was friendly and approachable. If you followed the steps above, you've should've successfully transferred your podcast away from Feedburner. Of course, I can't ignore an opportunity to plug [Anji Bee's Chillcast](http://http://www.anjibee.com), on my podcasting network, [The Machine](http://nicholaswyoung.com/work/machinefm). It's the show that inspired this post! So, if you're looking for great tunes, please come check out the show.
 
 Here's to a rockin' 2014, when everyone is in control of their media.

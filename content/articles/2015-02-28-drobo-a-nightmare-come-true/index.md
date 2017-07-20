@@ -9,7 +9,7 @@ tags:
 ---
 Settle in, dear reader. I'm here to share a story of frustration, unbelievably offensive customer service, and ultimately, a brand gone astray.
 
-It was mid-2012. I was preparing to launch [The Machine](http://machine.fm), a broadcasting network for listeners interested in artisan goods, intellectual conversations, and spirited debate. Anticipating our looming need for storage, I purchased a DroboFS network-attached storage device, convinced it was the best product for our needs as a growing, but still home-based business.
+It was mid-2012. I was preparing to launch [The Machine](http://nicholaswyoung.com/work/machinefm), a broadcasting network for listeners interested in artisan goods, intellectual conversations, and spirited debate. Anticipating our looming need for storage, I purchased a DroboFS network-attached storage device, convinced it was the best product for our needs as a growing, but still home-based business.
 
 When the unit arrived, I hurried to unbox it, install the hard drives I purchased expressly for archival storage, and connect the Drobo to our network. For two months, everything was excellent: we recorded, edited, and packaged up content for our launch, storing everything on the 5-drive array whirring quietly beside my desk. It was easy to use, fast to access, and at that point, appeared to be a solid investment. The praises of Drobo's "BeyondRAID" technology kept pouring in; everyone agreed that, not only was it the easiest to use NAS on the market, but adding capacity was simple: just add a new drive, and you're ready to go again.
 

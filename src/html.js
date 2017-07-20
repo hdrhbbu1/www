@@ -1,6 +1,5 @@
 import React, { Component } from 'react'
 import { TypographyStyle } from 'react-typography'
-import Helmet from 'react-helmet'
 
 import typography from './util/typography'
 
@@ -18,8 +17,6 @@ if (process.env.NODE_ENV === 'production') {
 
 export default class HTML extends Component {
   render() {
-    const { title, meta, link } = Helmet.rewind()
-
     return (
       <html lang="en">
         <head>
@@ -29,9 +26,6 @@ export default class HTML extends Component {
           {this.props.headComponents}
           <link rel="author" href="/humans.txt"/>
           <TypographyStyle typography={typography}/>
-          {title.toComponent()}
-          {meta.toComponent()}
-          {link.toComponent()}
           {css}
         </head>
         <body>

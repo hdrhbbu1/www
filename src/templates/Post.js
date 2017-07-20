@@ -29,7 +29,7 @@ export default class PostTemplate extends Component {
         <span
           key={t}
         >
-          <Link to={`/tags/${t}`}>
+          <Link to={`/tags/${t}/`}>
             {t}
           </Link>
           {i === tags.length - 1 ? undefined : ', '}

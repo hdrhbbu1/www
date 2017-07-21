@@ -89,6 +89,8 @@ exports.createPodcastFeeds = () => {
             description
             category
             subcategory
+            copyright
+            explicit
             artwork {
               childImageSharp {
                 responsiveResolution(width: 1400) {
@@ -151,6 +153,9 @@ exports.createPodcastFeeds = () => {
         generator: 'GatsbyJS',
         image_url: imageUrl,
         language: 'en-us',
+        categories: [markdownRemark.frontmatter.category, markdownRemark.frontmatter.subcategory],
+        explicit: markdownRemark.frontmatter.explicit ? true : false,
+        copyright: markdownRemark.frontmatter.copyright,
         custom_namespaces: {
           'itunes': 'http://www.itunes.com/dtds/podcast-1.0.dtd',
         },

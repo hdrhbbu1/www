@@ -10,5 +10,7 @@ artwork: artwork.jpg
 author: 'Nicholas Young & Joshua Wentz'
 category: Art
 subcategory: Design
+explicit: false
+copyright: '2013 - 2015 Joshua Wentz & Nicholas Young'
 ---
 Co-created in 2013 by Joshua Wentz and Nicholas Young, Dispatch touches almost every aspect of the modern artist's career. Wentz, a label-owner and musician, brings a unique perspective from Chicago's underground. 

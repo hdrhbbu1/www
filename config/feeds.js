@@ -195,7 +195,7 @@ exports.createPodcastFeeds = () => {
           enclosure: {
             url: [
               mediaUrl,
-              args.query.markdownRemark.archiveIdentifier || `machinefm-${s}`,
+              args.query.markdownRemark.frontmatter.archiveIdentifier || `machinefm-${s}`,
               asset.filename.replace('m4a', 'mp3'),
             ].join('/'),
           },

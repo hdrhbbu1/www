@@ -10,6 +10,7 @@ category: 'Society & Culture'
 subcategory: 'Personal Journals'
 explicit: false
 copyright: '2015 Ashly Dalene'
+archiveIdentifier: chickhabit
 description: >-
     Honest, raw conversations from women in the arts. This is the female perspective you've been looking for.
 ---

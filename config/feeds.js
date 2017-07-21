@@ -91,6 +91,7 @@ exports.createPodcastFeeds = () => {
             subcategory
             copyright
             explicit
+            archiveIdentifier
             artwork {
               childImageSharp {
                 responsiveResolution(width: 1400) {

@@ -117,6 +117,8 @@ exports.createPodcastFeeds = () => {
                 number
                 date
                 description
+                explicit
+                duration
                 assets {
                   content_type
                   filename
@@ -148,6 +150,7 @@ exports.createPodcastFeeds = () => {
         site_url: `${site.siteMetadata.siteUrl}${markdownRemark.fields.slug}`,
         generator: 'GatsbyJS',
         image_url: imageUrl,
+        language: 'en-us',
         custom_namespaces: {
           'itunes': 'http://www.itunes.com/dtds/podcast-1.0.dtd',
         },
@@ -178,7 +181,11 @@ exports.createPodcastFeeds = () => {
           pubDate: edge.node.frontmatter.date,
           description: edge.node.frontmatter.description,
           guid: args.query.site.siteMetadata.siteUrl + edge.node.fields.slug,
-          custom_elements: [{ 'content:encoded': edge.node.html }],
+          custom_elements: [
+            { 'itunes:explicit': edge.node.frontmatter.explicit ? 'yes' : 'no' },
+            { 'itunes:duration': edge.node.frontmatter.duration },
+            { 'content:encoded': edge.node.html }
+          ],
           enclosure: {
             url: [
               mediaUrl,

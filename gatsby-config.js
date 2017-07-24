@@ -82,6 +82,12 @@ module.exports = {
     'gatsby-plugin-offline',
     'gatsby-plugin-catch-links',
     {
+      resolve: 'gatsby-plugin-nprogress',
+      options: {
+        color: 'tomato',
+      },
+    },
+    {
       resolve: 'gatsby-plugin-feed',
       options: {
         feeds: [].concat(

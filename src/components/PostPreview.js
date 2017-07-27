@@ -9,7 +9,7 @@ const PostPreview = ({ frontmatter, fields, excerpt, ...props }) => (
     <Link
       to={fields.slug}
       css={{
-        textDecoration: 'none'
+        textDecoration: 'none',
       }}
     >
       <h3>{frontmatter.title}</h3>

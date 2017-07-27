@@ -1,0 +1,16 @@
+image: node:latest
+
+variables:
+  CI: 'true'
+
+cache:
+  paths:
+    - node_modules/
+
+stages:
+  - lint
+
+lint:
+  stage: lint
+  script:
+    - npm run lint

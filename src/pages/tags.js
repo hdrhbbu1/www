@@ -34,8 +34,8 @@ export default class TagsRoute extends Component {
                 width: '85px',
                 margin: '20px auto 0',
                 textAlign: 'center',
-                display: 'block'
-              }
+                display: 'block',
+              },
             }}
           >
             Home
@@ -63,15 +63,15 @@ export default class TagsRoute extends Component {
               css={{
                 fontSize: '2.8em',
                 '@media(max-width: 900px)': {
-                  fontSize: '2.2em'
-                }
+                  fontSize: '2.2em',
+                },
               }}
             >
               Tags
             </h1>
           </header>
           {tags.map(({ fieldValue }) => (
-            <Link to={`/tags/${fieldValue}/`}>
+            <Link key={fieldValue} to={`/tags/${fieldValue}/`}>
               <h2>{fieldValue}</h2>
             </Link>
           ))}

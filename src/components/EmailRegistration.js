@@ -5,7 +5,7 @@ import { Form, Text } from 'react-form'
 
 import { rhythm } from '../util/typography'
 
-const emailRegex = /.+\@.+\..+/
+const emailRegex = /.+@.+\..+/
 
 const EmailSubscribeForm = ({ canSubmit, handleSubmit }) => (
   <Form
@@ -26,7 +26,7 @@ const EmailSubscribeForm = ({ canSubmit, handleSubmit }) => (
           opacity: canSubmit ? 1 : '.2',
           '@media(max-width: 800px)': {
             flexDirection: 'column',
-          }
+          },
         }}
       >
         <Text
@@ -41,7 +41,7 @@ const EmailSubscribeForm = ({ canSubmit, handleSubmit }) => (
             '@media(max-width: 800px)': {
               marginRight: '0',
               marginBottom: '.5em',
-            }
+            },
           }}
           placeholder="name"
           field="name"
@@ -57,7 +57,7 @@ const EmailSubscribeForm = ({ canSubmit, handleSubmit }) => (
             '@media(max-width: 800px)': {
               marginRight: '0',
               marginBottom: '.5em',
-            }
+            },
           }}
           placeholder="email address"
           field="email"
@@ -84,7 +84,7 @@ const Title = ({ children }) => (
       fontSize: '1.1em',
       '@media(min-width: 800px)': {
         fontSize: '1.3em',
-      }
+      },
     }}
   >
     {children}
@@ -111,14 +111,14 @@ class EmailRegistration extends Component {
     fetch('//madmimi.com/signups/subscribe/43842', {
       method: 'POST',
       mode: 'no-cors',
-      body
+      body,
     })
-    .then(() => {
-      this.setState({ done: true, submitting: false })
-    })
-    .catch(() => {
-      this.setState({ done: false, submitting: false })
-    })
+      .then(() => {
+        this.setState({ done: true, submitting: false })
+      })
+      .catch(() => {
+        this.setState({ done: false, submitting: false })
+      })
   }
 
   render() {

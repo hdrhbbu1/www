@@ -12,10 +12,10 @@ const options = {
   overrideStyles: ({ rhythm, scale }, options) => {
     return {
       h2: {
-        marginTop: rhythm(2)
+        marginTop: rhythm(2),
       },
       a: {
-        color: 'inherit'
+        color: 'inherit',
       },
       'tt,code': {
         background: 'hsla(23, 60%, 97%, 1)',
@@ -30,17 +30,17 @@ const options = {
       p: {
         lineHeight: 1.7,
         fontSize: '1em',
-        marginBottom: rhythm(1)
+        marginBottom: rhythm(1),
       },
       blockquote: {
         display: 'block',
         width: '100%',
-        borderLeft: '3px #999 solid', 
+        borderLeft: '3px #999 solid',
         padding: '1em 0 1em 1em',
         marginLeft: '0',
-      }
+      },
     }
-  }
+  },
 }
 
 const typography = new Typography(options)

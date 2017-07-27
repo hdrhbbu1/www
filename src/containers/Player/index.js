@@ -39,11 +39,11 @@ class Player extends Component {
   }
 }
 
-const mapState = ({player}) => player 
+const mapState = ({player}) => player
 const mapDispatch = dispatch => ({
   play: () => dispatch(play()),
   pause: () => dispatch(pause()),
-  resume: () => dispatch(resume())
+  resume: () => dispatch(resume()),
 })
 
 export default connect(mapState, mapDispatch)(Player)

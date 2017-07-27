@@ -2,7 +2,7 @@ import React, { Component } from 'react'
 import Helmet from 'react-helmet'
 import Link from 'gatsby-link'
 
-import typography, { rhythm, scale } from '../util/typography'
+import { rhythm } from '../util/typography'
 import EmailRegistration from '../components/EmailRegistration'
 
 const toAbsolute = (host, path) => host + path
@@ -15,14 +15,14 @@ export default class PostTemplate extends Component {
       fields: { slug },
       excerpt,
       html,
-      frontmatter: { title, tags, date, image, keywords }
+      frontmatter: { title, tags, date, image, keywords },
     } = this.props.data.markdownRemark
 
     const url = toAbsolute(siteUrl, slug)
 
-    const feature = toAbsolute(siteUrl, image && image.childImageSharp ?
-      image.childImageSharp.responsiveResolution.src :
-      '/share.jpg')
+    const feature = toAbsolute(siteUrl, image && image.childImageSharp
+      ? image.childImageSharp.responsiveResolution.src
+      : '/share.jpg')
 
     const tagged = (tags || []).map((t, i) => {
       return (
@@ -40,43 +40,43 @@ export default class PostTemplate extends Component {
     return (
       <div
         css={{
-          marginBottom: rhythm(2)
+          marginBottom: rhythm(2),
         }}
       >
-       <Helmet
+        <Helmet
           title={title}
           meta={[
             {
               name: 'twitter:title',
-              content: title
+              content: title,
             },
             {
               name: 'og:title',
-              content: title
+              content: title,
             },
             {
               name: 'twitter:card',
-              content: 'summary'
+              content: 'summary',
             },
             {
               name: 'twitter:description',
-              content: excerpt
+              content: excerpt,
             },
             {
               name: 'og:description',
-              content: excerpt
+              content: excerpt,
             },
             {
               name: 'og:url',
-              content: url
+              content: url,
             },
             {
               name: 'twitter:image',
-              content: feature
+              content: feature,
             },
             {
               name: 'og:image',
-              content: feature
+              content: feature,
             },
             {
               name: 'description',
@@ -105,20 +105,20 @@ export default class PostTemplate extends Component {
                 width: '85px',
                 margin: '20px auto 0',
                 textAlign: 'center',
-                display: 'block'
-              }
+                display: 'block',
+              },
             }}
           >
             Home
           </Link>
         </div>
         <article
-          itemscope
-          itemtype="https://schema.org/Article"
+          itemScope
+          itemType="https://schema.org/Article"
           css={{
             width: '90%',
             maxWidth: '800px',
-            margin: '0 auto'
+            margin: '0 auto',
           }}
         >
           <header
@@ -128,21 +128,21 @@ export default class PostTemplate extends Component {
               marginTop: rhythm(2),
               marginRight: 'auto',
               marginBottom: rhythm(2),
-              marginLeft: 'auto'
+              marginLeft: 'auto',
             }}
           >
             <Link
               to={slug}
               css={{
-                textDecoration: 'none'
+                textDecoration: 'none',
               }}
             >
               <h1
                 css={{
                   fontSize: '2.8em',
                   '@media(max-width: 900px)': {
-                    fontSize: '2.2em'
-                  }
+                    fontSize: '2.2em',
+                  },
                 }}
               >
                 {title}
@@ -151,7 +151,7 @@ export default class PostTemplate extends Component {
             <div
               css={{
                 marginTop: rhythm(2),
-                fontSize: '.9em'
+                fontSize: '.9em',
               }}
             >
               <time dateTime={date}>
@@ -160,14 +160,14 @@ export default class PostTemplate extends Component {
             </div>
           </header>
           <div
-            itemprop="articleBody"
+            itemProp="articleBody"
             css={{
               width: '90%',
               margin: '0 auto',
               fontSize: '1.05em',
               '@media(max-width: 800px)': {
-                fontSize: '1.1em'
-              }
+                fontSize: '1.1em',
+              },
             }}
             dangerouslySetInnerHTML={{ __html: html }}
           />
@@ -221,7 +221,7 @@ export default class PostTemplate extends Component {
         <p
           css={{
             textAlign: 'center',
-            madWidth : '800px',
+            madWidth: '800px',
             margin: '0 auto',
             marginTop: rhythm(1),
           }}

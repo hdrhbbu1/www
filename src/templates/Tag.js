@@ -7,7 +7,7 @@ import PostPreview from '../components/PostPreview'
 
 export default class TagTemplate extends Component {
   render() {
-    const { totalCount, edges } = this.props.data.allMarkdownRemark
+    const { edges } = this.props.data.allMarkdownRemark
     const { tag } = this.props.pathContext
     const posts = edges.map(e => e.node)
     return (
@@ -36,8 +36,8 @@ export default class TagTemplate extends Component {
                 width: '85px',
                 margin: '20px auto 0',
                 textAlign: 'center',
-                display: 'block'
-              }
+                display: 'block',
+              },
             }}
           >
             Home
@@ -65,8 +65,8 @@ export default class TagTemplate extends Component {
               css={{
                 fontSize: '2.8em',
                 '@media(max-width: 900px)': {
-                  fontSize: '2.2em'
-                }
+                  fontSize: '2.2em',
+                },
               }}
             >
               Posts tagged with {tag}:
@@ -98,7 +98,6 @@ export const pageQuery = graphql`
         }
       }
     ) {
-      totalCount
       edges {
         node {
           id

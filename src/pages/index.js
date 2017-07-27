@@ -12,7 +12,7 @@ export default class IndexRoute extends Component {
     const {
       title,
       byline,
-      description
+      description,
     } = this.props.data.site.siteMetadata
 
     const posts = this.props.data.allMarkdownRemark.edges
@@ -32,7 +32,7 @@ export default class IndexRoute extends Component {
             <PostPreview
               key={p.id}
               css={{
-                marginBottom: rhythm(2)
+                marginBottom: rhythm(2),
               }}
               {...p}
             />

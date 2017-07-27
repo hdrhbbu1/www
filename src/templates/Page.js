@@ -1,7 +1,6 @@
 import React, { Component } from 'react'
 import Helmet from 'react-helmet'
 
-import { rhythm } from '../util/typography'
 import Container from '../components/Container'
 import SiteSidebar from '../components/SiteSidebar'
 import Main from '../components/Main'
@@ -10,7 +9,7 @@ export default class PageTemplate extends Component {
   render() {
     const {
       title,
-      description
+      description,
     } = this.props.data.site.siteMetadata
 
     const { html, frontmatter } = this.props.data.markdownRemark
@@ -27,7 +26,7 @@ export default class PageTemplate extends Component {
         <Main>
           <h2
             css={{
-              marginTop: 0
+              marginTop: 0,
             }}
           >
             {frontmatter.title}
@@ -36,8 +35,8 @@ export default class PageTemplate extends Component {
             css={{
               fontSize: '1.0em',
               '@media(max-width: 800px)': {
-                fontSize: '1.1em'
-              }
+                fontSize: '1.1em',
+              },
             }}
             dangerouslySetInnerHTML={{ __html: html }}
           />

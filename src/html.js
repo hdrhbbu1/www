@@ -3,8 +3,6 @@ import { TypographyStyle } from 'react-typography'
 
 import typography from './util/typography'
 
-const BUILD_TIME = new Date().getTime()
-
 let css
 if (process.env.NODE_ENV === 'production') {
   css = (

@@ -1,5 +1,4 @@
 import React, { Component } from 'react'
-import PropTypes from 'prop-types'
 import { Howl } from 'howler'
 
 import Pause from '../../components/Pause'

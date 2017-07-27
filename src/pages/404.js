@@ -1,6 +1,5 @@
 import React, { Component } from 'react'
 import Helmet from 'react-helmet'
-import Link from 'gatsby-link'
 
 import Container from '../components/Container'
 import SiteSidebar from '../components/SiteSidebar'
@@ -29,8 +28,7 @@ export default class NotFound extends Component {
           >
             404: Not Found</h2>
           <p>
-            The page you're looking for could not be found.
-            Maybe try going <Link to="/">home</Link> instead?
+            <a href="/">Perhaps try going home?</a>
           </p>
         </Main>
       </Container>

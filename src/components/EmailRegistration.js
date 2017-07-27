@@ -5,7 +5,7 @@ import { Form, Text } from 'react-form'
 
 import { rhythm } from '../util/typography'
 
-const emailRegex = /.+\@.+\..+/
+const emailRegex = /.+@.+\..+/
 
 const EmailSubscribeForm = ({ canSubmit, handleSubmit }) => (
   <Form

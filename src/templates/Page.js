@@ -1,7 +1,6 @@
 import React, { Component } from 'react'
 import Helmet from 'react-helmet'
 
-import { rhythm } from '../util/typography'
 import Container from '../components/Container'
 import SiteSidebar from '../components/SiteSidebar'
 import Main from '../components/Main'

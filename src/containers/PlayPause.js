@@ -1,4 +1,3 @@
-import React from 'react'
 import branch from 'recompose/branch'
 import renderComponent from 'recompose/renderComponent'
 

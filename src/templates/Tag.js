@@ -7,7 +7,7 @@ import PostPreview from '../components/PostPreview'
 
 export default class TagTemplate extends Component {
   render() {
-    const { totalCount, edges } = this.props.data.allMarkdownRemark
+    const { edges } = this.props.data.allMarkdownRemark
     const { tag } = this.props.pathContext
     const posts = edges.map(e => e.node)
     return (
@@ -98,7 +98,6 @@ export const pageQuery = graphql`
         }
       }
     ) {
-      totalCount
       edges {
         node {
           id

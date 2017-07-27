@@ -9,7 +9,6 @@ export default class ShowTemplate extends Component {
   render() {
     const {
       frontmatter: { title, description },
-      fields: { slug },
       html
     } = this.props.data.markdownRemark
 
@@ -52,9 +51,6 @@ export const pageQuery = graphql`
   query ShowTemplate($slug: String!) {
     markdownRemark(fields: { slug: { eq: $slug } }) {
       html
-      fields {
-        slug
-      }
       frontmatter {
         title
         description

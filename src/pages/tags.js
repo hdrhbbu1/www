@@ -71,7 +71,7 @@ export default class TagsRoute extends Component {
             </h1>
           </header>
           {tags.map(({ fieldValue }) => (
-            <Link to={`/tags/${fieldValue}/`}>
+            <Link key={fieldValue} to={`/tags/${fieldValue}/`}>
               <h2>{fieldValue}</h2>
             </Link>
           ))}

@@ -5,8 +5,6 @@ import 'normalize.css'
 import 'typeface-open-sans'
 import 'typeface-nunito'
 
-import presets from '../util/presets'
-
 export default class Layout extends Component {
   render() {
     return (

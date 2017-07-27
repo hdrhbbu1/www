@@ -2,7 +2,7 @@ import React, { Component } from 'react'
 import Helmet from 'react-helmet'
 import Link from 'gatsby-link'
 
-import typography, { rhythm, scale } from '../util/typography'
+import { rhythm } from '../util/typography'
 import EmailRegistration from '../components/EmailRegistration'
 
 const toAbsolute = (host, path) => host + path

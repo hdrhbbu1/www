@@ -25,7 +25,7 @@ const options = {
         WebkitFontFeatureSettings: '"clig" 0, "calt" 0',
         fontFeatureSettings: '"clig" 0, "calt" 0',
         paddingTop: '0.1em',
-        paddingBottom: '0.1em',
+        paddingBottom: '0.1em'
       },
       p: {
         lineHeight: 1.7,
@@ -35,9 +35,9 @@ const options = {
       blockquote: {
         display: 'block',
         width: '100%',
-        borderLeft: '3px #999 solid', 
+        borderLeft: '3px #999 solid',
         padding: '1em 0 1em 1em',
-        marginLeft: '0',
+        marginLeft: '0'
       }
     }
   }

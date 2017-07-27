@@ -7,8 +7,8 @@ export default class Main extends Component {
         css={{
           width: '70%',
           '@media(max-width: 800px)': {
-            width: '100%',
-          },
+            width: '100%'
+          }
         }}
       >
         {this.props.children}

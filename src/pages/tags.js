@@ -11,7 +11,7 @@ export default class TagsRoute extends Component {
     return (
       <div
         css={{
-          marginBottom: rhythm(2),
+          marginBottom: rhythm(2)
         }}
       >
         <Helmet
@@ -47,7 +47,7 @@ export default class TagsRoute extends Component {
             maxWidth: '800px',
             margin: '20px auto 0',
             textAlign: 'center',
-            display: 'block',
+            display: 'block'
           }}
         >
           <header
@@ -56,7 +56,7 @@ export default class TagsRoute extends Component {
               marginTop: rhythm(2),
               marginRight: 'auto',
               marginBottom: rhythm(2),
-              marginLeft: 'auto',
+              marginLeft: 'auto'
             }}
           >
             <h1

@@ -20,9 +20,9 @@ export default class PostTemplate extends Component {
 
     const url = toAbsolute(siteUrl, slug)
 
-    const feature = toAbsolute(siteUrl, image && image.childImageSharp ?
-      image.childImageSharp.responsiveResolution.src :
-      '/share.jpg')
+    const feature = toAbsolute(siteUrl, image && image.childImageSharp
+      ? image.childImageSharp.responsiveResolution.src
+      : '/share.jpg')
 
     const tagged = (tags || []).map((t, i) => {
       return (
@@ -43,7 +43,7 @@ export default class PostTemplate extends Component {
           marginBottom: rhythm(2)
         }}
       >
-       <Helmet
+        <Helmet
           title={title}
           meta={[
             {
@@ -80,12 +80,12 @@ export default class PostTemplate extends Component {
             },
             {
               name: 'description',
-              content: excerpt,
+              content: excerpt
             },
             {
               name: 'keywords',
-              content: keywords,
-            },
+              content: keywords
+            }
           ]}
         />
         <div>
@@ -113,8 +113,8 @@ export default class PostTemplate extends Component {
           </Link>
         </div>
         <article
-          itemscope
-          itemtype="https://schema.org/Article"
+          itemScope
+          itemType="https://schema.org/Article"
           css={{
             width: '90%',
             maxWidth: '800px',
@@ -160,7 +160,7 @@ export default class PostTemplate extends Component {
             </div>
           </header>
           <div
-            itemprop="articleBody"
+            itemProp="articleBody"
             css={{
               width: '90%',
               margin: '0 auto',
@@ -178,7 +178,7 @@ export default class PostTemplate extends Component {
             width: '75%',
             margin: '0 auto',
             marginTop: rhythm(2),
-            marginBottom: rhythm(2),
+            marginBottom: rhythm(2)
           }}
         />
         <EmailRegistration/>
@@ -188,7 +188,7 @@ export default class PostTemplate extends Component {
             maxWidth: '800px',
             fontStyle: 'italic',
             margin: '0 auto',
-            textAlign: 'center',
+            textAlign: 'center'
           }}
         >
           <p>
@@ -203,7 +203,7 @@ export default class PostTemplate extends Component {
                 width: '75%',
                 margin: '0 auto',
                 marginTop: rhythm(2),
-                marginBottom: rhythm(2),
+                marginBottom: rhythm(2)
               }}
             />
             <p
@@ -211,7 +211,7 @@ export default class PostTemplate extends Component {
                 width: '90%',
                 textAlign: 'center',
                 maxWidth: '800px',
-                margin: '0 auto',
+                margin: '0 auto'
               }}
             >
               See other posts tagged with: {tagged}
@@ -221,9 +221,9 @@ export default class PostTemplate extends Component {
         <p
           css={{
             textAlign: 'center',
-            madWidth : '800px',
+            madWidth: '800px',
             margin: '0 auto',
-            marginTop: rhythm(1),
+            marginTop: rhythm(1)
           }}
         >
           If you found value in the article above, <a href="https://ko-fi.com/A8362RXE">please consider giving</a> to help work like this continue.

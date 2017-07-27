@@ -39,7 +39,7 @@ class Player extends Component {
   }
 }
 
-const mapState = ({player}) => player 
+const mapState = ({player}) => player
 const mapDispatch = dispatch => ({
   play: () => dispatch(play()),
   pause: () => dispatch(pause()),

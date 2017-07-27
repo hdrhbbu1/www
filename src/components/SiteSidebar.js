@@ -25,7 +25,7 @@ export default class SiteSidebar extends Component {
             paddingRight: '0',
             marginBottom: rhythm(2),
             paddingBottom: rhythm(2),
-            borderBottom: '1px rgba(0, 0, 0, .1) solid',
+            borderBottom: '1px rgba(0, 0, 0, .1) solid'
           }
         }}
         {...props}
@@ -47,7 +47,7 @@ export default class SiteSidebar extends Component {
           css={{
             fontSize: '1.1em',
             fontWeight: '600',
-            marginBottom: rhythm(.5)
+            marginBottom: rhythm(0.5)
           }}
         >
           {title}
@@ -70,7 +70,7 @@ export default class SiteSidebar extends Component {
           >
             <li
               css={{
-                marginBottom: rhythm(.5)
+                marginBottom: rhythm(0.5)
               }}
             >
               <Link
@@ -84,7 +84,7 @@ export default class SiteSidebar extends Component {
             </li>
             <li
               css={{
-                marginBottom: rhythm(.5)
+                marginBottom: rhythm(0.5)
               }}
             >
               <Link

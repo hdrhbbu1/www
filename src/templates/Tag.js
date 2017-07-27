@@ -13,7 +13,7 @@ export default class TagTemplate extends Component {
     return (
       <div
         css={{
-          marginBottom: rhythm(2)
+          marginBottom: rhythm(2),
         }}
       >
         <Helmet
@@ -36,8 +36,8 @@ export default class TagTemplate extends Component {
                 width: '85px',
                 margin: '20px auto 0',
                 textAlign: 'center',
-                display: 'block'
-              }
+                display: 'block',
+              },
             }}
           >
             Home
@@ -48,7 +48,7 @@ export default class TagTemplate extends Component {
             width: '90%',
             maxWidth: '800px',
             margin: '20px auto 0',
-            display: 'block'
+            display: 'block',
           }}
         >
           <header
@@ -58,15 +58,15 @@ export default class TagTemplate extends Component {
               marginRight: 'auto',
               marginBottom: rhythm(2),
               marginLeft: 'auto',
-              textAlign: 'center'
+              textAlign: 'center',
             }}
           >
             <h1
               css={{
                 fontSize: '2.8em',
                 '@media(max-width: 900px)': {
-                  fontSize: '2.2em'
-                }
+                  fontSize: '2.2em',
+                },
               }}
             >
               Posts tagged with {tag}:
@@ -76,7 +76,7 @@ export default class TagTemplate extends Component {
             <PostPreview
               key={p.id}
               css={{
-                marginBottom: rhythm(2)
+                marginBottom: rhythm(2),
               }}
               {...p}
             />

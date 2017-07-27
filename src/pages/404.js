@@ -9,7 +9,7 @@ export default class NotFound extends Component {
   render() {
     const {
       title,
-      description
+      description,
     } = this.props.data.site.siteMetadata
     return (
       <Container>
@@ -23,7 +23,7 @@ export default class NotFound extends Component {
         <Main>
           <h2
             css={{
-              marginTop: 0
+              marginTop: 0,
             }}
           >
             404: Not Found</h2>

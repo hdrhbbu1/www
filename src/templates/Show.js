@@ -9,7 +9,7 @@ export default class ShowTemplate extends Component {
   render() {
     const {
       frontmatter: { title, description },
-      html
+      html,
     } = this.props.data.markdownRemark
 
     return (
@@ -19,8 +19,8 @@ export default class ShowTemplate extends Component {
           meta={[
             {
               name: 'description',
-              content: description
-            }
+              content: description,
+            },
           ]}
         />
         <SiteSidebar
@@ -31,13 +31,13 @@ export default class ShowTemplate extends Component {
           <article>
             <h2
               css={{
-                marginTop: 0
+                marginTop: 0,
               }}
             >
             </h2>
             <div
               dangerouslySetInnerHTML={{
-                __html: html
+                __html: html,
               }}
             />
           </article>

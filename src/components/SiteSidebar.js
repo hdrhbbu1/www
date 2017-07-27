@@ -25,8 +25,8 @@ export default class SiteSidebar extends Component {
             paddingRight: '0',
             marginBottom: rhythm(2),
             paddingBottom: rhythm(2),
-            borderBottom: '1px rgba(0, 0, 0, .1) solid'
-          }
+            borderBottom: '1px rgba(0, 0, 0, .1) solid',
+          },
         }}
         {...props}
       >
@@ -39,7 +39,7 @@ export default class SiteSidebar extends Component {
             css={{
               width: '75px',
               height: '75px',
-              borderRadius: '75px'
+              borderRadius: '75px',
             }}
           />
         </Link>
@@ -47,7 +47,7 @@ export default class SiteSidebar extends Component {
           css={{
             fontSize: '1.1em',
             fontWeight: '600',
-            marginBottom: rhythm(0.5)
+            marginBottom: rhythm(0.5),
           }}
         >
           {title}
@@ -55,7 +55,7 @@ export default class SiteSidebar extends Component {
         <p
           css={{
             fontSize: '.95em',
-            color: '#333'
+            color: '#333',
           }}
         >
           {description}
@@ -65,18 +65,18 @@ export default class SiteSidebar extends Component {
             css={{
               listStyleType: 'none',
               padding: '0 0 0 0',
-              margin: '0 0 0 0'
+              margin: '0 0 0 0',
             }}
           >
             <li
               css={{
-                marginBottom: rhythm(0.5)
+                marginBottom: rhythm(0.5),
               }}
             >
               <Link
                 to="/about/"
                 css={{
-                  textDecoration: 'none'
+                  textDecoration: 'none',
                 }}
               >
                 About
@@ -84,13 +84,13 @@ export default class SiteSidebar extends Component {
             </li>
             <li
               css={{
-                marginBottom: rhythm(0.5)
+                marginBottom: rhythm(0.5),
               }}
             >
               <Link
                 to="/consulting/"
                 css={{
-                  textDecoration: 'none'
+                  textDecoration: 'none',
                 }}
               >
                 Consulting
@@ -100,7 +100,7 @@ export default class SiteSidebar extends Component {
               <Link
                 to="/speaking/"
                 css={{
-                  textDecoration: 'none'
+                  textDecoration: 'none',
                 }}
               >
                 Speaking

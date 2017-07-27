@@ -15,24 +15,24 @@ export default class Layout extends Component {
           meta={[
             {
               name: 'twitter:site',
-              content: '@nicholaswyoung'
+              content: '@nicholaswyoung',
             },
             {
               name: 'twitter:creator',
-              content: '@nicholaswyoung'
+              content: '@nicholaswyoung',
             },
             {
               name: 'twitter:creator:id',
-              content: '10003492'
+              content: '10003492',
             },
             {
               name: 'og:type',
-              content: 'website'
+              content: 'website',
             },
             {
               name: 'og:site_name',
-              content: 'Nicholas Young'
-            }
+              content: 'Nicholas Young',
+            },
           ]}
         >
         </Helmet>

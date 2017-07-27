@@ -12,7 +12,7 @@ const EmailSubscribeForm = ({ canSubmit, handleSubmit }) => (
     onSubmit={handleSubmit}
     validate={({ name, email }) => ({
       name: !name ? 'Name is required' : undefined,
-      email: email && emailRegex.test(email) ? undefined : 'Email is required'
+      email: email && emailRegex.test(email) ? undefined : 'Email is required',
     })}
   >
     {({ submitForm }) => (
@@ -25,8 +25,8 @@ const EmailSubscribeForm = ({ canSubmit, handleSubmit }) => (
           justifyContent: 'center',
           opacity: canSubmit ? 1 : '.2',
           '@media(max-width: 800px)': {
-            flexDirection: 'column'
-          }
+            flexDirection: 'column',
+          },
         }}
       >
         <Text
@@ -40,8 +40,8 @@ const EmailSubscribeForm = ({ canSubmit, handleSubmit }) => (
             opacity: canSubmit ? 1 : '.2',
             '@media(max-width: 800px)': {
               marginRight: '0',
-              marginBottom: '.5em'
-            }
+              marginBottom: '.5em',
+            },
           }}
           placeholder="name"
           field="name"
@@ -56,8 +56,8 @@ const EmailSubscribeForm = ({ canSubmit, handleSubmit }) => (
             marginRight: '.5em',
             '@media(max-width: 800px)': {
               marginRight: '0',
-              marginBottom: '.5em'
-            }
+              marginBottom: '.5em',
+            },
           }}
           placeholder="email address"
           field="email"
@@ -68,7 +68,7 @@ const EmailSubscribeForm = ({ canSubmit, handleSubmit }) => (
             background: 'rgba(0, 0, 0, .05)',
             padding: '10px',
             textAlign: 'center',
-            opacity: canSubmit ? 1 : '.2'
+            opacity: canSubmit ? 1 : '.2',
           }}
         >
           Subscribe
@@ -83,8 +83,8 @@ const Title = ({ children }) => (
     css={{
       fontSize: '1.1em',
       '@media(min-width: 800px)': {
-        fontSize: '1.3em'
-      }
+        fontSize: '1.3em',
+      },
     }}
   >
     {children}
@@ -97,7 +97,7 @@ class EmailRegistration extends Component {
     this.state = {
       done: false,
       errored: false,
-      submitting: false
+      submitting: false,
     }
   }
 
@@ -111,7 +111,7 @@ class EmailRegistration extends Component {
     fetch('//madmimi.com/signups/subscribe/43842', {
       method: 'POST',
       mode: 'no-cors',
-      body
+      body,
     })
       .then(() => {
         this.setState({ done: true, submitting: false })
@@ -127,7 +127,7 @@ class EmailRegistration extends Component {
       <div
         css={{
           textAlign: 'center',
-          marginBottom: rhythm(1)
+          marginBottom: rhythm(1),
         }}
       >
         {!done ? (

@@ -16,8 +16,8 @@ export default class Container extends Component {
           maxWidth: '1024px',
           '@media(max-width: 800px)': {
             flexDirection: 'column',
-            alignItems: 'stretch'
-          }
+            alignItems: 'stretch',
+          },
         }}
       >
         {this.props.children}

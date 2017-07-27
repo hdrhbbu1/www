@@ -7,13 +7,13 @@ import Play from '../../components/Play'
 export default class AudioPlayer extends Component {
   static defaultProps = {
     preload: false,
-    html5: true
+    html5: true,
   }
 
   constructor(props) {
     super(props)
     this.state = {
-      playing: false
+      playing: false,
     }
   }
 
@@ -27,7 +27,7 @@ export default class AudioPlayer extends Component {
       onloaderror: ::this._onError,
       onplay: ::this._onPlay,
       onpause: ::this._onPause,
-      ...this.props
+      ...this.props,
     })
   }
 

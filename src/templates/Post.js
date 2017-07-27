@@ -15,7 +15,7 @@ export default class PostTemplate extends Component {
       fields: { slug },
       excerpt,
       html,
-      frontmatter: { title, tags, date, image, keywords }
+      frontmatter: { title, tags, date, image, keywords },
     } = this.props.data.markdownRemark
 
     const url = toAbsolute(siteUrl, slug)
@@ -40,7 +40,7 @@ export default class PostTemplate extends Component {
     return (
       <div
         css={{
-          marginBottom: rhythm(2)
+          marginBottom: rhythm(2),
         }}
       >
         <Helmet
@@ -48,44 +48,44 @@ export default class PostTemplate extends Component {
           meta={[
             {
               name: 'twitter:title',
-              content: title
+              content: title,
             },
             {
               name: 'og:title',
-              content: title
+              content: title,
             },
             {
               name: 'twitter:card',
-              content: 'summary'
+              content: 'summary',
             },
             {
               name: 'twitter:description',
-              content: excerpt
+              content: excerpt,
             },
             {
               name: 'og:description',
-              content: excerpt
+              content: excerpt,
             },
             {
               name: 'og:url',
-              content: url
+              content: url,
             },
             {
               name: 'twitter:image',
-              content: feature
+              content: feature,
             },
             {
               name: 'og:image',
-              content: feature
+              content: feature,
             },
             {
               name: 'description',
-              content: excerpt
+              content: excerpt,
             },
             {
               name: 'keywords',
-              content: keywords
-            }
+              content: keywords,
+            },
           ]}
         />
         <div>
@@ -105,8 +105,8 @@ export default class PostTemplate extends Component {
                 width: '85px',
                 margin: '20px auto 0',
                 textAlign: 'center',
-                display: 'block'
-              }
+                display: 'block',
+              },
             }}
           >
             Home
@@ -118,7 +118,7 @@ export default class PostTemplate extends Component {
           css={{
             width: '90%',
             maxWidth: '800px',
-            margin: '0 auto'
+            margin: '0 auto',
           }}
         >
           <header
@@ -128,21 +128,21 @@ export default class PostTemplate extends Component {
               marginTop: rhythm(2),
               marginRight: 'auto',
               marginBottom: rhythm(2),
-              marginLeft: 'auto'
+              marginLeft: 'auto',
             }}
           >
             <Link
               to={slug}
               css={{
-                textDecoration: 'none'
+                textDecoration: 'none',
               }}
             >
               <h1
                 css={{
                   fontSize: '2.8em',
                   '@media(max-width: 900px)': {
-                    fontSize: '2.2em'
-                  }
+                    fontSize: '2.2em',
+                  },
                 }}
               >
                 {title}
@@ -151,7 +151,7 @@ export default class PostTemplate extends Component {
             <div
               css={{
                 marginTop: rhythm(2),
-                fontSize: '.9em'
+                fontSize: '.9em',
               }}
             >
               <time dateTime={date}>
@@ -166,8 +166,8 @@ export default class PostTemplate extends Component {
               margin: '0 auto',
               fontSize: '1.05em',
               '@media(max-width: 800px)': {
-                fontSize: '1.1em'
-              }
+                fontSize: '1.1em',
+              },
             }}
             dangerouslySetInnerHTML={{ __html: html }}
           />
@@ -178,7 +178,7 @@ export default class PostTemplate extends Component {
             width: '75%',
             margin: '0 auto',
             marginTop: rhythm(2),
-            marginBottom: rhythm(2)
+            marginBottom: rhythm(2),
           }}
         />
         <EmailRegistration/>
@@ -188,7 +188,7 @@ export default class PostTemplate extends Component {
             maxWidth: '800px',
             fontStyle: 'italic',
             margin: '0 auto',
-            textAlign: 'center'
+            textAlign: 'center',
           }}
         >
           <p>
@@ -203,7 +203,7 @@ export default class PostTemplate extends Component {
                 width: '75%',
                 margin: '0 auto',
                 marginTop: rhythm(2),
-                marginBottom: rhythm(2)
+                marginBottom: rhythm(2),
               }}
             />
             <p
@@ -211,7 +211,7 @@ export default class PostTemplate extends Component {
                 width: '90%',
                 textAlign: 'center',
                 maxWidth: '800px',
-                margin: '0 auto'
+                margin: '0 auto',
               }}
             >
               See other posts tagged with: {tagged}
@@ -223,7 +223,7 @@ export default class PostTemplate extends Component {
             textAlign: 'center',
             madWidth: '800px',
             margin: '0 auto',
-            marginTop: rhythm(1)
+            marginTop: rhythm(1),
           }}
         >
           If you found value in the article above, <a href="https://ko-fi.com/A8362RXE">please consider giving</a> to help work like this continue.

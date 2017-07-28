@@ -29,7 +29,7 @@ Unlike BuzzFeed reporter Sarah Mimms, who was  [asking folks to refrain from cri
 
 CNN heralded last night's pivotal vote by McCain as his ["maverick moment."](http://www.cnn.com/2017/07/28/politics/john-mccain-maverick-health-care/index.html). Meanwhile, The Washington Post is shouting about ["The night John McCain killed the GOP's health care fight."](https://www.washingtonpost.com/powerpost/the-night-john-mccain-killed-the-gops-health-care-fight/2017/07/28/f5acce58-7361-11e7-8f39-eeb7d3a2d304_story.html) Numerous Twitter intellectuals think the ["stalwart women" of the GOP](https://twitter.com/JillFilipovic/status/890820408580100096) deserve principal credit for last night's results.
 
-Both perspectives are currently vying for attention as the principal narrative, and they're all equally wrong. However, in order to better understand, we will ponder the merits of each for a moment.
+Both perspectives are currently vying for attention as the principal narrative, and they're equally wrong. However, in order to better understand, we will ponder the merits of each for a moment.
 
 In an earlier speech to the Senate, McCain told his colleagues, "we're getting nothing done, my friends," just prior to his vote in favor of restoring regular order, which he cast with the full knowledge of potential negative impacts on his consituency and the country. Elevating McCain now, as if he hasn't had opportunities to speak out and act before now is ignorant at best.
 

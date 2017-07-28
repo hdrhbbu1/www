@@ -4,7 +4,7 @@ date: '2017-07-28'
 layout: post
 draft: false
 ---
-If healthcare reform is a stage play, the curtain rose in November, 2016. The audience beholding a ragtag group of players flanking our most ill-advised main character. During the intervening months, [four radically different proposals](http://www.kff.org/interactive/proposals-to-replace-the-affordable-care-act/) have also entered the stage, [each scoring progressively worse on issues of public health.](https://www.cbo.gov/publication/52752)
+If healthcare reform is a stage play, the curtain rose anew in November, 2016.  The audience, hopeful if unsure, beheld a ragtag group of players flanking our most ill-advised main character. During the intervening months, [four radically different proposals](http://www.kff.org/interactive/proposals-to-replace-the-affordable-care-act/) have also entered the stage, [each scoring progressively worse on issues of public health.](https://www.cbo.gov/publication/52752)
 
 For the disabled and chronically ill, [those months have been pure terror.](https://twitter.com/hashtag/ProtectOurCare) Many have felt betrayed for the promise of lower health insurance premiums, but it's difficult &mdash; and dangerous! &mdash; to [compare temporary financial costs to the value of a human life.](/2017/05/becoming-disabled/)
 

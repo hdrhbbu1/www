@@ -15,7 +15,7 @@ If healthcare reform is a stage play, the curtain rose anew in November, 2016.  
 
 For the disabled and chronically ill, [those months have been pure terror.](https://twitter.com/hashtag/ProtectOurCare) Many have felt betrayed for the promise of lower health insurance premiums, but it's difficult &mdash; and dangerous! &mdash; to [compare temporary financial costs to the value of a human life.](/2017/05/becoming-disabled/)
 
-Last night, as expected, sleep was elusive. I closed my laptop on an onslaught of tweets covering last night's narrow defeat of the so-called "Skinny Repeal." Before the media establishes its dominant narrative, I would like a word.
+Last night, as expected, sleep was elusive. I closed my laptop on an onslaught of tweets covering last night's narrow defeat of the so-called ["Skinny Repeal."](HealthCareFreedomAct.pdf) Before the media establishes its dominant narrative, I would like a word.
 
 ## 'Wait for the show'
 

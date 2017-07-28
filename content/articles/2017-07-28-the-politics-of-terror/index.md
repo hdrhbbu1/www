@@ -1,8 +1,15 @@
 ---
 title: The Politics of Terror
 date: '2017-07-28'
-layout: post
 draft: false
+layout: post
+tags:
+  - critical-thinking
+  - media-criticism
+  - criticism
+  - disability
+  - healthcare
+image: share.jpg
 ---
 If healthcare reform is a stage play, the curtain rose anew in November, 2016.  The audience, hopeful if unsure, beheld a ragtag group of players flanking our most ill-advised main character. During the intervening months, [four radically different proposals](http://www.kff.org/interactive/proposals-to-replace-the-affordable-care-act/) have also entered the stage, [each scoring progressively worse on issues of public health.](https://www.cbo.gov/publication/52752)
 
@@ -29,6 +36,8 @@ In an earlier speech to the Senate, McCain told his colleagues, "we're getting n
 As for renegade Republican senators like Lisa Murkowski who voted [against the skinny repeal](https://votesmart.org/candidate/key-votes/15841/lisa-murkowski#.WXtBedPytE4), I'm grateful for their support but that doesn't revoke my license to criticise their political history. Shelley Moore Capito, another GOP senator, was quoted three weeks ago indicating that she would nix the bill if the final version didn't pass her moral test. “I only see it through the lens of a vulnerable population who needs help, who I care about very deeply," she [told Politico.](http://www.politico.com/story/2017/07/09/capito-gop-senator-opposes-health-bill-240311) "So that gives me strength. If I have to be that one person, I will be it.”
 
 [Capito voted in favor of last night's skinny repeal proposal.](https://www.nytimes.com/interactive/2017/07/25/us/politics/senate-votes-repeal-obamacare.html)
+
+![Wheelchair-using Senator Tammy Duckworth meets with activists.](share.jpg)
 
 ## Is it 'time to move on'?
 

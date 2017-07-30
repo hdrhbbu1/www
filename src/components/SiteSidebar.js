@@ -12,6 +12,7 @@ export default class SiteSidebar extends Component {
     return (
       <div
         css={{
+          fontFamily: 'Open Sans',
           width: '30%',
           marginRight: '5%',
           paddingRight: '5%',

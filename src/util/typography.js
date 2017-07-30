@@ -3,7 +3,7 @@ import CodePlugin from 'typography-plugin-code'
 
 const options = {
   headerFontFamily: ['Open Sans', 'sans-serif'],
-  bodyFontFamily: ['Nunito', 'sans-serif'],
+  baseFontFamiy: ['Gentium Book Basic', 'serif'],
   baseFontSize: '16px',
   baseLineHeight: 1.5,
   blockMarginBottom: 0.65,
@@ -28,7 +28,7 @@ const options = {
         paddingBottom: '0.1em',
       },
       p: {
-        lineHeight: 1.7,
+        lineHeight: 1.8,
         fontSize: '1em',
         marginBottom: rhythm(1),
       },

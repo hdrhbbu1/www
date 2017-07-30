@@ -3,7 +3,12 @@ import Link from 'gatsby-link'
 
 const PostPreview = ({ frontmatter, fields, excerpt, ...props }) => (
   <article {...props}>
-    <time dateTime={frontmatter.date}>
+    <time
+      css={{
+        fontFamily: 'Open Sans, sans-serif',
+      }}
+      dateTime={frontmatter.date}
+    >
       {frontmatter.date}
     </time>
     <Link

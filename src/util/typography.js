@@ -28,7 +28,7 @@ const options = {
         paddingBottom: '0.1em',
       },
       p: {
-        lineHeight: 1.8,
+        lineHeight: 1.7,
         fontSize: '1em',
         marginBottom: rhythm(1),
       },

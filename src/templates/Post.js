@@ -152,6 +152,7 @@ export default class PostTemplate extends Component {
               css={{
                 marginTop: rhythm(2),
                 fontSize: '.9em',
+                fontFamily: 'Open Sans, sans-serif',
               }}
             >
               <time dateTime={date}>
@@ -164,9 +165,8 @@ export default class PostTemplate extends Component {
             css={{
               width: '90%',
               margin: '0 auto',
-              fontSize: '1.05em',
               '@media(max-width: 800px)': {
-                fontSize: '1.1em',
+                fontSize: '1.05em',
               },
             }}
             dangerouslySetInnerHTML={{ __html: html }}
@@ -189,6 +189,7 @@ export default class PostTemplate extends Component {
             fontStyle: 'italic',
             margin: '0 auto',
             textAlign: 'center',
+            fontFamily: 'Open Sans, sans-serif',
           }}
         >
           <p>
@@ -212,6 +213,7 @@ export default class PostTemplate extends Component {
                 textAlign: 'center',
                 maxWidth: '800px',
                 margin: '0 auto',
+                fontFamily: 'Open Sans, sans-serif',
               }}
             >
               See other posts tagged with: {tagged}
@@ -224,6 +226,7 @@ export default class PostTemplate extends Component {
             madWidth: '800px',
             margin: '0 auto',
             marginTop: rhythm(1),
+            fontFamily: 'Open Sans, sans-serif',
           }}
         >
           If you found value in the article above, <a href="https://ko-fi.com/A8362RXE">please consider giving</a> to help work like this continue.

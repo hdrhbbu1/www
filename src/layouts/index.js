@@ -3,7 +3,7 @@ import Helmet from 'react-helmet'
 
 import 'normalize.css'
 import 'typeface-open-sans'
-import 'typeface-nunito'
+import 'typeface-gentium-book-basic'
 
 export default class Layout extends Component {
   render() {

@@ -10,6 +10,7 @@ const showTemplate = path.resolve('src/templates/Show.js')
 const episodeTemplate = path.resolve('src/templates/Episode.js')
 const pageTemplate = path.resolve('src/templates/Page.js')
 const tagTemplate = path.resolve('src/templates/Tag.js')
+const topicTemplate = path.resolve('src/templates/Topic.js')
   
 const template = (l = 'page') => {
   l = l.toLowerCase()
@@ -49,6 +50,7 @@ exports.createPages = ({ graphql, boundActionCreators }) => {
               frontmatter {
                 layout
                 tags
+                topics
               }
             }
           }
@@ -60,7 +62,8 @@ exports.createPages = ({ graphql, boundActionCreators }) => {
         return reject(errors)
       }
 
-      let tags = []
+      let tagPages = []
+      let topicPages = []
       data.allMarkdownRemark.edges.forEach(edge => {
         const slug = get(edge, 'node.fields.slug')
         if (!slug) {
@@ -78,18 +81,38 @@ exports.createPages = ({ graphql, boundActionCreators }) => {
 
         const tagged = get(edge, 'node.frontmatter.tags')
         if (tagged) {
-          tags = tags.concat(tagged)
+          tagPages = tagPages.concat(tagged)
+        }
+
+        const topics = get(edge, 'node.frontmatter.topics')
+        if (topics) {
+          topicPages = topicPages.concat(topics)
         }
       })
 
-      tags = tags.filter((v, i, acc) => acc.indexOf(v) === i)
-      tags.forEach(tag => {
+      tagPages = tagPages.filter((v, i, acc) => acc.indexOf(v) === i)
+      tagPages.forEach(tag => {
+        const slug = `/tags/${slugify(tag)}/`
         createPage({
-          path: `/tags/${slugify(tag)}/`,
+          path: slug,
           component: tagTemplate,
           context: {
             tag,
+            slug
           },
+        })
+      })
+
+      topicPages = topicPages.filter((v, i, acc) => acc.indexOf(v) === i)
+      topicPages.forEach(topic => {
+        const slug = `/topics/${slugify(topic)}/`
+        createPage({
+          path: slug,
+          component: topicTemplate,
+          context: {
+            topic,
+            slug,
+          }
         })
       })
 

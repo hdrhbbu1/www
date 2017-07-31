@@ -3,6 +3,8 @@ title: 'Dads Change Diapers, Too'
 date: '2016-07-30'
 path: /dads-change-diapers-too
 layout: post
+topic:
+  - sloan-alexis
 tags:
   - parenting
   - life

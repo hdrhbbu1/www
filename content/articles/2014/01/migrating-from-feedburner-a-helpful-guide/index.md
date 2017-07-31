@@ -3,6 +3,8 @@ title: 'Migrating from Feedburner: a Helpful Guide'
 date: '2014-01-14'
 path: /migrating-from-feedburner-a-helpful-guide
 layout: post
+topics:
+  - the-machine
 tags:
   - tutorial
   - rss

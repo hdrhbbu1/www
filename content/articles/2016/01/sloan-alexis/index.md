@@ -3,6 +3,8 @@ title: Introducing Sloan Alexis Young
 date: '2016-01-28'
 path: /sloan-alexis
 layout: post
+topics:
+  - sloan-alexis
 tags:
   - fatherhood
   - dadthings

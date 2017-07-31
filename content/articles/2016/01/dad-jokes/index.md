@@ -3,6 +3,8 @@ title: Dad Jokes
 date: '2016-01-27'
 path: /dad-jokes
 layout: post
+topics:
+  - sloan-alexis
 tags:
   - fatherhood
   - dadthings

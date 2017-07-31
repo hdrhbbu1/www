@@ -3,6 +3,8 @@ title: 'Be Kind, Rewind'
 date: '2016-01-16'
 path: /be-kind-rewind
 layout: post
+topics:
+  - the-machine
 tags:
   - project-diary
   - radio

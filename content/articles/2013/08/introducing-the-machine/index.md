@@ -3,6 +3,8 @@ title: Introducing The Machine
 date: '2013-08-01'
 path: /introducing-the-machine
 layout: post
+topics:
+  - the-machine
 tags:
   - project-diary
   - radio

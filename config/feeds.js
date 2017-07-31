@@ -155,12 +155,12 @@ exports.createPodcastFeeds = () => {
         image_url: imageUrl,
         language: 'en-us',
         categories: [markdownRemark.frontmatter.category, markdownRemark.frontmatter.subcategory],
-        explicit: markdownRemark.frontmatter.explicit ? true : false,
         copyright: markdownRemark.frontmatter.copyright,
         custom_namespaces: {
           'itunes': 'http://www.itunes.com/dtds/podcast-1.0.dtd',
         },
         custom_elements: [
+            { 'itunes:explicit': markdownRemark.frontmatter.explicit ? 'yes' : 'no' },
           { 'itunes:author': markdownRemark.frontmatter.author },
           { 'itunes:image': {
             _attr: { href: imageUrl }

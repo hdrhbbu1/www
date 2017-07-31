@@ -2,6 +2,7 @@ import React, { Component } from 'react'
 import Helmet from 'react-helmet'
 import Link from 'gatsby-link'
 
+import './Post.css'
 import { rhythm } from '../util/typography'
 import EmailRegistration from '../components/EmailRegistration'
 

@@ -12,7 +12,7 @@ By mid-June, the Young Family will be living in Colorado. While this move is [po
 
 So, yes. This City and I; we have a history. Six years of awesome, messy history.
 
-Heading north was our first inter-state move as a couple. It's where our [daughter was born.](/tags/sloan-alexis/) Additionally, Chicago has even improved my career in many ways. But for every creative thought that was born, cared for, or dismantled here, I see thousands more out west.
+Heading north was our first inter-state move as a couple. It's where our [daughter was born.](/topics/sloan-alexis/) Additionally, Chicago has even improved my career in many ways. But for every creative thought that was born, cared for, or dismantled here, I see thousands more out west.
 
 Why is that? I certainly don't think it's the classic, 20-something wanderlust. I'll elaborate on specific reasons in a later post, but for now, please accept this short list &mdash; a *Ex-Resident's Guide*, if you will &mdash; as a street-level dispatch on what it means to leave the city behind, and as I do so, you wiser.
 

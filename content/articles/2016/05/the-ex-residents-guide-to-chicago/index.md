@@ -8,11 +8,11 @@ tags:
   - travel-guide
   - moving
 ---
-By mid-June, the Young Family will be living in Colorado. While this move is [positive overall](/2016/04/going-west/), I also feel a certain trepidation: Chicago was where I launched [The Machine](/2013/08/introducing-the-machine/), re-ignited my love for software, and kindled a new dedication to speaking. It's also where I lost my religion, morphing from a lukewarm christian into a staunch atheist.
+By mid-June, the Young Family will be living in Colorado. While this move is [positive overall](/2016/04/going-west/), I also feel a certain trepidation: Chicago was where I launched [The Machine](/topics/the-machine/), re-ignited my love for software, and kindled a new dedication to speaking. It's also where I lost my religion, morphing from a lukewarm christian into a staunch atheist.
 
 So, yes. This City and I; we have a history. Six years of awesome, messy history.
 
-Heading north was our first inter-state move as a couple. It's where our [daughter was born.](/dad-jokes) Additionally, Chicago has even improved my career in many ways. But for every creative thought that was born, cared for, or dismantled here, I see thousands more out west.
+Heading north was our first inter-state move as a couple. It's where our [daughter was born.](/tags/sloan-alexis/) Additionally, Chicago has even improved my career in many ways. But for every creative thought that was born, cared for, or dismantled here, I see thousands more out west.
 
 Why is that? I certainly don't think it's the classic, 20-something wanderlust. I'll elaborate on specific reasons in a later post, but for now, please accept this short list &mdash; a *Ex-Resident's Guide*, if you will &mdash; as a street-level dispatch on what it means to leave the city behind, and as I do so, you wiser.
 

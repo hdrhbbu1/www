@@ -8,8 +8,8 @@ draft: false
 description: 'A discussion at the intersection of art, culture, and commerce.'
 artwork: artwork.jpg
 author: 'Nicholas Young & Joshua Wentz'
-category: Art
-subcategory: Design
+category: 'Arts'
+subcategory: 'Design'
 explicit: false
 copyright: '2013 - 2015 Joshua Wentz & Nicholas Young'
 ---

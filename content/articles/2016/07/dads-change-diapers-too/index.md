@@ -15,11 +15,11 @@ The process of becoming a parent teaches lessons you never expected to learn. Th
 
 The bigger challenge is learning to live with the responsibility of guiding your precious child.
 
-As the [father of a 6-month-old](/sloan-alexis), I'm slowly learning to be comfortable amid the chaos (and sometimes, I still feel productive). Being a parent is draining, tough work: on par with your most difficult professional challenge (if it was also your reality, every hour of every day). Even though it's wild and wonderful too, I'm also glad for [a partner](http://susandyoung.com) to help share the load.
+As the [father of a 6-month-old](/topics/sloan-alexis/), I'm slowly learning to be comfortable amid the chaos (and sometimes, I still feel productive). Being a parent is draining, tough work: on par with your most difficult professional challenge (if it was also your reality, every hour of every day). Even though it's wild and wonderful too, I'm also glad for [a partner](http://susandyoung.com) to help share the load.
 
 But there is one area where, no matter how progressive gender roles may be, it is nearly impossible to function as equals.
 
-![a changing table in a public restroom](https://s3.amazonaws.com/media.nicholaswyoung.com/img/changing-table.jpg)
+![a changing table in a public restroom](changing-table.jpg)
 
 We need to have a frank conversation about changing tables in public restrooms. While the ladies' room frequently has a reliable, fold-down, waist-height station where you can lay down and strap in your child, the mens' side usually has no such amenity.
 

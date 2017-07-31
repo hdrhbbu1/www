@@ -21,7 +21,7 @@ I worked several of the unlabeled keys. They felt stiff, but had a very nice tac
 
 Determined to find a keyboard like this of my own, I flew back into town and started searching. It didn't take long before I encountered [WASD Keyboards](http://wasdkeyboards), a company from Fremont, California, and maker of [CODE](http://codekeyboards.com), a keyboard produced in association with [Coding Horror](http://codinghorror.com) author, Jeff Atwood. I researched the various types of switches and eventually decided on the Cherry MX Clears, one of the stiffest. After years of typing on a mushy, high-impact keyboard, I was determined to get that light, effortless action that I felt days before. I ordered.
 
-![CODE Keyboard](http://nicholaswyoung.com.s3.amazonaws.com/img/code-keyboard.jpg)
+![CODE Keyboard](code-promo.jpg)
 
 For the next two days, I was deep in the weeds crafting an intense JavaScript application. At the end of my typing frenzy, I noticed that the joints in my hand were mostly pain free. This wasn't normal: my joints have ached for years, specifically in my hand, which led to a recent diagnosis. When my doctor mentioned that I have [Ehlers-Danlos Syndrome](https://en.wikipedia.org/wiki/Ehlers%E2%80%93Danlos_syndrome), a rare genetic disorder, I felt like it explained so much about my life over the last decade. The pain had a reason, which validated how I felt, even though there was nothing I could do about it.
 

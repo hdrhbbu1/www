@@ -8,7 +8,7 @@ tags:
   - travel-guide
   - moving
 ---
-By mid-June, the Young Family will be living in Colorado. While this move is [positive overall](/going-west), I also feel a certain trepidation: Chicago was where I launched [The Machine](/introducing-the-machine), re-ignited my love for software, and kindled a new dedication to speaking. It's also where I lost my religion, morphing from a lukewarm christian into a staunch atheist.
+By mid-June, the Young Family will be living in Colorado. While this move is [positive overall](/2016/04/going-west/), I also feel a certain trepidation: Chicago was where I launched [The Machine](/2013/08/introducing-the-machine/), re-ignited my love for software, and kindled a new dedication to speaking. It's also where I lost my religion, morphing from a lukewarm christian into a staunch atheist.
 
 So, yes. This City and I; we have a history. Six years of awesome, messy history.
 
@@ -40,7 +40,7 @@ There's a camaraderie among Chicago residents. A thick outer hide that, when it 
 
 Jokes aside, residents are friendly. I don't know if that's the resigned "we may as well go to hell together" mentality; but even if that is the case, it's useful.
 
-Chicago is also home to many genuinely talented artists, who are also, just behind the hide, very kind souls. Pictured above, my friend [Joshua Wentz](http://joshuawentz.com) (who has made [several](/life-behind-the-microphone) [appearances](/its-not-about-your-tools) on this blog.)
+Chicago is also home to many genuinely talented artists, who are also, just behind the hide, very kind souls. Pictured above, my friend [Joshua Wentz](http://joshuawentz.com) (who has made [several](/2015/09/life-behind-the-microphone/) [appearances](/2013/04/its-not-about-your-tools/) on this blog.)
 
 ## Use Headphones
 

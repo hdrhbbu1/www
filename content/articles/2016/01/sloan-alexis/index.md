@@ -11,11 +11,11 @@ tags:
   - parenting
   - life
 ---
-If you read my earlier piece on the [emotions associated with becoming a Dad,](/dad-jokes) then you'll also understand why I'm proud to say this. While the context will help, as it always does, this announcement is still very exciting.
+If you read my earlier piece on the [emotions associated with becoming a Dad,](/2016/01/dad-jokes/) then you'll also understand why I'm proud to say this. While the context will help, as it always does, this announcement is still very exciting.
 
 Friends, family, and colleagues. Susan and myself would like for you to meet Sloan Alexis, the newest member of the Young Family. She was born today, January 28, 2016 at 11:23PM.
 
-![Sloan Alexis Young](http://nicholaswyoung.com.s3.amazonaws.com/img/sloan.jpg)
+![Sloan and Dad](sloan-and-dad.jpg)
 
 Like any new parent, I am verklempt in the truest sense. Sloan is a true gift to our family, and I know she will also be a joy to every person she encounters.
 
@@ -23,8 +23,6 @@ Her first name, ["Sloan", is Gaelic in origin](http://www.sheknows.com/baby-name
 
 The most honorable fights are those which elevate and free the oppressed among us.
 
-![Sloan Alexis Young](http://nicholaswyoung.com.s3.amazonaws.com/img/sloan-arms.jpg)
-
-As any new parent should, I'll be taking an extended leave of absence, not just from client work and [my consultancy,](http://untilnow.co) but also from [writing.](/) I'll try to [chronicle her early life in written form](/tag/dadhood) as I can, but I expect those dispatches to be few and happen infrequently.
+As any new parent should, I'll be taking an extended leave of absence, not just from client work and [my consultancy,](https://uptime.ventures) but also from [writing.](/) I'll try to [chronicle her early life in written form](/tags/dadthings/) as I can, but I expect those dispatches to be few and happen infrequently.
 
 In my absence, [be excellent to each other.](https://www.youtube.com/watch?v=AfbUkRvcNiI)

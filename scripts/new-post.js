@@ -16,9 +16,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque lacus leo, inte
 `
 
 const createSlug = (title, date) => [
-  format(date, 'YYYY-MM-DD'),
+  format(date, 'YYYY/MM'),
   slugify(title)
-].join('-')
+].join('/')
 
 const run = () => inquirer.prompt([
   {

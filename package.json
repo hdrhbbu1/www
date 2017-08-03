@@ -59,9 +59,9 @@
     "typography-plugin-code": "^0.15.10"
   },
   "scripts": {
+    "start": "gatsby develop",
     "lint": "eslint src/",
     "test": "jest",
-    "develop": "gatsby develop",
     "build": "gatsby build",
     "serve": "gatsby serve",
     "new-post": "node -r babel-register scripts/new-post.js"

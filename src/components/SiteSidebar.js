@@ -97,7 +97,11 @@ export default class SiteSidebar extends Component {
                 Consulting
               </Link>
             </li>
-            <li>
+            <li
+              css={{
+                marginBottom: rhythm(0.5),
+              }}
+            >
               <Link
                 to="/speaking/"
                 css={{

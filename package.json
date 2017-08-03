@@ -64,7 +64,8 @@
     "test": "jest",
     "build": "gatsby build",
     "serve": "gatsby serve",
-    "new-post": "node -r babel-register scripts/new-post.js"
+    "new-post": "node -r babel-register scripts/new-post.js",
+    "check": "npm run lint && npm run test"
   },
   "browserslist": [
     "> 1%",

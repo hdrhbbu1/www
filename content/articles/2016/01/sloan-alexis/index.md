@@ -25,4 +25,4 @@ The most honorable fights are those which elevate and free the oppressed among u
 
 As any new parent should, I'll be taking an extended leave of absence, not just from client work and [my consultancy,](https://uptime.ventures) but also from [writing.](/) I'll try to [chronicle her early life in written form](/tags/dadthings/) as I can, but I expect those dispatches to be few and happen infrequently.
 
-In my absence, [be excellent to each other.](https://www.youtube.com/watch?v=AfbUkRvcNiI)
+In my absence, [be excellent to each other.](https://www.youtube.com/watch?v=N_yJFLvmjJY)

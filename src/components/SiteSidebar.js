@@ -107,6 +107,17 @@ export default class SiteSidebar extends Component {
                 Speaking
               </Link>
             </li>
+            <li>
+              <Link
+                to="/contact/"
+                css={{
+                  textDecoration: 'none',
+                }}
+              >
+                Contact
+              </Link>
+            </li>
+
           </ul>
         </nav>
       </div>

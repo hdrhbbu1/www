@@ -2,7 +2,7 @@ import 'isomorphic-fetch'
 
 import React, { Component } from 'react'
 
-const encode = data => Object.keys(data).map(key => 
+const encode = data => Object.keys(data).map(key =>
   encodeURIComponent(key) + '=' + encodeURIComponent(data[key])
 ).join('&')
 
@@ -20,7 +20,7 @@ export default class ContactForm extends Component {
     this.setState({ submitting: false, success: true })
   }
 
-  onFailure(err) {
+  onFailure() {
     this.setState({ submitting: false, success: false })
   }
 
@@ -62,7 +62,7 @@ export default class ContactForm extends Component {
         ) : undefined}
         <div
           css={{
-            opacity: submitting ? 0.6 : 1.0
+            opacity: submitting ? 0.6 : 1.0,
           }}
         >
           <form

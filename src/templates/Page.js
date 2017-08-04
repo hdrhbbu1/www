@@ -8,6 +8,7 @@ import Main from '../components/Main'
 export default class PageTemplate extends Component {
   render() {
     const {
+      siteUrl,
       title,
       description,
     } = this.props.data.site.siteMetadata
@@ -16,7 +17,12 @@ export default class PageTemplate extends Component {
       frontmatter,
       excerpt,
       html,
+      fields: {
+        slug,
+      },
     } = this.props.data.markdownRemark
+
+    const url = siteUrl + slug
 
     return (
       <Container>

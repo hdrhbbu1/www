@@ -114,8 +114,6 @@ export default class PostTemplate extends Component {
           </Link>
         </div>
         <article
-          itemScope
-          itemType="https://schema.org/Article"
           css={{
             width: '90%',
             maxWidth: '800px',
@@ -154,17 +152,16 @@ export default class PostTemplate extends Component {
                 marginTop: rhythm(2),
                 fontSize: '.9em',
                 fontFamily: 'Open Sans, sans-serif',
+                '@media(max-width: 800px)': {
+                  fontSize: '1em',
+                },
               }}
             >
-              <time dateTime={date}>
-                {date}
-              </time>
+              <span>Published on <time dateTime={date}>{date}</time></span>
             </div>
           </header>
           <div
-            itemProp="articleBody"
             css={{
-              width: '90%',
               margin: '0 auto',
               '@media(max-width: 800px)': {
                 fontSize: '1.05em',

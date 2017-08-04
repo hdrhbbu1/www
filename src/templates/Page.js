@@ -12,12 +12,46 @@ export default class PageTemplate extends Component {
       description,
     } = this.props.data.site.siteMetadata
 
-    const { html, frontmatter } = this.props.data.markdownRemark
+    const {
+      frontmatter,
+      excerpt,
+      html,
+    } = this.props.data.markdownRemark
 
     return (
       <Container>
         <Helmet
           title={frontmatter.title}
+          meta={[
+            {
+              name: 'twitter:title',
+              content: title,
+            },
+            {
+              name: 'og:title',
+              content: title,
+            },
+            {
+              name: 'twitter:card',
+              content: 'summary',
+            },
+            {
+              name: 'twitter:description',
+              content: excerpt,
+            },
+            {
+              name: 'og:description',
+              content: excerpt,
+            },
+            {
+              name: 'og:url',
+              content: url,
+            },
+            {
+              name: 'description',
+              content: excerpt,
+            },
+          ]}
         />
         <SiteSidebar
           title={title}
@@ -33,9 +67,9 @@ export default class PageTemplate extends Component {
           </h2>
           <div
             css={{
-              fontSize: '1.0em',
+              margin: '0 auto',
               '@media(max-width: 800px)': {
-                fontSize: '1.1em',
+                fontSize: '1.05em',
               },
             }}
             dangerouslySetInnerHTML={{ __html: html }}
@@ -56,6 +90,7 @@ export const pageQuery = graphql`
     }
     markdownRemark(fields: { slug: { eq: $slug } }) {
       html
+      excerpt
       frontmatter {
         title
       }

@@ -92,6 +92,7 @@ export const pageQuery = graphql`
       siteMetadata {
         title
         description
+        siteUrl
       }
     }
     markdownRemark(fields: { slug: { eq: $slug } }) {
@@ -99,6 +100,9 @@ export const pageQuery = graphql`
       excerpt
       frontmatter {
         title
+      }
+      fields {
+        slug
       }
     }
   }

@@ -3,6 +3,7 @@ import Helmet from 'react-helmet'
 import Link from 'gatsby-link'
 
 import { rhythm } from '../util/typography'
+import EmailRegistration from '../components/EmailRegistration'
 
 export default class TagsRoute extends Component {
   render() {
@@ -75,6 +76,18 @@ export default class TagsRoute extends Component {
               <h2>{fieldValue}</h2>
             </Link>
           ))}
+        </div>
+        <div>
+          <hr
+            css={{
+              height: '1px',
+              width: '75%',
+              margin: '0 auto',
+              marginTop: rhythm(2),
+              marginBottom: rhythm(2),
+            }}
+          />
+          <EmailRegistration/>
         </div>
       </div>
     )

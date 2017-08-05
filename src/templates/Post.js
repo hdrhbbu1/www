@@ -4,6 +4,7 @@ import Link from 'gatsby-link'
 
 import './Post.css'
 import { rhythm } from '../util/typography'
+import TagList from '../components/TagList'
 import EmailRegistration from '../components/EmailRegistration'
 
 const toAbsolute = (host, path) => host + path
@@ -24,19 +25,6 @@ export default class PostTemplate extends Component {
     const feature = toAbsolute(siteUrl, image && image.childImageSharp
       ? image.childImageSharp.responsiveResolution.src
       : '/share.jpg')
-
-    const tagged = (tags || []).map((t, i) => {
-      return (
-        <span
-          key={t}
-        >
-          <Link to={`/tags/${t}/`}>
-            {t}
-          </Link>
-          {i === tags.length - 1 ? undefined : ', '}
-        </span>
-      )
-    })
 
     return (
       <div
@@ -194,30 +182,18 @@ export default class PostTemplate extends Component {
             Nicholas Young is a husband, father, technologist, and rare illness advocate currently hailing from Denver, Colorado. He lives amid the snow-covered mountains with his wife, Susan, and daughter, Sloan.
           </p>
         </div>
-        {tagged.length > 0 ? (
-          <div>
-            <hr
-              css={{
-                height: '1px',
-                width: '75%',
-                margin: '0 auto',
-                marginTop: rhythm(2),
-                marginBottom: rhythm(2),
-              }}
-            />
-            <p
-              css={{
-                width: '90%',
-                textAlign: 'center',
-                maxWidth: '800px',
-                margin: '0 auto',
-                fontFamily: 'Open Sans, sans-serif',
-              }}
-            >
-              See other posts tagged with: {tagged}
-            </p>
-          </div>
+        {tags.length > 0 ? (
+          <hr
+            css={{
+              height: '1px',
+              width: '75%',
+              margin: '0 auto',
+              marginTop: rhythm(2),
+              marginBottom: rhythm(2),
+            }}
+          />
         ) : undefined}
+        <TagList tags={tags}/>
         <p
           css={{
             textAlign: 'center',

@@ -4,6 +4,7 @@ import Link from 'gatsby-link'
 
 import { rhythm } from '../util/typography'
 import PostPreview from '../components/PostPreview'
+import EmailRegistration from '../components/EmailRegistration'
 
 export default class TagTemplate extends Component {
   render() {
@@ -82,6 +83,16 @@ export default class TagTemplate extends Component {
             />
           ))}
         </div>
+        <hr
+          css={{
+            height: '1px',
+            width: '75%',
+            margin: '0 auto',
+            marginTop: rhythm(2),
+            marginBottom: rhythm(2),
+          }}
+        />
+        <EmailRegistration/>
       </div>
     )
   }

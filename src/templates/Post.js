@@ -151,9 +151,6 @@ export default class PostTemplate extends Component {
           <div
             css={{
               margin: '0 auto',
-              '@media(max-width: 800px)': {
-                fontSize: '1.05em',
-              },
             }}
             dangerouslySetInnerHTML={{ __html: html }}
           />

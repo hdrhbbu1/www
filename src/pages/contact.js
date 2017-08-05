@@ -32,7 +32,7 @@ export default class ContactRoute extends Component {
           </h2>
           <div
             css={{
-              marginBottom: '1em',
+              margin: '0 auto 1em auto',
             }}
           >
             <p>

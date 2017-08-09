@@ -1,6 +1,8 @@
 import React from 'react'
 import Link from 'gatsby-link'
 
+import { rhythm } from '../util/typography'
+
 const PostPreview = ({ frontmatter, fields, excerpt, ...props }) => (
   <article {...props}>
     <time
@@ -17,7 +19,11 @@ const PostPreview = ({ frontmatter, fields, excerpt, ...props }) => (
         textDecoration: 'none',
       }}
     >
-      <h3>{frontmatter.title}</h3>
+      <h3
+        css={{
+          marginTop: rhythm(.25),
+        }}
+      >{frontmatter.title}</h3>
     </Link>
     <p>{excerpt}</p>
   </article>

@@ -4,6 +4,13 @@ date: '2017-08-11'
 layout: post
 draft: false
 image: artwork-collage.jpg
+keywords:
+    - machinefm
+    - the machine
+    - the machine broadcasting network
+    - dispatch
+    - inside the machine
+    - nicholas young
 topics:
     - the-machine
 tags:

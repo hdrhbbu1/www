@@ -138,7 +138,7 @@ I'm not religious in any sense, but I can get behind the sentiment of His Holine
 
 Why shutter The Machine? What I experienced throughout most of 2015 was a perfect storm, designed to take us down from every angle: apathy from potential donors, internal frustration over priorities and scheduling, we had a touch of it all. Like the quote above illustrates, it can be tough to wriggle free of apathy's grasp: at home, in your workplace, and most difficult of all, the wider world.
 
-I felt as though I'd worked for years on a grand vision only to see it discounted by those who I thought were the most understanding and supportive. And amid that turmoil, I decided to cut existing losses and move on.
+I felt as though I'd worked for years on a grand vision only to see it discounted by those who I thought were the most understanding and supportive. And amid that turmoil, I decided to cut existing losses and move on. Do I consistently have thoughts about where and when I could've done better? Absolutely. But I also realize that, according to Inc.com, [96 percent of businesses will fail within 10 years.](https://www.inc.com/bill-carmody/why-96-of-businesses-fail-within-10-years.html) It's sobering yet empowering knowledge after a major failure.
 
 Will I return to the airwaves? Perhaps. For now, I see this as a childhood dream delayed, not yet denied. My hearing has been severely affected over the last year by [Ehlers-Danlos Syndrome](/tags/ehlers-danlos-syndrome/), and as a result, I've lost a lot of confidence as an audio engineer. But my desire to share compelling stories is present as ever, so regardless of the medium, I will continue to write, speak, and hopefully, broadcast for you in the future.
 

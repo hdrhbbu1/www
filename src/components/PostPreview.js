@@ -3,16 +3,29 @@ import Link from 'gatsby-link'
 
 import { rhythm } from '../util/typography'
 
-const PostPreview = ({ frontmatter, fields, excerpt, ...props }) => (
+const PostPreview = ({ frontmatter, timeToRead, fields, excerpt, ...props }) => (
   <article {...props}>
-    <time
+    <div
       css={{
         fontFamily: 'Open Sans, sans-serif',
       }}
-      dateTime={frontmatter.date}
     >
-      {frontmatter.date}
-    </time>
+      <time dateTime={frontmatter.date}>
+        {frontmatter.date}
+      </time>
+      {timeToRead ? (
+        <span
+          css={{
+            marginLeft: '.5rem',
+            fontSize: '.9em',
+            lineHeight: '1em',
+            display: 'inline-block',
+            paddingLeft: '.5rem',
+            borderLeft: 'rgba(0, 0, 0, .05) solid',
+          }}
+        >{timeToRead} min. read</span>
+      ) : undefined}
+    </div>
     <Link
       to={fields.slug}
       css={{

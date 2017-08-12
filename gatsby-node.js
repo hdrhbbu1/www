@@ -51,6 +51,7 @@ exports.createPages = ({ graphql, boundActionCreators }) => {
                 layout
                 tags
                 topics
+                show
               }
             }
           }
@@ -70,12 +71,15 @@ exports.createPages = ({ graphql, boundActionCreators }) => {
           return
         }
 
+        const show = get(edge, 'node.frontmatter.show') || ''
+
         const { layout } = edge.node.frontmatter
         createPage({
           path: edge.node.fields.slug,
           component: template(layout),
           context: {
-            slug: edge.node.fields.slug
+            slug: edge.node.fields.slug,
+            show,
           }
         })
 

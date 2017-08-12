@@ -12,5 +12,10 @@ category: 'Arts'
 subcategory: 'Design'
 explicit: false
 copyright: '2013 - 2015 Joshua Wentz & Nicholas Young'
+feeds:
+  - title: RSS
+    url: /programs/dispatch.xml
+  - title: iTunes
+    url: https://itunes.apple.com/us/podcast/dispatch/id1265819315
 ---
 Co-created in 2013 by Joshua Wentz and Nicholas Young, Dispatch touches almost every aspect of the modern artist's career. Wentz, a label-owner and musician, brings a unique perspective from Chicago's underground. 

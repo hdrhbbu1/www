@@ -191,17 +191,6 @@ export default class PostTemplate extends Component {
           />
         ) : undefined}
         <TagList tags={tags}/>
-        <p
-          css={{
-            textAlign: 'center',
-            madWidth: '800px',
-            margin: '0 auto',
-            marginTop: rhythm(1),
-            fontFamily: 'Open Sans, sans-serif',
-          }}
-        >
-          If you found value in the article above, <a href="https://ko-fi.com/A8362RXE">please consider giving</a> to help work like this continue.
-        </p>
       </div>
     )
   }

@@ -23,13 +23,13 @@ export default class ContactRoute extends Component {
           description={description}
         />
         <Main>
-          <h2
+          <h1
             css={{
               marginTop: 0,
             }}
           >
             Contact
-          </h2>
+          </h1>
           <div
             css={{
               margin: '0 auto 1em auto',

@@ -15,8 +15,11 @@ export default class ShowTemplate extends Component {
     } = this.props.data.site.siteMetadata
 
     const show = this.props.data.markdownRemark
-    const episodes = (this.props.data.allMarkdownRemark.edges || [])
-      .map(e => e.node)
+    const posts = this.props.data.allMarkdownRemark &&
+      this.props.data.allMarkdownRemark.edges ?
+      this.props.data.allMarkdownRemark.edges : []
+
+    const episodes = posts.map(e => e.node)
 
     return (
       <Container>

@@ -91,7 +91,7 @@ exports.createPodcastFeeds = () => {
             subcategory
             copyright
             explicit
-            archiveIdentifier
+            archiveId
             artwork {
               childImageSharp {
                 responsiveResolution(width: 1400) {
@@ -195,7 +195,7 @@ exports.createPodcastFeeds = () => {
           enclosure: {
             url: [
               mediaUrl,
-              args.query.markdownRemark.frontmatter.archiveIdentifier || `machinefm-${s}`,
+              args.query.markdownRemark.frontmatter.archiveId,
               asset.filename,
             ].join('/'),
           },

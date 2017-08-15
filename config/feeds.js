@@ -127,7 +127,7 @@ exports.createPodcastFeeds = () => {
                 explicit
                 duration
                 assets {
-                  content_type
+                  contentType
                   filename
                 }
               }
@@ -182,7 +182,7 @@ exports.createPodcastFeeds = () => {
     serialize: (args) => {
       return args.query.allMarkdownRemark.edges.map(edge => {
         const asset = edge.node.frontmatter.assets.filter(a =>
-          a.content_type === 'audio/mpeg'
+          a.contentType === 'audio/mpeg'
         )[0]
         const { mediaUrl } = args.query.site.siteMetadata
         return Object.assign({}, edge.node.frontmatter, {

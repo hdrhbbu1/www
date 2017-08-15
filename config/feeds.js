@@ -91,7 +91,7 @@ exports.createPodcastFeeds = () => {
             subcategory
             copyright
             explicit
-            archiveIdentifier
+            archiveId
             artwork {
               childImageSharp {
                 responsiveResolution(width: 1400) {
@@ -178,7 +178,7 @@ exports.createPodcastFeeds = () => {
     serialize: (args) => {
       return args.query.allMarkdownRemark.edges.map(edge => {
         const asset = edge.node.frontmatter.assets.filter(a =>
-          a.content_type === 'audio/x-m4a'
+          a.content_type === 'audio/mpeg'
         )[0]
         const { mediaUrl } = args.query.site.siteMetadata
         return Object.assign({}, edge.node.frontmatter, {
@@ -195,8 +195,8 @@ exports.createPodcastFeeds = () => {
           enclosure: {
             url: [
               mediaUrl,
-              args.query.markdownRemark.frontmatter.archiveIdentifier || `machinefm-${s}`,
-              asset.filename.replace('m4a', 'mp3'),
+              args.query.markdownRemark.frontmatter.archiveId,
+              asset.filename,
             ].join('/'),
           },
         })

@@ -6,8 +6,7 @@ import './Post.css'
 import { rhythm } from '../util/typography'
 import TagList from '../components/TagList'
 import EmailRegistration from '../components/EmailRegistration'
-
-const toAbsolute = (host, path) => host + path
+import { toAbsolute } from '../util/helpers'
 
 export default class PostTemplate extends Component {
   render() {

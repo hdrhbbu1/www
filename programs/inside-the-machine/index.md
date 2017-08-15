@@ -3,9 +3,10 @@ title: Inside the Machine
 date: '2013-07-01'
 layout: show
 draft: false
-show: inside
+show: inside-the-machine
 archiveId: machinefm-inside
 artwork: artwork.jpg
+category: 'Music'
 explicit: false
 copyright: '2013 - 2015 Nicholas Young'
 feeds:

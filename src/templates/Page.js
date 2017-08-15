@@ -64,13 +64,13 @@ export default class PageTemplate extends Component {
           description={description}
         />
         <Main>
-          <h2
+          <h1
             css={{
               marginTop: 0,
             }}
           >
             {frontmatter.title}
-          </h2>
+          </h1>
           <div
             css={{
               margin: '0 auto',

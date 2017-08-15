@@ -65,7 +65,11 @@ exports.createArticlesFeed = () => {
 
 exports.createPodcastFeeds = () => {
   // Specify which shows to create feeds for
-  const shows = ['dispatch', 'chick-habit']
+  const shows = [
+    'dispatch',
+    'chick-habit',
+    'inside-the-machine',
+  ]
 
   // Map though the results and return feed config for each
   return shows.map(s => ({

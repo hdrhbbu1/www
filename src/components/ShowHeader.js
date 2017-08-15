@@ -1,4 +1,5 @@
 import React, { Component } from 'react'
+import Link from 'gatsby-link'
 
 import FeedList from './FeedList'
 
@@ -7,6 +8,7 @@ export default class ShowHeader extends Component {
     const {
       episode = false,
       frontmatter: { title, artwork, feeds, description },
+      fields: { slug },
       html,
     } = this.props
 
@@ -36,7 +38,14 @@ export default class ShowHeader extends Component {
               css={{
                 marginTop: 0,
               }}
-            >{title}</h2>
+            >
+              <Link
+                to={slug}
+                css={{
+                  textDecoration: 'none',
+                }}
+              >{title}</Link>
+            </h2>
           ) : (
             <h1
               css={{

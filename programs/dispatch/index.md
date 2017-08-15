@@ -1,5 +1,6 @@
 ---
 guid: 982390ac-b681-40bc-8db6-d6a4694c67bc
+archiveId: machinefm-dispatch
 title: Dispatch
 show: dispatch
 date: '2013-07-01'

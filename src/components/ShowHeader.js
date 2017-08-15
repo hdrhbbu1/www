@@ -60,6 +60,11 @@ export default class ShowHeader extends Component {
             marginBottom: 'auto',
             width: '100%',
             maxWidth: '200px',
+            '@media(max-width: 600px)': {
+              marginLeft: 0,
+              marginRight: 'auto',
+              marginBottom: '2rem',
+            },
           }}
         />
       </div>

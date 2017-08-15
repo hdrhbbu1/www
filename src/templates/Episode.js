@@ -7,16 +7,21 @@ import Main from '../components/Main'
 import ShowHeader from '../components/ShowHeader'
 import EmbeddedAudioPlayer from '../components/EmbeddedAudioPlayer'
 
+import { toMediaURL } from '../util/helpers'
+
 export default class EpisodeTemplate extends Component {
   render() {
     const {
       title: siteTitle,
       description: siteDescription,
+      mediaUrl
     } = this.props.data.site.siteMetadata
 
     const show = this.props.data.show
     const episode = this.props.data.markdownRemark
-    const assets = episode.frontmatter.assets
+    const assets = episode.frontmatter.assets.map(
+      toMediaURL(mediaUrl, show.frontmatter)
+    )
 
     return (
       <Container>
@@ -46,9 +51,12 @@ export default class EpisodeTemplate extends Component {
             >{episode.frontmatter.title}</h1>
             <EmbeddedAudioPlayer
               title={episode.frontmatter.title}
-              assets={assets}
+              src={assets}
             />
             <div
+              css={{
+                marginTop: '1.5rem',
+              }}
               dangerouslySetInnerHTML={{ __html: episode.html }}
             />
           </article>
@@ -64,6 +72,7 @@ export const pageQuery = graphql`
       siteMetadata {
         title
         description
+        mediaUrl
       }
     }
     markdownRemark(
@@ -104,6 +113,7 @@ export const pageQuery = graphql`
       frontmatter {
         title
         description
+        archiveId
         feeds {
           title
           url

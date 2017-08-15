@@ -7,9 +7,6 @@
     "gatsby": "1.8.11"
   },
   "devDependencies": {
-    "audio-context": "1.0.1",
-    "audio-loader": "1.0.3",
-    "audio-player": "1.1.0",
     "babel-eslint": "7.2.3",
     "babel-jest": "20.0.3",
     "date-fns": "^1.28.4",

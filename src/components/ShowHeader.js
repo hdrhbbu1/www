@@ -62,20 +62,22 @@ export default class ShowHeader extends Component {
             }}
           />
         </div>
-        <img
-          src={art}
+        <div
           css={{
             marginLeft: 'auto',
+            marginTop: 'auto',
             marginBottom: 'auto',
-            width: '100%',
-            maxWidth: '200px',
             '@media(max-width: 600px)': {
               marginLeft: 0,
               marginRight: 'auto',
               marginBottom: '2rem',
             },
           }}
-        />
+        >
+          <Link to={slug}>
+            <img src={art}/>
+          </Link>
+        </div>
       </div>
     )
   }

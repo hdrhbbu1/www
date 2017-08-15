@@ -5,6 +5,9 @@ layout: show
 draft: false
 show: inside
 archiveId: machinefm-inside
+artwork: artwork.jpg
+explicit: false
+copyright: '2013 - 2015 Nicholas Young'
 feeds:
   - title: RSS
     url: /programs/inside-the-machine.xml

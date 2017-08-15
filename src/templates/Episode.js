@@ -120,7 +120,7 @@ export const pageQuery = graphql`
         }
         artwork {
           childImageSharp {
-            responsiveResolution(width: 200) {
+            responsiveResolution(width: 600) {
               src
             }
           }

@@ -1,6 +1,7 @@
 import React, { Component } from 'react'
 import Helmet from 'react-helmet'
 
+import { rhythm } from '../util/typography'
 import Container from '../components/Container'
 import SiteSidebar from '../components/SiteSidebar'
 import Main from '../components/Main'
@@ -23,6 +24,8 @@ export default class EpisodeTemplate extends Component {
       toMediaURL(mediaUrl, show.frontmatter)
     )
 
+    const { date, rawDate } = episode.frontmatter
+
     return (
       <Container>
         <Helmet
@@ -34,21 +37,40 @@ export default class EpisodeTemplate extends Component {
             },
           ]}
         />
-        <SiteSidebar
-          title={siteTitle}
-          description={siteDescription}
-        />
-        <Main>
-          <article>
-            <ShowHeader {...show} episode={true}/>
-            <h1
+    <SiteSidebar
+      title={siteTitle}
+      description={siteDescription}
+    />
+    <Main>
+      <article>
+        <header
+          css={{
+            paddingTop: rhythm(1/2),
+            marginBottom: rhythm(1/2),
+            borderBottom: 'rgba(0, 0, 0, .05) 1px solid',
+          }}
+        >
+          <ShowHeader {...show} episode={true}/>
+          <h1
+            css={{
+              marginTop: 0,
+            }}
+          >{episode.frontmatter.title}</h1>
+          <div
+            css={{
+              fontSize: '.8rem',
+              fontFamily: 'Open Sans, sans-serif',
+              textTransform: 'uppercase',
+            }}
+          >
+            <span
               css={{
-                marginTop: 0,
-                paddingBottom: '1.5rem',
-                marginBottom: '1.5rem',
-                borderBottom: 'rgba(0, 0, 0, .05) 1px solid',
+                display: 'block',
               }}
-            >{episode.frontmatter.title}</h1>
+            >Broadcast Date: <time dateTime={rawDate}>{date}</time>
+            </span>
+          </div>
+        </header>
             <EmbeddedAudioPlayer
               title={episode.frontmatter.title}
               src={assets}
@@ -89,7 +111,8 @@ export const pageQuery = graphql`
       frontmatter {
         number
         title
-        date
+        date(formatString: "MMMM, DD YYYY")
+        rawDate: date
         assets {
           format
           filename

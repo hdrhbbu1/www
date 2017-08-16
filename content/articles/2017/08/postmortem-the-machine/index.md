@@ -29,6 +29,8 @@ Studying decisions that led up to past failures in order improve future outcomes
 
 As many of you know, I founded [The Machine](/topics/the-machine), an independent broadcast network, in July of 2013. It operated out of my Chicago home-based studio, producing well over 200 hours of educational radio programming before I shuttered operations on December 1, 2015. The overarching plan was to build a community arts organization that trained and equipped citizen documentarians, hopefully unleashing a creative, news-making renaissance in the otherwise frustrated City of Chicago. I believed, and still do, that media literacy, including basic training on how to go about creating your own media as a young person, is essential. The Machine was one avenue I followed in pursuit of that goal.
 
+![Logo specimens for The Machine](logo-specimens.png)
+
 I expected to launch as an on-demand media house, producing and distributing educational, thought-provoking talk programming, since that's what I knew best. Music features, though a part of the master plan, were to be delayed until I was sure we had a stable base of listeners. An extremely small group of early listeners who tuned in to *Kickstand* 1.0, the show that would eventually be rebooted to host our live-in-studio music series, will recall I faced much criticism for the music we did choose to play.
 
 Only a few weeks in, that show quickly shuttered amid a flurry of unpleasant emails from armchair critics who assumed they knew better.

@@ -37,47 +37,44 @@ export default class EpisodeTemplate extends Component {
             },
           ]}
         />
-    <SiteSidebar
-      title={siteTitle}
-      description={siteDescription}
-    />
-    <Main>
-      <article>
-        <header
-          css={{
-            paddingTop: rhythm(1/2),
-            marginBottom: rhythm(1/2),
-            borderBottom: 'rgba(0, 0, 0, .05) 1px solid',
-          }}
-        >
-          <ShowHeader {...show} episode={true}/>
-          <h1
-            css={{
-              marginTop: 0,
-            }}
-          >{episode.frontmatter.title}</h1>
-          <div
-            css={{
-              fontSize: '.8rem',
-              fontFamily: 'Open Sans, sans-serif',
-              textTransform: 'uppercase',
-            }}
-          >
-            <span
-              css={{
-                display: 'block',
-              }}
-            >Broadcast Date: <time dateTime={rawDate}>{date}</time>
-            </span>
-          </div>
-        </header>
+        <SiteSidebar
+          title={siteTitle}
+          description={siteDescription}
+        />
+        <Main>
+          <article>
+            <header>
+              <ShowHeader {...show} episode={true}/>
+              <h1
+                css={{
+                  marginTop: 0,
+                }}
+              >{episode.frontmatter.title}</h1>
+              <div
+                css={{
+                  fontSize: '.8rem',
+                  fontFamily: 'Open Sans, sans-serif',
+                  textTransform: 'uppercase',
+                  paddingBottom: rhythm(1/2),
+                  marginBottom: rhythm(1/2),
+                  borderBottom: 'rgba(0, 0, 0, .05) 1px solid',
+                }}
+              >
+                <span
+                  css={{
+                    display: 'block',
+                  }}
+                >Broadcast Date: <time dateTime={rawDate}>{date}</time>
+                </span>
+              </div>
+            </header>
             <EmbeddedAudioPlayer
               title={episode.frontmatter.title}
               src={assets}
             />
             <div
               css={{
-                marginTop: '1.5rem',
+                marginTop: rhythm(1),
               }}
               dangerouslySetInnerHTML={{ __html: episode.html }}
             />

@@ -23,6 +23,7 @@ export default class TagList extends Component {
             maxWidth: '800px',
             margin: '0 auto',
             fontFamily: 'Open Sans, sans-serif',
+            fontSize: '1rem',
           }}
         >
           See other posts tagged with: {tagged}

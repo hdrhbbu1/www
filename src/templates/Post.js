@@ -84,7 +84,7 @@ export default class PostTemplate extends Component {
               left: '20px',
               textAlign: 'center',
               padding: '8px 16px',
-              color: '#999',
+              color: '#1999',
               borderRadius: '3px',
               background: '#F4F4F4',
               fontFamily: 'Open Sans',
@@ -172,6 +172,7 @@ export default class PostTemplate extends Component {
             margin: '0 auto',
             textAlign: 'center',
             fontFamily: 'Open Sans, sans-serif',
+            fontSize: '.9rem',
           }}
         >
           <p>

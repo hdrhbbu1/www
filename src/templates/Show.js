@@ -105,7 +105,7 @@ export const pageQuery = graphql`
             number
             title
             rawDate: date
-            date(formatString: "MMMM, DD YYYY")
+            date(formatString: "MMMM DD, YYYY")
           }
           fields {
             slug

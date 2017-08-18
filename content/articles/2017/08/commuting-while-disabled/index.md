@@ -40,7 +40,7 @@ No, it's not your right. Even [Good Housekeeping](http://www.goodhousekeeping.co
 
 ## Please, Listen
 
-All that I asked of the woman above was that she assist in remedying the damage she caused. If that proved too much (and indeed, it was), I would've settled for a calm interaction. As it was, she remained fixated on the story of our illustrious gentleman.
+All that I asked of the woman above was that she assist in remedying the damage she caused. If that proved too much (and indeed, it was), I would've settled for a calm interaction. As our conversation continued, she remained fixated on the story of our illustrious gentleman.
 
 "Look, the man in question sounds like an asshole," I said, bluntly stating the glaringly obvious truth. "This story really has no bearing on what we're discussing today, I'm having a reaction here." At that point she blabbered something that sounded uncannily like the [off-stage voice in Peanuts;](http://mashable.com/2015/10/26/peanuts-wah-wah/#Itj1iaNbCuqF) I tuned out as the headache became too much.
 

@@ -6,10 +6,15 @@ draft: false
 tags:
     - ehlers-danlos-syndrome
     - chronic-illness
+    - allergies
+    - etiquette
+    - travel
+    - disability
 topics:
     - ehlers-danlos-syndrome
+    - chronic-illness
 ---
-Over the past several months, I've written much concerning how people with disabilities are [only valuable to the media for their redemption stories](/2017/06/shades-of-rare-illness/), and [why it is difficult to attain proper medical care](/2017/06/casual-ableism/). Last June I discussed [the increase in my pain levels due to an advancing genetic condition](2016/06/life-on-the-inside-part-ii/), after I wrote an introductory post introducing you to [Ehlers-Danlos Syndrome](/tags/ehlers-danlos-syndrome/). To say I've spilled ink is an understatement; I even took you deep into my life with [chronic illness](/tags/chronic-illness/), writing my own personal [frequently asked questions](/2017/05/what-i-wish-you-understood-about-my-chronic-illness/) addressing what I wish you understood about my fluid, but still disabling condition.
+During the last several months, I've written much concerning how people with disabilities are [only valuable to the media for their redemption stories](/2017/06/shades-of-rare-illness/), and [why it is difficult to attain proper medical care](/2017/06/casual-ableism/). Last June I discussed [the increase in my pain levels due to an advancing genetic condition](2016/06/life-on-the-inside-part-ii/), after I wrote an introductory post introducing you to [Ehlers-Danlos Syndrome](/tags/ehlers-danlos-syndrome/). To say I've spilled ink is an understatement; I even took you deep into my life with [chronic illness](/tags/chronic-illness/), writing my own personal [frequently asked questions](/2017/05/what-i-wish-you-understood-about-my-chronic-illness/) addressing what I wish you understood about my fluid, but still disabling condition.
 
 However, absent thus far from my writing has been the most basic truth that underlies all of my experiences with disability: simply existing is emotionally tiring.
 
@@ -25,11 +30,11 @@ What I didn't mention was that I avoided her on the platform because of the smok
 
 "Excuse me," I choked. "Did you just spray perfume or something?" The headache and disorientation that usually accompany such an event were becoming rapidly evident to me. "Yeah, outside, I think." It was a dodge, as she had applied fresh purfume onboard the train car only moments before. "So, I'm incredibly allergic to strong chemical smells like this. Can you help me clear out the car? The smell is collecting here, in the front where I am and there's no doors." I hoped, perhaps against all odds, that she would move, lift one of the nearby newspapers, and begin to fan. Instead, her lower lip turned outward.
 
-"I've never known anyone who was allergic," she quipped, an aire of superiority now accompanying the offensive smell already present. "Well, now you do. I am, as are many of my friends," I said, visibly tapping my wheelchair to quietly indicate her privilege in this exchange. "All I'd ask is that in the future, be considerate and don't spray perfume on the train. Outside, and away from most folks, should be fine."
+"I've never known anyone who was allergic," she quipped, an aire of superiority now accompanying the offensive smell already present. "I am, as are many of my friends," I said, visibly tapping my wheelchair to quietly indicate her privilege in this exchange. "All I'd ask is that in the future, be considerate and don't spray perfume on the train. Outside, and away from most folks, should be fine."
 
 I don't know if it was what I said or the tone in which I said it, but I've never seen a grown woman pout in response to anything I've ever said, save now. I'm currently rearing a toddler, so I know a bad attitude when I see it.
 
-She proceeded to inform me of a time when she was smoking outside and perfumed after, giving a nearby gentleman reason to complain that "his wife would want to know where he went to smell of perfume," before finishing it off with a real gem: "how can I know who is allergic? It is everybody? Who gets to say where I can spray? It's my right, after all."
+She proceeded to inform me of a time when she was smoking outside and perfumed after, giving a nearby gentleman reason to complain that "his wife would want to know where he went to smell of perfume," before finishing off with a real gem: "how can I know who is allergic? It is everybody? Who gets to say where I can spray? It's my right, after all."
 
 No, it's not your right. Even [Good Housekeeping](http://www.goodhousekeeping.com/beauty/a37870/perfume-allergy-etiquette/) has published an article covering "Perfume Allergy Etiquette," where they suggest skipping perfume if you'll be in an enclosed space period, because up to [30% of Americans experience sensitivity](http://www.ncbi.nlm.nih.gov/pubmed/19326669) to scented products.
 

@@ -16,8 +16,8 @@ export default class ShowTemplate extends Component {
 
     const show = this.props.data.markdownRemark
     const posts = this.props.data.allMarkdownRemark &&
-      this.props.data.allMarkdownRemark.edges ?
-      this.props.data.allMarkdownRemark.edges : []
+      this.props.data.allMarkdownRemark.edges
+      ? this.props.data.allMarkdownRemark.edges : []
 
     const episodes = posts.map(e => e.node)
 
@@ -49,7 +49,7 @@ export default class ShowTemplate extends Component {
             >Episodes</h2>
             <div>
               {episodes.map(e => (
-                <EpisodePreview {...e}/>
+                <EpisodePreview key={e.frontmatter.number} {...e}/>
               ))}
             </div>
           </article>
@@ -104,7 +104,8 @@ export const pageQuery = graphql`
           frontmatter {
             number
             title
-            date
+            rawDate: date
+            date(formatString: "MMMM, DD YYYY")
           }
           fields {
             slug

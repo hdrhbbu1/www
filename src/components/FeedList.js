@@ -21,7 +21,7 @@ export default class FeedList extends Component {
                 marginRight: '1rem',
                 '&:last-child': {
                   marginRight: 0,
-                }
+                },
               }}
             >
               <a

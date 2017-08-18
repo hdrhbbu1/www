@@ -34,7 +34,7 @@ const PostPreview = ({ frontmatter, timeToRead, fields, excerpt, ...props }) => 
     >
       <h3
         css={{
-          marginTop: rhythm(.25),
+          marginTop: rhythm(0.25),
         }}
       >{frontmatter.title}</h3>
     </Link>

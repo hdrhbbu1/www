@@ -7,13 +7,13 @@ export default class ShowHeader extends Component {
   render() {
     const {
       episode = false,
-      frontmatter: { title, artwork, feeds, description },
+      frontmatter: { title, artwork, feeds },
       fields: { slug },
       html,
     } = this.props
 
-    const art = artwork && artwork.childImageSharp ?
-      artwork.childImageSharp.responsiveResolution.src : '/share.jpg'
+    const art = artwork && artwork.childImageSharp
+      ? artwork.childImageSharp.responsiveResolution.src : '/share.jpg'
 
     return (
       <div

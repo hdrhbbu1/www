@@ -88,13 +88,12 @@ export default class EmbeddedAudioPlayer extends Component {
   }
 
   handleClick() {
-    const operation = (this.state.isPlaying ?
-      this.pause : this.play).bind(this)
+    const operation = (this.state.isPlaying
+      ? this.pause : this.play).bind(this)
     operation()
   }
 
   render() {
-    const { src } = this.props
     const isPlaying = this.state.isPlaying
 
     return (
@@ -104,7 +103,7 @@ export default class EmbeddedAudioPlayer extends Component {
           display: 'flex',
           alignItems: 'stretch',
           background: 'rgba(0, 0, 0, .2)',
-          ...this.props.css
+          ...this.props.css,
         }}
       >
         <div

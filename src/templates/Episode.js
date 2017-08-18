@@ -15,7 +15,7 @@ export default class EpisodeTemplate extends Component {
     const {
       title: siteTitle,
       description: siteDescription,
-      mediaUrl
+      mediaUrl,
     } = this.props.data.site.siteMetadata
 
     const show = this.props.data.show
@@ -55,8 +55,8 @@ export default class EpisodeTemplate extends Component {
                   fontSize: '.8rem',
                   fontFamily: 'Open Sans, sans-serif',
                   textTransform: 'uppercase',
-                  paddingBottom: rhythm(1/2),
-                  marginBottom: rhythm(1/2),
+                  paddingBottom: rhythm(1 / 2),
+                  marginBottom: rhythm(1 / 2),
                   borderBottom: 'rgba(0, 0, 0, .05) 1px solid',
                 }}
               >

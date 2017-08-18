@@ -29,7 +29,7 @@ const options = {
       },
       p: {
         lineHeight: 1.7,
-        fontSize: '1.05em',
+        fontSize: '1.1em',
         marginBottom: rhythm(1),
       },
       blockquote: {

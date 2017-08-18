@@ -10,7 +10,7 @@ const PostPreview = ({ frontmatter, timeToRead, fields, excerpt, ...props }) => 
         fontFamily: 'Open Sans, sans-serif',
       }}
     >
-      <time dateTime={frontmatter.date}>
+      <time dateTime={frontmatter.rawDate}>
         {frontmatter.date}
       </time>
       {timeToRead ? (

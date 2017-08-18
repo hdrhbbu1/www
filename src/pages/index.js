@@ -30,7 +30,7 @@ export default class IndexRoute extends Component {
         <Main>
           {posts.map(p => (
             <PostPreview
-              key={p.id}
+              key={p.frontmatter.slug}
               css={{
                 marginBottom: rhythm(2),
               }}
@@ -66,7 +66,8 @@ export const pageQuery = graphql`
           }
           frontmatter {
             title
-            date(formatString: "MMM D, YYYY")
+            date(formatString: "MMMM DD, YYYY")
+            rawDate: date
           }
         }
       }

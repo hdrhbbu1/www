@@ -16,7 +16,7 @@ export default class PostTemplate extends Component {
       fields: { slug },
       excerpt,
       html,
-      frontmatter: { title, tags, date, image, keywords },
+      frontmatter: { title, tags, rawDate, date, image, keywords },
     } = this.props.data.markdownRemark
 
     const url = toAbsolute(siteUrl, slug)
@@ -144,7 +144,7 @@ export default class PostTemplate extends Component {
                 },
               }}
             >
-              <span>Published on <time dateTime={date}>{date}</time></span>
+              <span>Published on <time dateTime={rawDate}>{date}</time></span>
             </div>
           </header>
           <div
@@ -211,7 +211,8 @@ export const pageQuery = graphql`
       }
       frontmatter {
         title
-        date(formatString: "MMM D, YYYY")
+        date(formatString: "MMMM DD, YYYY")
+        rawDate: date
         tags
         image {
           childImageSharp {

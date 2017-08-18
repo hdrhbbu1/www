@@ -46,4 +46,4 @@ All that I asked of the woman above was that she assist in remedying the damage 
 
 Four hours have passed since this interaction. I'm now resting at home after fighting off an aggressive headache and take no real pleasure in relaying this story to you. It is nevertheless important.
 
-The graphic on a recent [t-shirt from the DisVisibility Project](https://disabilityvisibilityproject.com/2017/07/04/our-existence-is-resistance-summer-fundraiser-for-nationaladapt/) reads, "My existence is resistance." Perhaps existing in the world and asking to be treated with care is a revolutionary act.
+The graphic on a recent [t-shirt from the DisVisibility Project](https://disabilityvisibilityproject.com/2017/07/04/our-existence-is-resistance-summer-fundraiser-for-nationaladapt/) reads, "our existence is resistance." Perhaps existing in the world and asking to be treated with care is a revolutionary act.

@@ -20,7 +20,7 @@ However, absent thus far from my writing has been the most basic truth that unde
 
 ## Me vs. the Abled
 
-If someone were causing you pain, how do politely ask them to stop? What if they won't? What if they're a stranger?
+If someone were causing you pain, how do you politely ask them to stop? What if they won't? What if they're a stranger?
 
 This is a narrative I play out almost daily as entitled mothers bounce the stroller with their precious cargo off some part of my body. I don't have to be in the way, just nearby. If the stroller doesn't roll over my foot (which I've usually tucked away well in advance), I'll often be hit with a diaper bag.
 

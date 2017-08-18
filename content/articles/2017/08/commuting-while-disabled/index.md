@@ -17,7 +17,7 @@ However, absent thus far from my writing has been the most basic truth that unde
 
 If someone were causing you pain, how do politely ask them to stop? What if they won't? What if they're a stranger?
 
-This is a narrative I play out almost daily as entitled mothers bounce the stroller with their precious cargo off some part of my body. I don't have to be in the way, just nearby. If the stroller doesn't roll over my foot (which I've usually tucked away well in advance), you'll often be hit with a diaper bag.
+This is a narrative I play out almost daily as entitled mothers bounce the stroller with their precious cargo off some part of my body. I don't have to be in the way, just nearby. If the stroller doesn't roll over my foot (which I've usually tucked away well in advance), I'll often be hit with a diaper bag.
 
 I can't tell you how often that has happened, so we can therefore surmise that public transit is a dangerous place for the chronically ill. Today, however, I found myself wheezing as I begged a middle-aged woman to help me clear the car of her excessively strong perfume. It was, in her own words, to mask the repulsive smell of cigarettes.
 

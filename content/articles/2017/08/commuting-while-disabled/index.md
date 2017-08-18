@@ -16,7 +16,7 @@ topics:
 ---
 During the last several months, I've written much concerning how people with disabilities are [only valuable to the media for their redemption stories](/2017/06/shades-of-rare-illness/), and [why it is difficult to attain proper medical care](/2017/06/casual-ableism/). Last June I discussed [the increase in my pain levels due to an advancing genetic condition](2016/06/life-on-the-inside-part-ii/), after I wrote an introductory post introducing you to [Ehlers-Danlos Syndrome](/tags/ehlers-danlos-syndrome/). To say I've spilled ink is an understatement; I even took you deep into my life with [chronic illness](/tags/chronic-illness/), writing my own personal [frequently asked questions](/2017/05/what-i-wish-you-understood-about-my-chronic-illness/) addressing what I wish you understood about my fluid, but still disabling condition.
 
-However, absent thus far from my writing has been the most basic truth that underlies all of my experiences with disability: simply existing is emotionally tiring.
+However, absent thus far from my writing has been the most basic truth that underlies all of my experiences with disability: simply existing is physically and emotionally tiring.
 
 ## Me vs. the Abled
 

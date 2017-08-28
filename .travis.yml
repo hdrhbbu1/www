@@ -1,8 +1,5 @@
 language: node_js
 
-cache:
-  - node_modules/
-
 services: docker
 
 node_js:

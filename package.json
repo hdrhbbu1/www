@@ -4,7 +4,7 @@
   "description": "A Gatsby-powered blog and portfolio for me.",
   "main": "index.js",
   "dependencies": {
-    "gatsby": "1.9.8"
+    "gatsby": "1.9.9"
   },
   "devDependencies": {
     "babel-eslint": "7.2.3",

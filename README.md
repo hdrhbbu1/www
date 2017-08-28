@@ -1,5 +1,8 @@
 # Nicholas Young
 
+![Travis CI
+Report](https://api.travis-ci.org/nicholaswyoung/www.svg?branch=master)
+
 A website on entrepreneurship, disability, technology, culture, art, and the intersection(s) of these topics.
 
 ## Developing

@@ -10,7 +10,7 @@ node_js:
 
 jobs:
   include:
-    - stage: test 
+    - stage: test
       script: npm run lint
-    - # stage name omitted since it remains the same
+    - # stage name omitted, since it remains the same
       script: npm test

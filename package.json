@@ -39,6 +39,7 @@
     "gatsby-transformer-remark": "1.7.4",
     "gatsby-transformer-sharp": "1.6.2",
     "gatsby-transformer-yaml": "1.5.5",
+    "greenkeeper-lockfile": "1.8.1",
     "howler": "^2.0.3",
     "inquirer": "3.2.2",
     "isomorphic-fetch": "^2.2.1",

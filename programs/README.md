@@ -1,7 +1,7 @@
 # Broadcast Archives
 
 Program notes and metadata from [The Machine Broadcasting
-Network](https://www.nicholaswyoung/topics/the-machine/) and my other media
+Network](https://www.nicholaswyoung.com/topics/the-machine/) and my other media
 ventures are contained within this folder.
 
 ## License

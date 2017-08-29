@@ -5,6 +5,9 @@ services: docker
 node_js:
   - "node"
 
+before_script: greenkeeper-lockfile-update
+after_script: greenkeeper-lockfile-upload
+
 jobs:
   include:
     - stage: test

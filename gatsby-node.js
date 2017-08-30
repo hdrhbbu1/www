@@ -131,6 +131,10 @@ exports.onCreateNode = ({ node, boundActionCreators, getNode }) => {
   if (node.internal.type === 'MarkdownRemark') {
     const fileNode = getNode(node.parent)
 
+    if (fileNode.name.toLowerCase() === 'readme') {
+      return
+    }
+
     let slug
     if (node.frontmatter.path) {
       slug = cleanSlashes(node.frontmatter.path)

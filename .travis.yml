@@ -14,3 +14,5 @@ jobs:
       script: npm run lint
     - # stage name omitted, since it remains the same
       script: npm test
+    - stage: deploy
+      script: npm run build

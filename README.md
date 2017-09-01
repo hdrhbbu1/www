@@ -26,7 +26,7 @@ Once installation is complete, `npm start` will launch a development server on [
 
 When you're finished editing, `npm run build` will compile source files `src/`, combined with content from source directories (above) and output the built site in `public/`.
 
-This site is automatically built by GitLab CI and Netlify. Take a look at `package.json` for details.
+This site is automatically built by Travis CI and Netlify. Take a look at `package.json` for details.
 
 ## License
 

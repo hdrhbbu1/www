@@ -37,7 +37,7 @@
     "gatsby-remark-responsive-iframe": "1.4.5",
     "gatsby-remark-smartypants": "1.4.5",
     "gatsby-source-filesystem": "1.4.7",
-    "gatsby-transformer-remark": "1.7.4",
+    "gatsby-transformer-remark": "1.7.6",
     "gatsby-transformer-sharp": "1.6.2",
     "gatsby-transformer-yaml": "1.5.5",
     "greenkeeper-lockfile": "1.8.1",

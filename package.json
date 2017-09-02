@@ -38,7 +38,7 @@
     "gatsby-remark-smartypants": "1.4.7",
     "gatsby-source-filesystem": "1.4.10",
     "gatsby-transformer-remark": "1.7.6",
-    "gatsby-transformer-sharp": "1.6.4",
+    "gatsby-transformer-sharp": "1.6.5",
     "gatsby-transformer-yaml": "1.5.7",
     "greenkeeper-lockfile": "1.8.1",
     "howler": "^2.0.3",

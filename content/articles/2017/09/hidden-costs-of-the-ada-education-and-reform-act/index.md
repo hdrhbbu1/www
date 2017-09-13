@@ -14,7 +14,7 @@ tags:
 ---
 July 26, 1990 won't be soon forgotten. On that day, President George H. W. Bush signed what White House staff publicized as as ["the most sweeping civil rights statute since the 1964 Civil Rights Bill."](https://www.c-span.org/video/?13297-1/americans-disabilities-act-signing) The legislation prohibited discrimination in employment, public services, accomidations, and transportation, while simultaneously improving communication services for disabled individuals.
 
-Last week, H.R.620, the ["ADA Education and Reform Act of 2017",](https://www.congress.gov/bill/115th-congress/house-bill/620/actions) [moved out of committee](https://projects.propublica.org/represent/bills/115/hr620) and will soon be voted on by the full house. On the surface, [its five pages of double-spaced text](https://www.congress.gov/115/bills/hr620/BILLS-115hr620ih.pdf) that reinvents the [Americans with Disabilities Act (ADA)](https://www.ada.gov/); updating it for a more modern world. But like many congressional bills, inner political machinery is rarely made apparent by the title. Allow me to explain how the passage of H.R.620 would drastically hamper disability rights.
+Last week, H.R.620, the ["ADA Education and Reform Act of 2017",](https://www.congress.gov/bill/115th-congress/house-bill/620/actions) [is moving through Congress](https://projects.propublica.org/represent/bills/115/hr620) and will soon be voted on by the full House. On the surface, [its five pages of double-spaced text](https://www.congress.gov/115/bills/hr620/BILLS-115hr620ih.pdf) that reinvents the [Americans with Disabilities Act (ADA)](https://www.ada.gov/); updating it for a more modern world. But like many congressional bills, inner political machinery is rarely made apparent by the title. Allow me to explain how the passage of H.R.620 would drastically hamper disability rights.
 
 ## A Brief History of Disability Rights Legislation
 
@@ -87,6 +87,10 @@ This bill even goes so far as to prescribe content for the written notice, speci
 ## Access is a Right
 
 H.R.620 places unnecessary responsibility on the disabled individual who only seeks access. It upends 27 years of established legal precident. For my sake, and the sake of disabled individuals everywhere, please [contact your congressperson][4] and ask them to oppose it.
+
+---
+
+*Edit Note: an earlier version of this article indicated that H.R.620 is out of committee. That is inaccurate. A correct understanding seems to indicate the full [Judiciary Committee](https://judiciary.house.gov/markup/markup-h-r-3229-h-r-620-h-res-488/) will vote on the resolution next week before sending it on to the House Chamber.*
 
 [1]: https://www.denverite.com/lawsuit-settlement-rtd-agrees-retrofit-light-rail-vehicles-ada-accessiblity-39246/ "Denverite: RTD Agrees to Retrofit 172 lightrail vehicles"
 [2]: /2017/07/the-politics-of-terror/ "The Politics of Terror"

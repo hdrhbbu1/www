@@ -6,6 +6,10 @@ draft: false
 tags:
     - accessiblity
     - disability
+    - criticism
+    - critical-thinking
+    - healthcare
+    - allyship
 ---
 July 26, 1990 won't be soon forgotten. On that day, President George H. W. Bush signed what White House staff publicized as as ["the most sweeping civil rights statute since the 1964 Civil Rights Bill."](https://www.c-span.org/video/?13297-1/americans-disabilities-act-signing) The legislation prohibited discrimination in employment, public services, accomidations, and transportation, while simultaneously improving communication services for disabled individuals.
 

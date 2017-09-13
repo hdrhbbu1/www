@@ -61,7 +61,7 @@ Early on in this post, I cited the White House who called the ADA a piece of civ
 
 Activists like myself don't intend to sit idly by while our rights are stripped, but we need allies. It's important that you read and understand this argument. H.R.620 has the potential to decimate disability litigation as we know it, and put a stopper in the progress towards total accessibility nationwide.
 
-In brief, H.R.620 has been introduced during the 2015-2016 legislative session by [Represenative Ted Poe [R-TX] in the house](https://www.congress.gov/search?q={%22source%22:%22legislation%22,%22search%22:%22ADA%20Reform%22}&searchResultViewType=expanded), before being read twice in the Senate under the number S.3446 when sponsored by Senator Jeff Flake [R-AZ]. Since the bill is a short five pages, we'll read through it beginning in Section Two:
+In brief, H.R.620 has been introduced during the 2015-2016 legislative session by [Representative Ted Poe [R-TX] in the house](https://www.congress.gov/search?q={%22source%22:%22legislation%22,%22search%22:%22ADA%20Reform%22}&searchResultViewType=expanded), before being read twice in the Senate under the number S.3446 when sponsored by Senator Jeff Flake [R-AZ]. Since the bill is a short five pages, we'll read through it beginning in Section Two:
 
 > Based on existing funding, the Disability Rights Section of the Department of Justice shall, in consultation with property owners and representatives of the disability rights community, develop a program to educate State and local governments and property owners on effective and efficient strategies for promoting access to public accommodations for persons with a disability (as defined in section 3 of the Americans with Disabilities Act (42 U.S.C. 12102).
 

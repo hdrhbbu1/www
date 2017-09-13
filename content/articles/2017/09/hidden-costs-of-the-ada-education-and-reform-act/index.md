@@ -3,6 +3,7 @@ title: Hidden Costs of the ADA Education and Reform Act
 date: '2017-09-13'
 layout: post
 draft: false
+image: share.jpg
 tags:
     - accessiblity
     - disability

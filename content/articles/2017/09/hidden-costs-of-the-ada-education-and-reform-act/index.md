@@ -5,7 +5,7 @@ layout: post
 draft: false
 image: share.jpg
 tags:
-    - accessiblity
+    - accessibility
     - disability
     - criticism
     - critical-thinking

@@ -11,9 +11,9 @@ This site is built on top of [Gatsby](https://www.gatsbyjs.org), and uses the RS
 
 ### Getting Started
 
-To begin, install all dependencies like usual. This project is configured to use `npm@5` by default, but you could use Yarn.
+To begin, install all dependencies like usual. This project is configured to use Yarn by default.
 
-Once installation is complete, `npm start` will launch a development server on [`localhost:8000`](http://localhost:8000). Create a new post draft by running `npm run new-post`.
+Once installation is complete, `yarn start` will launch a development server on [`localhost:8000`](http://localhost:8000). Create a new post draft by running `yarn run new-post`.
 
 ### Content Layout
 
@@ -23,7 +23,7 @@ Once installation is complete, `npm start` will launch a development server on [
 
 ### Building for Production
 
-When you're finished editing, `npm run build` will compile source files `src/`, combined with content from source directories (above) and output the built site in `public/`.
+When you're finished editing, `yarn run build` will compile source files `src/`, combined with content from source directories (above) and output the built site in `public/`.
 
 This site is automatically built by Travis CI and Netlify. Take a look at `package.json` for details.
 

@@ -55,12 +55,6 @@ module.exports = {
     'gatsby-plugin-glamor',
     'gatsby-plugin-sharp',
     {
-      resolve: 'gatsby-plugin-google-analytics',
-      options: {
-        trackingId: 'UA-33160485-1',
-      },
-    },
-    {
       resolve: 'gatsby-plugin-manifest',
       options: {
         name: 'Nicholas Young',
@@ -85,6 +79,12 @@ module.exports = {
       resolve: 'gatsby-plugin-nprogress',
       options: {
         color: 'tomato',
+      },
+    },
+    {
+      resolve: 'gatsby-plugin-google-analytics',
+      options: {
+        trackingId: 'UA-33160485-1',
       },
     },
     {

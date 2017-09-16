@@ -179,18 +179,20 @@ export default class PostTemplate extends Component {
             Nicholas Young is a husband, father, technologist, and rare illness advocate currently hailing from Denver, Colorado. He lives amid the snow-covered mountains with his wife, Susan, and daughter, Sloan.
           </p>
         </div>
-        {tags.length > 0 ? (
-          <hr
-            css={{
-              height: '1px',
-              width: '75%',
-              margin: '0 auto',
-              marginTop: rhythm(2),
-              marginBottom: rhythm(2),
-            }}
-          />
+        {tags && tags.length > 0 ? (
+          <div>
+            <hr
+              css={{
+                height: '1px',
+                width: '75%',
+                margin: '0 auto',
+                marginTop: rhythm(2),
+                marginBottom: rhythm(2),
+              }}
+            />
+            <TagList tags={tags}/>
+          </div>
         ) : undefined}
-        <TagList tags={tags}/>
       </div>
     )
   }

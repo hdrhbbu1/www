@@ -40,7 +40,7 @@
     "gatsby-transformer-sharp": "1.6.5",
     "gatsby-transformer-yaml": "1.5.7",
     "howler": "2.0.4",
-    "inquirer": "3.2.3",
+    "inquirer": "3.3.0",
     "isomorphic-fetch": "2.2.1",
     "jest": "21.1.0",
     "left-pad": "1.1.3",

@@ -50,4 +50,4 @@ I've come to understand accessibility through a personal lens, how to immediatel
 
 I won't apologize for politicizing my health needs when I've been provided no other option.
 
-If I left you behind, there's a good chance you preached the ideals of [personal responsibility](https://newrepublic.com/minutes/140829/mike-pence-wants-exercise-individual-responsibility-not-poor-sick-like-good-ol-days) at expense of the underprivileged. You might want to take a look at those [principals yourself](https://newrepublic.com/minutes/140829/mike-pence-wants-exercise-individual-responsibility-not-poor-sick-like-good-ol-days), and take responsibility for the way you act.
+If I left you behind, there's a good chance you preached the ideals of [personal responsibility](https://newrepublic.com/minutes/140829/mike-pence-wants-exercise-individual-responsibility-not-poor-sick-like-good-ol-days) at expense of the underprivileged. You might want to take a look at those [principals yourself](https://newrepublic.com/minutes/140829/mike-pence-wants-exercise-individual-responsibility-not-poor-sick-like-good-ol-days), and accept responsibility for the way you act.

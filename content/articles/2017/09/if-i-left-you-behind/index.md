@@ -3,6 +3,7 @@ title: If I Left You Behind
 date: '2017-09-21'
 layout: post
 draft: false
+image: share.jpg
 tags:
   - accessibility
   - disability

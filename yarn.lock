@@ -2591,9 +2591,13 @@ date-now@^0.1.4:
   version "0.1.4"
   resolved "https://registry.yarnpkg.com/date-now/-/date-now-0.1.4.tgz#eaf439fd4d4848ad74e5cc7dbef200672b9e345b"
 
-dateformat@2.0.0, dateformat@^2.0.0:
+dateformat@2.0.0:
   version "2.0.0"
   resolved "https://registry.yarnpkg.com/dateformat/-/dateformat-2.0.0.tgz#2743e3abb5c3fc2462e527dca445e04e9f4dee17"
+
+dateformat@^2.0.0:
+  version "2.2.0"
+  resolved "https://registry.yarnpkg.com/dateformat/-/dateformat-2.2.0.tgz#4065e2013cf9fb916ddfd82efb506ad4c6769062"
 
 death@^1.0.0:
   version "1.1.0"
@@ -4105,7 +4109,7 @@ gatsby-remark-smartypants@1.4.7:
     retext-smartypants "^2.0.0"
     unist-util-visit "^1.1.1"
 
-gatsby-source-filesystem@^1.5.1:
+gatsby-source-filesystem@1.5.1:
   version "1.5.1"
   resolved "https://registry.yarnpkg.com/gatsby-source-filesystem/-/gatsby-source-filesystem-1.5.1.tgz#7aae50bdd75cad01641468bc82a99976f8c9de3b"
   dependencies:
@@ -4120,7 +4124,7 @@ gatsby-source-filesystem@^1.5.1:
     pretty-bytes "^4.0.2"
     slash "^1.0.0"
 
-gatsby-transformer-remark@^1.7.10:
+gatsby-transformer-remark@1.7.10:
   version "1.7.10"
   resolved "https://registry.yarnpkg.com/gatsby-transformer-remark/-/gatsby-transformer-remark-1.7.10.tgz#0e0df5495a189b0db601ca73c48c66b70e6055be"
   dependencies:
@@ -4137,7 +4141,7 @@ gatsby-transformer-remark@^1.7.10:
     unist-util-select "^1.5.0"
     unist-util-visit "^1.1.1"
 
-gatsby-transformer-sharp@^1.6.6:
+gatsby-transformer-sharp@1.6.6:
   version "1.6.6"
   resolved "https://registry.yarnpkg.com/gatsby-transformer-sharp/-/gatsby-transformer-sharp-1.6.6.tgz#2ad1e4e6702d6f317fb0277941fdfb8d82f06494"
   dependencies:
@@ -4155,7 +4159,7 @@ gatsby-transformer-yaml@1.5.7:
     lodash "^4.17.4"
     unist-util-select "^1.5.0"
 
-gatsby@^1.9.42:
+gatsby@1.9.42:
   version "1.9.42"
   resolved "https://registry.yarnpkg.com/gatsby/-/gatsby-1.9.42.tgz#6792442e9b7f69e7d2b3e76b63b468de097c61c6"
   dependencies:
@@ -4334,8 +4338,8 @@ getpass@^0.1.1:
     assert-plus "^1.0.0"
 
 github-slugger@^1.1.1:
-  version "1.1.3"
-  resolved "https://registry.yarnpkg.com/github-slugger/-/github-slugger-1.1.3.tgz#314a6e759a18c2b0cc5760d512ccbab549c549a7"
+  version "1.2.0"
+  resolved "https://registry.yarnpkg.com/github-slugger/-/github-slugger-1.2.0.tgz#8ada3286fd046d8951c3c952a8d7854cfd90fd9a"
   dependencies:
     emoji-regex ">=6.0.0 <=6.1.1"
 

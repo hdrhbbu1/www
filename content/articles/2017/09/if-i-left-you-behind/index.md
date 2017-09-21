@@ -3,6 +3,14 @@ title: If I Left You Behind
 date: '2017-09-21'
 layout: post
 draft: false
+tags:
+  - accessibility
+  - disability
+  - ehlers-danlos-syndrome
+  - healthcare
+  - allyship
+  - criticism
+  - critical-thinking
 ---
 I have spent most of 2017 writing [long-form non-fiction pieces](/tags/healthcare/) concerning flaws in the American healthcare system, often attempting to communicate why we, as a country, shouldn't embrace changes that would [severely limit access to care](/tags/disability/) for chronically ill and disabled citizens.
 

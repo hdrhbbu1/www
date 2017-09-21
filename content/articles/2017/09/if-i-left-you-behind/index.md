@@ -38,7 +38,7 @@ that you've supported policies that, whether intentionally or not, have
 undermined my quality of life. And I'm asking now for your support to ensure I
 don't suffer further as those policies are implemented."
 
-They offered to advocate for "more appropriate change," if the administration didn't follow through on healthcare protections similar to the ACA. I wrote them on the morning of January 12, 2016, as the [Senate prepared for its storied vote-o-rama](https://www.nytimes.com/2017/01/12/us/politics/health-care-congress-vote-a-rama.html), with a reminder of their commitment. 
+They offered to advocate for "more appropriate change," if the administration didn't follow through on healthcare protections similar to the ACA. I wrote them again on the morning of January 12, 2016, as the [Senate prepared for its storied vote-o-rama](https://www.nytimes.com/2017/01/12/us/politics/health-care-congress-vote-a-rama.html), with a reminder of their commitment. 
 
 As of this writing, I've received no response.
 

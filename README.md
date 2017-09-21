@@ -1,7 +1,6 @@
 # Nicholas Young
 
-[![Travis CI
-Report](https://api.travis-ci.org/nicholaswyoung/www.svg?branch=master)](https://travis-ci.org/nicholaswyoung/www/)
+![CI Status Badge](https://gitlab.com/nicholaswyoung/www/badges/master/build.svg)
 
 [A website](https://www.nicholaswyoung.com) on entrepreneurship, disability, technology, culture, art, and the intersection(s) of these topics.
 

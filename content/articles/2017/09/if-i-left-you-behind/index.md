@@ -21,7 +21,7 @@ At first, I asked myself what I'd done to push them away, but quickly uncovered 
 
 ---
 
-My experience with the American healthcare complex varies wildly from the midline. For instance, when I entered treatment for a locking knee in late 2016, I hoped the constant excruciating pain and my inability to walk would guide my doctors to a quick solution. Instead, I was booked for multiple office visits, [subjected to many years worth of radiation,](https://www.radiologyinfo.org/en/info.cfm?pg=safety-xray) and eventually, offered a slot on the surgical calendar in February.
+My experience with the American healthcare complex varies wildly from the midline. For instance, when I entered treatment for a locking knee in late 2016, I hoped the constant excruciating pain and my inability to walk would guide doctors to a quick solution. Instead, I was booked for multiple office visits, [subjected to many years worth of radiation,](https://www.radiologyinfo.org/en/info.cfm?pg=safety-xray) and eventually, offered a slot on the surgical calendar in February.
 
 I suspect that doctors would take reports of discomfort far more seriously if my body wasn't [broken by design.](/tags/ehlers-danlos-syndrome/)
 
@@ -44,7 +44,7 @@ As of this writing, I've received no response.
 
 ---
 
-Throughout this conversation, I've been exposed to all manner of abuse all because I asked former friends to make good on a promise. I'd like to put this chapter behind me, but I can't deny that my outlook on the world has changed.
+Throughout this conversation, I've been exposed to all manner of abuse because I asked former friends to make good on a promise. I'd like to put this chapter behind me, but I can't deny that my outlook on the world has changed.
 
 I've come to understand accessibility through a personal lens, how to immediately separate true friends from followers, and how far some will bend the truth in order to feel morally justified. 
 

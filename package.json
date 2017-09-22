@@ -39,7 +39,7 @@
     "gatsby-remark-responsive-iframe": "1.4.7",
     "gatsby-remark-smartypants": "1.4.7",
     "gatsby-source-filesystem": "1.5.1",
-    "gatsby-transformer-remark": "1.7.10",
+    "gatsby-transformer-remark": "1.7.11",
     "gatsby-transformer-sharp": "1.6.6",
     "gatsby-transformer-yaml": "1.5.7",
     "howler": "2.0.4",

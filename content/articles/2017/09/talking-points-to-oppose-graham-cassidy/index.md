@@ -20,7 +20,7 @@ This version of "repeal and replace," while its closest to failing at this momen
 
 Because this bill is a collection of amendments, little is known about the legislation's overall effect. As of this writing, it still has not [been scored by the CBO][CBO-score], and several Republican Senators remain skeptical. One of my Senators, Cory Gardner, is not among them &mdash; and even if he was, I'd be calling regardless.
 
-Since health care reform has [appeared (and re-appeared)][healthcare-tags] over the course of this year, let's aim to rid ourselves of the unwanted specter once and for all. Or at least for the remainder of our fiscal year.
+Since health care reform has [appeared (and re-appeared)][healthcare-tags] over the course of this year, let's aim to rid ourselves of the unwanted specter once and for all. Or at least for the time being.
 
 ## Facts and Figures
 

@@ -7,7 +7,7 @@ module.exports = {
   siteMetadata: {
     title: 'Nicholas Young',
     author: 'Nicholas Young',
-    byline: 'Author, father, technologist',
+    byline: 'Father, technologist, writer',
     description: 'Perspectives on family, disability, technology, and media.',
     postscript: 'Nicholas Young is a husband, father, technologist, and disability advocate from Denver, Colorado.',
     email: 'nicholas@nicholaswyoung.com',

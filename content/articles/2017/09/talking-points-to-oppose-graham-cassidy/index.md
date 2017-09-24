@@ -44,7 +44,7 @@ This Republican idea surfaced again during conversations and debates on the ACA 
 
 ## Make the Call
 
-If you're remained silent up until now, make the call. [The event listing for tomorrow's call-in includes training documentation][call-in], and I've just given you a list of talking points and facts to back them up. My goal was to create a handy resource featuring concise data, handy links, and friendly encouragement. Hopefully, this post provides fuel for your conversations tomorrow and in the future.
+If you're remained silent up until now, make the call. [The event listing for tomorrow's call-in includes training documentation][call-in], and I've just given you a list of talking points and facts to back them up. My goal was to create a handy resource featuring concise data, relevant links, and friendly encouragement. Hopefully, this post provides fuel for your conversations tomorrow and in the future.
 
 Ring the [Senate Switchboard][switchboard] at (202) 224-3121, where you will be automatically connected one of your Senators' offices. Be polite but firm, and ask that they vote no if the Graham-Cassidy-Heller-Johnson legislation comes up for a vote.
 

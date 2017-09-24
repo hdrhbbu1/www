@@ -40,7 +40,7 @@ This pillar is perhaps the most dangerous, as it risks total collapse of the ent
 
 This Republican idea surfaced again during conversations and debates on the ACA and has remained largely taboo among their ranks ever since.
 
-![A protester waves an American flag in the breeze outside the U.S. Capitol](share.jpg)
+[![A protester waves an American flag in the breeze outside the U.S. Capitol](share.jpg)](https://www.flickr.com/photos/sdmc/37187740601/in/photostream/)
 
 ## Make the Call
 

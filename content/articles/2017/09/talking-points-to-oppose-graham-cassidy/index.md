@@ -4,6 +4,11 @@ date: '2017-09-24'
 layout: post
 draft: false
 image: share.jpg
+tags:
+  - healthcare
+  - allyship
+  - advocacy
+  - politics
 ---
 As the Senate rushes towards yet another attempt to replace the Patient Protection and Affordable Care Act, several outlets, including [Politico][politico-safe], are reporting that the long-besieged healthcare bill may remain intact, for now.
 

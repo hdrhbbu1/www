@@ -38,7 +38,7 @@ At best, this provision will create a handful of markets where chronic patients 
 
 This pillar is perhaps the most dangerous, as it risks total collapse of the entire individual insurance market. Mandating coverage, I'm afraid, may have been a one-way street. But that's okay because the very idea of a mandate can be traced to [Stuart M. Butler][cs-monitor] of The Heritage Foundation, who, in 1989, drafted a plan requiring "all households to obtain adequate insurance."
 
-This Republican idea surfaced again during conversations and debates on the ACA and has remained largely taboo among their ranks ever since.
+This Republican idea surfaced again during conversations and debates on the ACA and has remained largely taboo among their ranks ever since. GOP leaders, it seems, now seek to remove this safety mechanism by any means necessary.
 
 [![A protester waves an American flag in the breeze outside the U.S. Capitol](share.jpg)](https://www.flickr.com/photos/sdmc/37187740601/in/photostream/)
 

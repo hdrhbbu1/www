@@ -26,7 +26,7 @@ Since health care reform has [appeared (and re-appeared)][healthcare-tags] over 
 
 For the time being, based on a report from the Center on Budget and Policy Priorities (CBPP), [this is what we know:][cbpp-report]
 
-**Cassidy-Graham would eliminate funding for ACA marketplace subsidies and the associated Medicaid expansion, replacing both with a federal block grant.** Based on this [2005 report][bg-report] published in [Milbank Quarterly][mb-quarterly], a medical journal, it is a virtual impossibility for Medicaid to maintain existing coverage under a block grant structure. It would also cut per-beneficiary services  to Medicare recipients by modifying the state-federal funding relationship. 
+**Cassidy-Graham would eliminate funding for ACA marketplace subsidies and the associated Medicaid expansion, replacing both with a federal block grant.** Based on this [2005 report][bg-report] published in [Milbank Quarterly][mb-quarterly], a multidisciplinary journal focusing on population health and health policy, it is a virtual impossibility for Medicaid to maintain existing coverage under a block grant structure. It would also cut per-beneficiary services  to Medicare recipients by modifying the state-federal funding relationship. 
 
 Consider also that federal funding for these programs would completely disappear in 2026, leaving a massive financial gulf for states to fill.
 

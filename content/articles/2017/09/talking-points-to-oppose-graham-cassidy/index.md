@@ -16,7 +16,7 @@ This does not mean we can rest.
 
 Tomorrow, the [National Disability Call-in Day to Save Medicaid][call-in] will heat up D.C. switchboards in opposition to a [dangerous volume of amendments][graham-cassidy] modifying the ACA, and known only by the names of co-sponsors Graham-Cassidy-Heller-Johnson.
 
-This version of "repeal and replace," while its closest to failing at this moment, also goes much further than [earlier attempts][politics-of-terror], [brutalizing federal budgets][vox] for both ACA marketplace subsidies and Medicare, and setting up what I believe is an unavoidable war between states over health care funding. 
+When considered among other healthcare-related bills that were introduced during the last several months, the Graham-Cassidy plan to "repeal and replace", while its closest to failing at this moment, also goes much further than [earlier attempts][politics-of-terror], [brutalizing federal budgets][vox] for both ACA marketplace subsidies and Medicare, and setting up what I believe is an unavoidable war between states over health care funding.
 
 Because this bill is a collection of amendments, little is known about the legislation's overall effect. As of this writing, it still has not [been scored by the CBO][CBO-score], and several Republican Senators remain skeptical. One of my Senators, Cory Gardner, is not among them &mdash; and even if he was, I'd be calling regardless.
 
@@ -26,7 +26,7 @@ Since health care reform has [appeared (and re-appeared)][healthcare-tags] over 
 
 For the time being, based on a report from the Center on Budget and Policy Priorities (CBPP), [this is what we know:][cbpp-report]
 
-**Cassidy-Graham would eliminate funding for ACA marketplace subsidies and the associated Medicaid expansion, replacing both with a federal block grant.** Based on this [2005 report][bg-report] published in [Milbank Quarterly][mb-quarterly], a multidisciplinary journal focusing on population health and health policy, it is a virtual impossibility for Medicaid to maintain existing coverage under a block grant structure. It would also cut per-beneficiary services  to Medicare recipients by modifying the state-federal funding relationship. 
+**Cassidy-Graham would eliminate funding for ACA marketplace subsidies and the associated Medicaid expansion, replacing both with a federal block grant.** Based on this [2005 report][bg-report] published in [Milbank Quarterly][mb-quarterly], a multidisciplinary journal focusing on population health and health policy, it is a virtual impossibility for Medicaid to maintain existing coverage under a block grant structure. It would also cut per-beneficiary services  to Medicare recipients by modifying the state-federal funding relationship.
 
 Consider also that federal funding for these programs would completely disappear in 2026, leaving a massive financial gulf for states to fill.
 

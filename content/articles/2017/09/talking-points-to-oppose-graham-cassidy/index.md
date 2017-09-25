@@ -58,7 +58,7 @@ A new version of Graham-Cassidy was released last night, though not to the publi
 
 "This revised bill is tantamount to federal deregulation of the insurance market. If there were any doubt that people with pre-existing [conditions] were at risk of being priced out of individual insurance, this bill removes them."
 
-Indeed, the revised bill allows states to lift existing caps on out-of-pocket costs, which currently limits the types of plans insurers can offer on ACA exchanges. If everyone then buys the less-expensive coverage offerings, patients like myself will be (again) unable to find affordable health insurance, if it's available to chronically ill popluations at all.
+Indeed, the revised bill allows states to lift existing caps on out-of-pocket costs, which limits the types of plans insurers can offer on ACA exchanges. As a result, bare-bones policies which are attractive to younger, healthier people may see a return to market. Comprehensive coverage, required by patients such as myself, will again see premiums rise, if it's available to chronically ill populations at all.
 
 Consider individuals who are now able to live their dreams as small business owners thanks to ACA protections. Consider the sick and elderly who were exploited before the ACA offered hope.
 

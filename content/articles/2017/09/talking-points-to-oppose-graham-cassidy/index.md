@@ -34,7 +34,7 @@ Consider also that federal funding for these programs would completely disappear
 
 At best, this provision will create a handful of markets where chronic patients (such as myself) can affordably participate. At worst, it risks spawning 50 (or more) potentially unique health programs. My family is lucky that we could [relocate to Colorado][moving] as part of my treatment: most folks in my shoes lack the necessary resources to [evacuate themselves][disabled-evac] during a natural disaster, let alone hop from state-to-state, hoping someday they can build a life where healthcare won't eventually be taken.
 
-**Up-end the individual insurance market, in the short run, by removing federal subsidies and repealing the ACA's health coverage mandate.** Insurance markets operate on the principals of calculated risk. If an insured population is ill, on the whole, insurance costs will rise. The individual health insurance market is already unsteady at best; by removing the penalty for failing to purchase insurance, many consumers will opt-out of the system entirely.
+**Up-end the individual insurance market, in the short run, by removing federal subsidies and repealing the ACA's health coverage mandate.** Insurance markets operate on the principals of calculated risk. If an insured population is ill, on the whole, insurance costs will rise. The individual health insurance market is already unsteady at best; by removing the penalty for failing to purchase insurance, [healthy consumers may opt-out of the system entirely.][funding-risk]
 
 This pillar is perhaps the most dangerous, as it risks total collapse of the entire individual insurance market. Mandating coverage, I'm afraid, may have been a one-way street. But that's okay because the very idea of a mandate can be traced to [Stuart M. Butler][cs-monitor] of The Heritage Foundation, who, in 1989, drafted a plan requiring "all households to obtain adequate insurance."
 
@@ -59,6 +59,7 @@ Ring the [Senate Switchboard][switchboard] at (202) 224-3121, where you will be 
 [mb-quarterly]: http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1468-0009
 [moving]: /tags/moving/ "Moving"
 [disabled-evac]: https://www.romper.com/p/not-every-family-can-evacuate-ahead-of-hurricane-irma-heres-why-81441
+[funding-risk]: http://www.kff.org/medicaid/issue-brief/what-coverage-and-financing-at-risk-under-repeal-of-aca-medicaid-expansion/ "What Coverage and Financing is at Risk Under a Repeal of the ACA Medicaid Expansion?" 
 [cs-monitor]: https://www.csmonitor.com/Business/Robert-Reich/2013/1028/The-irony-of-Republican-disapproval-of-Obamacare "The irony of Republican disapproval of Obamacare"
 [switchboard]: https://www.senate.gov/general/contacting.htm "Contacting Your Senators"
 [healthcare-tags]: /tags/healthcare/

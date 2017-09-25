@@ -46,7 +46,23 @@ It's a Republican idea that surfaced again during conversations and debates on t
 
 If you're remained silent up until now, make the call. [The event listing for tomorrow's call-in includes training documentation][call-in], and I've just given you a list of talking points and facts to back them up. My goal was to create a handy resource featuring concise data, relevant links, and friendly encouragement. Hopefully, this post provides fuel for your conversations tomorrow and in the future.
 
-Ring the [Senate Switchboard][switchboard] at (202) 224-3121, where you will be automatically connected one of your Senators' offices. Be polite but firm, and ask that they vote no if the Graham-Cassidy-Heller-Johnson legislation comes up for a vote.
+Ring the [Senate switchboard][switchboard] at (202) 224-3121, where you will be automatically connected one of your Senators' offices. Be polite but firm, and ask that they vote no if the Graham-Cassidy-Heller-Johnson legislation comes up for a vote.
+
+---
+
+**Update 9/25/2016:**
+
+When I wrote and published the above text on Sunday, I knew that breaking news could upend my talking points.
+
+A new version of Graham-Cassidy was released last night, though not to the public, in an attempt to win over skeptical GOP senators. Fortunately, [Politico obtained a copy][politico-developments] and published it alongside commentary from Larry Levitt of the Kaiser Family Foundation.
+
+"This revised bill is tantamount to federal deregulation of the insurance market. If there were any doubt that people with pre-existing [conditions] were at risk of being priced out of individual insurance, this bill removes them."
+
+Indeed, the revised bill allows states to lift existing caps on out-of-pocket costs, which currently limits the types of plans insurers can offer on ACA exchanges. If everyone then buys the cheaper coverage, patients like myself will be (again) unable to find affordable health insurance, if it's available to chronically ill popluations at all.
+
+Consider individuals who are now able to live their dreams as small business owners thanks to ACA protections. Consider the sick and elderly who were exploited before the ACA offered hope.
+
+We must defeat this bill now.
 
 [politico-safe]: http://www.politico.com/story/2017/09/22/is-obamacare-safe-243041/ "Is Obamacare finally safe?"
 [call-in]: https://www.facebook.com/events/153277748591589/ "National Disability Call-in Day to Save Medicaid"
@@ -59,7 +75,7 @@ Ring the [Senate Switchboard][switchboard] at (202) 224-3121, where you will be 
 [mb-quarterly]: http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1468-0009
 [moving]: /tags/moving/ "Moving"
 [disabled-evac]: https://www.romper.com/p/not-every-family-can-evacuate-ahead-of-hurricane-irma-heres-why-81441
-[funding-risk]: http://www.kff.org/medicaid/issue-brief/what-coverage-and-financing-at-risk-under-repeal-of-aca-medicaid-expansion/ "What Coverage and Financing is at Risk Under a Repeal of the ACA Medicaid Expansion?" 
+[funding-risk]: http://www.kff.org/medicaid/issue-brief/what-coverage-and-financing-at-risk-under-repeal-of-aca-medicaid-expansion/ "What Coverage and Financing is at Risk Under a Repeal of the ACA Medicaid Expansion?"
 [cs-monitor]: https://www.csmonitor.com/Business/Robert-Reich/2013/1028/The-irony-of-Republican-disapproval-of-Obamacare "The irony of Republican disapproval of Obamacare"
 [switchboard]: https://www.senate.gov/general/contacting.htm "Contacting Your Senators"
 [healthcare-tags]: /tags/healthcare/

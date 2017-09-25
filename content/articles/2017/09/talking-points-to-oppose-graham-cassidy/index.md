@@ -58,7 +58,7 @@ A new version of Graham-Cassidy was released last night, though not to the publi
 
 "This revised bill is tantamount to federal deregulation of the insurance market. If there were any doubt that people with pre-existing [conditions] were at risk of being priced out of individual insurance, this bill removes them."
 
-Indeed, the revised bill allows states to lift existing caps on out-of-pocket costs, which limits the types of plans insurers can offer on ACA exchanges. As a result, bare-bones policies which are attractive to younger, healthier people may see a return to market. Comprehensive coverage, required by patients such as myself, will again see premiums rise, if it's available to chronically ill populations at all.
+Indeed, the latest offering fails the [Jimmy Kimmel Test][jk-test] even more spectacularly than the last, by allowing states to lift existing caps on out-of-pocket costs, which limits the types of plans insurers can offer on ACA exchanges. As a result, bare-bones policies which are attractive to younger, healthier people may see a return to market. Comprehensive coverage, required by patients such as myself, will again see premiums rise, if it's available to chronically ill populations at all.
 
 Consider individuals who are now able to live their dreams as small business owners thanks to ACA protections. Consider the sick and elderly who were exploited before the ACA offered hope.
 
@@ -79,3 +79,5 @@ We must defeat this bill now.
 [cs-monitor]: https://www.csmonitor.com/Business/Robert-Reich/2013/1028/The-irony-of-Republican-disapproval-of-Obamacare "The irony of Republican disapproval of Obamacare"
 [switchboard]: https://www.senate.gov/general/contacting.htm "Contacting Your Senators"
 [healthcare-tags]: /tags/healthcare/
+[jk-test]:
+https://www.vox.com/culture/2017/9/22/16345720/jimmy-kimmel-health-care-graham-cassidy-obamacare "Jimmy Kimmel’s unexpected evolution"

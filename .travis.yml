@@ -13,8 +13,8 @@ cache:
 jobs:
   include:
     - stage: test
-      script: npm run lint
+      script: yarn lint
     - # stage name omitted, since it remains the same
-      script: npm test
-    - stage: deploy
-      script: npm run build
+      script: yarn test
+    - stage: build 
+      script: yarn build

@@ -3982,9 +3982,9 @@ gatsby-cli@1.1.7:
     resolve-cwd "^2.0.0"
     tracer "^0.8.9"
 
-gatsby-link@1.6.16:
-  version "1.6.16"
-  resolved "https://registry.yarnpkg.com/gatsby-link/-/gatsby-link-1.6.16.tgz#56d24a49c2cb77084e9d42a88564fe39ce13f9ae"
+gatsby-link@1.6.17:
+  version "1.6.17"
+  resolved "https://registry.yarnpkg.com/gatsby-link/-/gatsby-link-1.6.17.tgz#4182d608798b72fd4ec716f118c4d1f649b214bb"
   dependencies:
     babel-runtime "^6.26.0"
     prop-types "^15.5.8"

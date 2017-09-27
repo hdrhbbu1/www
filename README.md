@@ -1,6 +1,6 @@
 # Nicholas Young
 
-[![CI Status Badge](https://gitlab.com/nicholaswyoung/www/badges/master/build.svg)](https://gitlab.com/nicholaswyoung/www)
+[![CI Status Badge](https://gitlab.com/nicholaswyoung/www/badges/master/build.svg)](https://gitlab.com/nicholaswyoung/www/pipelines/)
 
 [A website](https://www.nicholaswyoung.com) on entrepreneurship, disability, technology, culture, art, and the intersection(s) of these topics.
 

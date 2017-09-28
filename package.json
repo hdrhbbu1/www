@@ -46,7 +46,7 @@
     "howler": "2.0.4",
     "inquirer": "3.3.0",
     "isomorphic-fetch": "2.2.1",
-    "jest": "21.2.0",
+    "jest": "21.2.1",
     "left-pad": "1.1.3",
     "lodash.get": "4.4.2",
     "normalize.css": "7.0.0",

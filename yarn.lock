@@ -1797,12 +1797,12 @@ caniuse-api@^1.5.2, caniuse-api@^1.5.3:
     lodash.uniq "^4.5.0"
 
 caniuse-db@^1.0.30000529, caniuse-db@^1.0.30000634, caniuse-db@^1.0.30000639:
-  version "1.0.30000738"
-  resolved "https://registry.yarnpkg.com/caniuse-db/-/caniuse-db-1.0.30000738.tgz#84809abc49a390e5a8c224ab9369d3f8d01aa202"
+  version "1.0.30000739"
+  resolved "https://registry.yarnpkg.com/caniuse-db/-/caniuse-db-1.0.30000739.tgz#be734deb6bed4ed8a69d72fb9078bc6ea6d76ad0"
 
 caniuse-lite@^1.0.30000718:
-  version "1.0.30000738"
-  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30000738.tgz#1820c3c9adb9a117e311a5bdca1d25bc34288eba"
+  version "1.0.30000739"
+  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30000739.tgz#9ee8c7016f5c522dbb0c0863d55c61efb453ae95"
 
 capture-stack-trace@^1.0.0:
   version "1.0.0"
@@ -3006,8 +3006,8 @@ ee-first@1.1.1:
   resolved "https://registry.yarnpkg.com/ee-first/-/ee-first-1.1.1.tgz#590c61156b0ae2f4f0255732a158b266bc56b21d"
 
 electron-to-chromium@^1.2.7, electron-to-chromium@^1.3.18:
-  version "1.3.22"
-  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.3.22.tgz#4322d52c151406e3eaef74ad02676883e8416418"
+  version "1.3.23"
+  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.3.23.tgz#e6668ab18cb69afb8f577c8a9fc23d002788be74"
 
 elliptic@^6.0.0:
   version "6.4.0"
@@ -3242,9 +3242,9 @@ eslint-plugin-import@2.7.0:
     minimatch "^3.0.3"
     read-pkg-up "^2.0.0"
 
-eslint-plugin-node@5.1.1:
-  version "5.1.1"
-  resolved "https://registry.yarnpkg.com/eslint-plugin-node/-/eslint-plugin-node-5.1.1.tgz#a7ed956e780c22aef6afd1116005acd82f26eac6"
+eslint-plugin-node@5.2.0:
+  version "5.2.0"
+  resolved "https://registry.yarnpkg.com/eslint-plugin-node/-/eslint-plugin-node-5.2.0.tgz#e1efca04a385516cff3f2f04027ce8c5ae6db749"
   dependencies:
     ignore "^3.3.3"
     minimatch "^3.0.4"

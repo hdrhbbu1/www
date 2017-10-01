@@ -3149,8 +3149,8 @@ error-stack-parser@^2.0.0:
     stackframe "^1.0.3"
 
 es-abstract@^1.6.1, es-abstract@^1.7.0:
-  version "1.8.2"
-  resolved "https://registry.yarnpkg.com/es-abstract/-/es-abstract-1.8.2.tgz#25103263dc4decbda60e0c737ca32313518027ee"
+  version "1.9.0"
+  resolved "https://registry.yarnpkg.com/es-abstract/-/es-abstract-1.9.0.tgz#690829a07cae36b222e7fd9b75c0d0573eb25227"
   dependencies:
     es-to-primitive "^1.1.1"
     function-bind "^1.1.1"
@@ -3988,9 +3988,9 @@ gatsby-cli@1.1.7:
     resolve-cwd "^2.0.0"
     tracer "^0.8.9"
 
-gatsby-link@1.6.17:
-  version "1.6.17"
-  resolved "https://registry.yarnpkg.com/gatsby-link/-/gatsby-link-1.6.17.tgz#4182d608798b72fd4ec716f118c4d1f649b214bb"
+gatsby-link@1.6.18:
+  version "1.6.18"
+  resolved "https://registry.yarnpkg.com/gatsby-link/-/gatsby-link-1.6.18.tgz#11f043d065758a00e35e05743c27d22569e296bf"
   dependencies:
     babel-runtime "^6.26.0"
     prop-types "^15.5.8"
@@ -4198,9 +4198,9 @@ gatsby-transformer-yaml@1.5.7:
     lodash "^4.17.4"
     unist-util-select "^1.5.0"
 
-gatsby@1.9.49:
-  version "1.9.49"
-  resolved "https://registry.yarnpkg.com/gatsby/-/gatsby-1.9.49.tgz#ff934a985493e731ada7e81ec77b17dd474e3e61"
+gatsby@1.9.50:
+  version "1.9.50"
+  resolved "https://registry.yarnpkg.com/gatsby/-/gatsby-1.9.50.tgz#a875f294dd68695e9197178dfa57d02bdec09b93"
   dependencies:
     async "^2.1.2"
     babel-code-frame "^6.22.0"
@@ -10618,8 +10618,8 @@ update-notifier@^1.0.3:
     xdg-basedir "^2.0.0"
 
 urijs@^1.16.1:
-  version "1.18.12"
-  resolved "https://registry.yarnpkg.com/urijs/-/urijs-1.18.12.tgz#f04d91e1fabb29c16fc842f9a14ee8ddc3fda64e"
+  version "1.19.0"
+  resolved "https://registry.yarnpkg.com/urijs/-/urijs-1.19.0.tgz#d8aa284d0e7469703a6988ad045c4cbfdf08ada0"
 
 urix@^0.1.0:
   version "0.1.0"

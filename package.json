@@ -42,7 +42,7 @@
     "gatsby-source-filesystem": "1.5.1",
     "gatsby-transformer-remark": "1.7.15",
     "gatsby-transformer-sharp": "1.6.7",
-    "gatsby-transformer-yaml": "1.5.7",
+    "gatsby-transformer-yaml": "1.5.8",
     "howler": "2.0.4",
     "inquirer": "3.3.0",
     "isomorphic-fetch": "2.2.1",

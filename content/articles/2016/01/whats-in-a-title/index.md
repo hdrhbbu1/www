@@ -50,7 +50,7 @@ It's fine if programming is their main passion, but it cannot be their only one.
 
 **Peace is always their preferred option.**
 
-A successful leader, regardless of industry, must learn to diffuse [pointless arguments](http://nicholaswyoung.com/its-not-about-your-tools); especially those fueled by blind adherence to [industry dogma](https://hbr.org/2010/06/challenge). This outside perspective can, among other things, help facilitate productive discussions around otherwise contentious topics.
+A successful leader, regardless of industry, must learn to diffuse [pointless arguments](http://nicholaswyoung.com/its-not-about-your-tools); especially those fueled by questionless adherence to [industry dogma](https://hbr.org/2010/06/challenge). This outside perspective can, among other things, help facilitate productive discussions around otherwise contentious topics.
 
 ---
 

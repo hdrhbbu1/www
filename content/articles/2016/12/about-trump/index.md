@@ -23,7 +23,7 @@ On November 9th, I awoke to a terrifying reality. Soon thereafter, my fears bega
 
 Some hope that Trump’s rhetoric is just “marketing” — I’m afraid it isn’t. His policies echo Bush’s post-9/11 strategies, which should concern anyone who values liberty.
 
-Immediately, I began advocating against policies from the incoming administration that could harm friends or myself. I have also written extensive personal correspondence between friends whose political ideology was unclear, asking for their support in private. The best I have been given was blind reassurance that Republicans care.
+Immediately, I began advocating against policies from the incoming administration that could harm friends or myself. I have also written extensive personal correspondence between friends whose political ideology was unclear, asking for their support in private. The best I have been given was simply reassurance that Republicans care.
 
 If you’ve been silent so far, remember this: as I wait for unknown healthcare reforms, your emotions are irrelevant. I’ll remember your silence and inaction. While my friends are forced to register with the government because of their birthplace or religious ideology, I’ll remember your silence and inaction. I’ll remember that you questioned Trump when it was safe, but quickly fell in line once he gained power.
 

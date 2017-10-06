@@ -70,7 +70,7 @@ This may be a shocking revelation for some of you, especially those who watch my
 
 I'm writing to you from our new apartment in Denver, Colorado. Earlier this afternoon, I walked into a dispensary for my first serious purchase since we've been in the state. The staff, consumers themselves, helpfully recommended a handful of strains that will, during the day, relieve pain without disrupting higher mental function. At night, I have options to relieve pain and help me stay asleep.
 
-![Native Roots Dispensary](https://s3.amazonaws.com/media.nicholaswyoung.com/img/native-roots-colorado.jpg)
+![Medical Cannabis growing at a dispensary in Denver, CO.](cannabis-grow.jpg)
 
 Inside, the facility has more in common with an Apple Store than a marijuana dispensary. It has all the trappings of a government-sanctioned professional venture, and is a very different experience when compared to purchasing on the black market. Maybe you now understand why Colorado is home to the legal Cannabis revolution.
 

@@ -15,6 +15,7 @@ tags:
   - media-representation
   - ehlers-danlos-syndrome
   - criticism
+  - medical-cannabis
 ---
 I submitted the following essay to The Cannabist last Friday in response to
 [Season 3, Episode 9 of The Cannabist Show](http://www.thecannabist.co/2017/06/16/s03e09-cannabist-show-jennessa-lea-break-the-stigma-fitness/81728/). Ultimately, editor Alex Pasquariello decided it wasn't a fit for their publication, noting in his response that, "as your submission observes and a cursory Google search reveals, EDS is an incredibly complicated medical topic," and suggested that I submit it as a comment on Facebook.

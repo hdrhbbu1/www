@@ -14,6 +14,7 @@ tags:
   - disability
   - chronic-illness
   - eds-awareness-month
+  - medical-cannabis
 ---
 
 This past week has been one of the most difficult on record. It began with

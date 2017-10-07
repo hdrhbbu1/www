@@ -4064,9 +4064,9 @@ gatsby-plugin-react-next@1.0.4:
     react "^16.0.0"
     react-dom "^16.0.0"
 
-gatsby-plugin-sharp@1.6.8, gatsby-plugin-sharp@^1.6.8:
-  version "1.6.8"
-  resolved "https://registry.yarnpkg.com/gatsby-plugin-sharp/-/gatsby-plugin-sharp-1.6.8.tgz#289f11f3f54c5cdd51f78f17403b8f318fd68cfa"
+gatsby-plugin-sharp@1.6.9, gatsby-plugin-sharp@^1.6.8:
+  version "1.6.9"
+  resolved "https://registry.yarnpkg.com/gatsby-plugin-sharp/-/gatsby-plugin-sharp-1.6.9.tgz#4b1f39fa68f952112d95cf5f5dfbdfc320458a0a"
   dependencies:
     async "^2.1.2"
     babel-runtime "^6.26.0"

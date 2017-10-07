@@ -1538,8 +1538,8 @@ boom@5.x.x:
     hoek "4.x.x"
 
 bowser@^1.7.3:
-  version "1.7.3"
-  resolved "https://registry.yarnpkg.com/bowser/-/bowser-1.7.3.tgz#504bdb43118ca8db9cbbadf28fd60f265af96e4f"
+  version "1.8.0"
+  resolved "https://registry.yarnpkg.com/bowser/-/bowser-1.8.0.tgz#889d46ac922ec5db8297672747362ef836781ba7"
 
 boxen@^0.6.0:
   version "0.6.0"
@@ -4208,9 +4208,9 @@ gatsby-transformer-yaml@1.5.8:
     lodash "^4.17.4"
     unist-util-select "^1.5.0"
 
-gatsby@1.9.53:
-  version "1.9.53"
-  resolved "https://registry.yarnpkg.com/gatsby/-/gatsby-1.9.53.tgz#4d994c0b775dcb11f0e278a783287afd02b73820"
+gatsby@1.9.54:
+  version "1.9.54"
+  resolved "https://registry.yarnpkg.com/gatsby/-/gatsby-1.9.54.tgz#e4a5cd9514526f5f784bf6ec45a3ef5a64eb628f"
   dependencies:
     async "^2.1.2"
     babel-code-frame "^6.22.0"

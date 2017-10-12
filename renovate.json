@@ -1,3 +1,11 @@
 {
-  "extends": [":library"]
+  "extends": [":app"],
+  "labels": [
+    "bot"
+  ],
+  "rebaseStalePrs": true,
+  "automerge": true,
+  "assignees": [
+    "nicholaswyoung"
+  ]
 }

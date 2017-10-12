@@ -4088,9 +4088,9 @@ gatsby-react-router-scroll@^1.0.2:
     scroll-behavior "^0.9.1"
     warning "^3.0.0"
 
-gatsby-remark-copy-linked-files@1.5.7:
-  version "1.5.7"
-  resolved "https://registry.yarnpkg.com/gatsby-remark-copy-linked-files/-/gatsby-remark-copy-linked-files-1.5.7.tgz#59817877cb2978a6a72df62f2353033f0f8a6e35"
+gatsby-remark-copy-linked-files@1.5.8:
+  version "1.5.8"
+  resolved "https://registry.yarnpkg.com/gatsby-remark-copy-linked-files/-/gatsby-remark-copy-linked-files-1.5.8.tgz#0d414ae9e20c1d2bccfbd3c730e139027e9f344a"
   dependencies:
     babel-runtime "^6.26.0"
     cheerio "^1.0.0-rc.2"

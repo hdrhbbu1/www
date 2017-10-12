@@ -3439,6 +3439,18 @@ execa@^0.7.0:
     signal-exit "^3.0.0"
     strip-eof "^1.0.0"
 
+execa@^0.8.0:
+  version "0.8.0"
+  resolved "https://registry.yarnpkg.com/execa/-/execa-0.8.0.tgz#d8d76bbc1b55217ed190fd6dd49d3c774ecfc8da"
+  dependencies:
+    cross-spawn "^5.0.1"
+    get-stream "^3.0.0"
+    is-stream "^1.1.0"
+    npm-run-path "^2.0.0"
+    p-finally "^1.0.0"
+    signal-exit "^3.0.0"
+    strip-eof "^1.0.0"
+
 executable@^1.0.0:
   version "1.1.0"
   resolved "https://registry.yarnpkg.com/executable/-/executable-1.1.0.tgz#877980e9112f3391066da37265de7ad8434ab4d9"
@@ -3971,18 +3983,26 @@ gatsby-1-config-css-modules@^1.0.4:
   dependencies:
     babel-runtime "^6.26.0"
 
-gatsby-cli@1.1.9:
-  version "1.1.9"
-  resolved "https://registry.yarnpkg.com/gatsby-cli/-/gatsby-cli-1.1.9.tgz#d3f0d5795e10896e2349e666d81ccb9f5df55669"
+gatsby-cli@1.1.10:
+  version "1.1.10"
+  resolved "https://registry.yarnpkg.com/gatsby-cli/-/gatsby-cli-1.1.10.tgz#d77b641d1a08c822337a181b839bdbf0b547330c"
   dependencies:
+    babel-code-frame "^6.26.0"
     babel-runtime "^6.26.0"
-    commander "^2.11.0"
+    bluebird "^3.5.0"
+    common-tags "^1.4.0"
+    convert-hrtime "^2.0.0"
     core-js "^2.5.0"
+    execa "^0.8.0"
     fs-extra "^4.0.1"
     hosted-git-info "^2.5.0"
     lodash "^4.17.4"
+    pretty-error "^2.1.1"
     resolve-cwd "^2.0.0"
-    tracer "^0.8.9"
+    source-map "^0.5.7"
+    stack-trace "^0.0.10"
+    yargs "^8.0.2"
+    yurnalist "^0.2.1"
 
 gatsby-link@1.6.20:
   version "1.6.20"
@@ -11247,7 +11267,7 @@ yargs@^7.0.2:
     y18n "^3.2.1"
     yargs-parser "^5.0.0"
 
-yargs@^8.0.1:
+yargs@^8.0.1, yargs@^8.0.2:
   version "8.0.2"
   resolved "https://registry.yarnpkg.com/yargs/-/yargs-8.0.2.tgz#6299a9055b1cefc969ff7e79c1d918dceb22c360"
   dependencies:
@@ -11319,6 +11339,27 @@ yurnalist@^0.1.10:
     loud-rejection "^1.2.0"
     markdown-toc "^1.1.0"
     minimatch "^3.0.3"
+    node-emoji "^1.0.4"
+    object-path "^0.11.2"
+    read "^1.0.7"
+    rimraf "^2.5.0"
+    semver "^5.1.0"
+    strip-bom "^3.0.0"
+
+yurnalist@^0.2.1:
+  version "0.2.1"
+  resolved "https://registry.yarnpkg.com/yurnalist/-/yurnalist-0.2.1.tgz#2d32b9618ab6491891c131bd90a5295e19fd4bad"
+  dependencies:
+    chalk "^1.1.1"
+    death "^1.0.0"
+    debug "^2.2.0"
+    detect-indent "^5.0.0"
+    inquirer "^3.0.1"
+    invariant "^2.2.0"
+    is-builtin-module "^1.0.0"
+    is-ci "^1.0.10"
+    leven "^2.0.0"
+    loud-rejection "^1.2.0"
     node-emoji "^1.0.4"
     object-path "^0.11.2"
     read "^1.0.7"

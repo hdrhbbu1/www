@@ -1,6 +1,6 @@
 const {
   createArticlesFeed,
-  createPodcastFeeds
+  createPodcastFeeds,
 } = require('./config/feeds')
 
 module.exports = {
@@ -95,9 +95,9 @@ module.exports = {
         feeds: [].concat(
           createArticlesFeed(),
           createPodcastFeeds()
-        )
-      }
+        ),
+      },
     },
     `gatsby-plugin-sitemap`,
-  ]
+  ],
 }

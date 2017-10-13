@@ -1,7 +1,5 @@
 const path = require('path')
-const fs = require('fs-extra')
 const { slugify } = require('transliteration')
-const slash = require('slash')
 const get = require('lodash.get')
 const format = require('date-fns/format')
 
@@ -11,7 +9,7 @@ const episodeTemplate = path.resolve('src/templates/Episode.js')
 const pageTemplate = path.resolve('src/templates/Page.js')
 const tagTemplate = path.resolve('src/templates/Tag.js')
 const topicTemplate = path.resolve('src/templates/Topic.js')
-  
+
 const template = (l = 'page') => {
   l = l.toLowerCase()
 
@@ -32,7 +30,7 @@ const template = (l = 'page') => {
 
 exports.createPages = ({ graphql, boundActionCreators }) => {
   const { createPage } = boundActionCreators
-  
+
   return new Promise((resolve, reject) => {
     // Query for markdown nodes to create pages.
     graphql(`
@@ -80,7 +78,7 @@ exports.createPages = ({ graphql, boundActionCreators }) => {
           context: {
             slug: edge.node.fields.slug,
             show,
-          }
+          },
         })
 
         const tagged = get(edge, 'node.frontmatter.tags')
@@ -102,7 +100,7 @@ exports.createPages = ({ graphql, boundActionCreators }) => {
           component: tagTemplate,
           context: {
             tag,
-            slug
+            slug,
           },
         })
       })
@@ -116,7 +114,7 @@ exports.createPages = ({ graphql, boundActionCreators }) => {
           context: {
             topic,
             slug,
-          }
+          },
         })
       })
 
@@ -150,7 +148,7 @@ exports.onCreateNode = ({ node, boundActionCreators, getNode }) => {
     }
 
     if (node.frontmatter.layout === 'post') {
-      slug = [format(node.frontmatter.date, 'YYYY/MM'), slug].join('/') 
+      slug = [format(node.frontmatter.date, 'YYYY/MM'), slug].join('/')
     }
 
     if (slug) {
@@ -175,7 +173,7 @@ function ensureSlashes(slug) {
     slug = '/' + slug
   }
 
-  if (slug.charAt(slug.length -1) !== '/') {
+  if (slug.charAt(slug.length - 1) !== '/') {
     slug = slug + '/'
   }
 

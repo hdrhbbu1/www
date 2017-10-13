@@ -63,7 +63,7 @@ The desire to teach always stays with me, regardless of my current discipline. E
 
 ---
 
-The night before leaving Nashville, I consulted my friend [Jeff Barczewski](https://codewinds.com). With a beer in hand, I unwrapped the (previously private) concept behind [Until Now](http://untilnow.co). He approved, bolstering my confidence with a story of his own. I left the conference armed with a newfound sense of purpose.
+The night before leaving Nashville, I consulted my friend Jeff Barczewski. With a beer in hand, I unwrapped the (previously private) concept behind [Until Now](https://uptime.ventures). He approved, bolstering my confidence with a story of his own. I left the conference armed with a newfound sense of purpose.
 
 With the support of my wife and encouragement of a friend, I landed in Chicago and immediately filed the paperwork for a new LLC. By mid December, my consultancy had signed it's first client.
 

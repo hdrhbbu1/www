@@ -2,6 +2,8 @@
 
 [![CI Status
 Badge](https://travis-ci.org/nicholaswyoung/www.svg?branch=master)](https://travis-ci.org/nicholaswyoung/www)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/53a0d8dd65a1445db0005bb4bd0496fa)](https://www.codacy.com/app/nyoung/www_2?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=nicholaswyoung/www&amp;utm_campaign=Badge_Grade)
+[![Gatsby](https://img.shields.io/badge/powered_by-Gatsby-6a4e9a.svg)](https://www.gatsbyjs.org)
 
 [A website](https://www.nicholaswyoung.com) on entrepreneurship, disability, technology, culture, art, and the intersection(s) of these topics.
 

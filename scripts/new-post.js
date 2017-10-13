@@ -17,15 +17,15 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque lacus leo, inte
 
 const createSlug = (title, date) => [
   format(date, 'YYYY/MM'),
-  slugify(title)
+  slugify(title),
 ].join('/')
 
 const run = () => inquirer.prompt([
   {
     type: 'input',
     name: 'title',
-    message: 'What should we call this new post?'
-  }
+    message: 'What should we call this new post?',
+  },
 ]).then(({ title }) => {
   const now = new Date()
   const slug = createSlug(title, now)

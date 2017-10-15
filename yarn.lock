@@ -10297,9 +10297,9 @@ typedarray@^0.0.6:
   version "0.0.6"
   resolved "https://registry.yarnpkg.com/typedarray/-/typedarray-0.0.6.tgz#867ac74e3864187b1d3d47d996a78ec5c8830777"
 
-typeface-gentium-book-basic@0.0.35:
-  version "0.0.35"
-  resolved "https://registry.yarnpkg.com/typeface-gentium-book-basic/-/typeface-gentium-book-basic-0.0.35.tgz#bdf5c3ca2cea26109c0bb39e45bbf98598acc72b"
+typeface-gentium-book-basic@0.0.40:
+  version "0.0.40"
+  resolved "https://registry.yarnpkg.com/typeface-gentium-book-basic/-/typeface-gentium-book-basic-0.0.40.tgz#5e4c6108d6b0962204bf5f2c1611da2eae5ac892"
 
 typeface-open-sans@0.0.35:
   version "0.0.35"

@@ -4036,9 +4036,9 @@ gatsby-plugin-nprogress@1.0.7:
     babel-runtime "^6.26.0"
     nprogress "^0.2.0"
 
-gatsby-plugin-offline@1.0.9:
-  version "1.0.9"
-  resolved "https://registry.yarnpkg.com/gatsby-plugin-offline/-/gatsby-plugin-offline-1.0.9.tgz#5d5879caf81a6e762984341f6eba765818d92320"
+gatsby-plugin-offline@1.0.10:
+  version "1.0.10"
+  resolved "https://registry.yarnpkg.com/gatsby-plugin-offline/-/gatsby-plugin-offline-1.0.10.tgz#940891790c9b304020108cc4b93162073e1ae42d"
   dependencies:
     babel-runtime "^6.26.0"
     sw-precache "^5.0.0"

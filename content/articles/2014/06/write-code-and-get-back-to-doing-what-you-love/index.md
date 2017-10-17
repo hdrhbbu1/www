@@ -8,6 +8,8 @@ tags:
   - software
   - javascript
   - talks
+topics:
+  - the-machine
 ---
 A few weeks ago, I gave a talk at the [Chicago Node.js](http://www.meetup.com/Chicago-Nodejs) meetup about our technology stack for [The Machine](http://nicholaswyoung.com/work/machinefm). I've only been working with Node for a couple of months, but in that time, I've learned many difficult lessons. The biggest one, by far, is how *not to build a monolith*.
 

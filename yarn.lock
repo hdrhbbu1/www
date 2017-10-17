@@ -4100,9 +4100,9 @@ gatsby-remark-copy-linked-files@1.5.9:
     lodash "^4.17.4"
     unist-util-visit "^1.1.1"
 
-gatsby-remark-images@1.5.16:
-  version "1.5.16"
-  resolved "https://registry.yarnpkg.com/gatsby-remark-images/-/gatsby-remark-images-1.5.16.tgz#1d3cfa56f924b6dc44923239e3bbd4c3a296825f"
+gatsby-remark-images@1.5.18:
+  version "1.5.18"
+  resolved "https://registry.yarnpkg.com/gatsby-remark-images/-/gatsby-remark-images-1.5.18.tgz#9750f10e1e6744fd09dd2d81ceb30743706622d7"
   dependencies:
     babel-runtime "^6.26.0"
     cheerio "^1.0.0-rc.2"

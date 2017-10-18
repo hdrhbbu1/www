@@ -1,7 +1,6 @@
 {
   "extends": [":app"],
   "timezone": "America/Denver",
-  "schedule": "before 5am every day",
   "labels": [
     "bot"
   ],

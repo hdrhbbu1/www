@@ -3,6 +3,7 @@ title: Earth Cadets
 date: '2014-11-12'
 layout: film
 draft: false
+poster: poster.png
 mpd: films/show-of-hands/earth-cadets/x264.mpd
 credits:
 - title: Direction, Camera, and Edit

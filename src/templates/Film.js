@@ -37,12 +37,17 @@ export default class FilmTemplate extends Component {
     const {
       frontmatter: {
         title,
+        poster: posterImg,
         mpd,
       },
       fields: { slug },
       excerpt,
       html,
     } = this.props.data.markdownRemark
+
+    const poster = posterImg && posterImg.childImageSharp
+      ? posterImg.childImageSharp.resolutions.src : undefined
+
     return (
       <FullscreenWrapper>
         <Helmet
@@ -52,7 +57,7 @@ export default class FilmTemplate extends Component {
         <Headline>
           <Link to={slug}>{title}</Link>
         </Headline>
-        <Player host={cUrl} mpd={mpd}/>
+        <Player poster={poster} host={cUrl} mpd={mpd}/>
         <Content dangerouslySetInnerHTML={{ __html: html }}/>
       </FullscreenWrapper>
     )
@@ -75,6 +80,13 @@ export const pageQuery = graphql`
       frontmatter {
         title
         mpd
+        poster {
+          childImageSharp {
+            resolutions(width: 1920) {
+              src
+            }
+          }
+        }
       }
     }
   }

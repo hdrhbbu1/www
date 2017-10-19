@@ -3,6 +3,7 @@ title: Lady Faye Jewelry
 date: '2014-11-07'
 layout: film
 draft: false
+poster: poster.png
 mpd: films/show-of-hands/lady-faye/x264.mpd
 credits:
 - title: Direction, Camera, and Edit

@@ -38,8 +38,10 @@ export default class Player extends Component {
 
   render() {
     let videoRef = el => { this.video = el }
+    const poster = this.props.poster || undefined
     return (
       <VideoContainer
+        poster={poster}
         innerRef={videoRef}
         controls
       />

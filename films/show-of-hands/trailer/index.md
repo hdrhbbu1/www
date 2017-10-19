@@ -3,6 +3,7 @@ title: Show of Hands Trailer
 date: '2013-11-21'
 layout: film
 draft: false
+poster: poster.png
 mpd: films/show-of-hands/trailer/x264.mpd
 credits:
 - title: Direction, Camera, and Edit

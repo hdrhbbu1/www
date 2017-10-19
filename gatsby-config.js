@@ -13,6 +13,7 @@ module.exports = {
     email: 'nicholas@nicholaswyoung.com',
     siteUrl: 'https://www.nicholaswyoung.com',
     mediaUrl: 'https://archive.org/download',
+    cUrl: 'https://storage.googleapis.com/c.nicholaswyoung.com',
   },
   plugins: [
     {
@@ -27,6 +28,13 @@ module.exports = {
       options: {
         path: `${__dirname}/programs`,
         name: 'programs',
+      },
+    },
+    {
+      resolve: 'gatsby-source-filesystem',
+      options: {
+        path: `${__dirname}/films`,
+        name: 'films',
       },
     },
     'gatsby-transformer-sharp',
@@ -54,6 +62,7 @@ module.exports = {
       },
     },
     'gatsby-plugin-glamor',
+    'gatsby-plugin-styled-components',
     'gatsby-plugin-sharp',
     {
       resolve: 'gatsby-plugin-manifest',

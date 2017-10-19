@@ -1,5 +1,12 @@
 import React, { Component } from 'react'
+import styled from 'styled-components'
 import shaka from 'shaka-player'
+
+const VideoContainer = styled.video`
+  display: flex;
+  width: 90%;
+  margin: 0 auto 0 auto;
+`
 
 export default class Player extends Component {
   state = {
@@ -32,14 +39,9 @@ export default class Player extends Component {
   render() {
     let videoRef = el => { this.video = el }
     return (
-      <video
-        ref={videoRef}
+      <VideoContainer
+        innerRef={videoRef}
         controls
-        css={{
-          width: '90%',
-          marginLeft: 'auto',
-          marginRight: 'auto',
-        }}
       />
     )
   }

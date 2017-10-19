@@ -9,6 +9,7 @@ const episodeTemplate = path.resolve('src/templates/Episode.js')
 const pageTemplate = path.resolve('src/templates/Page.js')
 const tagTemplate = path.resolve('src/templates/Tag.js')
 const topicTemplate = path.resolve('src/templates/Topic.js')
+const filmTemplate = path.resolve('src/templates/Film.js')
 
 const template = (l = 'page') => {
   l = l.toLowerCase()
@@ -23,6 +24,10 @@ const template = (l = 'page') => {
 
   if (l === 'episode') {
     return episodeTemplate
+  }
+
+  if (l === 'film') {
+    return filmTemplate
   }
 
   return pageTemplate
@@ -133,6 +138,8 @@ exports.onCreateNode = ({ node, boundActionCreators, getNode }) => {
       return
     }
 
+    const relativePath = fileNode.relativePath
+
     let slug
     if (node.frontmatter.path) {
       slug = cleanSlashes(node.frontmatter.path)
@@ -142,10 +149,12 @@ exports.onCreateNode = ({ node, boundActionCreators, getNode }) => {
       slug = ['programs', slugify(node.frontmatter.title)].join('/')
     } else if (node.frontmatter.layout === 'episode') {
       slug = ['programs', slugify(node.frontmatter.show), node.frontmatter.number].join('/')
+    } else if (node.frontmatter.layout === 'film') {
+      slug = ['films', path.dirname(relativePath)].join('/')
     } else {
-      const relativePath = fileNode.relativePath
       slug = path.basename(relativePath, path.extname(relativePath))
     }
+
 
     if (node.frontmatter.layout === 'post') {
       slug = [format(node.frontmatter.date, 'YYYY/MM'), slug].join('/')

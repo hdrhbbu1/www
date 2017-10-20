@@ -4139,7 +4139,7 @@ gatsby-plugin-react-next@1.0.4:
     react "^16.0.0"
     react-dom "^16.0.0"
 
-gatsby-plugin-sharp@1.6.10:
+gatsby-plugin-sharp@1.6.10, gatsby-plugin-sharp@^1.6.10:
   version "1.6.10"
   resolved "https://registry.yarnpkg.com/gatsby-plugin-sharp/-/gatsby-plugin-sharp-1.6.10.tgz#2637986beab6c1b2c303e9dee4e313422ba744ba"
   dependencies:
@@ -4154,20 +4154,6 @@ gatsby-plugin-sharp@1.6.10:
     progress "^1.1.8"
     sharp "^0.17.3"
     svgo "^0.7.2"
-
-gatsby-plugin-sharp@^1.6.9:
-  version "1.6.9"
-  resolved "https://registry.yarnpkg.com/gatsby-plugin-sharp/-/gatsby-plugin-sharp-1.6.9.tgz#4b1f39fa68f952112d95cf5f5dfbdfc320458a0a"
-  dependencies:
-    async "^2.1.2"
-    babel-runtime "^6.26.0"
-    bluebird "^3.5.0"
-    image-size "^0.5.1"
-    imagemin "^5.2.2"
-    imagemin-pngquant "^5.0.0"
-    lodash "^4.17.4"
-    progress "^1.1.8"
-    sharp "^0.17.3"
 
 gatsby-plugin-sitemap@1.2.5:
   version "1.2.5"
@@ -4203,13 +4189,13 @@ gatsby-remark-copy-linked-files@1.5.9:
     lodash "^4.17.4"
     unist-util-visit "^1.1.1"
 
-gatsby-remark-images@1.5.18:
-  version "1.5.18"
-  resolved "https://registry.yarnpkg.com/gatsby-remark-images/-/gatsby-remark-images-1.5.18.tgz#9750f10e1e6744fd09dd2d81ceb30743706622d7"
+gatsby-remark-images@1.5.19:
+  version "1.5.19"
+  resolved "https://registry.yarnpkg.com/gatsby-remark-images/-/gatsby-remark-images-1.5.19.tgz#23ed14a3d28af6b986279a067a72c2d6bd8f1cd7"
   dependencies:
     babel-runtime "^6.26.0"
     cheerio "^1.0.0-rc.2"
-    gatsby-plugin-sharp "^1.6.9"
+    gatsby-plugin-sharp "^1.6.10"
     is-relative-url "^2.0.0"
     lodash "^4.17.4"
     slash "^1.0.0"

@@ -9584,9 +9584,9 @@ sha.js@^2.4.0, sha.js@^2.4.8:
     inherits "^2.0.1"
     safe-buffer "^5.0.1"
 
-shaka-player@2.2.3:
-  version "2.2.3"
-  resolved "https://registry.yarnpkg.com/shaka-player/-/shaka-player-2.2.3.tgz#9744820ac8dbbc3a9df358760a6866182f87873a"
+shaka-player@2.2.4:
+  version "2.2.4"
+  resolved "https://registry.yarnpkg.com/shaka-player/-/shaka-player-2.2.4.tgz#1eb80be6d952daa410dd9708d8855b09c5b63c55"
 
 shallowequal@^1.0.1:
   version "1.0.2"

@@ -4128,23 +4128,7 @@ gatsby-plugin-react-next@1.0.4:
     react "^16.0.0"
     react-dom "^16.0.0"
 
-gatsby-plugin-sharp@1.6.10:
-  version "1.6.10"
-  resolved "https://registry.yarnpkg.com/gatsby-plugin-sharp/-/gatsby-plugin-sharp-1.6.10.tgz#2637986beab6c1b2c303e9dee4e313422ba744ba"
-  dependencies:
-    async "^2.1.2"
-    babel-runtime "^6.26.0"
-    bluebird "^3.5.0"
-    image-size "^0.5.1"
-    imagemin "^5.2.2"
-    imagemin-pngquant "^5.0.0"
-    lodash "^4.17.4"
-    potrace "^2.1.1"
-    progress "^1.1.8"
-    sharp "^0.17.3"
-    svgo "^0.7.2"
-
-gatsby-plugin-sharp@^1.6.10:
+gatsby-plugin-sharp@1.6.11, gatsby-plugin-sharp@^1.6.10:
   version "1.6.11"
   resolved "https://registry.yarnpkg.com/gatsby-plugin-sharp/-/gatsby-plugin-sharp-1.6.11.tgz#d1feb0fbc2c08c5d803d4cc82fa3454a8d6af9fa"
   dependencies:
@@ -5339,8 +5323,8 @@ is-binary-path@^1.0.0:
     binary-extensions "^1.0.0"
 
 is-buffer@^1.1.4, is-buffer@^1.1.5, is-buffer@~1.1.1, is-buffer@~1.1.2:
-  version "1.1.5"
-  resolved "https://registry.yarnpkg.com/is-buffer/-/is-buffer-1.1.5.tgz#1f3b26ef613b214b88cbca23cc6c01d87961eecc"
+  version "1.1.6"
+  resolved "https://registry.yarnpkg.com/is-buffer/-/is-buffer-1.1.6.tgz#efaa2ea9daa0d7ab2ea13a97b2b8ad51fefbe8be"
 
 is-builtin-module@^1.0.0:
   version "1.0.0"

@@ -4128,7 +4128,7 @@ gatsby-plugin-react-next@1.0.4:
     react "^16.0.0"
     react-dom "^16.0.0"
 
-gatsby-plugin-sharp@1.6.13, gatsby-plugin-sharp@^1.6.12:
+gatsby-plugin-sharp@1.6.13, gatsby-plugin-sharp@^1.6.13:
   version "1.6.13"
   resolved "https://registry.yarnpkg.com/gatsby-plugin-sharp/-/gatsby-plugin-sharp-1.6.13.tgz#2c1243f31efdc1fa8b75574a505aef5343a890af"
   dependencies:
@@ -4179,13 +4179,13 @@ gatsby-remark-copy-linked-files@1.5.14:
     lodash "^4.17.4"
     unist-util-visit "^1.1.1"
 
-gatsby-remark-images@1.5.23:
-  version "1.5.23"
-  resolved "https://registry.yarnpkg.com/gatsby-remark-images/-/gatsby-remark-images-1.5.23.tgz#aaa867b97dd2427de2a4af1d97c1e4972229a8cf"
+gatsby-remark-images@1.5.24:
+  version "1.5.24"
+  resolved "https://registry.yarnpkg.com/gatsby-remark-images/-/gatsby-remark-images-1.5.24.tgz#21f0d1c65b36ea8f3231f37b4cbaa134c38096dd"
   dependencies:
     babel-runtime "^6.26.0"
     cheerio "^1.0.0-rc.2"
-    gatsby-plugin-sharp "^1.6.12"
+    gatsby-plugin-sharp "^1.6.13"
     is-relative-url "^2.0.0"
     lodash "^4.17.4"
     slash "^1.0.0"

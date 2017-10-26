@@ -1,4 +1,4 @@
-FROM nginx:1.13-alpine@sha256:83f10f82722087e6944e0348b2e64a95baf247135de7c237f4dec7729a386d7f
+FROM nginx:1.13-alpine@sha256:4a97b863a4386ba588cd4f264582d1f306bc9da46fe3e02540bd171709ce09d7
 MAINTAINER Nicholas Young <nicholas@nicholaswyoung.com>
 COPY public/ /usr/share/nginx/html
 COPY nginx.conf /etc/nginx/nginx.conf

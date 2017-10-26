@@ -4128,9 +4128,9 @@ gatsby-plugin-react-next@1.0.4:
     react "^16.0.0"
     react-dom "^16.0.0"
 
-gatsby-plugin-sharp@1.6.12, gatsby-plugin-sharp@^1.6.12:
-  version "1.6.12"
-  resolved "https://registry.yarnpkg.com/gatsby-plugin-sharp/-/gatsby-plugin-sharp-1.6.12.tgz#2e11f9afbd13c131a2797fc4eca6b6db15c24538"
+gatsby-plugin-sharp@1.6.13, gatsby-plugin-sharp@^1.6.12:
+  version "1.6.13"
+  resolved "https://registry.yarnpkg.com/gatsby-plugin-sharp/-/gatsby-plugin-sharp-1.6.13.tgz#2c1243f31efdc1fa8b75574a505aef5343a890af"
   dependencies:
     async "^2.1.2"
     babel-runtime "^6.26.0"
@@ -5120,8 +5120,8 @@ ieee754@^1.1.4:
   resolved "https://registry.yarnpkg.com/ieee754/-/ieee754-1.1.8.tgz#be33d40ac10ef1926701f6f08a2d86fbfd1ad3e4"
 
 ignore@^3.3.3, ignore@^3.3.6:
-  version "3.3.6"
-  resolved "https://registry.yarnpkg.com/ignore/-/ignore-3.3.6.tgz#b6f3196b38ed92f0c86e52f6f79b7fc4c8266c8d"
+  version "3.3.7"
+  resolved "https://registry.yarnpkg.com/ignore/-/ignore-3.3.7.tgz#612289bfb3c220e186a58118618d5be8c1bab021"
 
 image-size@^0.5.1:
   version "0.5.5"

@@ -12,7 +12,7 @@ Pain is a companion. It accompanies me when I rise, only allows brief privacy to
 
 I can cope with discomfort, lost sleep, and isolation well enough; but chronic illness' true crime is stealing life from beneath my feet. The past few years, it feels as if I've struggled to gain adequate footing, drifting from one career to the next. If my trajectory seems erratic from the outside, I can't blame you. I've been guided by illness more than almost any other force, every day rising with a hope that I'll be able to survive and find meaningful work while clearing a trail through the undergrowth of pain and fatigue.
 
-A new chapter is slowly unfolding before me. I'm cautiously optimistic that the fresh opportunities I promised myself in Denver will materialize, but as I embark on the next adventure, it's important to stop and rest. To document who I am now, before these moments become shadows of memories, too.
+A new chapter is slowly unfolding before me. I'm cautiously optimistic that the fresh opportunities I promised myself in Denver will materialize, but as I embark on the next adventure, it's important to stop and rest. To document who I am now, before these moments become shells of memories, too.
 
 Recently, I allowed several ideas to drift into the unmapped, liminal space that exists between states of thought. Why, I asked myself, am I so comfortable shaping, perfecting, and releasing a new idea for the world?
 

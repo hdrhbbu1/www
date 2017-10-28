@@ -7,6 +7,9 @@ tags:
     - career
     - health
     - chronic-illness
+    - ehlers-danlos-syndrome
+    - tinnitus
+    - disability
 ---
 Pain is a companion. It accompanies me when I rise, only allows brief privacy to shower, and returns with every step, turn, and bend. I tell myself this journey is temporary; not because there is a magical future when I'll rid myself of the second shadow, but that I now have tools and medication to dim its presence.
 

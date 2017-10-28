@@ -8624,9 +8624,9 @@ react-dom@^15.6.0:
     object-assign "^4.1.0"
     prop-types "^15.5.10"
 
-react-form@2.1.0:
-  version "2.1.0"
-  resolved "https://registry.yarnpkg.com/react-form/-/react-form-2.1.0.tgz#3047bc22cc570657e3a99ba3354e6dd371b7fdea"
+react-form@2.1.2:
+  version "2.1.2"
+  resolved "https://registry.yarnpkg.com/react-form/-/react-form-2.1.2.tgz#2267ae3bbabe6dc37cc2e79bc3e38d6983a188ba"
   dependencies:
     babel-runtime "^6.26.0"
     prop-types "^15.5.10"

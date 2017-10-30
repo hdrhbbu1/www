@@ -10,6 +10,16 @@ tags:
     - ehlers-danlos-syndrome
     - tinnitus
     - disability
+meta:
+  explicit: false
+  duration: '3:36'
+assets:
+  - contentType: audio/mpeg
+    format: mp3
+    filename: audio-journal/2017-10-27_Professional-Jeopardy.mp3
+  - contentType: audio/ogg
+    format: ogg
+    filename: audio-journal/2017-10-02_Professional-Jeopardy.ogg
 ---
 Pain is a companion. It accompanies me when I rise, only allows brief privacy to shower, and returns with every step, turn, and bend. I tell myself this journey is temporary; not because there is a magical future when I'll rid myself of the second shadow, but that I now have tools and medication to dim its presence.
 

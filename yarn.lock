@@ -3999,28 +3999,7 @@ gatsby-1-config-css-modules@^1.0.4:
   dependencies:
     babel-runtime "^6.26.0"
 
-gatsby-cli@1.1.17:
-  version "1.1.17"
-  resolved "https://registry.yarnpkg.com/gatsby-cli/-/gatsby-cli-1.1.17.tgz#283b8d9fd4147835c630dd97518d23ed8cf95500"
-  dependencies:
-    babel-code-frame "^6.26.0"
-    babel-runtime "^6.26.0"
-    bluebird "^3.5.0"
-    common-tags "^1.4.0"
-    convert-hrtime "^2.0.0"
-    core-js "^2.5.0"
-    execa "^0.8.0"
-    fs-extra "^4.0.1"
-    hosted-git-info "^2.5.0"
-    lodash "^4.17.4"
-    pretty-error "^2.1.1"
-    resolve-cwd "^2.0.0"
-    source-map "^0.5.7"
-    stack-trace "^0.0.10"
-    yargs "^8.0.2"
-    yurnalist "^0.2.1"
-
-gatsby-cli@^1.1.18:
+gatsby-cli@1.1.18, gatsby-cli@^1.1.18:
   version "1.1.18"
   resolved "https://registry.yarnpkg.com/gatsby-cli/-/gatsby-cli-1.1.18.tgz#073ec6e8445346d484d9979a41936cd0746d0b90"
   dependencies:

@@ -1631,10 +1631,10 @@ browserslist@^1.0.0, browserslist@^1.3.6, browserslist@^1.5.2, browserslist@^1.7
     electron-to-chromium "^1.2.7"
 
 browserslist@^2.1.2:
-  version "2.6.1"
-  resolved "https://registry.yarnpkg.com/browserslist/-/browserslist-2.6.1.tgz#cc65a05ad6131ebda26f076f2822ba1bc826376b"
+  version "2.7.0"
+  resolved "https://registry.yarnpkg.com/browserslist/-/browserslist-2.7.0.tgz#dc375dc70048fec3d989042a35022342902eff00"
   dependencies:
-    caniuse-lite "^1.0.30000755"
+    caniuse-lite "^1.0.30000757"
     electron-to-chromium "^1.3.27"
 
 bser@^2.0.0:
@@ -1786,12 +1786,12 @@ caniuse-api@^1.5.2, caniuse-api@^1.5.3:
     lodash.uniq "^4.5.0"
 
 caniuse-db@^1.0.30000529, caniuse-db@^1.0.30000634, caniuse-db@^1.0.30000639:
-  version "1.0.30000756"
-  resolved "https://registry.yarnpkg.com/caniuse-db/-/caniuse-db-1.0.30000756.tgz#e938a6b991630f30d2263dd3458beb65d362268b"
+  version "1.0.30000757"
+  resolved "https://registry.yarnpkg.com/caniuse-db/-/caniuse-db-1.0.30000757.tgz#fa23a383213d857f4a1e6a3bee17b32668504cbf"
 
-caniuse-lite@^1.0.30000755:
-  version "1.0.30000756"
-  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30000756.tgz#3da701c1521b9fab87004c6de7c97fa47dbeaad2"
+caniuse-lite@^1.0.30000757:
+  version "1.0.30000757"
+  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30000757.tgz#81e3bc029728a032933501994ef79db1c21159e3"
 
 capture-stack-trace@^1.0.0:
   version "1.0.0"
@@ -1854,7 +1854,7 @@ chalk@1.1.3, chalk@^1.0.0, chalk@^1.1.1, chalk@^1.1.3:
     strip-ansi "^3.0.0"
     supports-color "^2.0.0"
 
-chalk@^2.0.0, chalk@^2.0.1, chalk@^2.1.0:
+chalk@^2.0.0, chalk@^2.0.1, chalk@^2.1.0, chalk@^2.3.0:
   version "2.3.0"
   resolved "https://registry.yarnpkg.com/chalk/-/chalk-2.3.0.tgz#b5ea48efc9c1793dccc9b4767c93914d3f2d52ba"
   dependencies:
@@ -3999,9 +3999,30 @@ gatsby-1-config-css-modules@^1.0.4:
   dependencies:
     babel-runtime "^6.26.0"
 
-gatsby-cli@1.1.17, gatsby-cli@^1.1.17:
+gatsby-cli@1.1.17:
   version "1.1.17"
   resolved "https://registry.yarnpkg.com/gatsby-cli/-/gatsby-cli-1.1.17.tgz#283b8d9fd4147835c630dd97518d23ed8cf95500"
+  dependencies:
+    babel-code-frame "^6.26.0"
+    babel-runtime "^6.26.0"
+    bluebird "^3.5.0"
+    common-tags "^1.4.0"
+    convert-hrtime "^2.0.0"
+    core-js "^2.5.0"
+    execa "^0.8.0"
+    fs-extra "^4.0.1"
+    hosted-git-info "^2.5.0"
+    lodash "^4.17.4"
+    pretty-error "^2.1.1"
+    resolve-cwd "^2.0.0"
+    source-map "^0.5.7"
+    stack-trace "^0.0.10"
+    yargs "^8.0.2"
+    yurnalist "^0.2.1"
+
+gatsby-cli@^1.1.18:
+  version "1.1.18"
+  resolved "https://registry.yarnpkg.com/gatsby-cli/-/gatsby-cli-1.1.18.tgz#073ec6e8445346d484d9979a41936cd0746d0b90"
   dependencies:
     babel-code-frame "^6.26.0"
     babel-runtime "^6.26.0"
@@ -4100,9 +4121,26 @@ gatsby-plugin-react-next@1.0.4:
     react "^16.0.0"
     react-dom "^16.0.0"
 
-gatsby-plugin-sharp@1.6.17, gatsby-plugin-sharp@^1.6.16:
+gatsby-plugin-sharp@1.6.17:
   version "1.6.17"
   resolved "https://registry.yarnpkg.com/gatsby-plugin-sharp/-/gatsby-plugin-sharp-1.6.17.tgz#abc97abdc121ad4ea646f913b14bafeb5e553c8f"
+  dependencies:
+    async "^2.1.2"
+    babel-runtime "^6.26.0"
+    bluebird "^3.5.0"
+    image-size "^0.5.1"
+    imagemin "^5.2.2"
+    imagemin-pngquant "^5.0.0"
+    imagemin-webp "^4.0.0"
+    lodash "^4.17.4"
+    potrace "^2.1.1"
+    progress "^1.1.8"
+    sharp "^0.17.3"
+    svgo "^0.7.2"
+
+gatsby-plugin-sharp@^1.6.16:
+  version "1.6.18"
+  resolved "https://registry.yarnpkg.com/gatsby-plugin-sharp/-/gatsby-plugin-sharp-1.6.18.tgz#1dcb1394bb28fd902403771cdd4bc9ffe7a61864"
   dependencies:
     async "^2.1.2"
     babel-runtime "^6.26.0"
@@ -4246,9 +4284,9 @@ gatsby-transformer-yaml@1.5.11:
     lodash "^4.17.4"
     unist-util-select "^1.5.0"
 
-gatsby@1.9.92:
-  version "1.9.92"
-  resolved "https://registry.yarnpkg.com/gatsby/-/gatsby-1.9.92.tgz#5375b9880e827798e538cd631f423b54281829ca"
+gatsby@1.9.93:
+  version "1.9.93"
+  resolved "https://registry.yarnpkg.com/gatsby/-/gatsby-1.9.93.tgz#dd4ac368c6ff6168c0879fb5fbdd75de34e66db0"
   dependencies:
     async "^2.1.2"
     babel-code-frame "^6.22.0"
@@ -4290,7 +4328,7 @@ gatsby@1.9.92:
     front-matter "^2.1.0"
     fs-extra "^4.0.1"
     gatsby-1-config-css-modules "^1.0.4"
-    gatsby-cli "^1.1.17"
+    gatsby-cli "^1.1.18"
     gatsby-module-loader "^1.0.7"
     gatsby-react-router-scroll "^1.0.3"
     glob "^7.1.1"
@@ -8331,10 +8369,10 @@ postcss@^5.0.0, postcss@^5.0.10, postcss@^5.0.11, postcss@^5.0.12, postcss@^5.0.
     supports-color "^3.2.3"
 
 postcss@^6.0.1:
-  version "6.0.13"
-  resolved "https://registry.yarnpkg.com/postcss/-/postcss-6.0.13.tgz#b9ecab4ee00c89db3ec931145bd9590bbf3f125f"
+  version "6.0.14"
+  resolved "https://registry.yarnpkg.com/postcss/-/postcss-6.0.14.tgz#5534c72114739e75d0afcf017db853099f562885"
   dependencies:
-    chalk "^2.1.0"
+    chalk "^2.3.0"
     source-map "^0.6.1"
     supports-color "^4.4.0"
 
@@ -9208,7 +9246,7 @@ require-uncached@^1.0.3:
     caller-path "^0.1.0"
     resolve-from "^1.0.0"
 
-requires-port@1.0.x, requires-port@1.x.x:
+requires-port@1.0.x, requires-port@1.x.x, requires-port@~1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/requires-port/-/requires-port-1.0.0.tgz#925d2601d39ac485e091cf0da5c6e694dc3dcaff"
 
@@ -10884,11 +10922,11 @@ url-parse@1.0.x:
     requires-port "1.0.x"
 
 url-parse@^1.1.8:
-  version "1.1.9"
-  resolved "https://registry.yarnpkg.com/url-parse/-/url-parse-1.1.9.tgz#c67f1d775d51f0a18911dd7b3ffad27bb9e5bd19"
+  version "1.2.0"
+  resolved "https://registry.yarnpkg.com/url-parse/-/url-parse-1.2.0.tgz#3a19e8aaa6d023ddd27dcc44cb4fc8f7fec23986"
   dependencies:
     querystringify "~1.0.0"
-    requires-port "1.0.x"
+    requires-port "~1.0.0"
 
 url-regex@^3.0.0:
   version "3.2.0"

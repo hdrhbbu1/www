@@ -65,7 +65,7 @@
     "typeface-gentium-book-basic": "0.0.43",
     "typeface-open-sans": "0.0.43",
     "typography": "0.16.6",
-    "typography-plugin-code": "0.15.11"
+    "typography-plugin-code": "0.16.11"
   },
   "scripts": {
     "start": "NODE_OPTIONS=--max-old-space-size=4096 gatsby develop",

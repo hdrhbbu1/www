@@ -82,7 +82,7 @@ export const pageQuery = graphql`
         mpd
         poster {
           childImageSharp {
-            resolutions(width: 1920) {
+            resolutions(width: 1080) {
               src
             }
           }

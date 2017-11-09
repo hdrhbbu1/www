@@ -2039,8 +2039,8 @@ clone@^0.2.0:
   resolved "https://registry.yarnpkg.com/clone/-/clone-0.2.0.tgz#c6126a90ad4f72dbf5acdb243cc37724fe93fc1f"
 
 clone@^1.0.0, clone@^1.0.2:
-  version "1.0.2"
-  resolved "https://registry.yarnpkg.com/clone/-/clone-1.0.2.tgz#260b7a99ebb1edfe247538175f783243cb19d149"
+  version "1.0.3"
+  resolved "https://registry.yarnpkg.com/clone/-/clone-1.0.3.tgz#298d7e2231660f40c003c2ed3140decf3f53085f"
 
 co@3.1.0:
   version "3.1.0"
@@ -2080,8 +2080,8 @@ color-convert@^0.5.3:
   resolved "https://registry.yarnpkg.com/color-convert/-/color-convert-0.5.3.tgz#bdb6c69ce660fadffe0b0007cc447e1b9f7282bd"
 
 color-convert@^1.3.0, color-convert@^1.8.2, color-convert@^1.9.0:
-  version "1.9.0"
-  resolved "https://registry.yarnpkg.com/color-convert/-/color-convert-1.9.0.tgz#1accf97dd739b983bf994d56fec8f95853641b7a"
+  version "1.9.1"
+  resolved "https://registry.yarnpkg.com/color-convert/-/color-convert-1.9.1.tgz#c1261107aeb2f294ebffec9ed9ecad529a6097ed"
   dependencies:
     color-name "^1.1.1"
 
@@ -4083,9 +4083,9 @@ gatsby-cli@1.1.20, gatsby-cli@^1.1.20:
     yargs "^8.0.2"
     yurnalist "^0.2.1"
 
-gatsby-link@1.6.24:
-  version "1.6.24"
-  resolved "https://registry.yarnpkg.com/gatsby-link/-/gatsby-link-1.6.24.tgz#a1477ff7f3b55881c51a5b22baf4c5fb85cea094"
+gatsby-link@1.6.25:
+  version "1.6.25"
+  resolved "https://registry.yarnpkg.com/gatsby-link/-/gatsby-link-1.6.25.tgz#715103ad21d29408c41b4c634d9a717be13be0c7"
   dependencies:
     babel-runtime "^6.26.0"
     prop-types "^15.5.8"
@@ -6619,8 +6619,8 @@ logalot@^2.0.0:
     squeak "^1.0.0"
 
 longest-streak@^2.0.1:
-  version "2.0.1"
-  resolved "https://registry.yarnpkg.com/longest-streak/-/longest-streak-2.0.1.tgz#42d291b5411e40365c00e63193497e2247316e35"
+  version "2.0.2"
+  resolved "https://registry.yarnpkg.com/longest-streak/-/longest-streak-2.0.2.tgz#2421b6ba939a443bb9ffebf596585a50b4c38e2e"
 
 longest@^1.0.0, longest@^1.0.1:
   version "1.0.1"
@@ -8694,8 +8694,8 @@ react-helmet@^5.1.3:
     react-side-effect "^1.1.0"
 
 react-hot-loader@^3.0.0-beta.6:
-  version "3.1.1"
-  resolved "https://registry.yarnpkg.com/react-hot-loader/-/react-hot-loader-3.1.1.tgz#e06db8cd0841c41e3ab0b395b2b774126fc8914e"
+  version "3.1.2"
+  resolved "https://registry.yarnpkg.com/react-hot-loader/-/react-hot-loader-3.1.2.tgz#3d4a0f7fdeb5dce085767d751a683f979345557d"
   dependencies:
     global "^4.3.0"
     react-deep-force-update "^2.1.1"

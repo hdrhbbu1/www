@@ -35,96 +35,92 @@ const template = (l = 'page') => {
 
 exports.createPages = ({ graphql, boundActionCreators }) => {
   const { createPage } = boundActionCreators
-
-  return new Promise((resolve, reject) => {
-    // Query for markdown nodes to create pages.
-    graphql(`
-      {
-        allMarkdownRemark(limit: 1000, filter: {
-          frontmatter: {
-            draft: { ne: true }
-          }
-        }) {
-          edges {
-            node {
-              fields {
-                slug
-              }
-              frontmatter {
-                layout
-                tags
-                topics
-                show
-              }
+  return graphql(`
+    {
+      allMarkdownRemark(limit: 1000, filter: {
+        frontmatter: {
+          draft: { ne: true }
+        }
+      }) {
+        edges {
+          node {
+            fields {
+              slug
+            }
+            frontmatter {
+              layout
+              tags
+              topics
+              show
             }
           }
         }
       }
-    `).then(({ errors, data }) => {
-      if (errors) {
-        console.error(errors)
-        return reject(errors)
+    }
+  `).then(({ errors, data }) => {
+    if (errors) {
+      console.error(errors)
+      return Promise.reject(errors)
+    }
+
+    let tagPages = []
+    let topicPages = []
+    data.allMarkdownRemark.edges.forEach(edge => {
+      const slug = get(edge, 'node.fields.slug')
+      if (!slug) {
+        return
       }
 
-      let tagPages = []
-      let topicPages = []
-      data.allMarkdownRemark.edges.forEach(edge => {
-        const slug = get(edge, 'node.fields.slug')
-        if (!slug) {
-          return
-        }
+      const show = get(edge, 'node.frontmatter.show') || ''
 
-        const show = get(edge, 'node.frontmatter.show') || ''
-
-        const { layout } = edge.node.frontmatter
-        createPage({
-          path: edge.node.fields.slug,
-          component: template(layout),
-          context: {
-            slug: edge.node.fields.slug,
-            show,
-          },
-        })
-
-        const tagged = get(edge, 'node.frontmatter.tags')
-        if (tagged) {
-          tagPages = tagPages.concat(tagged)
-        }
-
-        const topics = get(edge, 'node.frontmatter.topics')
-        if (topics) {
-          topicPages = topicPages.concat(topics)
-        }
+      const { layout } = edge.node.frontmatter
+      createPage({
+        path: edge.node.fields.slug,
+        component: template(layout),
+        context: {
+          slug: edge.node.fields.slug,
+          show,
+        },
       })
 
-      tagPages = tagPages.filter((v, i, acc) => acc.indexOf(v) === i)
-      tagPages.forEach(tag => {
-        const slug = `/tags/${slugify(tag)}/`
-        createPage({
-          path: slug,
-          component: tagTemplate,
-          context: {
-            tag,
-            slug,
-          },
-        })
-      })
+      const tagged = get(edge, 'node.frontmatter.tags')
+      if (tagged) {
+        tagPages = tagPages.concat(tagged)
+      }
 
-      topicPages = topicPages.filter((v, i, acc) => acc.indexOf(v) === i)
-      topicPages.forEach(topic => {
-        const slug = `/topics/${slugify(topic)}/`
-        createPage({
-          path: slug,
-          component: topicTemplate,
-          context: {
-            topic,
-            slug,
-          },
-        })
-      })
-
-      resolve()
+      const topics = get(edge, 'node.frontmatter.topics')
+      if (topics) {
+        topicPages = topicPages.concat(topics)
+      }
     })
+
+    tagPages = tagPages.filter((v, i, acc) => acc.indexOf(v) === i)
+    tagPages.forEach(tag => {
+      const slug = `/tags/${slugify(tag)}/`
+      createPage({
+        path: slug,
+        component: tagTemplate,
+        context: {
+          tag,
+          slug,
+        },
+      })
+    })
+
+    topicPages = topicPages.filter((v, i, acc) => acc.indexOf(v) === i)
+    topicPages.forEach(topic => {
+      const slug = `/topics/${slugify(topic)}/`
+      createPage({
+        path: slug,
+        component: topicTemplate,
+        context: {
+          topic,
+          slug,
+        },
+      })
+    })
+
+    return Promise.resolve()
   })
 }
 

@@ -10738,9 +10738,9 @@ typeface-gentium-book-basic@0.0.44:
   version "0.0.44"
   resolved "https://registry.yarnpkg.com/typeface-gentium-book-basic/-/typeface-gentium-book-basic-0.0.44.tgz#74877ce79198f43ae7944f02859b1b5f4ef18fc9"
 
-typeface-open-sans@0.0.43:
-  version "0.0.43"
-  resolved "https://registry.yarnpkg.com/typeface-open-sans/-/typeface-open-sans-0.0.43.tgz#5fba6d9fca204b5699c4a8e52eaa4363c249e2d2"
+typeface-open-sans@0.0.45:
+  version "0.0.45"
+  resolved "https://registry.yarnpkg.com/typeface-open-sans/-/typeface-open-sans-0.0.45.tgz#cd4700eb9ed4c83f5fe95ef0540b4053110bfccf"
 
 typography-normalize@^0.14.0:
   version "0.14.0"

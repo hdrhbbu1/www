@@ -59,7 +59,7 @@
     "react-router-scroll": "github:ytase/react-router-scroll#build",
     "react-test-renderer": "16.1.1",
     "react-typography": "0.16.5",
-    "shaka-player": "2.2.5",
+    "shaka-player": "2.2.6",
     "styled-components": "2.2.3",
     "transliteration": "1.6.2",
     "typeface-gentium-book-basic": "0.0.44",

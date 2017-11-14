@@ -55,7 +55,7 @@
     "prop-types": "15.6.0",
     "react": "16.1.1",
     "react-dom": "16.1.1",
-    "react-form": "2.9.0",
+    "react-form": "2.10.0",
     "react-router-scroll": "github:ytase/react-router-scroll#build",
     "react-test-renderer": "16.1.1",
     "react-typography": "0.16.5",

@@ -42,7 +42,7 @@
     "gatsby-remark-smartypants": "1.4.8",
     "gatsby-source-filesystem": "1.5.8",
     "gatsby-transformer-remark": "1.7.21",
-    "gatsby-transformer-sharp": "1.6.13",
+    "gatsby-transformer-sharp": "1.6.14",
     "gatsby-transformer-yaml": "1.5.11",
     "howler": "2.0.5",
     "inquirer": "4.0.0",

@@ -8699,9 +8699,9 @@ react-error-overlay@^3.0.0:
   version "3.0.0"
   resolved "https://registry.yarnpkg.com/react-error-overlay/-/react-error-overlay-3.0.0.tgz#c2bc8f4d91f1375b3dad6d75265d51cd5eeaf655"
 
-react-form@2.10.0:
-  version "2.10.0"
-  resolved "https://registry.yarnpkg.com/react-form/-/react-form-2.10.0.tgz#fe2eb50e7308e46354c52562d42352d8ae975ef6"
+react-form@2.11.0:
+  version "2.11.0"
+  resolved "https://registry.yarnpkg.com/react-form/-/react-form-2.11.0.tgz#c1695e4f8e9a5c77b946a1fea54c54ed85642a5c"
   dependencies:
     babel-runtime "^6.26.0"
     circular-json "^0.4.0"

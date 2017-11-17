@@ -1995,6 +1995,10 @@ class-utils@^0.3.5:
     lazy-cache "^2.0.2"
     static-extend "^0.1.1"
 
+classnames@^2.2.5:
+  version "2.2.5"
+  resolved "https://registry.yarnpkg.com/classnames/-/classnames-2.2.5.tgz#fb3801d453467649ef3603c7d61a02bd129bde6d"
+
 cli-boxes@^1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/cli-boxes/-/cli-boxes-1.0.0.tgz#4fa917c3e59c94a004cd61f8ee509da651687143"
@@ -8726,12 +8730,13 @@ react-error-overlay@^3.0.0:
   version "3.0.0"
   resolved "https://registry.yarnpkg.com/react-error-overlay/-/react-error-overlay-3.0.0.tgz#c2bc8f4d91f1375b3dad6d75265d51cd5eeaf655"
 
-react-form@2.11.0:
-  version "2.11.0"
-  resolved "https://registry.yarnpkg.com/react-form/-/react-form-2.11.0.tgz#c1695e4f8e9a5c77b946a1fea54c54ed85642a5c"
+react-form@2.12.0:
+  version "2.12.0"
+  resolved "https://registry.yarnpkg.com/react-form/-/react-form-2.12.0.tgz#4c2e51a5b5524c5d2c4451dfaa73fbfff0b58bd0"
   dependencies:
     babel-runtime "^6.26.0"
     circular-json "^0.4.0"
+    classnames "^2.2.5"
     prop-types "^15.5.10"
     react-redux "^5.0.6"
     redux "^3.7.2"

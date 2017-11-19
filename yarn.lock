@@ -4328,9 +4328,9 @@ gatsby-transformer-yaml@1.5.11:
     lodash "^4.17.4"
     unist-util-select "^1.5.0"
 
-gatsby@1.9.117:
-  version "1.9.117"
-  resolved "https://registry.yarnpkg.com/gatsby/-/gatsby-1.9.117.tgz#648a6a3f986e9cd16412551ac886ed6c1a796b37"
+gatsby@1.9.118:
+  version "1.9.118"
+  resolved "https://registry.yarnpkg.com/gatsby/-/gatsby-1.9.118.tgz#76d94faaa91f0ebe39fd2346f91a26146bff4009"
   dependencies:
     async "^2.1.2"
     babel-code-frame "^6.22.0"
@@ -6290,8 +6290,8 @@ kind-of@^5.0.0, kind-of@^5.0.2:
   resolved "https://registry.yarnpkg.com/kind-of/-/kind-of-5.1.0.tgz#729c91e2d857b7a419a1f9aa65685c4c33f5845d"
 
 kind-of@^6.0.0:
-  version "6.0.0"
-  resolved "https://registry.yarnpkg.com/kind-of/-/kind-of-6.0.0.tgz#3606e9e2fa960e7ddaa8898c03804e47e5d66644"
+  version "6.0.1"
+  resolved "https://registry.yarnpkg.com/kind-of/-/kind-of-6.0.1.tgz#4948e6263553ac3712fc44d305b77851d9e40ea4"
 
 latest-version@^2.0.0:
   version "2.0.0"

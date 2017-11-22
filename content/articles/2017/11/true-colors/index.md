@@ -10,7 +10,7 @@ announced her support for the besieged GOP tax package:
 
 "I have always supported the freedom to choose," Murkowski writes. "That is the
 fundamental reason why I opposed the Affordable Care Act from its inception, and
-also why I co-sponsored a bill to repeal the individual mandate tax as early as 2013, and that is why I support the repeal of that tax today."
+also why I co-sponsored a bill to repeal the individual mandate tax as early as 2013. And that is why I support the repeal of that tax today."
 
 Experts disagree when asked to consider how repealing the individual mandate tax would affect healthcare markets. Insurers claim the tax helps offset providing care to medically expensive populations, but recent analysis by Standard and Poor's (among other financial observers) indicates the tax may be not be working exactly as planned, and a repeal [may not measure up to our fears.][repeal-analysis] Still, [3 to 5 million individuals are expected to lose coverage by 2027.][s&p]
 

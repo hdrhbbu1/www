@@ -3,6 +3,12 @@ title: 'True Colors'
 layout: post
 draft: false 
 date: '2017-11-22'
+tags:
+  - healthcare
+  - allyship
+  - advocacy
+  - politics
+  - disability
 ---
 Writing in Tuesday's edition of the [Fairbanks Daily News-Miner][op-ed], Senator
 Lisa Murkowski, a crucial swing vote on both healthcare and tax reform,

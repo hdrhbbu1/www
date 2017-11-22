@@ -16,7 +16,7 @@ Experts disagree when asked to consider how repealing the individual mandate tax
 
 In June, I criticized the perspective that Murkowski, along with Senator Collins of Maine, deserved at least partial credit for saving healthcare for millions of Americans. [Twitter intellectuals branded the duo][stalwart] and [suggested we "give due credit to the stalwart women who refused to budge. This belongs to them."][belongs-to-them] I'm sure a few readers dismissed my opinion for hewing so closely to the narrative of a stereotypically angry disabled person.
 
-Dismissed or not, I was still correct.
+Dismissed or not, I was correct.
 
 According to the Joint Committee on Taxation, a nonpartisan effort of Congress established by the Revenue Act of 1926, the proposed tax structure would [financially harm many mid-to-low income families, while shuttling wealth upwards.][JCT] It does so through a myriad of tiny changes, including eliminating the [medical expense tax deduction,][METD] a critical provision for chronically ill folks like myself, who often find their claims denied by insurance and are left to pay out of pocket. Even after widespread criticism, this [controversial tenet remains in the Senate's version of the bill.][WaPoMETD] Add in the [multi-billion dollar reduction in funding for Medicaid][medicaid], and you have a bill concerning public health more than taxation.
 

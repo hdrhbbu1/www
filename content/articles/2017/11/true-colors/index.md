@@ -14,7 +14,7 @@ also why I co-sponsored a bill to repeal the individual mandate tax as early as 
 
 Experts disagree when asked to consider how repealing the individual mandate tax would affect healthcare markets. Insurers claim the tax helps offset providing care to medically expensive populations, but recent analysis by Standard and Poor's (among other financial observers) indicates the tax may be not be working exactly as planned, and a repeal [may not measure up to our fears.][repeal-analysis] Still, [3 to 5 million individuals are expected to lose coverage by 2027.][s&p]
 
-In June, I criticized the perspective that Murkowski, along with Senator Collins of Maine, deserved at least partial credit for saving healthcare for millions of Americans. [Twitter intellectuals branded the duo][stalwart] and [suggested we "give due credit to the stalwart women who refused to budge. This belongs to them."][belongs-to-them] I'm sure a few readers dismissed my opinion for hewing so closely to the narrative of a stereotypically angry disabled person.
+In July, I [criticized the perspective][stalwart] that Murkowski, along with Senator Collins of Maine, deserved at least partial credit for saving healthcare for millions of Americans. [Twitter intellectuals branded the duo][stalwart] and [suggested we "give due credit to the stalwart women who refused to budge. This belongs to them."][belongs-to-them] I'm sure a few readers dismissed my opinion for hewing so closely to the narrative of a stereotypically angry disabled person.
 
 Dismissed or not, I was correct.
 

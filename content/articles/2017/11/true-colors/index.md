@@ -12,7 +12,7 @@ tags:
 ---
 Writing in Tuesday's edition of the [Fairbanks Daily News-Miner][op-ed], Senator
 Lisa Murkowski, a crucial swing vote on both healthcare and tax reform,
-announced her support for the besieged GOP tax package:
+announced her support for the besieged GOP tax package.
 
 "I have always supported the freedom to choose," Murkowski writes. "That is the
 fundamental reason why I opposed the Affordable Care Act from its inception, and

@@ -74,7 +74,6 @@ export default class ContactForm extends Component {
             <p
               css={{ display: 'none' }}
               aria-hidden="true"
-              class="hidden"
             >
               <label>Don’t fill this out: <input name="bot-field"/></label>
             </p>

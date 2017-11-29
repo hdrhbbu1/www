@@ -1809,12 +1809,12 @@ caniuse-api@^1.5.2, caniuse-api@^1.5.3:
     lodash.uniq "^4.5.0"
 
 caniuse-db@^1.0.30000529, caniuse-db@^1.0.30000634, caniuse-db@^1.0.30000639:
-  version "1.0.30000772"
-  resolved "https://registry.yarnpkg.com/caniuse-db/-/caniuse-db-1.0.30000772.tgz#51aae891768286eade4a3d8319ea76d6a01b512b"
+  version "1.0.30000775"
+  resolved "https://registry.yarnpkg.com/caniuse-db/-/caniuse-db-1.0.30000775.tgz#04bccdd0214edf25b97f61a096609f7ad6904333"
 
 caniuse-lite@^1.0.30000770:
-  version "1.0.30000772"
-  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30000772.tgz#78129622cabfed7af1ff38b64ab680a6a0865420"
+  version "1.0.30000774"
+  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30000774.tgz#60f4ecf5d45980e7ac5901f03ce67f1ae08df59f"
 
 capture-stack-trace@^1.0.0:
   version "1.0.0"
@@ -4106,9 +4106,9 @@ gatsby-cli@1.1.24, gatsby-cli@^1.1.24:
     yargs "^8.0.2"
     yurnalist "^0.2.1"
 
-gatsby-link@1.6.28:
-  version "1.6.28"
-  resolved "https://registry.yarnpkg.com/gatsby-link/-/gatsby-link-1.6.28.tgz#12b799aa12663ae22f626195ab258e0ee5dddc9c"
+gatsby-link@1.6.30:
+  version "1.6.30"
+  resolved "https://registry.yarnpkg.com/gatsby-link/-/gatsby-link-1.6.30.tgz#d75a7ceaa9e138b5f4f64cc6dbf1e0632876bd09"
   dependencies:
     babel-runtime "^6.26.0"
     prop-types "^15.5.8"

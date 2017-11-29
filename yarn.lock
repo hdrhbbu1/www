@@ -1813,8 +1813,8 @@ caniuse-db@^1.0.30000529, caniuse-db@^1.0.30000634, caniuse-db@^1.0.30000639:
   resolved "https://registry.yarnpkg.com/caniuse-db/-/caniuse-db-1.0.30000775.tgz#04bccdd0214edf25b97f61a096609f7ad6904333"
 
 caniuse-lite@^1.0.30000770:
-  version "1.0.30000774"
-  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30000774.tgz#60f4ecf5d45980e7ac5901f03ce67f1ae08df59f"
+  version "1.0.30000775"
+  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30000775.tgz#74d27feddc47f3c84cfbcb130c3092a35ebc2de2"
 
 capture-stack-trace@^1.0.0:
   version "1.0.0"
@@ -9819,9 +9819,9 @@ sha.js@^2.4.0, sha.js@^2.4.8:
     inherits "^2.0.1"
     safe-buffer "^5.0.1"
 
-shaka-player@2.2.6:
-  version "2.2.6"
-  resolved "https://registry.yarnpkg.com/shaka-player/-/shaka-player-2.2.6.tgz#b80cedff957e6120eef3745640fa6f214c1c27a9"
+shaka-player@2.2.7:
+  version "2.2.7"
+  resolved "https://registry.yarnpkg.com/shaka-player/-/shaka-player-2.2.7.tgz#93dc569b6b22ed3653a4d764062c9956ac333583"
 
 shallowequal@^1.0.1:
   version "1.0.2"

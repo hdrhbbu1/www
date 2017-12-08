@@ -73,10 +73,10 @@
     "typography-plugin-code": "0.16.11"
   },
   "scripts": {
-    "start": "NODE_OPTIONS=--max-old-space-size=4096 gatsby develop",
+    "start": "gatsby develop",
     "lint": "eslint src/",
     "test": "jest",
-    "build": "NODE_OPTIONS=--max-old-space-size=4096 gatsby build",
+    "build": "gatsby build",
     "serve": "gatsby serve",
     "new": "node scripts/new.js",
     "check": "npm run lint && npm run test"

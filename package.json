@@ -5,7 +5,6 @@
   "main": "index.js",
   "dependencies": {},
   "devDependencies": {
-    "react-helmet": "5.2.0",
     "babel-core": "6.26.0",
     "babel-eslint": "8.0.3",
     "babel-jest": "21.2.0",
@@ -31,6 +30,7 @@
     "gatsby-plugin-glamor": "1.6.9",
     "gatsby-plugin-google-analytics": "1.0.13",
     "gatsby-plugin-manifest": "1.0.9",
+    "gatsby-plugin-netlify": "1.0.9",
     "gatsby-plugin-nprogress": "1.0.8",
     "gatsby-plugin-offline": "1.0.11",
     "gatsby-plugin-react-helmet": "2.0.2",
@@ -59,6 +59,7 @@
     "react": "16.2.0",
     "react-dom": "16.2.0",
     "react-form": "2.14.1",
+    "react-helmet": "5.2.0",
     "react-router-dom": "4.2.2",
     "react-router-scroll": "github:ytase/react-router-scroll#build",
     "react-test-renderer": "16.2.0",

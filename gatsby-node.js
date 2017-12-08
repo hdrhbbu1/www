@@ -48,6 +48,7 @@ exports.createPages = ({ graphql, boundActionCreators }) => {
               slug
             }
             frontmatter {
+              title
               layout
               tags
               topics
@@ -91,6 +92,19 @@ exports.createPages = ({ graphql, boundActionCreators }) => {
       const topics = get(edge, 'node.frontmatter.topics')
       if (topics) {
         topicPages = topicPages.concat(topics)
+      }
+
+      if (layout === 'post') {
+        const fromPath = ensureSlashes(
+          get(edge, 'node.frontmatter.title')
+        )
+
+        createRedirect({
+          fromPath,
+          isPermanent: true,
+          redirectInBrowser: false,
+          toPath: slug,
+        })
       }
     })
 

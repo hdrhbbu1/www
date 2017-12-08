@@ -96,11 +96,25 @@ exports.createPages = ({ graphql, boundActionCreators }) => {
 
       if (layout === 'post') {
         const fromPath = ensureSlashes(
-          get(edge, 'node.frontmatter.title')
+          slugify(get(edge, 'node.frontmatter.title'))
         )
 
         createRedirect({
           fromPath,
+          isPermanent: true,
+          redirectInBrowser: false,
+          toPath: slug,
+        })
+
+        createRedirect({
+          fromPath: `/notebook${fromPath}`,
+          isPermanent: true,
+          redirectInBrowser: false,
+          toPath: slug,
+        })
+
+        createRedirect({
+          fromPath: `/journal${fromPath}`,
           isPermanent: true,
           redirectInBrowser: false,
           toPath: slug,

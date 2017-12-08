@@ -34,7 +34,7 @@ const template = (l = 'page') => {
 }
 
 exports.createPages = ({ graphql, boundActionCreators }) => {
-  const { createPage } = boundActionCreators
+  const { createPage, createRedirect } = boundActionCreators
   return graphql(`
     {
       allMarkdownRemark(limit: 1000, filter: {
@@ -71,7 +71,7 @@ exports.createPages = ({ graphql, boundActionCreators }) => {
         return
       }
 
-      const show = get(edge, 'node.frontmatter.show') || ''
+      const show = get(edge, 'node.frontmatter.show') || undefined
 
       const { layout } = edge.node.frontmatter
       createPage({

@@ -11,7 +11,7 @@
     "babel-plugin-transform-object-rest-spread": "6.26.0",
     "babel-preset-env": "1.6.1",
     "babel-preset-react": "6.24.1",
-    "caniuse-db": "1.0.30000782",
+    "caniuse-db": "1.0.30000783",
     "date-fns": "1.29.0",
     "enzyme": "3.2.0",
     "eslint": "4.13.1",

@@ -1832,8 +1832,8 @@ caniuse-db@1.0.30000783, caniuse-db@^1.0.30000529, caniuse-db@^1.0.30000634, can
   resolved "https://registry.yarnpkg.com/caniuse-db/-/caniuse-db-1.0.30000783.tgz#16b30d47266a4f515cc69ae0316b670c9603cdbe"
 
 caniuse-lite@^1.0.30000780:
-  version "1.0.30000782"
-  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30000782.tgz#5b82b8c385f25348745c471ca51320afb1b7f254"
+  version "1.0.30000783"
+  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30000783.tgz#9b5499fb1b503d2345d12aa6b8612852f4276ffd"
 
 capture-stack-trace@^1.0.0:
   version "1.0.0"
@@ -8811,9 +8811,9 @@ react-error-overlay@^3.0.0:
   version "3.0.0"
   resolved "https://registry.yarnpkg.com/react-error-overlay/-/react-error-overlay-3.0.0.tgz#c2bc8f4d91f1375b3dad6d75265d51cd5eeaf655"
 
-react-form@2.14.1:
-  version "2.14.1"
-  resolved "https://registry.yarnpkg.com/react-form/-/react-form-2.14.1.tgz#2eb5299c929d2446f185f79a7d0b20f34c33c2ad"
+react-form@2.14.2:
+  version "2.14.2"
+  resolved "https://registry.yarnpkg.com/react-form/-/react-form-2.14.2.tgz#e61e73759eeb208d3716ccd1da060b127350519d"
   dependencies:
     babel-runtime "^6.26.0"
     circular-json "^0.4.0"

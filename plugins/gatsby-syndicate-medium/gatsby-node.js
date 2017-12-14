@@ -26,13 +26,15 @@ async function onPostBuild({ graphql }, options = {}) {
 
   for (p of posts) {
     const requestOptions = {
+      method: 'POST',
+      url: urlFor(id),
       data: p,
       json: true,
       headers: {
         Authorization: `Bearer ${token}`,
       },
     }
-    await axios.post(urlFor(id), requestOptions)
+    await axios(requestOptions)
   }
 
   return Promise.resolve()

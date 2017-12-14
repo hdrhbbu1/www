@@ -107,6 +107,13 @@ module.exports = {
         ),
       },
     },
+    {
+      resolve: 'gatsby-syndicate-medium',
+      options: {
+        id: '1d116442d3a58bf593ac389d692e6d27f8298874b80d48f4d2a7be7ec489586c4',
+        token: process.env.MEDIUM_TOKEN,
+      },
+    },
     `gatsby-plugin-sitemap`,
     'gatsby-plugin-netlify',
   ],

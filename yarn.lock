@@ -4205,9 +4205,9 @@ gatsby-plugin-manifest@1.0.11:
     babel-runtime "^6.26.0"
     bluebird "^3.5.0"
 
-gatsby-plugin-netlify@1.0.11:
-  version "1.0.11"
-  resolved "https://registry.yarnpkg.com/gatsby-plugin-netlify/-/gatsby-plugin-netlify-1.0.11.tgz#2e02177e44f70374623654aeb19c4fb42260227b"
+gatsby-plugin-netlify@1.0.12:
+  version "1.0.12"
+  resolved "https://registry.yarnpkg.com/gatsby-plugin-netlify/-/gatsby-plugin-netlify-1.0.12.tgz#bf6e4d5fe1bd60a5e6c3b1a2ed02a9a805be61ef"
   dependencies:
     babel-runtime "^6.26.0"
     fs-extra "^4.0.2"
@@ -4243,9 +4243,9 @@ gatsby-plugin-react-next@1.0.6:
     react "^16.0.0"
     react-dom "^16.0.0"
 
-gatsby-plugin-sharp@1.6.23, gatsby-plugin-sharp@^1.6.23:
-  version "1.6.23"
-  resolved "https://registry.yarnpkg.com/gatsby-plugin-sharp/-/gatsby-plugin-sharp-1.6.23.tgz#6f53013ee72a6b4613587ec07485cffc18e40e9b"
+gatsby-plugin-sharp@1.6.24, gatsby-plugin-sharp@^1.6.24:
+  version "1.6.24"
+  resolved "https://registry.yarnpkg.com/gatsby-plugin-sharp/-/gatsby-plugin-sharp-1.6.24.tgz#f885a384b222f655534e45788a99863a038bf107"
   dependencies:
     async "^2.1.2"
     babel-runtime "^6.26.0"
@@ -4294,13 +4294,13 @@ gatsby-remark-copy-linked-files@1.5.23:
     path-is-inside "^1.0.2"
     unist-util-visit "^1.1.1"
 
-gatsby-remark-images@1.5.35:
-  version "1.5.35"
-  resolved "https://registry.yarnpkg.com/gatsby-remark-images/-/gatsby-remark-images-1.5.35.tgz#141786c33129538f4a560389f94d1f902c66872e"
+gatsby-remark-images@1.5.36:
+  version "1.5.36"
+  resolved "https://registry.yarnpkg.com/gatsby-remark-images/-/gatsby-remark-images-1.5.36.tgz#12920b1c1969d519befd4c661201c28e30a896a8"
   dependencies:
     babel-runtime "^6.26.0"
     cheerio "^1.0.0-rc.2"
-    gatsby-plugin-sharp "^1.6.23"
+    gatsby-plugin-sharp "^1.6.24"
     is-relative-url "^2.0.0"
     lodash "^4.17.4"
     slash "^1.0.0"
@@ -4390,9 +4390,9 @@ gatsby-transformer-yaml@1.5.14:
     lodash "^4.17.4"
     unist-util-select "^1.5.0"
 
-gatsby@1.9.134:
-  version "1.9.134"
-  resolved "https://registry.yarnpkg.com/gatsby/-/gatsby-1.9.134.tgz#fe6c088151f3442e089d3b81238a5c56827fa578"
+gatsby@1.9.135:
+  version "1.9.135"
+  resolved "https://registry.yarnpkg.com/gatsby/-/gatsby-1.9.135.tgz#7ab1c684c8556cb4324b4888d77efd1a919fc4e0"
   dependencies:
     async "^2.1.2"
     babel-code-frame "^6.22.0"
@@ -11678,8 +11678,8 @@ xdg-basedir@^3.0.0:
   resolved "https://registry.yarnpkg.com/xdg-basedir/-/xdg-basedir-3.0.0.tgz#496b2cc109eca8dbacfe2dc72b603c17c5870ad4"
 
 xhr@^2.0.1:
-  version "2.4.0"
-  resolved "https://registry.yarnpkg.com/xhr/-/xhr-2.4.0.tgz#e16e66a45f869861eeefab416d5eff722dc40993"
+  version "2.4.1"
+  resolved "https://registry.yarnpkg.com/xhr/-/xhr-2.4.1.tgz#ba982cced205ae5eec387169ac9dc77ca4853d38"
   dependencies:
     global "~4.3.0"
     is-function "^1.0.1"

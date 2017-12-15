@@ -4390,9 +4390,9 @@ gatsby-transformer-yaml@1.5.14:
     lodash "^4.17.4"
     unist-util-select "^1.5.0"
 
-gatsby@1.9.135:
-  version "1.9.135"
-  resolved "https://registry.yarnpkg.com/gatsby/-/gatsby-1.9.135.tgz#7ab1c684c8556cb4324b4888d77efd1a919fc4e0"
+gatsby@1.9.136:
+  version "1.9.136"
+  resolved "https://registry.yarnpkg.com/gatsby/-/gatsby-1.9.136.tgz#ff36e2a9903d63fc4f98fc026d0073754b9578df"
   dependencies:
     async "^2.1.2"
     babel-code-frame "^6.22.0"

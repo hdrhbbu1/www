@@ -47,7 +47,7 @@
     "gatsby-transformer-remark": "1.7.25",
     "gatsby-transformer-sharp": "1.6.16",
     "gatsby-transformer-yaml": "1.5.14",
-    "howler": "2.0.5",
+    "howler": "2.0.6",
     "inquirer": "4.0.1",
     "isomorphic-fetch": "2.2.1",
     "jest": "21.2.1",

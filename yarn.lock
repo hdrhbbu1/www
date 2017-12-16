@@ -5126,9 +5126,9 @@ hosted-git-info@^2.1.4, hosted-git-info@^2.5.0:
   version "2.5.0"
   resolved "https://registry.yarnpkg.com/hosted-git-info/-/hosted-git-info-2.5.0.tgz#6d60e34b3abbc8313062c3b798ef8d901a07af3c"
 
-howler@2.0.5:
-  version "2.0.5"
-  resolved "https://registry.yarnpkg.com/howler/-/howler-2.0.5.tgz#3d7979f4af0bdc1bdfd09a9ab1a502fed38aecd9"
+howler@2.0.6:
+  version "2.0.6"
+  resolved "https://registry.yarnpkg.com/howler/-/howler-2.0.6.tgz#bfcaa8c0a0c04b463fddab8cca73f44a9c313ebf"
 
 html-comment-regex@^1.1.0:
   version "1.1.1"

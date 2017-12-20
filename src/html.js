@@ -31,6 +31,8 @@ export default class HTML extends Component {
           {profiles.map((p, i) => (
             <link rel="me" href={p} key={`webmention-profile-${i}`}/>
           ))}
+          <link rel="pingback" href="https://webmention.io/nicholaswyoung.com/xmlrpc"/>
+          <link rel="webmention" href="https://webmention.io/nicholaswyoung.com/webmention"/>
           <TypographyStyle typography={typography}/>
           {css}
           {this.props.headComponents}

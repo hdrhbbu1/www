@@ -13,6 +13,11 @@ if (process.env.NODE_ENV === 'production') {
   )
 }
 
+const profiles = [
+  'https://twitter.com/nicholaswyoung',
+  'https://github.com/nicholaswyoung',
+]
+
 export default class HTML extends Component {
   render() {
     return (
@@ -22,6 +27,10 @@ export default class HTML extends Component {
           <meta httpEquiv="X-UA-Compatible" content="IE=edge" />
           <meta name="viewport" content="width=device-width, initial-scale=1.0 maximum-scale=5.0" />
           <link rel="author" href="/humans.txt"/>
+          <link rel="pgpkey" href="/pgp.pub.txt"/>
+          {profiles.map((p, i) => (
+            <link rel="me" href={p} key={`webmention-profile-${i}`}/>
+          ))}
           <TypographyStyle typography={typography}/>
           {css}
           {this.props.headComponents}

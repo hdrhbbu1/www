@@ -75,7 +75,10 @@ export default class PostTemplate extends Component {
               content: keywords,
             }
           ]}
-        />
+        >
+          <link rel="pingback" href="https://webmention.io/nicholaswyoung.com/xmlrpc"/>
+          <link rel="webmention" href="https://webmention.io/nicholaswyoung.com/webmention"/>
+        </Helmet>
         <div>
           <Link
             to="/"

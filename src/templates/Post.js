@@ -73,7 +73,7 @@ export default class PostTemplate extends Component {
             {
               name: 'keywords',
               content: keywords,
-            }
+            },
           ]}
         >
           <link rel="pingback" href="https://webmention.io/nicholaswyoung.com/xmlrpc"/>

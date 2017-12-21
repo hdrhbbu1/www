@@ -22,6 +22,7 @@ export default class IndexRoute extends Component {
       <Container>
         <Helmet
           title={byline}
+          description={`The official website of Nicholas Young. ${description}`}
         />
         <SiteSidebar
           title={title}

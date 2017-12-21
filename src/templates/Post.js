@@ -120,23 +120,23 @@ export default class PostTemplate extends Component {
               marginLeft: 'auto',
             }}
           >
-            <Link
-              to={slug}
+            <h1
               css={{
-                textDecoration: 'none',
+                fontSize: '2.8em',
+                '@media(max-width: 900px)': {
+                  fontSize: '2.2em',
+                },
               }}
             >
-              <h1
+              <Link
+                to={slug}
                 css={{
-                  fontSize: '2.8em',
-                  '@media(max-width: 900px)': {
-                    fontSize: '2.2em',
-                  },
+                  textDecoration: 'none',
                 }}
               >
                 {title}
-              </h1>
-            </Link>
+              </Link>
+            </h1>
             <div
               css={{
                 marginTop: rhythm(2),

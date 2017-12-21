@@ -1,39 +1,43 @@
+import 'isomorphic-fetch'
 import React, { Component } from 'react'
 
 export default class SubstrateForm extends Component {
+  static defaultProps = {
+    preventDefault: true,
+  }
+
   state = {
     values: {},
     errors: {},
     success: false,
   }
 
-  validate = (nextState) => {
-    const errors = {}
-
-    if (!nextState.email) {
-      errors.email = 'Please provide your email'
-    }
-    if (!nextState.name) {
-      errors.name = 'Please provide your name'
-    }
-
-    return errors
-  }
-
   handleChange = (name: string) => (e) => {
-    const nextState = { values: { [name]: e.target.name } }
-    const errors = this.validate(nextState)
+    const { errors } = this.state
+    const nextState = {}
 
-    if (Object.keys(errors).length > 0) {
-      nextState.errors = errors
+    if (e.target.value) {
+      nextState.values = { [name]: e.target.value }
+
+      if (errors[name]) {
+        nextState.errors = { [name]: undefined }
+      }
     }
 
     this.setState(nextState)
   }
 
   handleSubmit = (e) => {
-    e.preventDefault()
-    const { name, email } = this.state.values
+    const { preventDefault } = this.props
+
+    if (preventDefault) {
+      e.preventDefault()
+    }
+
+    const {
+      errors,
+      values: { name, email },
+    } = this.state
   }
 
   render() {
@@ -83,7 +87,7 @@ export default class SubstrateForm extends Component {
               </label>
               <input
                 name="name"
-                handleChange={this.handleChange('name')}
+                onChange={this.handleChange('name')}
                 css={{
                   background: 'transparent',
                   border: 'none',
@@ -112,9 +116,10 @@ export default class SubstrateForm extends Component {
               <input
                 type="email"
                 name="email"
-                handleChange={this.handleChange('email')}
+                onChange={this.handleChange('email')}
                 css={{
                   background: 'transparent',
+                  color: '#FFF',
                   border: 'none',
                   borderBottom: '1px #999 solid',
                 }}

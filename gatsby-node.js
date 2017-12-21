@@ -10,9 +10,14 @@ const pageTemplate = path.resolve('src/templates/Page.js')
 const tagTemplate = path.resolve('src/templates/Tag.js')
 const topicTemplate = path.resolve('src/templates/Topic.js')
 const filmTemplate = path.resolve('src/templates/Film.js')
+const substrateTemplate = path.resolve('src/templates/Substrate.js')
 
 const template = (l = 'page') => {
   l = l.toLowerCase()
+
+  if (l === 'substrate') {
+    return substrateTemplate
+  }
 
   if (l === 'post') {
     return postTemplate
@@ -158,7 +163,7 @@ exports.onCreateNode = ({ node, boundActionCreators, getNode }) => {
   if (node.internal.type === 'MarkdownRemark') {
     const fileNode = getNode(node.parent)
 
-    if (fileNode.name.toLowerCase() === 'readme') {
+    if (fileNode.name.toLowerCase().indexOf('readme') !== -1) {
       return
     }
 
@@ -182,6 +187,10 @@ exports.onCreateNode = ({ node, boundActionCreators, getNode }) => {
 
     if (node.frontmatter.layout === 'post') {
       slug = [format(node.frontmatter.date, 'YYYY/MM'), slug].join('/')
+    }
+
+    if (fileNode.sourceInstanceName === 'substrate') {
+      slug = `substrate/${format(node.frontmatter.date, 'YYYY/MM')}/${slugify(node.frontmatter.title)}`
     }
 
     if (slug) {

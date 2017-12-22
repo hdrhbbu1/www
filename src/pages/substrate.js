@@ -29,6 +29,9 @@ const Headline = styled.h1`
   @media(max-width: 1000px) {
     font-size: 4em;
   }
+  @media(max-width: 800px) {
+    font-size: 3em;
+  }
 `
 
 export default class Substrate extends Component {
@@ -117,9 +120,7 @@ export default class Substrate extends Component {
                 fontFamily: 'Open Sans, sans-serif',
               }}
             >
-              A weekly newsletter charting the winds of futurism,
-              accessibility, and technology. Together, we build a
-              better world.
+              {description}
             </p>
             <SubstrateForm/>
           </div>

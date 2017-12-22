@@ -31,6 +31,9 @@ const SubstrateForm = () => (
             justifyContent: 'space-between',
             fontFamily: '"Open Sans", sans-serif',
             maxWidth: '500px',
+            '@media(max-width: 800px)': {
+              flexDirection: 'column',
+            },
           }}
           onSubmit={handleSubmit}
         >
@@ -38,6 +41,9 @@ const SubstrateForm = () => (
             css={{
               display: 'flex',
               flexDirection: 'column',
+              '@media(max-width: 800px)': {
+                marginBottom: rhythm(1),
+              },
             }}
           >
             <label
@@ -63,6 +69,9 @@ const SubstrateForm = () => (
             css={{
               display: 'flex',
               flexDirection: 'column',
+              '@media(max-width: 800px)': {
+                marginBottom: rhythm(1.5),
+              },
             }}
           >
             <label
@@ -105,7 +114,7 @@ function validate({ name, email }) {
   const emailValid = /.+@.+\..+/.test(email)
   const emailTest = e => {
     if (!e) {
-      return 'May we have your email?'
+      return 'May I have your email?'
     }
 
     if (!emailValid) {
@@ -116,7 +125,7 @@ function validate({ name, email }) {
   }
 
   return {
-    name: !name ? 'May we ask your name?' : undefined,
+    name: !name ? 'Can I ask your name?' : undefined,
     email: emailTest(email),
   }
 }

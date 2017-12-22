@@ -26,6 +26,10 @@ const Headline = styled.h1`
   &:before {
     clip: rect(44px, 450px, 56px, 0);
   }
+
+  @media(max-width: 1000px) {
+    font-size: 4em;
+  }
 `
 
 export default class Substrate extends Component {

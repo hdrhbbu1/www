@@ -37,6 +37,13 @@ module.exports = {
         name: 'films',
       },
     },
+    {
+      resolve: 'gatsby-source-filesystem',
+      options: {
+        path: `${__dirname}/substrate`,
+        name: 'substrate',
+      },
+    },
     'gatsby-transformer-sharp',
     {
       resolve: 'gatsby-transformer-remark',

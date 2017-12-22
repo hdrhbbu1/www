@@ -1,5 +1,4 @@
 import React, { Component } from 'react'
-import Helmet from 'react-helmet'
 import Link from 'gatsby-link'
 
 import { rhythm } from '../util/typography'
@@ -8,7 +7,6 @@ export default class SubstrateTemplate extends Component {
   render() {
     const {
       fields: { slug },
-      excerpt,
       html,
       frontmatter: { title, rawDate, date },
     } = this.props.data.markdownRemark

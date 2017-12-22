@@ -102,7 +102,7 @@ const SubstrateForm = () => (
 )
 
 function validate({ name, email }) {
-  const emailValid =  /.+@.+\..+/.test(email)
+  const emailValid = /.+@.+\..+/.test(email)
   const emailTest = e => {
     if (!e) {
       return 'May we have your email?'

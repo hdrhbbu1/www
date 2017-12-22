@@ -1,20 +1,19 @@
-import React, { Component } from 'react'
+import { Component } from 'react'
 import PropTypes from 'prop-types'
 
 export type Props = {
   id: string,
   reset: bool,
   preventDefault: bool,
-  css?:  object,
   validate?: Function,
-  context?: object,
+  context?: Object,
 }
 
 export type State = {
   waiting: bool,
   success: bool,
-  values: object,
-  errors: object,
+  values: Object,
+  errors: Object,
 }
 
 const hasErrors = (errors) => {
@@ -110,7 +109,7 @@ export default class Form extends Component<Props, State> {
       this.onFailure(error)
     })
   }
-  
+
   /**
    * handleUpdate updates state on field update.
    */
@@ -121,7 +120,7 @@ export default class Form extends Component<Props, State> {
         values: {
           ...values,
           [e.target.name]: e.target.value,
-        }
+        },
       }
 
       if (typeof errors[e.target.name] !== 'undefined') {
@@ -165,7 +164,7 @@ export default class Form extends Component<Props, State> {
 
   render() {
     console.log(this.state)
-    const { css, children, render } = this.props
+    const { children, render } = this.props
 
     if (children) {
       return children(this.api)

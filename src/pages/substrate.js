@@ -1,6 +1,5 @@
 import React, { Component } from 'react'
 import Helmet from 'react-helmet'
-import Link from 'gatsby-link'
 import styled from 'styled-components'
 
 import { rhythm } from '../util/typography'
@@ -34,13 +33,10 @@ const Headline = styled.h1`
 
 export default class Substrate extends Component {
   render() {
-    const editions = this.props.data.editions.edges
-      .map(e => e.node)
-
     const { siteUrl } = this.props.data.site.siteMetadata
     const url = toAbsolute(siteUrl, '/substrate/')
     const feature = toAbsolute(siteUrl, '/substrate.jpg')
-    
+
     const title = 'Substrate'
     const description = 'A weekly newsletter charting the winds of futurism, accessibility, and technology. Together we build a better world.'
     const keywords = ''

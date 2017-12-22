@@ -99,7 +99,7 @@ export default class Form extends Component<Props, State> {
 
     this.onSend()
 
-    fetch(`//madmimi.com/signups/subscribe/${id}`, {
+    fetch(`https://madmimi.com/signups/subscribe/${id}`, {
       method: 'POST',
       mode: 'no-cors',
       body,
@@ -163,7 +163,6 @@ export default class Form extends Component<Props, State> {
   }
 
   render() {
-    console.log(this.state)
     const { children, render } = this.props
 
     if (children) {

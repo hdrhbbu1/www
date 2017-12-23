@@ -5,7 +5,6 @@ import Link from 'gatsby-link'
 import './Post.css'
 import { rhythm } from '../util/typography'
 import TagList from '../components/TagList'
-import EmailRegistration from '../components/EmailRegistration'
 import { toAbsolute } from '../util/helpers'
 
 export default class PostTemplate extends Component {
@@ -166,7 +165,6 @@ export default class PostTemplate extends Component {
             marginBottom: rhythm(2),
           }}
         />
-        <EmailRegistration/>
         <div
           css={{
             width: '70%',

@@ -102,7 +102,7 @@ const SubstrateForm = () => (
               cursor: 'pointer',
             }}
           >
-            Register
+            Subscribe
           </button>
         </form>
       )

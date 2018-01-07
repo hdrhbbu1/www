@@ -13,7 +13,16 @@ I'm an educator: I advise clients around the globe, speak to almost any audience
 No. Whether the price paid is a coffee, beer, entree, or night out on the town, my answer remains unchanged.
 
 It's not that I'm stingy with time or knowledge &mdash; anyone who knows me will, I hope, say otherwise. But it's arrogant to assume my years of hard-won knowledge can be yours for so little. And while it may be difficult to believe, this answer isn't fueled by arrogance. Every day, I wake up aiming to procure useful knowledge, then immediately distribute it to my clients and friends.
-
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-2222008371700158"
+     data-ad-slot="6074071537"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 My central concern is how the question itself assumes a right to whatever knowledge I possess. This assumption transforms me from a human being into a public file cabinet of available knowledge, where anyone can reach in, riffle through, pull out the required information, and discard the rest. It's degrading, mentally taxing, and often, leaves me in a creative valley. I doubt that I'm alone.
  
 You may reply with an unoriginal catchphrase, citing that creative work is [a two-way street](https://hbr.org/2015/01/the-art-of-giving-and-receiving-advice). It is, but mental energy aside, your session may not fit into my schedule. If I have a choice to pour myself into [writing](http://nicholaswyoung.com), a [consulting project](http://untilnow.co), or another task that pushes me closer to creative happiness and work-life equilibrium &mdash; I have an obligation to decline your proposed meeting. Passion drives my hustle, and that's something you may never fully comprehend.

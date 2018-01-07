@@ -20,7 +20,16 @@ Most words, I fear, were skimmed or disregarded; even by individuals who had off
 At first, I asked myself what I'd done to push them away, but quickly uncovered a more pressing question: *why do I feel compelled to argue the value of my life in public?*
 
 ---
-
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-2222008371700158"
+     data-ad-slot="6074071537"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 My experience with the American healthcare complex varies wildly from the midline. For instance, when I entered treatment for a locking knee in late 2016, I hoped the constant excruciating pain and my inability to walk would guide doctors to a quick solution. Instead, I was booked for multiple office visits, [subjected to many years worth of radiation,](https://www.radiologyinfo.org/en/info.cfm?pg=safety-xray) and eventually, offered a slot on the surgical calendar in February.
 
 I suspect that doctors would take reports of discomfort far more seriously if my body wasn't [broken by design.](/tags/ehlers-danlos-syndrome/)

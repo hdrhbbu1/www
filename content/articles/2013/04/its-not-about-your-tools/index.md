@@ -16,7 +16,16 @@ The technical elite - web developers, designers, video editors, and other genera
 Tonight on the train, I encountered this same madness. Many close friends know that I converted my video editing suite from Final Cut 7 to Final Cut X. As a storyteller, the new version exposes common functionality that I used everyday in an intituive way, instead of hiding it behind twenty-one menu options. Does that mean it's the ideal editing suite for everyone? Absolutely not, but I'm able to produce good work with it.
 
 As we rode on, I discussed this somewhat-recent development with my friend, when my attention was rudely yanked away by an animated gentleman behind him. In the minutes that followed, our CTA video prophet extolled the virtues of previous nonlinear editing platforms, and did everything he could to disparage my use of Final Cut Pro X. As we exited the train, he said, "if I was the client, I wouldn't pay shit for anything edited in Final Cut Pro X." "If my five year old can learn it, nobody else using it is a true _professional_."
-
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-2222008371700158"
+     data-ad-slot="6074071537"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 I walked home, thinking hard about his commentary. In the past, I've fought in holy wars of one system versus another, and mostly seen the winning side. I don't think I would've ever insulted a stranger for their choices, but I'm also very opinionated, and it's hard to recall what I've said, or worse, predict what I might say in the future.
 
 Earlier today, I (link: https://twitter.com/nicholaswyoung/status/319501923348795393 text: commented negatively) on Adobe Dreamweaver's messy HTML output. It's a simple product, intended to help beginners learn the basics of website design, but it teaches them the wrong concepts. The markup it spits out is unintelligible, and in many cases, incompatible with modern browsers. This is an example where my tool choice directly affects the quality of my work, and clients should call me out if I provide substandard service.

@@ -28,7 +28,16 @@ The photo above, taken at a local quick service restaurant, is what I consider t
 To curb that frustration, we prefer establishments that provide well-maintained restrooms *including changing tables.* This is a requirement to earn my business; because while our family often dines together, the day is coming when Sloan will join me for an errand sans my wife. I won't have her assistance then.
 
 This conversation is [broken](http://www.huffingtonpost.com/entry/dads-letter-to-macys-demands-a-changing-table-in-mens-restroom_us_56853e8de4b0b958f65b792f) [record](http://www.slate.com/blogs/xx_factor/2016/06/22/the_babies_act_would_finally_make_it_easier_for_dads_to_find_changing_tables.html). Many large corporations know the request well, but smaller operations should hear the message too.
-
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-2222008371700158"
+     data-ad-slot="6074071537"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 We, Dads of the world, demand a place to care for our children while in your place of business. If your facilities are dirty or in a state of disrepair, we will go elsewhere.
 
 ---

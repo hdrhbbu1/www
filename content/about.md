@@ -13,7 +13,16 @@ I'm especially grateful to have experienced JavaScript's rebirth (thanks to Node
 which allowed me to contribute fairly heavily to the [open source
 ecosystem](https://www.npmjs.com/~nicholaswyoung). (Even after 15 years as a
 professional engineer, JavaScript continues to fascinate.)
-
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-2222008371700158"
+     data-ad-slot="6074071537"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 I have been active as a broadcaster since 2004, creating many podcasts,
 appearing on others, and occasionally guesting on the terrestrial radio dial.
 In 2013, I founded [The

@@ -16,7 +16,16 @@ In a way, NPR is a porthole to my past, when hosts and disc jockeys cared about 
 My favorite hosts became icons, pillars of creativity for an impressionable young boy. They stood for the love of music, and searched tirelessly for the perfect segue. When done properly, radio is a ride of emotions, not unlike a rollercoaster. Every track should flow seamlessly into the next, glued together with descriptive voiceovers. Your jockey is a conductor, hovering over a board filled with knobs, buttons, and faders.
 
 My time on the FM dial was severely limited. I didn't go to broadcasting school, nor did I train as a voiceover artist, so my access to this wonderful medium wasn't as free as I hoped. I spent a bit of time in several radio control rooms, and did my fair share of broadcasting on the dial, but the long career I wished unendingly for never materialized. At least, not until 2004.
-
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-2222008371700158"
+     data-ad-slot="6074071537"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 2004 was a year full of mysterious power, as the internet speeds doubled in my small town. Suddenly, I could access media online at 1-megabit-per-second &mdash; which is slow, yes, by today's standards, but was blisteringly quick for me &mdash; and began downloading radio programs online. Media wizards of the age called these things *podcasts*, an odd conjunction of Apple's popular *iPod* media player, and the traditional *broadcast*. There were talk, music, and comedy programs all for the taking, and by the gigabyte, I did.
 
 Soon, I began producing my own program, a short-lived music/comedy show. My co-host, a former terrestrial broadcaster, and I only produced several episodes, but our short-lived program garnered a solid 10,000 listeners each week. While that show died an early death, the seed was planted. Podcasting has been an integral part of my creative output since.

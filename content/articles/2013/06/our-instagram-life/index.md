@@ -15,7 +15,16 @@ Whenever I board the train, I'm surrounded by passengers who crane their neck do
 This behavior is universally recognized, repeating itself daily without fail, and seemingly controlled by a greater mind. We behave as the program instructs: peering through dark portholes into the lives of our virtual friends; seeking approval in the form of likes, retweets, and droning commentary. It's dangerous.
 
 We complain that the world moves too quickly, and about our lack of creative fulfillment &mdash; but the problem is us, not the world. As a society, we lied to ourselves, inventing shiny new ways to document our life. In reality, they clutter our minds, and sometimes, prevent us from creating memories at all.
-
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-2222008371700158"
+     data-ad-slot="6074071537"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 As your son throws his first ball, would you rather watch or fumble with your phone? When a performer walks on stage, is it better to bathe in the moment, or shoot overexposed images that you will soon trash? Is a train commute an opportunity to reset your mind, and focus on subconcious creative tasks, or thumb through and _like_ content because you're strangely compelled to?
 
 Board the train, and stare out the window as the city rushes past. Breathe. Listen. Be alive. If, for every waking moment, I tap busily at my phone, I risk missing the magic of life itself.

@@ -16,7 +16,16 @@ Launched in 2004, Feedburner was a once popular tool that re-formatted often mes
 All was well until 2007, when the service was acquired by Google. For the uninitiated, Google has a terrible habit of purchasing products and shutting them down &mdash; sometimes after integrating the functionality into their in-house products, and other times not. Since the acquisition, Google hasn't tended to Feedburner as I believe it should, so [the May 2011 announcement](http://googlecode.blogspot.com/2011/05/spring-cleaning-for-some-of-our-apis.html) depreciating Feedburner's APIs was expected.
 
 Many content creators, myself included, believe the end of Feedburner's usefulness is close. Google has killed their [_AdSense for Feeds_](http://techcrunch.com/2012/09/28/the-feedburner-deathwatch-continues-google-kills-adsense-for-feeds/) product, their final income stream related to Feedburner. Many of my friends who are well-informed, some of them more so than I, believe the product has only months to live.
-
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-2222008371700158"
+     data-ad-slot="6074071537"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 With the iminent demise of this popular distribution channel, podcasters are rightfully concerned. Thankfully, it's a fairly simple process to migrate away from Feedburner, and take control of your RSS Feed. Wordpress, and other blogging or podcasting platforms have improved the quality of the rendered XML markup, so there really isn't a reason to keep a third party platform in your workflow. It's the ages-old maxim of the internet: if you create the content, you deserve to be in control.
 
 ## Burned No More: A Case Study

@@ -28,7 +28,16 @@ moment, and my disability came between us.
 
 On Friday, I came to grips with the fact that I will likely need to purchase a
 wheelchair of my own, just prior to being dismissed from the interview process.
-
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-2222008371700158"
+     data-ad-slot="6074071537"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 My posts concerning daily life with Ehlers-Danlos Syndrome have always breathed
 a confessional aire, birthed as whispers before the dawn; a kind of pain-riddled
 poetry attempting to explain why my body was degrading so rapidly. The issue now

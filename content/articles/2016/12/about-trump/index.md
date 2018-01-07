@@ -28,7 +28,16 @@ Immediately, I began advocating against policies from the incoming administratio
 If you’ve been silent so far, remember this: as I wait for unknown healthcare reforms, your emotions are irrelevant. I’ll remember your silence and inaction. While my friends are forced to register with the government because of their birthplace or religious ideology, I’ll remember your silence and inaction. I’ll remember that you questioned Trump when it was safe, but quickly fell in line once he gained power.
 
 I’ll remember that you aren’t a patriot; that your speeches are just marketing too.
-
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-2222008371700158"
+     data-ad-slot="6074071537"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 As a technologist, I have pledged to stand in opposition to this administration, not because I have a partisan thorn in my side. Instead, my choice is human: my smart, witty, creative friends (many of whom are immigrants) deserve a full, happy life, unimpeded by our government. All technologists should prepare themselves to uphold the pledge, should we be asked. If history is any indicator, we may be called to duty. Soberly considering our position now, away from the struggle, is a very important step.
 
 The next four years will be difficult. Liberties are at stake, and unless you are willing to step up and advocate as needed, you will be complicit in the crimes. I have declared my position. Now, those of you who voted Republican but disapprove of Trump have a crucial decision. To advocate for those likely affected by the incoming administration, or stand by while history records your indifference.

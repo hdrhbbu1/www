@@ -25,7 +25,16 @@ No, this time I would choose a laptop based solely on the tasks I could, or coul
 **1. Run multiple operating systems.**
 
 Frankly, I don't care what my main OS is. Now, as in times past, I juggle at least two: OS-X El Capitan and a few flavors of Ubuntu Linux. In the future, I can see myself deploying on CoreOS. It's important that my base OS serve as a powerful foundation for virtualizing others.
-
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-2222008371700158"
+     data-ad-slot="6074071537"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 Almost every platform passed this test with flying colors. It was during this phase when I began looking at a classic, indestructible laptop: the Lenovo Thinkpad.
 
 **2. Develop for all major platforms.**

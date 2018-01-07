@@ -16,7 +16,16 @@ When the unit arrived, I hurried to unbox it, install the hard drives I purchase
 Unfortunately, it wasn't that easy. Two months after purchase, I stepped into the studio and found all lights on the unit flashing red. Upon further inspection via the Drobo Dashboard, I discovered that all of my drives were corrupt. For most, this event would inspire panic, but given the marketing hype, I assumed a solution wasn't that far ahead.
 
 I emailed Drobo's customer care department, attached my diagnostic file, and awaited their swift and clear response. The unit was only a few months old, and of course, covered under warranty. What I received was a baffling and accusatory email, insisting I had improperly set up the unit: by allowing the power source to die, the disk corruption was clearly user error. Never did the technical support team offer to assist or troubleshoot any further.
-
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-2222008371700158"
+     data-ad-slot="6074071537"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 But for a moment, let's reverse to cover a few important topics. First, the Drobo was connected to a brand-new APC Uninterruptible Power Supply (UPS), again, bought specifically to power my storage solution. Second, according to the Drobo's internal logs, power to the unit was never interrupted, and yet, their team continued to insist that it was. This assertion, that the customer is idiotic and always at fault was frustrating to say the least. I asked to return the unit, and was met with denials stronger than I've ever experienced from any other established company. Little did I know that as I struggled with their team, several other influential digital creators ([Scott Kelby](http://scottkelby.com/2012/im-done-with-drobo/), to name one) were also fighting for their data integrity and being extorted with $300 data recovery fees.
 
 After many emails, phone calls, and aggravated tweets, the Drobo team finally agreed to help. They suggested I purchase all new drives (to replace the barely used ones), and create a block level clone of all affected hard drives. Over the course of a week, most of which was spent monitoring the carefully orchestrated copying process, I created a perfect duplicate of every corrupted drive and installed them into the Drobo. At last, my $800 storage device was functioning properly again.

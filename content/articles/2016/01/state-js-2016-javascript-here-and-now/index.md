@@ -26,7 +26,16 @@ If your job or hobby routinely involves crafting programs for the web, it's like
 Perhaps, like some, you do more than tolerate JavaScript. Personally, I love it. The dynamism of this loosely typed language allows for more possible flexibility than almost any other platform in the modern era, but this power also comes with a equal risk. And since the language is extraordinarily dynamic (and let's be real, at this point, a required skill for every developer) each author or company has a style guide of their own.
 
 ESLint, the closest thing we have to a universally accepted standard of best practices, is customizable. We use this ability for both good and evil: if you look at other tools (like `gofmt`, the de-facto [style enforcer for Go](https://golang.org/cmd/gofmt) programs), you'll realize how dangerous this can be.
-
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-2222008371700158"
+     data-ad-slot="6074071537"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 Here's the thing. I love a strict style guide. Turn the linter to eleven and cut me loose. If the feedback loop is tight enough, I don't care. Not one iota.
 
 Gulp, Grunt, Broccoli. Rollup, Browserify, Webpack. Each time a new tool surfaces, sometimes more than once per day, we look around and sigh. My startup's code base, even though it's written in React, has fell out of vogue. Surely we could remain hip for at least a week; guess again.

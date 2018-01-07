@@ -13,7 +13,16 @@ By mid-June, the Young Family will be living in Colorado. While this move is [po
 So, yes. This City and I; we have a history. Six years of awesome, messy history.
 
 Heading north was our first inter-state move as a couple. It's where our [daughter was born.](/topics/sloan-alexis/) Additionally, Chicago has even improved my career in many ways. But for every creative thought that was born, cared for, or dismantled here, I see thousands more out west.
-
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-2222008371700158"
+     data-ad-slot="6074071537"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 Why is that? I certainly don't think it's the classic, 20-something wanderlust. I'll elaborate on specific reasons in a later post, but for now, please accept this short list &mdash; a *Ex-Resident's Guide*, if you will &mdash; as a street-level dispatch on what it means to leave the city behind, and as I do so, you wiser.
 
 ![Riding the C.T.A.](down-the-line.jpg)

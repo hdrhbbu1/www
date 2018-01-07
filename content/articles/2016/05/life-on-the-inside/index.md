@@ -12,7 +12,16 @@ I wake up, though not by choice. The alarm clock isn't ringing, and the apartmen
 Rising, I realize what woke me: first, I feel it in my neck, shoulders, upper back, and knees. The remaining body parts &mdash; hips, hands, and feet &mdash; all begin to play their part in a symphony of tension and pain. I migrate to the bed's edge. The pain is sharp, yet indescribable; an intricate mixture of a dull ache so deep you've likely never felt it, and what I can only explain as a hot knife slicing apart the bone and muscle.
 
 This is how I begin every day. Some are worse, usually when the weather changes rapidly, often caused by a rapid decent of temperature or barometric pressure. And while those days can wreck my body for most of the following week, it's possible that I may be in severe pain even if others aren't; including when the weather is supposedly kind to joint pain sufferers.
-
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-2222008371700158"
+     data-ad-slot="6074071537"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 Despite working, living, and writing in the public sphere, I'm a decently private person. I've never discussed my condition in public, but today, I choose to join the voices of those who are also suffering. May is an important time: *our* awareness month.
 
 I've cried, prayed, spent countless dollars on western medicine, all to finally realize that life will never be normal again. I'm among a handful of patients who fight an incurable, chronic disease. 

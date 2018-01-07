@@ -17,7 +17,16 @@ However, this post isn't about technical details alone. It's part of a (link: /n
 Design is art and science, wrapped together in a single, cohesive package. Colors, font choices, line spacing, and menu structure are all crucial steps in this careful dance. Design language is a term coined to reflect the collective effect of each decision, and it's impact on the viewer.
 
 If I choose the wrong font or size it incorrectly, my message is garbled. When in the studio, I ensure the vocalist can be heard, and this is no different. In fact, it could be even more important. The web is full of poorly designed sites, and their message suffers as a result. If a viewer cannot easily read my content, then they'll leave. I know my audience: you don't surf aimlessly and land here. Any visit is intentional, and I should treat you with respect.
-
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-2222008371700158"
+     data-ad-slot="6074071537"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 For this redesign, I stripped my layout bare, only including essentials: clean typography, a bit of blank space, and simple navigation. I decided upfront to nix any extraneous elements: everything I added should provide value to the viewer. Headlines and body copy are set in (link: http://www.myfonts.com/fonts/canadatype/gibson text: Gibson), a beautifully straightforward sans-serif font designed by Rod McDonald, and distributed by Canada Type. I tried to keep colors minimal, and use the header (when appropriate) to showcase some of my recent photographic work.
 
 The new minimalist logo tosses out everything but my first initial and two colors. I might change it in the future, but it will work nicely for now.

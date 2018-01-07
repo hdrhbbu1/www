@@ -16,7 +16,16 @@ After moving to Chicago in 2010, I routinely walked the streets of my neighborho
 I began by observing local residents, to see what they favored or ignored. Most of the citizens seemed almost jaded, living for the next steak dinner, anxious for the new art gallery (full of abstract scenes), and thankful for repaved streets &mdash; treasuring their antique furniture, but acting as if our city's rich historial background barely mattered at all. Buildings in even a minor state of disrepair were to be torn down, making way for new construction.
 
 In contrast, I saw older buildings as blank canvases, ready for new ideas. The shell was rough, but surely a few were structurally sound. Opening them up, rather than allowing them to sit empty, could allow hundreds of new businessowners to find a creative space.
-
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-2222008371700158"
+     data-ad-slot="6074071537"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 On my walks, I began to think. Lots that sat vacant for years were being purchased and developed, with newly dug earth still clinging to the backhoe. A bicycle that, despite tangled weeds in the spokes, was obviously ridden daily. A forgotten technological hub that powers modern communication, hidden in a back alley. Every eyeful was a testament to previous ingenuity, or the promise of new ideas to come.
 
 ## Beauty Redefined

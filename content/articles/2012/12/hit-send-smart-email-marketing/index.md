@@ -15,7 +15,16 @@ I think they're afraid. It's no wonder: email programs that mangle your design, 
 ## Choose Your Contacts Wisely
 
 This may be elementary to some, but I assure you, for many it is not. Over the years, I've heard many different senders (often with less-than-reputable backgrounds) tout their sizable lists, hoping to lure in potential advertisers. It makes perfect sense to me: numbers are impressive, but as an intellegent sender, you should understand a large list doesn't necessarily guarantee a response. Often, you're mailing to old, possibly defunct email addresses or contacts with no memory of you. Even if your message arrives, most will mark it as spam and further degrade your reputation with their ISP. For this reason, stay away from any contacts that haven't been engaged outside of 18 months - anything else virtually guarantees failure. I'm not against growing your list, but know that doing so will require intense care.
-
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-2222008371700158"
+     data-ad-slot="6074071537"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 Please understand, I don't intend to frighten you unnecessarily. The timeline above is a cautionary tale, and can be easily avoided by implementing a few simple practices. First, any direct subscription requests (perhaps via a webform) should be treated initially as invalid. Once the form submission is complete, send a response to the address they submitted asking them to confirm. This is known as Confirmed Opt-In, and is a standard service offered by most email service providers (ESPs). Even meticlously-kept lists canÂ contain erroneous addresses, but this ensures your list is always clean by consulting the most reliable source: your subscriber.
 
 To my knowledge, e-commerce communication is the largest legimate use of email, even if many shoppers don't expressly opt-in. In this case, you may choose to import addresses from your shopping cart software, provided that the transactions are within the 18 month boundary. In some cases, you may need a checkbox to seperate your promotional mailing list from transactional email related to a specific order, but often it only adds unnecessary complexity. Often, a simple unsubscribe link will do.

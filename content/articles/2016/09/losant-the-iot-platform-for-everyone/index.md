@@ -28,7 +28,16 @@ Let's begin this review in my childhood. As the son of an entrepreneur and self-
 My upbringing was anything but normal. One standout moment was not only being allowed (encouraged, actually) to build a remote fireworks detonator out of a returned [pager](https://en.wikipedia.org/wiki/Pager), a 6-volt battery, relay, and steel wool.
 
 This desire to experiment and push the boundaries has also manifested itself in my professional career, for better or worse. After a decade plus spent working intermittently as a software consultant, audio engineer, designer, and radio producer &mdash; I also recently came to the conclusion that I'm a creative generalist hacker. I've never shied away from any new experience, which explains the list of disparate fields above.
-
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-2222008371700158"
+     data-ad-slot="6074071537"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 Over the years, as devices around my home slowly [gain internet access](https://en.wikipedia.org/wiki/Internet_of_things), I'm excited to see how the technology manifests itself. And I want to be part of that future if at all possible. Besides, as an [amateur radio operator,](https://en.wikipedia.org/wiki/Amateur_radio) this wasn't my first attempt at interfacing the [ephemeral, digital world with the physical one.](https://en.wikipedia.org/wiki/PSK31)
 
 So when the kit arrived, I immediately thought "this is tech I know." Sliding the components out of their anti-static bag, I spread the resistors, LED, and transistor out on my desk, smiling as I did so.

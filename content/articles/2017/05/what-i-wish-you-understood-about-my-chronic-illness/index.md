@@ -26,7 +26,16 @@ the service elevator is out-of-order or an able-bodied person rushes ahead of me
 to take it, I have to wait in pain as the precious few minutes that I can stand
 expire quickly. I could opt for the longer route, across the street and up a
 wheelchair ramp; but what I need most is fewer steps, period.
-
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-2222008371700158"
+     data-ad-slot="6074071537"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 In both situations, neither of which account for my disability, I'm at risk
 of falling and and injuring myself further. It's common that I cancel the trip and
 return home.

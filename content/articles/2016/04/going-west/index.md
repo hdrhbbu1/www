@@ -12,7 +12,16 @@ I've lived in Chicago for almost six years, but this June, it's time to say good
 ![Mountains](http://nicholaswyoung.com.s3.amazonaws.com/img/co-mountains.jpg)
 
 As I've told several friends, "the mountains are calling." From what little I understand about the state's culture, this isn't uncommon: many individuals visit Colorado, and make plans to return as tourists, but find themselves returning as residents. This tale perfectly describes my experience: after traveling through the Denver area many years ago, it has always remained a beautiful memory in my otherwise cluttered mind.
-
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-2222008371700158"
+     data-ad-slot="6074071537"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 After we decided to move, I scheduled an appointment with a leasing agent &mdash; Sharon of the [Apartment Guyz](http://www.apartmentguyz.com), if you're curious &mdash; and hopped on a plane. The next three days were a whirlwind of activity, but I accomplished what mattered most in the end. I found a new home for our growing family. I also discovered something else that I didn't expect.
 
 ![Downtown Denver](http://nicholaswyoung.com.s3.amazonaws.com/img/co-downtown.jpg)

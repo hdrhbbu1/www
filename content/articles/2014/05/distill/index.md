@@ -15,7 +15,16 @@ One of the major challenges I've had to overcome with Node.js is a task that's r
 If you've ever experienced the headaches with reformatting JSON, I'm here to help. Today, I would like to introduce [Distill](http://github.com/originalmachine/distill): a small library that removes impurities from a JSON schema and will improve how you create APIs.
 
 <script src="https://gist.github.com/nicholaswyoung/747c145ea9df4835e7cc.js"></script>
-
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-2222008371700158"
+     data-ad-slot="6074071537"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 As you can see, simply require the <code>distill</code> module, then pass it an object (or array of objects). It allows you to chain methods for plucking fields or embedding specific keys from arrays that it might encounter. Distill is simple, but it gets the job done. In fact, this post is probably overkill, but I'm sharing this snippet mostly for my RSS readers. If you've ever wrote complex map statements with Underscore or Lodash, this dramatically cleans up your code. In my benchmarks, it doesn't introduce noticeable overhead either.
 
 ## In Closing

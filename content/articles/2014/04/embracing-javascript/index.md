@@ -15,7 +15,16 @@ A few years ago, the conversation shifted: developers everywhere were falling in
 Nevertheless, my curiosity won out. I downloaded Node and tried it on several pet-projects. My daily language was Ruby, and these early trials placed Node slightly ahead of it, though not by much. I set it aside, and returned to my old tools, while the Node team perfected it's runtime. This phase lasted for months, as Node became even more popular. Every few months, I would glance at the Node message boards, then dive back into my Rails stack.
 
 Eventually, I couldn't ignore Node anymore. During my initial tests, I benchmarked Node heavily, and the results were surprising. As my Rails stack began to slow under the weight of a global audience, I thought a second look at Node might be appropriate.
-
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-2222008371700158"
+     data-ad-slot="6074071537"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 ## The Backstory
 
 For those of you who don't know me very well, here's an explanation of what led to the events above. Six months ago, I launched [The Machine](http://nicholaswyoung.com/work/machinefm), a broadcasting network where we produce content for independent creators and entrepreneurs. During our short lifespan, we've experienced tremendous growth: in the beginning, only my friends listened to our shows. Now, we serve content to over 25,000 listeners per month, a number that continues to grow rapidly.

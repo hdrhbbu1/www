@@ -15,7 +15,16 @@ We live in a world of calculated decisions. Every business or career goal is eva
 In a world where emotion is eschewed for mathematical algorithms, artists long to quantify their work. We're no longer content to release beauty into the world; no, every piece must be inherently equal or better than other artistic works, or it holds no value at all. We measure ourselves against other creators, within similar or disparate disciplines, leading ourselves to a natural conclusion each time: our output is no good. It will never find the appropriate audience. We should quit.
 
 That statement is, in part, true. Finding the ideal audience is a herculean task, one that has beaten many great creators, some repeatedly. But to believe your art will never be appreciated is to doom it yourself. Equally, you could burn every piece to ashes and scatter them abroad. Either will ensure your art remains unappreciated, while you, the self-deprecating artist, lurk in the loneliest shadows.
-
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-2222008371700158"
+     data-ad-slot="6074071537"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 Art is not math. There is no equation to solve, and no clean answer. Whether you paint, mix, draw, perform, sculpt, record, or carve, art is an expression; _your_ expression. It exists as a statement, a purpose-drenched note with bleeding ink that reads, "I was here." Art can be beautiful, or painful; a record of something lost or found; a detailed storyline, or barely within comprehension &mdash; it's up to you. Never stop improving what you create, but accept that art is greyscale. Anything you make exists between the extremes of light and dark.
 
 In the end, life is art, and artists are those who believe in something more than numbers alone. We ask ourselves only when someone laughs, cries, stands quietly, or turns away from something we created. They're forever changed, in ways we may never know, but make no mistake, they are.

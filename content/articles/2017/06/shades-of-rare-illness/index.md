@@ -25,7 +25,16 @@ of the time you spent explaining the case, few journalists will understand. Most
 will do as Alex has done above and attempt to school me on the complexities of
 my own condition. I may publish more of our exchange in the future, as it
 reveals a collision of ideologies that few in the media industry are privy to.
-
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-2222008371700158"
+     data-ad-slot="6074071537"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 How disability and chronic illness are dealt with in contemporary journalism
 outlets is one of the most important media conversations of our time.
 Organizations like The Cannabist ignore this narrative at their own peril, and

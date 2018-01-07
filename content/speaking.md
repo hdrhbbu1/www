@@ -18,7 +18,16 @@ at your next event, [get in touch](http://uptime.ventures).
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3UKsXCMK6Iw" frameborder="0" allowfullscreen></iframe>
 
 Once again, I was invited back to [Nodevember](http://nodevember.org) where I presented on a couple of our latest technological advances in the JavaScript community, before a standing-room-only audience.
-
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-2222008371700158"
+     data-ad-slot="6074071537"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 ---
 
 **Disassembling the Monolith: Taming Large Software Projects with Node.js**

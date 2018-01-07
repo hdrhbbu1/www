@@ -19,7 +19,16 @@ Balancing between my experience with several
 discuss your product with an eye on the technical requirements while playing to
 your team's existing strengths. Both new products and existing ones are welcome
 to apply.
-
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-2222008371700158"
+     data-ad-slot="6074071537"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 ## Successfully engage media outlets or create an in-house content team
 
 If the goal is engaging relevant media outlets, I've seen both sides: as the

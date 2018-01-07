@@ -27,7 +27,16 @@ What we need most isn't knowledge itself, but the experience to wield it. While 
 I believe that if knowledge conveys power or importance in our industry, it cannot be sacred. In that spirit, I want to share what I consider the most important qualities of a senior engineering candidate.
 
 ---
-
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-2222008371700158"
+     data-ad-slot="6074071537"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 **They don't always have to be right.**
 
 After hours of complex mental work, it's hard to have your ideas criticized. Despite how grumpy it may make you, senior developers must be able to calmly evaluate the validity of other opinions, and submit to the evidence of a friend or colleague. If my career has taught me anything, it's to be comfortable with certain unanswered questions.

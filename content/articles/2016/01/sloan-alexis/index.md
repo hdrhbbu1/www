@@ -22,7 +22,16 @@ Like any new parent, I am verklempt in the truest sense. Sloan is a true gift to
 Her first name, ["Sloan", is Gaelic in origin](http://www.sheknows.com/baby-names/name/sloan) and is traditionally given to a warrior. But a leaderless warrior can be a threat, not an aid. ["Alexis," her middle name,](http://www.sheknows.com/baby-names/name/alexis) is the mark of a courageous defender of all humankind. May She always battle for the right purpose, for the equality of all, even if they aren't causes I personally value.
 
 The most honorable fights are those which elevate and free the oppressed among us.
-
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-2222008371700158"
+     data-ad-slot="6074071537"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 As any new parent should, I'll be taking an extended leave of absence, not just from client work and [my consultancy,](https://uptime.ventures) but also from [writing.](/) I'll try to [chronicle her early life in written form](/tags/dadthings/) as I can, but I expect those dispatches to be few and happen infrequently.
 
 In my absence, [be excellent to each other.](https://www.youtube.com/watch?v=N_yJFLvmjJY)

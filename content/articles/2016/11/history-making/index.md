@@ -28,7 +28,16 @@ Yet, in this heavily contested election with so much on the line, many voters fe
 Whether Johnson was riding a wave of protest, we'll never know. He cracked 3% nationally, which is significant for a third party, but still not enough to prove viable in the next election. Frankly, I was open to following Johnson, but I couldn't. And if that argument sounds tired, consider that I've voted third party in a handful of elections. Most of the candidates would lose, but I had privilege to spare: taking the moral high ground was relatively inexpensive. This year is different: the Supreme Court has a pivotal vacancy, we're standing at the most significant intersection in modern history for civil rights, minorities are oppressed (in public, as if that doesn't turn your stomach), and patients like myself are staring down huge medical bills.
 
 You, too, woke up in Trump Land, and we must all pay the price. Some, but especially the least of us, will pay most. If you voted for Trump, we are no longer acquaintances. If you've chose to live in the shadows this long, while silently undermining my most basic needs, I have no need for you. If you voted for Johnson, you must reckon with the mathematical possibility that your vote wasn't in favor of a specific topic, but rather a note of apathy, hand delivered to each of us who will suffer from the fallout. I often endorse voting third party because, like Johnson, I wish for a viable third option. But assuming one can wrest power from a firmly ensconced two-party system overnight is a fool's errand, and will not be accomplished without applying consistent pressure to existing government bodies; a basic technique the Libertarian party doesn't seem to understand.
-
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-2222008371700158"
+     data-ad-slot="6074071537"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 If a protest vote isn't for or against a given topic, is it a protest at all? If the end result isn't to eliminate war, famine, hatred, or sickness and instead contributes, even in the slightest, to the oppression of those most vulnerable &mdash; I ask: what are you protesting? Moral superiority must taste good.
 
 I'm not so concerned with how your ballot was cast, you're free to vote for any available candidate &mdash; but I cannot stand the self-righteous attitude trumpeted by so many acquaintances. Listen, if you exercised privilege at the ballot box, now it's time to step up, be an adult, and advocate for those ignored by our new administration.

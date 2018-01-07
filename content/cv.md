@@ -14,7 +14,16 @@ As an engineer, JavaScript, Elixir, React, Redux, ESLint, Webpack, Golang, FFmpe
 Kubernetes, Neovim, and Alpine Linux are just a few of the tools I use
 frequently. However, I have also been known to occasionally hack in C, Java,
 Objective-C, Ruby, or PHP.
-
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-2222008371700158"
+     data-ad-slot="6074071537"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 As a lecturer and educator, I have experience writing lesson plans both for
 audiences of experienced professionals and newcomers. On the conference circuit,
 you'll probably find me [speaking about JavaScript](/speaking/).

@@ -14,6 +14,17 @@ Writing in Tuesday's edition of the [Fairbanks Daily News-Miner][op-ed], Senator
 Lisa Murkowski, a crucial swing vote on both healthcare and tax reform,
 announced her support for the besieged GOP tax package.
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-2222008371700158"
+     data-ad-slot="6074071537"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 "I have always supported the freedom to choose," Murkowski writes. "That is the
 fundamental reason why I opposed the Affordable Care Act from its inception, and
 also why I co-sponsored a bill to repeal the individual mandate tax as early as 2013. And that is why I support the repeal of that tax today."

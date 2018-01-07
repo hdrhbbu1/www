@@ -24,7 +24,16 @@ Determined to find a keyboard like this of my own, I flew back into town and sta
 ![CODE Keyboard](code-promo.jpg)
 
 For the next two days, I was deep in the weeds crafting an intense JavaScript application. At the end of my typing frenzy, I noticed that the joints in my hand were mostly pain free. This wasn't normal: my joints have ached for years, specifically in my hand, which led to a recent diagnosis. When my doctor mentioned that I have [Ehlers-Danlos Syndrome](https://en.wikipedia.org/wiki/Ehlers%E2%80%93Danlos_syndrome), a rare genetic disorder, I felt like it explained so much about my life over the last decade. The pain had a reason, which validated how I felt, even though there was nothing I could do about it.
-
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-2222008371700158"
+     data-ad-slot="6074071537"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 Now, looking back over my experience with this keyboard, not only has it made me a better, faster typist, but the low-impact response (when compared to the membrane keys) has doubtless affected my health. I'm not a doctor, and these statements should not be construed as a diagnosis, but I'm writing this as a person who thought this hand pain would be part of my life forever. While it isn't completely gone, it has lessened by a significant margin. Let that sink in.
 
 While I'd obviously love for you, dear reader, to have a similar experience to mine, you probably don't have the same symptom. The disease that drives my pain is incredibly rare, it still affects, at maximum, 1 in every 250,000 individuals. You might be one of them, but that isn't the main point. What I want to drive home is this: the tools you're using as a programmer can aid or

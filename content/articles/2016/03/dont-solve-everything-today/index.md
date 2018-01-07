@@ -23,7 +23,16 @@ For me, this piece of wisdom changed everything. As a young person, I learned to
 The toughest part is knowing *how* to apply this technique. When dealing with physical objects, how to deconstruct them is normally clear. But when you're working with logically complex digital systems (such as a piece of software), the challenge of applying this methodology becomes more apparent. If you're confused, allow me to explain.
 
 ---
-
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-2222008371700158"
+     data-ad-slot="6074071537"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 Earlier today, I was working on a build system for one of my larger [Node](http://nodejs.org) applications. It's only a couple months old, but the build system relied on [Gulp](http://gulpjs.com), and despite being relatively new, the process of building, versioning, and releasing the application was incredibly slow. Realizing that every one of our tools could be packaged as a standalone command line application (if it wasn't already), I decided to forgo Gulp and it's ilk in favor of [npm scripts](https://medium.freecodecamp.com/why-i-left-gulp-and-grunt-for-npm-scripts-3d6853dd22b8#.jg4umjr4f).
 
 But, as anyone who has rewritten software knows, the process of a rewrite is anything but simple. In the case of my application, we had a handful of Gulp tasks, each with it's own responsibilities and associated configuration. Needless to say, the existing system was overly complex; but I resisted the rewrite for almost a month because it wasn't necessary.

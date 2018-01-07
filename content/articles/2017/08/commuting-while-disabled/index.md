@@ -21,7 +21,16 @@ However, absent thus far from my writing has been the most basic truth that unde
 ## Me vs. the Abled
 
 If someone were causing you pain, how do you politely ask them to stop? What if they won't? What if they're a stranger?
-
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-2222008371700158"
+     data-ad-slot="6074071537"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 This is a narrative I play out almost daily as entitled mothers bounce the stroller with their precious cargo off some part of my body. I don't have to be in the way, just nearby. If the stroller doesn't roll over my foot (which I've usually tucked away well in advance), I'll often be hit with a diaper bag.
 
 I can't tell you how often that has happened, so we can therefore surmise that public transit is a dangerous place for the chronically ill. Today, however, I found myself wheezing as I begged a middle-aged woman to help me clear the car of her excessively strong perfume. It was, in her own words, to mask the repulsive smell of cigarettes.

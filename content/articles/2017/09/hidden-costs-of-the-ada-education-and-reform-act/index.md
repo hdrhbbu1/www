@@ -21,7 +21,16 @@ Last week, H.R.620, the ["ADA Education and Reform Act of 2017",](https://www.co
 "Three weeks ago, we celebrated our nation's Independence Day. Today, we're here to rejoice in and celebrate another 'Independence Day,' one that is long overdue." [These are the words Bush chose](https://www.eeoc.gov/eeoc/history/35th/videos/ada_signing_text.html) to describe his signing of the [ADA](https://www.ada.gov/), and to believe reports from the time, it certainly was a victory worth celebrating.
 
 The main question then becomes: what exactly were Americans with disabilities liberated from? Many of my friends in chronic illness communities were, like myself, affected by disabilities during their childhood, each to a greater or lesser degree. Because of these radically differing experiences, few of my peers truly understand and appreciate the work advocates who have come before. I still have much to learn.
-
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-2222008371700158"
+     data-ad-slot="6074071537"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 In a 2015 essay entitled, ["Why I Wrote the Americans with Disabilities Act,"](https://www.washingtonpost.com/posteverything/wp/2015/07/24/why-the-americans-with-disabilities-act-mattered/) Robert L. Burgdorf Jr., the legislation's primary author, deftly turns back time and allows us to peer into our past:
 
 > Large numbers of children with disabilities were systematically excluded from American public schools. In the early 1970s, according to widely quoted estimates, approximately 1 million school-aged individuals with disabilities were totally excluded from public educational programs, and another 3 million pupils with disabilities attended public schools but were not provided services to meet their basic educational needs. This meant that well over half of all kids with disabilities were not receiving minimally adequate education.

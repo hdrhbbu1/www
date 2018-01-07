@@ -1,4 +1,4 @@
----
+wwww---
 title: Casual Ableism
 date: '2017-06-09'
 draft: false
@@ -26,7 +26,16 @@ I'm no longer surprised by how quickly medical staff dismiss potentially
 valuable information, but this office set new records. By this point, the staff
 had already turned down MRI data I asked them to retrieve, and I was quickly
 realizing how little the physician himself cared for my perspective.
-
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-2222008371700158"
+     data-ad-slot="6074071537"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 Soon, it became obvious that I'd need to stand, but I didn't expect to push well beyond
 my limit, complaining as the room became blurry and I collapsed into my
 wheelchair.

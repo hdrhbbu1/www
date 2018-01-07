@@ -30,7 +30,16 @@ In my mind, such clarity is essential. Whether you have a formal Code of Conduct
 ---
 
 Now, let's refocus on the Ruby community. The explosion, mentioned above, was triggered by a basic question from my (new friend) [Coraline Ada](https://twitter.com/coralineada) &mdash; author of the [*Contributor Covenant*](http://contributor-covenant.org), a boilerplate Code of Conduct that has been adopted by many prominent community-driven projects, including [RubyTogether](https://github.com/rubytogether/rubytogether.org/blob/master/CODE_OF_CONDUCT.md), [Bundler](http://bundler.io), and countless others.
-
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-2222008371700158"
+     data-ad-slot="6074071537"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 At the time of her post, the [Ruby language](https://www.ruby-lang.org) hadn't yet adopted a Code of Conduct (at least, not in writing), but given the widespread community support for her work, one would assume the core language could benefit from it too... right? I wish.
 
 You can read her [thought-out, reasoned suggestions in full on the mailing list](https://bugs.ruby-lang.org/issues/12004), but for the sake of clarity, allow me to excerpt a portion of what she wrote:

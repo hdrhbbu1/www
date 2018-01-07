@@ -27,7 +27,16 @@ That's what angered me most: to be ejected without further thought, because I co
 Fast forward to 2007, and the pain has slowly become unbearable, having spread to my feet, low-back, hands, neck, and shoulders. In 2008, I slipped and fell while on the job at a Nashville grocery store who subsequently bungled my workers compensation claim. In the wake of this injury, I called several doctors from the list of allowed practitioners only to find most of them had shuttered their offices. (The rest did not treat workplace injuries.) My employer, numb to the potential human resources nightmare, demanded I return to work despite my constant back trouble. In a move that reeked of unfair discipline, I was assigned the store's most physically taxing jobs.
 
 Looking back, I could've easily sued for the care I needed most. But I was a broke, ignorant college student who didn't understand my legal rights. When referred to a lawyer many years later, I realized the [Tennessee Statute of Limitations](http://thompsonburton.com/litigation/2015/03/10/statutes-of-limitation-how-long-do-you-have-to-file-suit) had long since expired.
-
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-2222008371700158"
+     data-ad-slot="6074071537"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 Since those days, I've been locked in a constant struggle with pain and inflammation that threatens the well being of my physical body. My average day is punctuated by a mixture of dull aches and pointed stabs of acute pain. Often, I'm to blame for the latter, but it doesn't take much to awaken the monster: take one wrong step, or lift a heavy backpack with suboptimal technique, and I'll remember that moment for days.
 
 Other times, I can walk miles before it all sets in. That's one of the frustrating elements of life with hypermobile joints: every trip is a gamble.

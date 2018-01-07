@@ -25,7 +25,16 @@ This wonderful little girl is the first child who will make it into our arms, ra
 **1:00 AM**
 
 Just hours before, I was attempting sleep. I say "attempting," because it's a joke. Really, any parent will tell you that. I now know, first hand, how true their admissions are.
-
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-2222008371700158"
+     data-ad-slot="6074071537"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 You expect that it's all an act: like bearing and rearing children has somehow worn down their sense of humor, and self-deprecation is all they have left. But from my keyboard to your head, it's real. If you haven't experienced this, get ready. This is future me, beaming a message back in time: never think you can't rest. Take the afternoon off work. Don't handle the banking crisis, or write a single line of code. You're done here, dude. Act like it.
 
 Hang up the phone, and walk to bed: *your bed*, because you'll be praying to a god you no longer believe in very, very soon. And just like you, he doesn't give a damn. Sleep, despite how badly you need it, is the last thing on your mind.

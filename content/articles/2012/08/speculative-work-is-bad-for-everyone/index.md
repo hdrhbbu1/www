@@ -17,7 +17,16 @@ But before I dive in, let me address the readers who've already solved the probl
 Now that I've silenced the geniuses in our crowd, let's begin formally.
 
 ## The Value of a Creative Mind
-
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-2222008371700158"
+     data-ad-slot="6074071537"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 Many people don't truly understand why creativity is a valuable asset. From the days of Mad Men forward, creative work was misunderstood. Currency goes in one end - and then, almost unexpectedly - beautifully crafted collateral exits on the other. The process is the mystery, and yet remains unquestioned. Businesses pumped money into the system because it worked, and consumer purchases increased. However, as businesses who regularly hire artists and other creative workers, wouldn't it help to understand at least some of the process?
 
 I believe the key to understanding a creative mind, and thereby assigning value to it, begins with acknowledging it's strength. All artists, regardless of medium, are on a constant search for inspiration - and they find it, often in unlikely places. A rusty, twisted guardrail; distorted wood grain of my hardwood floor, nighttime lights of the city, and lines on concrete have all inspired my work in the past. Sometimes on a one-to-one basis, where each eyeful inspired a single work, and at other times, they mixed to form something entirely new. This is the power of a creative mind. It gathers seemingly unrelated elements, drafts a coherent work, and refines until the product is ready. Like an artisan spirit or craft beer, the overseer's opinion and commitment to quality is what matters.

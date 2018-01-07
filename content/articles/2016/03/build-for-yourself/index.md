@@ -21,7 +21,16 @@ Here's a tip: don't attempt to satisfy everyone. Instead, draft a list that defi
 Otherwise, you'll become mired in the concerns of others, and forget why you decided to create in the first place.
 
 ---
-
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-2222008371700158"
+     data-ad-slot="6074071537"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 **Shameless Self-Promotion:** My consultancy, [Until Now](http://untilnow.co) can help you refine your software development toolchain or internal creative processes. If you're ready to level up, [get in touch](http://untilnow.co).
 
 <small>[Photo credit: Kevin Ryder, *Pavement Artist*.](https://www.flickr.com/photos/labdog2010/9553771847) | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)</small>

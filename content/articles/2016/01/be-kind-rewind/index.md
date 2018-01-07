@@ -25,7 +25,16 @@ If you're a new friend, you may not realize that the past two years of my life w
 We worked with local and nationally-recognized acts, shared the stories of local businesses, and provided insightful cultural critique when it was required. Bands like [The Cellphones](http://cellphonesband.com) (pictured below) rocked our live performance series &mdash; I wanted this to continue forever.
 
 ![A photo from our last show.](chick-habit-live.jpg)
-
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-2222008371700158"
+     data-ad-slot="6074071537"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 And now, for the first time in many months, the world is quiet.
 
 Once our studio console died, I was faced with a potentially costly decision. Like any other nonprofit, The Machine never had adequate funding.

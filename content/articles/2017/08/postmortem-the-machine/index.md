@@ -22,7 +22,16 @@ Over breakfast this past weekend, I described a group of folks predisposed to be
 Digital technology, my chosen segment of the engineering field, is usually complicated by a staggering number of mostly invisible moving parts.
 
 Like reporters, engineers in a crisis often look for who (or what) caused the issue and why certain events followed. In that moment, the least pressing question, how a given mistake was made to begin with and whether or not it can be prevented in the future is often delayed until a [postmortem](https://blog.codinghorror.com/the-project-postmortem/) review can be completed.
-
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-2222008371700158"
+     data-ad-slot="6074071537"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 Studying decisions that led up to past failures in order improve future outcomes is a common practice in the software world. It's also a concept I find valuable when applied to other industries and projects.
 
 ## Live from Chicago

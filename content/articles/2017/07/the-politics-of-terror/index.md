@@ -22,7 +22,16 @@ Last night, as expected, sleep was elusive. I closed my laptop on an onslaught o
 I opened this piece with the analogy of a stage play for one reason: the GOP's vision of reality is alarmingly similar. Recently diagnosed with brain cancer, it should be obvious why McCain is central to this discussion. Last night, while preparing to appear on the house floor, he [told clustered reporters to 'wait for the show'.](https://twitter.com/loisbeckett/status/890785290255613952)
 
 This is not a show. It's a murderous charade taxing the mental, physical, and emotional health of our country that disproportionally harms those who are disabled and chronically ill. The GOP should be ashamed: not just of the disjointed, often falsified reports that have been written in support of their plan, but of promulgating the ruse that this will help currently disadvantaged patients receive quality care.
-
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-2222008371700158"
+     data-ad-slot="6074071537"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 Unlike BuzzFeed reporter Sarah Mimms, who was  [asking folks to refrain from criticizing John McCain](https://twitter.com/SarahMMimms/status/889920415216357377) in the wake of his health news, I believe McCain is a prominent figure in this debate and shouldn't be ignored.
 
 ## The Turning Point

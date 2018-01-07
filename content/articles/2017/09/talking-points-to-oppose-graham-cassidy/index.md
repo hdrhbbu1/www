@@ -23,7 +23,16 @@ Because this bill is a collection of amendments, little is known about the legis
 Since health care reform has [appeared (and re-appeared)][healthcare-tags] over the course of this year, let's aim to rid ourselves of the unwanted specter once and for all.
 
 ## Facts and Figures
-
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-2222008371700158"
+     data-ad-slot="6074071537"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 For the time being, based on a report from the Center on Budget and Policy Priorities (CBPP), [this is what we know:][cbpp-report]
 
 **Cassidy-Graham would eliminate funding for ACA marketplace subsidies and the associated Medicaid expansion, replacing both with a federal block grant.** Based on this [2005 report][bg-report] published in [Milbank Quarterly][mb-quarterly], a multidisciplinary journal focusing on population health and health policy, it is a virtual impossibility for Medicaid to maintain existing coverage under a block grant structure. It would also cut per-beneficiary services  to Medicare recipients by modifying the state-federal funding relationship.

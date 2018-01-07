@@ -10,6 +10,8 @@ tags:
   - writing
 ---
 
+I've often found that the words you write are less important than ones left
+behind.
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <ins class="adsbygoogle"
      style="display:block; text-align:center;"
@@ -20,10 +22,6 @@ tags:
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
-
-I've often found that the words you write are less important than ones left
-behind.
-
 Yesterday evening, as the Republican-controlled Senate attempted to ram through
 a [400-page, vastly unbalanced tax reform bill][bill], I furiously tapped out
 a Tweet that wouldn't be sent. It begins, "I'm concerned spectacle isn't

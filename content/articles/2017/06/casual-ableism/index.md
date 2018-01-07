@@ -1,4 +1,4 @@
-wwww---
+---
 title: Casual Ableism
 date: '2017-06-09'
 draft: false
